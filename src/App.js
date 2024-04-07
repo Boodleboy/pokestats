@@ -1,22 +1,25 @@
+import Main from './components/Main'
+import NotFound from './components/NotFound'
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const path = window.location.pathname
+
+  console.log(path)
+  let Comp
+  switch (path) {
+    case "/":
+      Comp = Main
+      break
+    default:
+      Comp = NotFound
+  }
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Comp/>
       </header>
     </div>
   );
