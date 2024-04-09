@@ -3,7 +3,7 @@
 import json
 
 inFile = 'data.txt'
-outFile = 'data.json'
+outFile = '../data/data.json'
 
 with open(inFile, 'r') as f:
     lines = f.readlines()
