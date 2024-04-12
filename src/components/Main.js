@@ -1,9 +1,12 @@
 import React from 'react'
 
+import BarGraph from './BarGraph'
+import data from '../data/data.json'
+
 const Main = () => {
   return (
     <>
-      hello world
+      <BarGraph data={data.slice(0, 5)} />
     </>
   )
 }
