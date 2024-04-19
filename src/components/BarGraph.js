@@ -26,6 +26,7 @@ const BarGraph = ({ data }) => {
 
   const options = {
     indexAxis: 'y',
+    maintainAspectRatio: false,
     scales: {
       x: {
         min: 0,
