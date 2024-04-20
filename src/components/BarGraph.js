@@ -35,8 +35,12 @@ const BarGraph = ({ data }) => {
     }
   }
 
+  const barStyle = {
+    height: Object.keys(data).length * 100
+  }
+
   return (
-    <div class="bar-graph">
+    <div style={barStyle} className="bar-graph">
       <Bar data={barData} options={options} />
     </div>
   )

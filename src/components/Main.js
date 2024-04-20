@@ -6,7 +6,7 @@ import data from '../data/data.json'
 const Main = () => {
   return (
     <>
-      <BarGraph data={data.slice(0, 20)} />
+      <BarGraph data={data.slice(0, 100)} />
     </>
   )
 }
