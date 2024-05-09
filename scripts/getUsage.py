@@ -49,7 +49,7 @@ def getMonthData(time, mode, elo):
             entry = {
                 "name": name,
                 "percent": pcnt,
-                "usage": usage,
+                "usage": usage, # note: usage is raw. should fix
                 "rank": rank
             }
             
@@ -65,14 +65,9 @@ def getMonthData(time, mode, elo):
     return ret
     
 def insertData(newData, month, mode, elo):
-    for poke in newData:
-        if not poke['name'] in result['byMonth'][mode][month].keys():
-            result['byMonth'][mode][month][poke['name']] = {}
-
-        result['byMonth'][mode][month][poke['name']][elo] = {
-            'percent': poke['percent'],
-            'rank': poke['rank']
-        }
+    if not month in result['byMonth'][mode]:
+        result['byMonth'][mode][month] = {}
+    result['byMonth'][mode][month][elo] = newData
 
 
 with open(formatFileName) as formatFile:
