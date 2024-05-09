@@ -3,7 +3,7 @@ import React from 'react'
 import { CategoryScale, LinearScale, BarElement, Chart } from 'chart.js'
 import { Bar } from 'react-chartjs-2'
 
-import './BarGraph.css'
+import './style.css'
 
 Chart.register(CategoryScale)
 Chart.register(LinearScale)
