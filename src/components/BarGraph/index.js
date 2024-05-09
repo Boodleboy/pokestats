@@ -11,7 +11,6 @@ Chart.register(LinearScale)
 Chart.register(BarElement)
 
 const BarGraph = ({ data }) => {
-  console.log(data)
   const barData = {
     labels: data.map(mon => mon.name),
     datasets: [
