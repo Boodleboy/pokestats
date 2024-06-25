@@ -1,4 +1,5 @@
 import React from 'react'
+import DropdownButton from 'react-bootstrap/DropdownButton'
 import Dropdown from 'react-bootstrap/Dropdown'
 
 export default ({ title, options = [], onSelect }) => {
@@ -9,13 +10,8 @@ export default ({ title, options = [], onSelect }) => {
   )
 
   return (
-    <Dropdown onSelect={onSelect} >
-      <Dropdown.Toggle variant="success">
-        {title}
-      </Dropdown.Toggle>
-      <Dropdown.Menu>
-        {Items}
-      </Dropdown.Menu>
-    </Dropdown>
+    <DropdownButton onSelect={onSelect} title={title} >
+      {Items}
+    </DropdownButton>
   )
 }
