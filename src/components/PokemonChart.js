@@ -3,6 +3,8 @@ import React, { useState } from 'react'
 import BarGraph from './BarGraph'
 import data from '../data/data.json'
 import Dropdown from './Dropdown'
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 const initialOptions = {
   graphMode: 'bar',
@@ -59,9 +61,16 @@ const PokemonChart = () => {
   if (options.graphMode === 'bar') {
     return (
       <>
-        <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
-        <Dropdown title={'GameMode'} onSelect={buildOnSelect('mode')} options={modeOptions} />
+        <Row>
+          <Col>
+            <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
+          </Col>
+          <Col>
+            <Dropdown title={'GameMode'} onSelect={buildOnSelect('mode')} options={modeOptions} />
+          </Col>
+        </Row>
         <BarGraph data={graphData} />
+
       </>
     )
   } else if (options.graphMode === 'line') {
