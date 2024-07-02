@@ -2,7 +2,7 @@ import React from 'react'
 import DropdownButton from 'react-bootstrap/DropdownButton'
 import Dropdown from 'react-bootstrap/Dropdown'
 
-export default ({ title, options = [], onSelect }) => {
+const Component = ({ title, options = [], onSelect }) => {
   const Items = options.map(({label, value}) => 
     <Dropdown.Item key={value} eventKey={value}>
       {label}
@@ -15,3 +15,4 @@ export default ({ title, options = [], onSelect }) => {
     </DropdownButton>
   )
 }
+export default Component
