@@ -93,7 +93,22 @@ for mode in formats['modes']:
             insertData(dat, month, mode['name'], elo)
         month = nextMonth(month)
 
-#TODO: compile the byPokemon data
+
+for mode in formats['modes']:
+    allPokemon = {}
+    for month in result['months']:
+        for poke in result['byMonth'][mode['name']][month]['0']:
+            if not poke['name'] in allPokemon:
+                allPokemon[poke['name']] = True
+    pokes = allPokemon.keys()
+
+    for poke in pokes:
+        result['byPokemon'][mode['name']][poke] = {}
+        for month in result['months']:
+            for rank in result['byMonth'][mode['name']][month]['0']:
+                if rank['name'] == poke:
+                    result['byPokemon'][mode['name']][poke][month] = rank
+                      
 
 with open(outFile, 'w') as f:
     json.dump(result, f, indent=2)
