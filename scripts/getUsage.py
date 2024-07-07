@@ -104,10 +104,13 @@ for mode in formats['modes']:
 
     for poke in pokes:
         result['byPokemon'][mode['name']][poke] = {}
-        for month in result['months']:
-            for rank in result['byMonth'][mode['name']][month]['0']:
-                if rank['name'] == poke:
-                    result['byPokemon'][mode['name']][poke][month] = rank
+        for elo in mode['elos']:
+            result['byPokemon'][mode['name']][poke][elo] = {}
+            for month in result['months']:
+                #result['byPokemon'][mode['name']][poke][elo][month] = {}
+                for rank in result['byMonth'][mode['name']][month]['0']:
+                    if rank['name'] == poke:
+                        result['byPokemon'][mode['name']][poke][elo][month] = rank
                       
 
 with open(outFile, 'w') as f:
