@@ -11,18 +11,6 @@ Chart.register(LinearScale)
 Chart.register(BarElement)
 
 const BarGraph = ({ data }) => {
-  const barData = {
-    labels: data.map(mon => mon.name),
-    datasets: [
-      {
-        label: 'Pokemon usage',
-        data: data.map(mon => mon.percent),
-        borderwidth: 1,
-        borderColor: 'rgb(255, 255, 255)',
-        backgroundColor: 'rgba(255, 99, 132, 0.5)',
-      }
-    ]
-  }
 
   const options = {
     indexAxis: 'y',
@@ -41,7 +29,7 @@ const BarGraph = ({ data }) => {
 
   return (
     <div style={barStyle} className="bar-graph">
-      <Bar data={barData} options={options} />
+      <Bar data={data} options={options} />
     </div>
   )
 }

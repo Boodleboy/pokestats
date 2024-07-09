@@ -8,7 +8,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 const initialOptions = {
-  graphMode: 'line',
+  graphMode: 'bar',
   month: '2024-02', // TODO: make this pull from somewhere central
   mode: 'gen9ou',
   elo: '0',
@@ -16,23 +16,29 @@ const initialOptions = {
   pokemon: 'gholdengo'
 }
 
-const processData = (options, rawData) => {
-  if (options.graphMode === 'bar') {
-    return rawData.byMonth[options.mode][options.month][options.elo].slice(0, options.show) 
+const processBarData = (options, rawData) => {
+  const pokemon = rawData.byMonth[options.mode][options.month][options.elo].slice(0, options.show) 
+  return {
+    labels: pokemon.map(mon => mon.name),
+    datasets: [
+      {
+        label: 'Pokemon usage',
+        data: pokemon.map(mon => mon.percent),
+        borderwidth: 1,
+        borderColor: 'rgb(255, 255, 255)',
+        backgroundColor: 'rgba(255, 99, 132, 0.5)',
+      }
+    ]
+  }
+}
 
-  }
-  else {
-    return [{
-      name: 'not done'
-    }]
-  }
+const processLineData = (options, rawData) => {
+  return { placeholder: 'blank' }
 }
 
 const PokemonChart = () => {
   const [options, changeOptions] = useState(initialOptions)
-  const graphData = processData(options, data)
 
-  console.log(options)
   const buildOnSelect = (optionKey) => (ev) => {
     console.log(optionKey, ev)
     changeOptions({ 
@@ -62,6 +68,7 @@ const PokemonChart = () => {
   ]
 
   if (options.graphMode === 'bar') {
+    const graphData = processBarData(options, data)
     return (
       <>
         <Row>
@@ -77,9 +84,10 @@ const PokemonChart = () => {
       </>
     )
   } else if (options.graphMode === 'line') {
+    const graphData = processLineData(options, data)
     return (
       <>
-        <LineGraph /> 
+        <LineGraph data={graphData} /> 
       </>
     )
   } else {
