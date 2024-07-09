@@ -24,7 +24,7 @@ const BarGraph = ({ data }) => {
   }
 
   const barStyle = {
-    height: Object.keys(data).length * 100
+    height: data.datasets[0].data.length * 100
   }
 
   return (
