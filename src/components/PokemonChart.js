@@ -8,12 +8,12 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 const initialOptions = {
-  graphMode: 'bar',
+  graphMode: 'line',
   month: '2024-02', // TODO: make this pull from somewhere central
   mode: 'gen9ou',
   elo: '0',
   show: 50,
-  pokemon: 'gholdengo'
+  pokemon: 'Gholdengo'
 }
 
 const processBarData = (options, rawData) => {
@@ -33,7 +33,28 @@ const processBarData = (options, rawData) => {
 }
 
 const processLineData = (options, rawData) => {
-  return { placeholder: 'blank' }
+  const pokemonData = rawData.byPokemon[options.mode][options.pokemon]
+  const elos = Object.keys(pokemonData)
+  const months = rawData.months.slice(
+    rawData.months.findIndex(
+      month => month === rawData.byPokemon[options.mode].firstMonth
+    )
+  )
+
+  const datasets = elos.map(elo => {
+    return {
+      label: elo,
+      data: months.map(month => pokemonData[elo][month].percent),
+      borderColor: "rgba(100, 100, 100, 1)"
+    }
+  })
+    
+  const lineData = {
+    labels: months,
+    datasets: datasets
+  }
+
+  return lineData
 }
 
 const PokemonChart = () => {

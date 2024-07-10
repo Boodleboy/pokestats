@@ -9,22 +9,6 @@ Chart.register(PointElement)
 Chart.register(LineElement)
 
 const LineGraph = ({ data }) => {
-  const lineData = {
-    labels: [1, 2, 3, 4, 5],
-    datasets: [
-      {
-        label: 'first',
-        data: [1, 3, null, 3, 1],
-        borderColor: "rgba(75,192,192,1)"
-      },
-      {
-        label: 'second',
-        data: [1, 3, 5, 7, 5],
-        borderColor: "#742774"
-      }
-    ]
-  }
-
   const options = {
     spanGaps: false,
   }
@@ -34,7 +18,7 @@ const LineGraph = ({ data }) => {
 
   return (
     <div style={lineStyle} className="line-graph">
-      <Line data={lineData} options={options} />
+      <Line data={data} options={options} />
     </div>
   )
 }
