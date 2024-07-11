@@ -108,7 +108,7 @@ for mode in formats['modes']:
             result['byPokemon'][mode['name']][poke][elo] = {}
             for month in result['months']:
                 #result['byPokemon'][mode['name']][poke][elo][month] = {}
-                for rank in result['byMonth'][mode['name']][month]['0']:
+                for rank in result['byMonth'][mode['name']][month][elo]:
                     if rank['name'] == poke:
                         result['byPokemon'][mode['name']][poke][elo][month] = rank
                       
