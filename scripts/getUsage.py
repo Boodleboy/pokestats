@@ -2,6 +2,7 @@
 
 import json
 import requests
+import shutil
 
 outFile = '../src/data/data.json'
 baseUrl = 'https://www.smogon.com/stats/'
@@ -12,6 +13,8 @@ result = {
         "byMonth": {},
         "months": []
 }
+
+shutil.copy("months.json", "../src/data/months.json")
 
 def nextMonth(prev):
     parts = prev.split('-')
@@ -34,7 +37,6 @@ def getMonthData(time, mode, elo):
         print("response: ")
         print(r.text)
         exit()
-
 
     ret = [
     ]
