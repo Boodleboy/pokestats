@@ -6,6 +6,7 @@ import data from '../data/data.json'
 import Dropdown from './Dropdown'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import lineColors from './LineGraph/lineColors.json'
 
 const initialOptions = {
   graphMode: 'line',
@@ -41,11 +42,11 @@ const processLineData = (options, rawData) => {
     )
   )
 
-  const datasets = elos.map(elo => {
+  const datasets = elos.map((elo, i) => {
     return {
       label: elo,
       data: months.map(month => pokemonData[elo][month].percent),
-      borderColor: "rgba(100, 100, 100, 1)"
+      borderColor: lineColors[i]
     }
   })
     
