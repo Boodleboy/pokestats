@@ -9,7 +9,7 @@ import Col from 'react-bootstrap/Col';
 import lineColors from './LineGraph/lineColors.json'
 
 const initialOptions = {
-  graphMode: 'line',
+  graphMode: 'bar',
   month: '2024-02', // TODO: make this pull from somewhere central
   mode: 'gen9ou',
   elo: '0',
