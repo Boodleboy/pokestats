@@ -19,18 +19,10 @@ const initialOptions = {
 
 const processBarData = (options, rawData) => {
   const pokemon = rawData.byMonth[options.mode][options.month][options.elo].slice(0, options.show) 
-  return {
-    labels: pokemon.map(mon => mon.name),
-    datasets: [
-      {
-        label: 'Pokemon usage',
-        data: pokemon.map(mon => mon.percent),
-        borderwidth: 1,
-        borderColor: 'rgb(255, 255, 255)',
-        backgroundColor: 'rgba(255, 99, 132, 0.5)',
-      }
-    ]
-  }
+  return pokemon.map(poke => ({
+    name: poke.name,
+    percent: poke.percent
+  }))
 }
 
 const processLineData = (options, rawData) => {
