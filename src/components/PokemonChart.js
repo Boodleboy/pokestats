@@ -9,7 +9,7 @@ import Col from 'react-bootstrap/Col';
 import lineColors from './LineGraph/lineColors.json'
 
 const initialOptions = {
-  graphMode: 'bar',
+  graphMode: 'line',
   month: '2024-02', // TODO: make this pull from somewhere central
   mode: 'gen9ou',
   elo: '0',
@@ -34,20 +34,17 @@ const processLineData = (options, rawData) => {
     )
   )
 
-  const datasets = elos.map((elo, i) => {
-    return {
-      label: elo,
-      data: months.map(month => pokemonData[elo][month].percent),
-      borderColor: lineColors[i]
+  return months.map(month => {
+    const ret = {
+      month: month
     }
-  })
-    
-  const lineData = {
-    labels: months,
-    datasets: datasets
-  }
 
-  return lineData
+    elos.forEach(elo => {
+      ret[elo] = pokemonData[elo][month].percent
+    })
+
+    return ret
+  })
 }
 
 const PokemonChart = () => {
@@ -94,7 +91,6 @@ const PokemonChart = () => {
           </Col>
         </Row>
         <BarGraph data={graphData} />
-
       </>
     )
   } else if (options.graphMode === 'line') {
