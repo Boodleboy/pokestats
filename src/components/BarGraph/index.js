@@ -5,6 +5,8 @@ import { CategoryScale, LinearScale, BarElement, Chart } from 'chart.js'
 import { BarChart, Bar, Rectangle, XAxis, YAxis, 
   CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
+import usageData from '../../data/data.json'
+
 import './style.css'
 
 Chart.register(CategoryScale)
@@ -12,17 +14,24 @@ Chart.register(LinearScale)
 
 Chart.register(BarElement)
 
-const BarGraph = ({ data, options, setOptions }) => {
+const processBarData = (options, rawData) => {
+  const pokemon = rawData.byMonth[options.mode][options.month][options.elo].slice(0, options.show) 
+  return pokemon.map(poke => ({
+    name: poke.name,
+    percent: poke.percent
+  }))
+}
+
+const BarGraph = ({ options, setOptions }) => {
   const onClick = (bar) => {
     setOptions({
       ...options,
       graphMode: "line",
       pokemon: bar.name
     })
-
-
-    console.log(bar)
   }
+
+  const data = processBarData(options, usageData)
 
   return (
     <div style={{width: "90%", height: data.length * 80}}>

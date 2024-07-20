@@ -96,7 +96,7 @@ const PokemonChart = () => {
     const graphData = processLineData(options, data)
     return (
       <>
-        <LineGraph data={graphData} /> 
+        <LineGraph data={graphData} options={options} setOptions={changeOptions} /> 
       </>
     )
   } else {
