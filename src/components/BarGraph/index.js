@@ -1,10 +1,9 @@
 import React from 'react'
 
 import { CategoryScale, LinearScale, BarElement, Chart } from 'chart.js'
-//import { Bar } from 'react-chartjs-2'
 
-//import { BarChart, Bar, XAxis, ResponsiveContainer } from 'recharts'
-import { BarChart, Bar, Rectangle, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { BarChart, Bar, Rectangle, XAxis, YAxis, 
+  CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 import './style.css'
 
@@ -13,9 +12,16 @@ Chart.register(LinearScale)
 
 Chart.register(BarElement)
 
-const BarGraph = ({ data }) => {
-  const onClick = (stuff) => {
-    console.log(stuff)
+const BarGraph = ({ data, options, setOptions }) => {
+  const onClick = (bar) => {
+    setOptions({
+      ...options,
+      graphMode: "line",
+      pokemon: bar.name
+    })
+
+
+    console.log(bar)
   }
 
   return (

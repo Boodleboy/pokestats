@@ -9,7 +9,7 @@ import Col from 'react-bootstrap/Col';
 import lineColors from './LineGraph/lineColors.json'
 
 const initialOptions = {
-  graphMode: 'line',
+  graphMode: 'bar',
   month: '2024-02', // TODO: make this pull from somewhere central
   mode: 'gen9ou',
   elo: '0',
@@ -51,7 +51,6 @@ const PokemonChart = () => {
   const [options, changeOptions] = useState(initialOptions)
 
   const buildOnSelect = (optionKey) => (ev) => {
-    console.log(optionKey, ev)
     changeOptions({ 
       ...options,
       [optionKey]: ev
@@ -90,7 +89,7 @@ const PokemonChart = () => {
             <Dropdown title={'GameMode'} onSelect={buildOnSelect('mode')} options={modeOptions} />
           </Col>
         </Row>
-        <BarGraph data={graphData} />
+        <BarGraph data={graphData} options={options} setOptions={changeOptions} />
       </>
     )
   } else if (options.graphMode === 'line') {
