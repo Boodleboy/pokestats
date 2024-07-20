@@ -15,7 +15,7 @@ Chart.register(LinearScale)
 Chart.register(BarElement)
 
 const processBarData = (options, rawData) => {
-  const pokemon = rawData.byMonth[options.mode][options.month][options.elo].slice(0, options.show) 
+  const pokemon = rawData.byMonth[options.format][options.month][options.elo].slice(0, options.show) 
   return pokemon.map(poke => ({
     name: poke.name,
     percent: poke.percent

@@ -9,11 +9,11 @@ import colors from './lineColors'
 import './style.css'
 
 const processLineData = (options, rawData) => {
-  const pokemonData = rawData.byPokemon[options.mode][options.pokemon]
+  const pokemonData = rawData.byPokemon[options.format][options.pokemon]
   const elos = Object.keys(pokemonData)
   const months = rawData.months.slice(
     rawData.months.findIndex(
-      month => month === rawData.byPokemon[options.mode].firstMonth
+      month => month === rawData.byPokemon[options.format].firstMonth
     )
   )
 

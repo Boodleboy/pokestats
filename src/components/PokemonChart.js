@@ -11,7 +11,7 @@ import lineColors from './LineGraph/lineColors.json'
 const initialOptions = {
   graphMode: 'bar',
   month: '2024-02', // TODO: make this pull from somewhere central
-  mode: 'gen9ou',
+  format: 'gen9ou',
   elo: '0',
   show: 50,
   pokemon: 'Gholdengo'
@@ -24,11 +24,9 @@ const PokemonChart = () => {
     <>
       <GraphOptions options={options} setOptions={setOptions} />
       {options.graphMode === 'bar' ? 
-        <BarGraph options={options} setOptions={setOptions} /> : 
-        null}
+        <BarGraph options={options} setOptions={setOptions} /> : null}
       {options.graphMode === 'line' ? 
-        <LineGraph options={options} setOptions={setOptions} /> :
-        null}
+        <LineGraph options={options} setOptions={setOptions} /> : null}
     </>
   )
 }

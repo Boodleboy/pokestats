@@ -23,7 +23,7 @@ const GraphOptions = ({ options, setOptions }) => {
     }
   ]
 
-  const modeOptions = [
+  const formatOptions = [
     {
       label: 'Gen 9 OU',
       value: 'gen9ou'
@@ -39,7 +39,7 @@ const GraphOptions = ({ options, setOptions }) => {
         <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
       </Col>
       <Col>
-        <Dropdown title={'GameMode'} onSelect={buildOnSelect('mode')} options={modeOptions} />
+        <Dropdown title={'Game Format'} onSelect={buildOnSelect('format')} options={formatOptions} />
       </Col>
     </Row>
   )
