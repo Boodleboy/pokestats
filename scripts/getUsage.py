@@ -15,6 +15,7 @@ result = {
 }
 
 shutil.copy("months.json", "../src/data/months.json")
+shutil.copy("formats.json", "../src/data/formats.json")
 
 def nextMonth(prev):
     parts = prev.split('-')
@@ -75,7 +76,7 @@ def insertData(newData, month, mode, elo):
 with open(formatFileName) as formatFile:
     formats = json.load(formatFile)
 
-for mode in formats['modes']:
+for mode in formats['formats']:
     month = mode['firstMonth']
     result['byPokemon'][mode['name']] = {
         'firstMonth': month
@@ -96,7 +97,7 @@ for mode in formats['modes']:
         month = nextMonth(month)
 
 
-for mode in formats['modes']:
+for mode in formats['formats']:
     allPokemon = {}
     for month in result['months']:
         for poke in result['byMonth'][mode['name']][month]['0']:
