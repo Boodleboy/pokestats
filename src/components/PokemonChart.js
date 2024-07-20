@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 
+import GraphOptions from './GraphOptions'
 import BarGraph from './BarGraph'
 import LineGraph from './LineGraph'
-import data from '../data/data.json'
 import Dropdown from './Dropdown'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -17,95 +17,20 @@ const initialOptions = {
   pokemon: 'Gholdengo'
 }
 
-const processBarData = (options, rawData) => {
-  const pokemon = rawData.byMonth[options.mode][options.month][options.elo].slice(0, options.show) 
-  return pokemon.map(poke => ({
-    name: poke.name,
-    percent: poke.percent
-  }))
-}
-
-const processLineData = (options, rawData) => {
-  const pokemonData = rawData.byPokemon[options.mode][options.pokemon]
-  const elos = Object.keys(pokemonData)
-  const months = rawData.months.slice(
-    rawData.months.findIndex(
-      month => month === rawData.byPokemon[options.mode].firstMonth
-    )
-  )
-
-  return months.map(month => {
-    const ret = {
-      month: month
-    }
-
-    elos.forEach(elo => {
-      ret[elo] = pokemonData[elo][month].percent
-    })
-
-    return ret
-  })
-}
-
 const PokemonChart = () => {
-  const [options, changeOptions] = useState(initialOptions)
+  const [options, setOptions] = useState(initialOptions)
 
-  const buildOnSelect = (optionKey) => (ev) => {
-    changeOptions({ 
-      ...options,
-      [optionKey]: ev
-    })
-  }
-
-  const eloOptions = [
-    {
-      label: '0',
-      value: '0'
-    }, {
-      label: '1500',
-      value: '1500'
-    }
-  ]
-
-  const modeOptions = [
-    {
-      label: 'Gen 9 OU',
-      value: 'gen9ou'
-    }, {
-      label: 'Gen 9 Ubers',
-      value: 'gen9ubers'
-    }
-  ]
-
-  if (options.graphMode === 'bar') {
-    const graphData = processBarData(options, data)
-    return (
-      <>
-        <Row>
-          <Col>
-            <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
-          </Col>
-          <Col>
-            <Dropdown title={'GameMode'} onSelect={buildOnSelect('mode')} options={modeOptions} />
-          </Col>
-        </Row>
-        <BarGraph data={graphData} options={options} setOptions={changeOptions} />
-      </>
-    )
-  } else if (options.graphMode === 'line') {
-    const graphData = processLineData(options, data)
-    return (
-      <>
-        <LineGraph data={graphData} options={options} setOptions={changeOptions} /> 
-      </>
-    )
-  } else {
-    return (
-      <>
-        Error: bad graphMode: {options.graphMode}
-      </>
-    )
-  }
+  return (
+    <>
+      <GraphOptions options={options} setOptions={setOptions} />
+      {options.graphMode === 'bar' ? 
+        <BarGraph options={options} setOptions={setOptions} /> : 
+        null}
+      {options.graphMode === 'line' ? 
+        <LineGraph options={options} setOptions={setOptions} /> :
+        null}
+    </>
+  )
 }
 
 export default PokemonChart
