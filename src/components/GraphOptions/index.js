@@ -4,6 +4,8 @@ import Dropdown from '../Dropdown'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
+import formats from '../../data/formats.json'
+
 const GraphOptions = ({ options, setOptions }) => {
 
   const buildOnSelect = (optionKey) => (ev) => {
@@ -13,25 +15,17 @@ const GraphOptions = ({ options, setOptions }) => {
     })
   }
 
-  const eloOptions = [
-    {
-      label: '0',
-      value: '0'
-    }, {
-      label: '1500',
-      value: '1500'
-    }
-  ]
+  const formatOptions = formats.formats.map(format => ({
+    label: format.label,
+    value: format.name
+  }))
 
-  const formatOptions = [
-    {
-      label: 'Gen 9 OU',
-      value: 'gen9ou'
-    }, {
-      label: 'Gen 9 Ubers',
-      value: 'gen9ubers'
-    }
-  ]
+  const eloOptions = formats.formats
+    .filter(format => format.name === options.format)[0]
+    .elos.map(elo => ({
+      label: "Above " + elo + " elo",
+      value: elo
+    }))
 
   return (
     <Row>
