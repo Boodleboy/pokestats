@@ -7,25 +7,15 @@ import shutil
 outFile = '../src/data/data.json'
 baseUrl = 'https://www.smogon.com/stats/'
 formatFileName = 'formats.json'
+monthFileName = 'months.json'
 
 result = {
         "byPokemon": {},
-        "byMonth": {},
-        "months": []
+        "byMonth": {}
 }
 
 shutil.copy("months.json", "../src/data/months.json")
 shutil.copy("formats.json", "../src/data/formats.json")
-
-def nextMonth(prev):
-    parts = prev.split('-')
-    if parts[1] == '12':
-        nextMonth = '01'
-        nextYear = str(int(parts[0])+1)
-    else:
-        nextMonth = str(int(parts[1])+1).zfill(2)
-        nextYear = parts[0]
-    return nextYear + '-' + nextMonth
 
 def getMonthData(time, mode, elo):
     completeUrl = baseUrl + time + '/' + mode + '-' + elo + '.txt'
@@ -76,30 +66,32 @@ def insertData(newData, month, mode, elo):
 with open(formatFileName) as formatFile:
     formats = json.load(formatFile)
 
+with open(monthFileName) as monthFile:
+    months = json.load(monthFile)
+
 for mode in formats['formats']:
-    month = mode['firstMonth']
+    firstMonth = mode['firstMonth']
     result['byPokemon'][mode['name']] = {
-        'firstMonth': month
+        'firstMonth': firstMonth
     }
     result['byMonth'][mode['name']] = {
-        'firstMonth': month
+        'firstMonth': firstMonth
     }
 
-    while (month != formats['currentMonth']):
-        #hacky way to add months to list. TODO: do this better
-        if not month in result['months']:
-            result['months'].append(month)
-
+    formatMonths = months[months.index(firstMonth):]
+    for month in formatMonths:
         result['byMonth'][mode['name']][month] = {}
         for elo in mode['elos']:
             dat = getMonthData(month, mode['name'], elo)
             insertData(dat, month, mode['name'], elo)
-        month = nextMonth(month)
 
 
 for mode in formats['formats']:
     allPokemon = {}
-    for month in result['months']:
+    # need to make this pull only the months for the current format
+    
+    formatMonths = months[months.index(mode['firstMonth']):]
+    for month in formatMonths:
         for poke in result['byMonth'][mode['name']][month]['0']:
             if not poke['name'] in allPokemon:
                 allPokemon[poke['name']] = True
@@ -109,8 +101,7 @@ for mode in formats['formats']:
         result['byPokemon'][mode['name']][poke] = {}
         for elo in mode['elos']:
             result['byPokemon'][mode['name']][poke][elo] = {}
-            for month in result['months']:
-                #result['byPokemon'][mode['name']][poke][elo][month] = {}
+            for month in formatMonths:
                 for rank in result['byMonth'][mode['name']][month][elo]:
                     if rank['name'] == poke:
                         result['byPokemon'][mode['name']][poke][elo][month] = rank
