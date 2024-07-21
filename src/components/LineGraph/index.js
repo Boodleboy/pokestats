@@ -3,6 +3,7 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid,
   Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 import usageData from '../../data/data.json'
+import months from '../../data/months.json'
 
 import colors from './lineColors'
 
@@ -11,13 +12,13 @@ import './style.css'
 const processLineData = (options, rawData) => {
   const pokemonData = rawData.byPokemon[options.format][options.pokemon]
   const elos = Object.keys(pokemonData)
-  const months = rawData.months.slice(
-    rawData.months.findIndex(
+  const formatMonths = months.slice(
+    months.findIndex(
       month => month === rawData.byPokemon[options.format].firstMonth
     )
   )
 
-  return months.map(month => {
+  return formatMonths.map(month => {
     const ret = {
       month: month
     }
