@@ -24,7 +24,7 @@ const processLineData = (options, rawData) => {
     }
 
     elos.forEach(elo => {
-      ret[elo] = pokemonData[elo][month].percent
+      ret[elo] = pokemonData[elo][month]?.percent
     })
 
     return ret
