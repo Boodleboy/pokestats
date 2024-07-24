@@ -8,6 +8,8 @@ import Col from 'react-bootstrap/Col'
 import formats from '../../data/formats.json'
 import months from '../../data/months.json'
 
+import './style.css'
+
 const GraphOptions = ({ options, setOptions }) => {
 
   const buildOnSelect = (optionKey) => (ev) => {
@@ -41,20 +43,22 @@ const GraphOptions = ({ options, setOptions }) => {
   }))
 
   return (
-    <Row>
-      <Col>
-        {options.graphMode === 'bar' ?
-          <Dropdown title={'Month'} onSelect={buildOnSelect('month')} options={monthOptions} /> :
-          <Button onClick={onClickBack}>Back</Button>
-        }
-      </Col>
-      <Col>
-        <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
-      </Col>
-      <Col>
-        <Dropdown title={'Game Format'} onSelect={buildOnSelect('format')} options={formatOptions} />
-     </Col>
-    </Row>
+    <div className='graph-menu'>
+      <Row>
+        <Col>
+          {options.graphMode === 'bar' ?
+            <Dropdown title={'Month'} onSelect={buildOnSelect('month')} options={monthOptions} /> :
+            <Button onClick={onClickBack}>Back</Button>
+          }
+        </Col>
+        <Col>
+          <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
+        </Col>
+        <Col>
+          <Dropdown title={'Game Format'} onSelect={buildOnSelect('format')} options={formatOptions} />
+       </Col>
+      </Row>
+    </div>
   )
 }
 
