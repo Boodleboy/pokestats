@@ -55,7 +55,7 @@ const LineGraph = ({ options, setOptions }) => {
           <Legend />
           {elos.map((elo, i) => {
             return (
-              <Line key={elo} type="monotone" dataKey={elo} stroke={colors[i]} />
+              <Line key={elo} dataKey={elo} stroke={colors[i]} />
             )
           })}
         </LineChart>
