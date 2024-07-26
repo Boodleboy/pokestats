@@ -25,10 +25,12 @@ const BarGraph = ({ options, setOptions }) => {
   }
 
   const data = processBarData(options, usageData)
+  const labelSize = 140
 
   return (
     <div style={{width: "90%", height: data.length * 80}}>
       <ResponsiveContainer width="100%" height="100%">
+        <h2> Top Used {options.format} Pokemon </h2>
         <BarChart
           width={500}
           height={300}
@@ -37,13 +39,16 @@ const BarGraph = ({ options, setOptions }) => {
           margin={{
             top: 5,
             right: 30,
-            left: 20,
+            left: labelSize,
             bottom: 5,
           }}
         >
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis type="number" />
-          <YAxis type="category" dataKey="name" />
+          <YAxis type="category" dataKey="name" 
+            tickFormatter={name => name.replace('-', '- ')}
+            tick={{ fontSize: 26 }}
+            />
           <Tooltip />
           <Legend />
           <Bar 

@@ -51,9 +51,10 @@ const GraphOptions = ({ options, setOptions }) => {
             <Button onClick={onClickBack}>Back</Button>
           }
         </Col>
-        <Col>
-          <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
-        </Col>
+          {options.graphMode === 'bar' ?
+            <Col>
+              <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
+            </Col> : null}
         <Col>
           <Dropdown title={'Game Format'} onSelect={buildOnSelect('format')} options={formatOptions} />
        </Col>
