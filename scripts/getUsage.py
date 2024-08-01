@@ -123,6 +123,17 @@ for mode in formats['formats']:
                     if rank['name'] == poke:
                         result['byPokemon'][mode['name']][poke][elo][month] = rank
 
+for mode in formats['formats']:
+    formatMonths = months[months.index(mode['firstMonth']):]
+    for month in formatMonths:
+        for elo in mode['elos']:
+            obj = result['byMonth'][mode['name']][month][elo]
+            dirName = '../public/data/byMonth/'+mode['name']+'/'+month
+            fileName = dirName + '/' + elo + '.json'
+            os.makedirs(dirName, exist_ok=True)
+            with open(fileName, 'w') as f:
+                json.dump(obj, f, indent=2)
+
 with open(outFile, 'w') as f:
     json.dump(result, f, indent=2)
 
