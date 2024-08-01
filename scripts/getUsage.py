@@ -3,6 +3,7 @@
 import json
 import requests
 import shutil
+import os
 
 outFile = '../src/data/data.json'
 baseUrl = 'https://www.smogon.com/stats/'
@@ -16,11 +17,19 @@ result = {
 
 shutil.copy("months.json", "../src/data/months.json")
 shutil.copy("formats.json", "../src/data/formats.json")
+os.makedirs("../src/data/usage", exist_ok=True)
+os.makedirs("cache", exist_ok=True)
 
-def getMonthData(time, mode, elo):
+def cacheUsageData(time, mode, elo):
     completeUrl = baseUrl + time + '/' + mode + '-' + elo + '.txt'
+    cacheDirName = 'cache/' + time
+    cacheFileName = 'cache/' + time + '/' + mode + '-' + elo + '.txt'
+
+    if os.path.exists(cacheFileName):
+        return
+
+    os.makedirs(cacheDirName, exist_ok=True)
     r = requests.get(completeUrl)
-    lines = r.text.split('\n')
 
     if (r.status_code != 200):
         print("http failure")
@@ -28,6 +37,17 @@ def getMonthData(time, mode, elo):
         print("response: ")
         print(r.text)
         exit()
+
+    with open(cacheFileName, 'w') as file:
+        file.write(r.text)
+
+
+def getMonthData(time, mode, elo):
+    cacheUsageData(time, mode, elo)
+    cacheFileName = 'cache/' + time + '/' + mode + '-' + elo + '.txt'
+
+    with open(cacheFileName, 'r') as file:
+        lines = file.read().split('\n')
 
     ret = [
     ]
@@ -62,7 +82,6 @@ def insertData(newData, month, mode, elo):
         result['byMonth'][mode][month] = {}
     result['byMonth'][mode][month][elo] = newData
 
-
 with open(formatFileName) as formatFile:
     formats = json.load(formatFile)
 
@@ -85,10 +104,8 @@ for mode in formats['formats']:
             dat = getMonthData(month, mode['name'], elo)
             insertData(dat, month, mode['name'], elo)
 
-
 for mode in formats['formats']:
     allPokemon = {}
-    # need to make this pull only the months for the current format
     
     formatMonths = months[months.index(mode['firstMonth']):]
     for month in formatMonths:
@@ -105,7 +122,6 @@ for mode in formats['formats']:
                 for rank in result['byMonth'][mode['name']][month][elo]:
                     if rank['name'] == poke:
                         result['byPokemon'][mode['name']][poke][elo][month] = rank
-                      
 
 with open(outFile, 'w') as f:
     json.dump(result, f, indent=2)
