@@ -7,6 +7,8 @@ import Dropdown from './Dropdown'
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import lineColors from './LineGraph/lineColors.json'
+import useUsageData from '../hooks/useUsageData'
+
 
 const initialOptions = {
   graphMode: 'bar',
@@ -20,11 +22,19 @@ const initialOptions = {
 const PokemonChart = () => {
   const [options, setOptions] = useState(initialOptions)
 
+  const usageData = useUsageData(options)
+
+  if (usageData.loading) {
+    return (
+      <div> looooading </div>
+    )
+  }
+
   return (
     <>
       <GraphOptions options={options} setOptions={setOptions} />
       {options.graphMode === 'bar' ? 
-        <BarGraph options={options} setOptions={setOptions} /> : null}
+        <BarGraph options={options} setOptions={setOptions} usageData={usageData} /> : null}
       {options.graphMode === 'line' ? 
         <LineGraph options={options} setOptions={setOptions} /> : null}
     </>

@@ -3,11 +3,21 @@ import { useEffect, useState } from 'react'
 const useUsageData = (options) => {
   const [data, setData] = useState({ loading: true })
   useEffect(() => {
-    fetch('/data/byMonth/gen9ou/2023-11/0.json')
+    setData({ loading: true })
+    let fetchString = '/data/'
+    if (options.graphMode === 'bar') {
+      fetchString += 'byMonth/' + 
+        options.format + '/' +
+        options.month + '/' +
+        options.elo + '.json'
+    } else {
+      fetchString += 'not implemented'
+    }
+    fetch(fetchString)
       .then((response) => response.json())
       .then((data) => {
         setData({
-          ...data,
+          body: data,
           loading: false
         });
       })

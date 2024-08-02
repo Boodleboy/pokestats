@@ -3,21 +3,19 @@ import React from 'react'
 import { BarChart, Bar, Rectangle, XAxis, YAxis, 
   CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
-import usageData from '../../data/data.json'
-
 import useUsageData from '../../hooks/useUsageData'
 
 import './style.css'
 
 const processBarData = (options, rawData) => {
-  const pokemon = rawData.byMonth[options.format][options.month][options.elo].slice(0, options.show) 
+  const pokemon = rawData.body.slice(0, options.show) 
   return pokemon.map(poke => ({
     name: poke.name,
     percent: poke.percent
   }))
 }
 
-const BarGraph = ({ options, setOptions }) => {
+const BarGraph = ({ options, setOptions, usageData }) => {
   const onClick = (bar) => {
     setOptions({
       ...options,
@@ -25,9 +23,6 @@ const BarGraph = ({ options, setOptions }) => {
       pokemon: bar.name
     })
   }
-
-  const testData = useUsageData(options)
-  console.log('testData', testData)
 
   const data = processBarData(options, usageData)
   const labelSize = 140
