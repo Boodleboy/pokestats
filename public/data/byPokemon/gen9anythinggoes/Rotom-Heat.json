@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Rotom-Heat",
+      "percent": 0.29596,
+      "usage": 1712,
+      "rank": 177
+    },
+    "2022-12": {
+      "name": "Rotom-Heat",
+      "percent": 0.41002,
+      "usage": 4478,
+      "rank": 167
+    },
+    "2023-01": {
+      "name": "Rotom-Heat",
+      "percent": 0.49547,
+      "usage": 4000,
+      "rank": 171
+    },
+    "2023-02": {
+      "name": "Rotom-Heat",
+      "percent": 0.58602,
+      "usage": 3403,
+      "rank": 152
+    },
+    "2023-03": {
+      "name": "Rotom-Heat",
+      "percent": 0.51062,
+      "usage": 2837,
+      "rank": 165
+    },
+    "2023-04": {
+      "name": "Rotom-Heat",
+      "percent": 0.71812,
+      "usage": 3392,
+      "rank": 142
+    },
+    "2023-05": {
+      "name": "Rotom-Heat",
+      "percent": 0.82805,
+      "usage": 3855,
+      "rank": 134
+    },
+    "2023-06": {
+      "name": "Rotom-Heat",
+      "percent": 0.48385,
+      "usage": 2290,
+      "rank": 220
+    },
+    "2023-07": {
+      "name": "Rotom-Heat",
+      "percent": 0.63753,
+      "usage": 2932,
+      "rank": 180
+    },
+    "2023-08": {
+      "name": "Rotom-Heat",
+      "percent": 0.5909,
+      "usage": 2835,
+      "rank": 192
+    },
+    "2023-09": {
+      "name": "Rotom-Heat",
+      "percent": 0.45472,
+      "usage": 2576,
+      "rank": 250
+    },
+    "2023-09-DLC1": {
+      "name": "Rotom-Heat",
+      "percent": 0.38063,
+      "usage": 1236,
+      "rank": 267
+    },
+    "2023-10": {
+      "name": "Rotom-Heat",
+      "percent": 0.41912,
+      "usage": 2590,
+      "rank": 262
+    },
+    "2023-11": {
+      "name": "Rotom-Heat",
+      "percent": 0.48562,
+      "usage": 2408,
+      "rank": 233
+    },
+    "2023-12": {
+      "name": "Rotom-Heat",
+      "percent": 0.35866,
+      "usage": 1544,
+      "rank": 299
+    },
+    "2023-12-DLC2": {
+      "name": "Rotom-Heat",
+      "percent": 0.35497,
+      "usage": 708,
+      "rank": 311
+    },
+    "2024-01": {
+      "name": "Rotom-Heat",
+      "percent": 0.26827,
+      "usage": 1319,
+      "rank": 348
+    },
+    "2024-02": {
+      "name": "Rotom-Heat",
+      "percent": 0.35114,
+      "usage": 1606,
+      "rank": 302
+    },
+    "2024-03": {
+      "name": "Rotom-Heat",
+      "percent": 0.33858,
+      "usage": 1609,
+      "rank": 317
+    },
+    "2024-04": {
+      "name": "Rotom-Heat",
+      "percent": 0.32365,
+      "usage": 1452,
+      "rank": 322
+    },
+    "2024-05": {
+      "name": "Rotom-Heat",
+      "percent": 0.25543,
+      "usage": 542,
+      "rank": 357
+    },
+    "2024-06": {
+      "name": "Rotom-Heat",
+      "percent": 0.3347,
+      "usage": 1222,
+      "rank": 313
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Rotom-Heat",
+      "percent": 0.28842,
+      "usage": 1712,
+      "rank": 176
+    },
+    "2022-12": {
+      "name": "Rotom-Heat",
+      "percent": 0.40887,
+      "usage": 4478,
+      "rank": 165
+    },
+    "2023-01": {
+      "name": "Rotom-Heat",
+      "percent": 0.49122,
+      "usage": 4000,
+      "rank": 165
+    },
+    "2023-02": {
+      "name": "Rotom-Heat",
+      "percent": 0.58086,
+      "usage": 3403,
+      "rank": 151
+    },
+    "2023-03": {
+      "name": "Rotom-Heat",
+      "percent": 0.46407,
+      "usage": 2837,
+      "rank": 165
+    },
+    "2023-04": {
+      "name": "Rotom-Heat",
+      "percent": 0.54074,
+      "usage": 3392,
+      "rank": 145
+    },
+    "2023-05": {
+      "name": "Rotom-Heat",
+      "percent": 0.69525,
+      "usage": 3855,
+      "rank": 136
+    },
+    "2023-06": {
+      "name": "Rotom-Heat",
+      "percent": 0.36854,
+      "usage": 2290,
+      "rank": 215
+    },
+    "2023-07": {
+      "name": "Rotom-Heat",
+      "percent": 0.55148,
+      "usage": 2932,
+      "rank": 174
+    },
+    "2023-08": {
+      "name": "Rotom-Heat",
+      "percent": 0.5236,
+      "usage": 2835,
+      "rank": 186
+    },
+    "2023-09": {
+      "name": "Rotom-Heat",
+      "percent": 0.35205,
+      "usage": 2576,
+      "rank": 250
+    },
+    "2023-09-DLC1": {
+      "name": "Rotom-Heat",
+      "percent": 0.30471,
+      "usage": 1236,
+      "rank": 265
+    },
+    "2023-10": {
+      "name": "Rotom-Heat",
+      "percent": 0.32704,
+      "usage": 2590,
+      "rank": 254
+    },
+    "2023-11": {
+      "name": "Rotom-Heat",
+      "percent": 0.36982,
+      "usage": 2408,
+      "rank": 238
+    },
+    "2023-12": {
+      "name": "Rotom-Heat",
+      "percent": 0.24188,
+      "usage": 1544,
+      "rank": 318
+    },
+    "2023-12-DLC2": {
+      "name": "Rotom-Heat",
+      "percent": 0.23444,
+      "usage": 708,
+      "rank": 322
+    },
+    "2024-01": {
+      "name": "Rotom-Heat",
+      "percent": 0.17065,
+      "usage": 1319,
+      "rank": 361
+    },
+    "2024-02": {
+      "name": "Rotom-Heat",
+      "percent": 0.24931,
+      "usage": 1606,
+      "rank": 313
+    },
+    "2024-03": {
+      "name": "Rotom-Heat",
+      "percent": 0.23343,
+      "usage": 1609,
+      "rank": 323
+    },
+    "2024-04": {
+      "name": "Rotom-Heat",
+      "percent": 0.21035,
+      "usage": 1452,
+      "rank": 337
+    },
+    "2024-05": {
+      "name": "Rotom-Heat",
+      "percent": 0.18562,
+      "usage": 542,
+      "rank": 354
+    },
+    "2024-06": {
+      "name": "Rotom-Heat",
+      "percent": 0.24463,
+      "usage": 1222,
+      "rank": 310
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Rotom-Heat",
+      "percent": 0.03329,
+      "usage": 1712,
+      "rank": 194
+    },
+    "2022-12": {
+      "name": "Rotom-Heat",
+      "percent": 0.2016,
+      "usage": 4478,
+      "rank": 150
+    },
+    "2023-01": {
+      "name": "Rotom-Heat",
+      "percent": 0.22296,
+      "usage": 4000,
+      "rank": 147
+    },
+    "2023-02": {
+      "name": "Rotom-Heat",
+      "percent": 0.54873,
+      "usage": 3403,
+      "rank": 110
+    },
+    "2023-03": {
+      "name": "Rotom-Heat",
+      "percent": 0.15526,
+      "usage": 2837,
+      "rank": 169
+    },
+    "2023-04": {
+      "name": "Rotom-Heat",
+      "percent": 0.2101,
+      "usage": 3392,
+      "rank": 153
+    },
+    "2023-05": {
+      "name": "Rotom-Heat",
+      "percent": 0.30611,
+      "usage": 3855,
+      "rank": 158
+    },
+    "2023-06": {
+      "name": "Rotom-Heat",
+      "percent": 0.14056,
+      "usage": 2290,
+      "rank": 225
+    },
+    "2023-07": {
+      "name": "Rotom-Heat",
+      "percent": 0.1824,
+      "usage": 2932,
+      "rank": 209
+    },
+    "2023-08": {
+      "name": "Rotom-Heat",
+      "percent": 0.23033,
+      "usage": 2835,
+      "rank": 190
+    },
+    "2023-09": {
+      "name": "Rotom-Heat",
+      "percent": 0.15917,
+      "usage": 2576,
+      "rank": 253
+    },
+    "2023-09-DLC1": {
+      "name": "Rotom-Heat",
+      "percent": 0.1178,
+      "usage": 1236,
+      "rank": 276
+    },
+    "2023-10": {
+      "name": "Rotom-Heat",
+      "percent": 0.15452,
+      "usage": 2590,
+      "rank": 251
+    },
+    "2023-11": {
+      "name": "Rotom-Heat",
+      "percent": 0.18417,
+      "usage": 2408,
+      "rank": 224
+    },
+    "2023-12": {
+      "name": "Rotom-Heat",
+      "percent": 0.09089,
+      "usage": 1544,
+      "rank": 314
+    },
+    "2023-12-DLC2": {
+      "name": "Rotom-Heat",
+      "percent": 0.06022,
+      "usage": 708,
+      "rank": 365
+    },
+    "2024-01": {
+      "name": "Rotom-Heat",
+      "percent": 0.04626,
+      "usage": 1319,
+      "rank": 383
+    },
+    "2024-02": {
+      "name": "Rotom-Heat",
+      "percent": 0.08636,
+      "usage": 1606,
+      "rank": 320
+    },
+    "2024-03": {
+      "name": "Rotom-Heat",
+      "percent": 0.07405,
+      "usage": 1609,
+      "rank": 344
+    },
+    "2024-04": {
+      "name": "Rotom-Heat",
+      "percent": 0.05315,
+      "usage": 1452,
+      "rank": 357
+    },
+    "2024-05": {
+      "name": "Rotom-Heat",
+      "percent": 0.07184,
+      "usage": 542,
+      "rank": 319
+    },
+    "2024-06": {
+      "name": "Rotom-Heat",
+      "percent": 0.12623,
+      "usage": 1222,
+      "rank": 252
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Rotom-Heat",
+      "percent": 0.01591,
+      "usage": 1712,
+      "rank": 178
+    },
+    "2022-12": {
+      "name": "Rotom-Heat",
+      "percent": 0.09573,
+      "usage": 4478,
+      "rank": 131
+    },
+    "2023-01": {
+      "name": "Rotom-Heat",
+      "percent": 0.07855,
+      "usage": 4000,
+      "rank": 137
+    },
+    "2023-02": {
+      "name": "Rotom-Heat",
+      "percent": 0.19463,
+      "usage": 3403,
+      "rank": 119
+    },
+    "2023-03": {
+      "name": "Rotom-Heat",
+      "percent": 0.04171,
+      "usage": 2837,
+      "rank": 167
+    },
+    "2023-04": {
+      "name": "Rotom-Heat",
+      "percent": 0.04146,
+      "usage": 3392,
+      "rank": 161
+    },
+    "2023-05": {
+      "name": "Rotom-Heat",
+      "percent": 0.0457,
+      "usage": 3855,
+      "rank": 208
+    },
+    "2023-06": {
+      "name": "Rotom-Heat",
+      "percent": 0.02132,
+      "usage": 2290,
+      "rank": 247
+    },
+    "2023-07": {
+      "name": "Rotom-Heat",
+      "percent": 0.03041,
+      "usage": 2932,
+      "rank": 228
+    },
+    "2023-08": {
+      "name": "Rotom-Heat",
+      "percent": 0.28165,
+      "usage": 2835,
+      "rank": 114
+    },
+    "2023-09": {
+      "name": "Rotom-Heat",
+      "percent": 0.0822,
+      "usage": 2576,
+      "rank": 210
+    },
+    "2023-09-DLC1": {
+      "name": "Rotom-Heat",
+      "percent": 0.01096,
+      "usage": 1236,
+      "rank": 330
+    },
+    "2023-10": {
+      "name": "Rotom-Heat",
+      "percent": 0.04192,
+      "usage": 2590,
+      "rank": 237
+    },
+    "2023-11": {
+      "name": "Rotom-Heat",
+      "percent": 0.02577,
+      "usage": 2408,
+      "rank": 264
+    },
+    "2023-12": {
+      "name": "Rotom-Heat",
+      "percent": 0.00897,
+      "usage": 1544,
+      "rank": 374
+    },
+    "2023-12-DLC2": {
+      "name": "Rotom-Heat",
+      "percent": 0.00585,
+      "usage": 708,
+      "rank": 393
+    },
+    "2024-01": {
+      "name": "Rotom-Heat",
+      "percent": 0.00883,
+      "usage": 1319,
+      "rank": 376
+    },
+    "2024-02": {
+      "name": "Rotom-Heat",
+      "percent": 0.01261,
+      "usage": 1606,
+      "rank": 338
+    },
+    "2024-03": {
+      "name": "Rotom-Heat",
+      "percent": 0.01257,
+      "usage": 1609,
+      "rank": 342
+    },
+    "2024-04": {
+      "name": "Rotom-Heat",
+      "percent": 0.00967,
+      "usage": 1452,
+      "rank": 347
+    },
+    "2024-05": {
+      "name": "Rotom-Heat",
+      "percent": 0.02303,
+      "usage": 542,
+      "rank": 262
+    },
+    "2024-06": {
+      "name": "Rotom-Heat",
+      "percent": 0.01999,
+      "usage": 1222,
+      "rank": 266
+    }
+  }
+}

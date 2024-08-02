@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Cetitan",
+      "percent": 2.86399,
+      "usage": 16567,
+      "rank": 50
+    },
+    "2022-12": {
+      "name": "Cetitan",
+      "percent": 1.7214,
+      "usage": 18800,
+      "rank": 69
+    },
+    "2023-01": {
+      "name": "Cetitan",
+      "percent": 1.30384,
+      "usage": 10526,
+      "rank": 92
+    },
+    "2023-02": {
+      "name": "Cetitan",
+      "percent": 1.13175,
+      "usage": 6572,
+      "rank": 100
+    },
+    "2023-03": {
+      "name": "Cetitan",
+      "percent": 0.91848,
+      "usage": 5103,
+      "rank": 120
+    },
+    "2023-04": {
+      "name": "Cetitan",
+      "percent": 0.83985,
+      "usage": 3967,
+      "rank": 127
+    },
+    "2023-05": {
+      "name": "Cetitan",
+      "percent": 0.83342,
+      "usage": 3880,
+      "rank": 133
+    },
+    "2023-06": {
+      "name": "Cetitan",
+      "percent": 0.56013,
+      "usage": 2651,
+      "rank": 202
+    },
+    "2023-07": {
+      "name": "Cetitan",
+      "percent": 0.50642,
+      "usage": 2329,
+      "rank": 214
+    },
+    "2023-08": {
+      "name": "Cetitan",
+      "percent": 0.46605,
+      "usage": 2236,
+      "rank": 227
+    },
+    "2023-09": {
+      "name": "Cetitan",
+      "percent": 0.45102,
+      "usage": 2555,
+      "rank": 251
+    },
+    "2023-09-DLC1": {
+      "name": "Cetitan",
+      "percent": 0.36769,
+      "usage": 1194,
+      "rank": 273
+    },
+    "2023-10": {
+      "name": "Cetitan",
+      "percent": 0.47317,
+      "usage": 2924,
+      "rank": 237
+    },
+    "2023-11": {
+      "name": "Cetitan",
+      "percent": 0.40758,
+      "usage": 2021,
+      "rank": 266
+    },
+    "2023-12": {
+      "name": "Cetitan",
+      "percent": 0.42742,
+      "usage": 1840,
+      "rank": 273
+    },
+    "2023-12-DLC2": {
+      "name": "Cetitan",
+      "percent": 0.38003,
+      "usage": 758,
+      "rank": 296
+    },
+    "2024-01": {
+      "name": "Cetitan",
+      "percent": 0.3242,
+      "usage": 1594,
+      "rank": 319
+    },
+    "2024-02": {
+      "name": "Cetitan",
+      "percent": 0.33692,
+      "usage": 1541,
+      "rank": 310
+    },
+    "2024-03": {
+      "name": "Cetitan",
+      "percent": 0.30533,
+      "usage": 1451,
+      "rank": 336
+    },
+    "2024-04": {
+      "name": "Cetitan",
+      "percent": 0.39386,
+      "usage": 1767,
+      "rank": 292
+    },
+    "2024-05": {
+      "name": "Cetitan",
+      "percent": 0.37514,
+      "usage": 796,
+      "rank": 287
+    },
+    "2024-06": {
+      "name": "Cetitan",
+      "percent": 0.23062,
+      "usage": 842,
+      "rank": 370
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Cetitan",
+      "percent": 2.82977,
+      "usage": 16567,
+      "rank": 51
+    },
+    "2022-12": {
+      "name": "Cetitan",
+      "percent": 1.70756,
+      "usage": 18800,
+      "rank": 69
+    },
+    "2023-01": {
+      "name": "Cetitan",
+      "percent": 1.28688,
+      "usage": 10526,
+      "rank": 93
+    },
+    "2023-02": {
+      "name": "Cetitan",
+      "percent": 1.13779,
+      "usage": 6572,
+      "rank": 101
+    },
+    "2023-03": {
+      "name": "Cetitan",
+      "percent": 0.91363,
+      "usage": 5103,
+      "rank": 118
+    },
+    "2023-04": {
+      "name": "Cetitan",
+      "percent": 0.78809,
+      "usage": 3967,
+      "rank": 124
+    },
+    "2023-05": {
+      "name": "Cetitan",
+      "percent": 0.75796,
+      "usage": 3880,
+      "rank": 130
+    },
+    "2023-06": {
+      "name": "Cetitan",
+      "percent": 0.47131,
+      "usage": 2651,
+      "rank": 193
+    },
+    "2023-07": {
+      "name": "Cetitan",
+      "percent": 0.38344,
+      "usage": 2329,
+      "rank": 214
+    },
+    "2023-08": {
+      "name": "Cetitan",
+      "percent": 0.42493,
+      "usage": 2236,
+      "rank": 206
+    },
+    "2023-09": {
+      "name": "Cetitan",
+      "percent": 0.34955,
+      "usage": 2555,
+      "rank": 252
+    },
+    "2023-09-DLC1": {
+      "name": "Cetitan",
+      "percent": 0.26307,
+      "usage": 1194,
+      "rank": 284
+    },
+    "2023-10": {
+      "name": "Cetitan",
+      "percent": 0.3719,
+      "usage": 2924,
+      "rank": 237
+    },
+    "2023-11": {
+      "name": "Cetitan",
+      "percent": 0.27819,
+      "usage": 2021,
+      "rank": 274
+    },
+    "2023-12": {
+      "name": "Cetitan",
+      "percent": 0.28406,
+      "usage": 1840,
+      "rank": 288
+    },
+    "2023-12-DLC2": {
+      "name": "Cetitan",
+      "percent": 0.22779,
+      "usage": 758,
+      "rank": 327
+    },
+    "2024-01": {
+      "name": "Cetitan",
+      "percent": 0.21715,
+      "usage": 1594,
+      "rank": 332
+    },
+    "2024-02": {
+      "name": "Cetitan",
+      "percent": 0.20276,
+      "usage": 1541,
+      "rank": 344
+    },
+    "2024-03": {
+      "name": "Cetitan",
+      "percent": 0.20954,
+      "usage": 1451,
+      "rank": 342
+    },
+    "2024-04": {
+      "name": "Cetitan",
+      "percent": 0.31431,
+      "usage": 1767,
+      "rank": 278
+    },
+    "2024-05": {
+      "name": "Cetitan",
+      "percent": 0.20331,
+      "usage": 796,
+      "rank": 331
+    },
+    "2024-06": {
+      "name": "Cetitan",
+      "percent": 0.15255,
+      "usage": 842,
+      "rank": 373
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Cetitan",
+      "percent": 1.59068,
+      "usage": 16567,
+      "rank": 71
+    },
+    "2022-12": {
+      "name": "Cetitan",
+      "percent": 1.08272,
+      "usage": 18800,
+      "rank": 83
+    },
+    "2023-01": {
+      "name": "Cetitan",
+      "percent": 0.85255,
+      "usage": 10526,
+      "rank": 93
+    },
+    "2023-02": {
+      "name": "Cetitan",
+      "percent": 0.73532,
+      "usage": 6572,
+      "rank": 96
+    },
+    "2023-03": {
+      "name": "Cetitan",
+      "percent": 0.71805,
+      "usage": 5103,
+      "rank": 97
+    },
+    "2023-04": {
+      "name": "Cetitan",
+      "percent": 0.48466,
+      "usage": 3967,
+      "rank": 118
+    },
+    "2023-05": {
+      "name": "Cetitan",
+      "percent": 0.50864,
+      "usage": 3880,
+      "rank": 129
+    },
+    "2023-06": {
+      "name": "Cetitan",
+      "percent": 0.13011,
+      "usage": 2651,
+      "rank": 230
+    },
+    "2023-07": {
+      "name": "Cetitan",
+      "percent": 0.13025,
+      "usage": 2329,
+      "rank": 226
+    },
+    "2023-08": {
+      "name": "Cetitan",
+      "percent": 0.18515,
+      "usage": 2236,
+      "rank": 209
+    },
+    "2023-09": {
+      "name": "Cetitan",
+      "percent": 0.12958,
+      "usage": 2555,
+      "rank": 274
+    },
+    "2023-09-DLC1": {
+      "name": "Cetitan",
+      "percent": 0.0852,
+      "usage": 1194,
+      "rank": 303
+    },
+    "2023-10": {
+      "name": "Cetitan",
+      "percent": 0.12685,
+      "usage": 2924,
+      "rank": 271
+    },
+    "2023-11": {
+      "name": "Cetitan",
+      "percent": 0.09624,
+      "usage": 2021,
+      "rank": 279
+    },
+    "2023-12": {
+      "name": "Cetitan",
+      "percent": 0.09204,
+      "usage": 1840,
+      "rank": 311
+    },
+    "2023-12-DLC2": {
+      "name": "Cetitan",
+      "percent": 0.08368,
+      "usage": 758,
+      "rank": 332
+    },
+    "2024-01": {
+      "name": "Cetitan",
+      "percent": 0.06363,
+      "usage": 1594,
+      "rank": 361
+    },
+    "2024-02": {
+      "name": "Cetitan",
+      "percent": 0.04829,
+      "usage": 1541,
+      "rank": 372
+    },
+    "2024-03": {
+      "name": "Cetitan",
+      "percent": 0.04813,
+      "usage": 1451,
+      "rank": 382
+    },
+    "2024-04": {
+      "name": "Cetitan",
+      "percent": 0.06089,
+      "usage": 1767,
+      "rank": 338
+    },
+    "2024-05": {
+      "name": "Cetitan",
+      "percent": 0.06297,
+      "usage": 796,
+      "rank": 332
+    },
+    "2024-06": {
+      "name": "Cetitan",
+      "percent": 0.03172,
+      "usage": 842,
+      "rank": 393
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Cetitan",
+      "percent": 1.26262,
+      "usage": 16567,
+      "rank": 74
+    },
+    "2022-12": {
+      "name": "Cetitan",
+      "percent": 0.52232,
+      "usage": 18800,
+      "rank": 76
+    },
+    "2023-01": {
+      "name": "Cetitan",
+      "percent": 0.2661,
+      "usage": 10526,
+      "rank": 93
+    },
+    "2023-02": {
+      "name": "Cetitan",
+      "percent": 0.1893,
+      "usage": 6572,
+      "rank": 121
+    },
+    "2023-03": {
+      "name": "Cetitan",
+      "percent": 0.21401,
+      "usage": 5103,
+      "rank": 106
+    },
+    "2023-04": {
+      "name": "Cetitan",
+      "percent": 0.10574,
+      "usage": 3967,
+      "rank": 119
+    },
+    "2023-05": {
+      "name": "Cetitan",
+      "percent": 0.11037,
+      "usage": 3880,
+      "rank": 156
+    },
+    "2023-06": {
+      "name": "Cetitan",
+      "percent": 0.02687,
+      "usage": 2651,
+      "rank": 231
+    },
+    "2023-07": {
+      "name": "Cetitan",
+      "percent": 0.01895,
+      "usage": 2329,
+      "rank": 258
+    },
+    "2023-08": {
+      "name": "Cetitan",
+      "percent": 0.03155,
+      "usage": 2236,
+      "rank": 232
+    },
+    "2023-09": {
+      "name": "Cetitan",
+      "percent": 0.01921,
+      "usage": 2555,
+      "rank": 308
+    },
+    "2023-09-DLC1": {
+      "name": "Cetitan",
+      "percent": 0.01232,
+      "usage": 1194,
+      "rank": 326
+    },
+    "2023-10": {
+      "name": "Cetitan",
+      "percent": 0.03032,
+      "usage": 2924,
+      "rank": 264
+    },
+    "2023-11": {
+      "name": "Cetitan",
+      "percent": 0.03309,
+      "usage": 2021,
+      "rank": 246
+    },
+    "2023-12": {
+      "name": "Cetitan",
+      "percent": 0.01929,
+      "usage": 1840,
+      "rank": 315
+    },
+    "2023-12-DLC2": {
+      "name": "Cetitan",
+      "percent": 0.01479,
+      "usage": 758,
+      "rank": 335
+    },
+    "2024-01": {
+      "name": "Cetitan",
+      "percent": 0.01391,
+      "usage": 1594,
+      "rank": 334
+    },
+    "2024-02": {
+      "name": "Cetitan",
+      "percent": 0.00774,
+      "usage": 1541,
+      "rank": 376
+    },
+    "2024-03": {
+      "name": "Cetitan",
+      "percent": 0.0063,
+      "usage": 1451,
+      "rank": 407
+    },
+    "2024-04": {
+      "name": "Cetitan",
+      "percent": 0.00742,
+      "usage": 1767,
+      "rank": 373
+    },
+    "2024-05": {
+      "name": "Cetitan",
+      "percent": 0.00596,
+      "usage": 796,
+      "rank": 368
+    },
+    "2024-06": {
+      "name": "Cetitan",
+      "percent": 0.00262,
+      "usage": 842,
+      "rank": 417
+    }
+  }
+}

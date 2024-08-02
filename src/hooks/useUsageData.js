@@ -11,7 +11,10 @@ const useUsageData = (options) => {
         options.month + '/' +
         options.elo + '.json'
     } else {
-      fetchString += 'not implemented'
+      fetchString += 'byPokemon/' +
+        options.format + '/' +
+        options.pokemon + '/' +
+        options.elo + '.json'
     }
     fetch(fetchString)
       .then((response) => response.json())

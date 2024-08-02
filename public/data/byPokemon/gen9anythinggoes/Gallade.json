@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Gallade",
+      "percent": 0.98175,
+      "usage": 5679,
+      "rank": 106
+    },
+    "2022-12": {
+      "name": "Gallade",
+      "percent": 1.34517,
+      "usage": 14691,
+      "rank": 81
+    },
+    "2023-01": {
+      "name": "Gallade",
+      "percent": 1.88007,
+      "usage": 15178,
+      "rank": 72
+    },
+    "2023-02": {
+      "name": "Gallade",
+      "percent": 2.20856,
+      "usage": 12825,
+      "rank": 67
+    },
+    "2023-03": {
+      "name": "Gallade",
+      "percent": 2.39563,
+      "usage": 13310,
+      "rank": 68
+    },
+    "2023-04": {
+      "name": "Gallade",
+      "percent": 1.94371,
+      "usage": 9181,
+      "rank": 75
+    },
+    "2023-05": {
+      "name": "Gallade",
+      "percent": 1.98989,
+      "usage": 9264,
+      "rank": 75
+    },
+    "2023-06": {
+      "name": "Gallade",
+      "percent": 1.37866,
+      "usage": 6525,
+      "rank": 111
+    },
+    "2023-07": {
+      "name": "Gallade",
+      "percent": 1.25658,
+      "usage": 5779,
+      "rank": 120
+    },
+    "2023-08": {
+      "name": "Gallade",
+      "percent": 0.96232,
+      "usage": 4617,
+      "rank": 140
+    },
+    "2023-09": {
+      "name": "Gallade",
+      "percent": 0.93469,
+      "usage": 5295,
+      "rank": 155
+    },
+    "2023-09-DLC1": {
+      "name": "Gallade",
+      "percent": 0.91462,
+      "usage": 2970,
+      "rank": 153
+    },
+    "2023-10": {
+      "name": "Gallade",
+      "percent": 1.04148,
+      "usage": 6436,
+      "rank": 137
+    },
+    "2023-11": {
+      "name": "Gallade",
+      "percent": 1.1945,
+      "usage": 5923,
+      "rank": 124
+    },
+    "2023-12": {
+      "name": "Gallade",
+      "percent": 0.74845,
+      "usage": 3222,
+      "rank": 178
+    },
+    "2023-12-DLC2": {
+      "name": "Gallade",
+      "percent": 0.5154,
+      "usage": 1028,
+      "rank": 242
+    },
+    "2024-01": {
+      "name": "Gallade",
+      "percent": 0.89328,
+      "usage": 4392,
+      "rank": 163
+    },
+    "2024-02": {
+      "name": "Gallade",
+      "percent": 0.92179,
+      "usage": 4216,
+      "rank": 166
+    },
+    "2024-03": {
+      "name": "Gallade",
+      "percent": 1.2047,
+      "usage": 5725,
+      "rank": 131
+    },
+    "2024-04": {
+      "name": "Gallade",
+      "percent": 1.23797,
+      "usage": 5554,
+      "rank": 128
+    },
+    "2024-05": {
+      "name": "Gallade",
+      "percent": 1.00806,
+      "usage": 2139,
+      "rank": 147
+    },
+    "2024-06": {
+      "name": "Gallade",
+      "percent": 0.90193,
+      "usage": 3293,
+      "rank": 161
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Gallade",
+      "percent": 0.96045,
+      "usage": 5679,
+      "rank": 107
+    },
+    "2022-12": {
+      "name": "Gallade",
+      "percent": 1.32505,
+      "usage": 14691,
+      "rank": 82
+    },
+    "2023-01": {
+      "name": "Gallade",
+      "percent": 1.85944,
+      "usage": 15178,
+      "rank": 72
+    },
+    "2023-02": {
+      "name": "Gallade",
+      "percent": 2.16,
+      "usage": 12825,
+      "rank": 68
+    },
+    "2023-03": {
+      "name": "Gallade",
+      "percent": 2.38198,
+      "usage": 13310,
+      "rank": 65
+    },
+    "2023-04": {
+      "name": "Gallade",
+      "percent": 1.77877,
+      "usage": 9181,
+      "rank": 78
+    },
+    "2023-05": {
+      "name": "Gallade",
+      "percent": 1.63561,
+      "usage": 9264,
+      "rank": 81
+    },
+    "2023-06": {
+      "name": "Gallade",
+      "percent": 1.09047,
+      "usage": 6525,
+      "rank": 115
+    },
+    "2023-07": {
+      "name": "Gallade",
+      "percent": 1.00669,
+      "usage": 5779,
+      "rank": 127
+    },
+    "2023-08": {
+      "name": "Gallade",
+      "percent": 0.691,
+      "usage": 4617,
+      "rank": 157
+    },
+    "2023-09": {
+      "name": "Gallade",
+      "percent": 0.68734,
+      "usage": 5295,
+      "rank": 177
+    },
+    "2023-09-DLC1": {
+      "name": "Gallade",
+      "percent": 0.65806,
+      "usage": 2970,
+      "rank": 188
+    },
+    "2023-10": {
+      "name": "Gallade",
+      "percent": 0.75548,
+      "usage": 6436,
+      "rank": 160
+    },
+    "2023-11": {
+      "name": "Gallade",
+      "percent": 0.85705,
+      "usage": 5923,
+      "rank": 141
+    },
+    "2023-12": {
+      "name": "Gallade",
+      "percent": 0.59429,
+      "usage": 3222,
+      "rank": 189
+    },
+    "2023-12-DLC2": {
+      "name": "Gallade",
+      "percent": 0.43049,
+      "usage": 1028,
+      "rank": 240
+    },
+    "2024-01": {
+      "name": "Gallade",
+      "percent": 0.60447,
+      "usage": 4392,
+      "rank": 198
+    },
+    "2024-02": {
+      "name": "Gallade",
+      "percent": 0.60975,
+      "usage": 4216,
+      "rank": 193
+    },
+    "2024-03": {
+      "name": "Gallade",
+      "percent": 0.88033,
+      "usage": 5725,
+      "rank": 149
+    },
+    "2024-04": {
+      "name": "Gallade",
+      "percent": 0.83858,
+      "usage": 5554,
+      "rank": 147
+    },
+    "2024-05": {
+      "name": "Gallade",
+      "percent": 0.67797,
+      "usage": 2139,
+      "rank": 169
+    },
+    "2024-06": {
+      "name": "Gallade",
+      "percent": 0.56755,
+      "usage": 3293,
+      "rank": 192
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Gallade",
+      "percent": 1.42348,
+      "usage": 5679,
+      "rank": 77
+    },
+    "2022-12": {
+      "name": "Gallade",
+      "percent": 0.63515,
+      "usage": 14691,
+      "rank": 100
+    },
+    "2023-01": {
+      "name": "Gallade",
+      "percent": 1.65441,
+      "usage": 15178,
+      "rank": 65
+    },
+    "2023-02": {
+      "name": "Gallade",
+      "percent": 1.55437,
+      "usage": 12825,
+      "rank": 66
+    },
+    "2023-03": {
+      "name": "Gallade",
+      "percent": 2.21879,
+      "usage": 13310,
+      "rank": 64
+    },
+    "2023-04": {
+      "name": "Gallade",
+      "percent": 0.97452,
+      "usage": 9181,
+      "rank": 85
+    },
+    "2023-05": {
+      "name": "Gallade",
+      "percent": 0.90947,
+      "usage": 9264,
+      "rank": 89
+    },
+    "2023-06": {
+      "name": "Gallade",
+      "percent": 0.2978,
+      "usage": 6525,
+      "rank": 173
+    },
+    "2023-07": {
+      "name": "Gallade",
+      "percent": 0.36234,
+      "usage": 5779,
+      "rank": 156
+    },
+    "2023-08": {
+      "name": "Gallade",
+      "percent": 0.22987,
+      "usage": 4617,
+      "rank": 191
+    },
+    "2023-09": {
+      "name": "Gallade",
+      "percent": 0.31097,
+      "usage": 5295,
+      "rank": 200
+    },
+    "2023-09-DLC1": {
+      "name": "Gallade",
+      "percent": 0.27144,
+      "usage": 2970,
+      "rank": 213
+    },
+    "2023-10": {
+      "name": "Gallade",
+      "percent": 0.31622,
+      "usage": 6436,
+      "rank": 186
+    },
+    "2023-11": {
+      "name": "Gallade",
+      "percent": 0.13966,
+      "usage": 5923,
+      "rank": 244
+    },
+    "2023-12": {
+      "name": "Gallade",
+      "percent": 0.12193,
+      "usage": 3222,
+      "rank": 282
+    },
+    "2023-12-DLC2": {
+      "name": "Gallade",
+      "percent": 0.14309,
+      "usage": 1028,
+      "rank": 278
+    },
+    "2024-01": {
+      "name": "Gallade",
+      "percent": 0.14149,
+      "usage": 4392,
+      "rank": 273
+    },
+    "2024-02": {
+      "name": "Gallade",
+      "percent": 0.11431,
+      "usage": 4216,
+      "rank": 286
+    },
+    "2024-03": {
+      "name": "Gallade",
+      "percent": 0.31896,
+      "usage": 5725,
+      "rank": 188
+    },
+    "2024-04": {
+      "name": "Gallade",
+      "percent": 0.35784,
+      "usage": 5554,
+      "rank": 165
+    },
+    "2024-05": {
+      "name": "Gallade",
+      "percent": 0.25529,
+      "usage": 2139,
+      "rank": 189
+    },
+    "2024-06": {
+      "name": "Gallade",
+      "percent": 0.14701,
+      "usage": 3293,
+      "rank": 234
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Gallade",
+      "percent": 1.37448,
+      "usage": 5679,
+      "rank": 67
+    },
+    "2022-12": {
+      "name": "Gallade",
+      "percent": 0.10604,
+      "usage": 14691,
+      "rank": 124
+    },
+    "2023-01": {
+      "name": "Gallade",
+      "percent": 0.14416,
+      "usage": 15178,
+      "rank": 112
+    },
+    "2023-02": {
+      "name": "Gallade",
+      "percent": 0.1639,
+      "usage": 12825,
+      "rank": 129
+    },
+    "2023-03": {
+      "name": "Gallade",
+      "percent": 0.59173,
+      "usage": 13310,
+      "rank": 79
+    },
+    "2023-04": {
+      "name": "Gallade",
+      "percent": 0.2668,
+      "usage": 9181,
+      "rank": 89
+    },
+    "2023-05": {
+      "name": "Gallade",
+      "percent": 0.33535,
+      "usage": 9264,
+      "rank": 104
+    },
+    "2023-06": {
+      "name": "Gallade",
+      "percent": 0.086,
+      "usage": 6525,
+      "rank": 167
+    },
+    "2023-07": {
+      "name": "Gallade",
+      "percent": 0.04724,
+      "usage": 5779,
+      "rank": 199
+    },
+    "2023-08": {
+      "name": "Gallade",
+      "percent": 0.03189,
+      "usage": 4617,
+      "rank": 230
+    },
+    "2023-09": {
+      "name": "Gallade",
+      "percent": 0.08739,
+      "usage": 5295,
+      "rank": 204
+    },
+    "2023-09-DLC1": {
+      "name": "Gallade",
+      "percent": 0.06251,
+      "usage": 2970,
+      "rank": 222
+    },
+    "2023-10": {
+      "name": "Gallade",
+      "percent": 0.06614,
+      "usage": 6436,
+      "rank": 206
+    },
+    "2023-11": {
+      "name": "Gallade",
+      "percent": 0.02702,
+      "usage": 5923,
+      "rank": 260
+    },
+    "2023-12": {
+      "name": "Gallade",
+      "percent": 0.0219,
+      "usage": 3222,
+      "rank": 303
+    },
+    "2023-12-DLC2": {
+      "name": "Gallade",
+      "percent": 0.0277,
+      "usage": 1028,
+      "rank": 295
+    },
+    "2024-01": {
+      "name": "Gallade",
+      "percent": 0.02269,
+      "usage": 4392,
+      "rank": 293
+    },
+    "2024-02": {
+      "name": "Gallade",
+      "percent": 0.02635,
+      "usage": 4216,
+      "rank": 284
+    },
+    "2024-03": {
+      "name": "Gallade",
+      "percent": 0.04662,
+      "usage": 5725,
+      "rank": 231
+    },
+    "2024-04": {
+      "name": "Gallade",
+      "percent": 0.1743,
+      "usage": 5554,
+      "rank": 136
+    },
+    "2024-05": {
+      "name": "Gallade",
+      "percent": 0.25289,
+      "usage": 2139,
+      "rank": 108
+    },
+    "2024-06": {
+      "name": "Gallade",
+      "percent": 0.0129,
+      "usage": 3293,
+      "rank": 306
+    }
+  }
+}

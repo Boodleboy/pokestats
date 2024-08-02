@@ -113,7 +113,10 @@ for mode in formats['formats']:
     pokes = allPokemon.keys()
 
     for poke in pokes:
-        result['byPokemon'][mode['name']][poke] = {}
+        result['byPokemon'][mode['name']][poke] = {
+                'elos': mode['elos'],
+                'firstMonth': mode['firstMonth']
+            }
         for elo in mode['elos']:
             result['byPokemon'][mode['name']][poke][elo] = {}
             for month in formatMonths:
@@ -133,13 +136,12 @@ for mode in formats['formats']:
                 json.dump(obj, f, indent=2)
 
     for poke in result['byPokemon'][mode['name']].keys():
-        for elo in mode['elos']:
-            obj = result['byPokemon'][mode['name']][poke][elo]
-            dirName = '../public/data/byPokemon/'+mode['name']+'/'+poke
-            fileName = dirName + '/' + elo + '.json'
-            os.makedirs(dirName, exist_ok=True)
-            with open(fileName, 'w') as f:
-                json.dump(obj, f, indent=2)
+        obj = result['byPokemon'][mode['name']][poke]
+        dirName = '../public/data/byPokemon/'+mode['name']
+        fileName = dirName + '/' + poke + '.json'
+        os.makedirs(dirName, exist_ok=True)
+        with open(fileName, 'w') as f:
+            json.dump(obj, f, indent=2)
 
 with open(outFile, 'w') as f:
     json.dump(result, f, indent=2)

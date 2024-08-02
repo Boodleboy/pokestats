@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Golem-Alola",
+      "percent": 0.11421,
+      "usage": 675,
+      "rank": 497
+    },
+    "2022-12": {
+      "name": "Golem-Alola",
+      "percent": 0.14078,
+      "usage": 1730,
+      "rank": 468
+    },
+    "2023-01": {
+      "name": "Golem-Alola",
+      "percent": 0.20076,
+      "usage": 2726,
+      "rank": 399
+    },
+    "2023-02": {
+      "name": "Golem-Alola",
+      "percent": 0.21172,
+      "usage": 3304,
+      "rank": 388
+    },
+    "2023-03": {
+      "name": "Golem-Alola",
+      "percent": 0.1557,
+      "usage": 2746,
+      "rank": 435
+    },
+    "2023-04": {
+      "name": "Golem-Alola",
+      "percent": 0.25385,
+      "usage": 4468,
+      "rank": 336
+    },
+    "2023-05": {
+      "name": "Golem-Alola",
+      "percent": 0.20875,
+      "usage": 3896,
+      "rank": 374
+    },
+    "2023-06": {
+      "name": "Golem-Alola",
+      "percent": 0.19431,
+      "usage": 3267,
+      "rank": 378
+    },
+    "2023-07": {
+      "name": "Golem-Alola",
+      "percent": 0.23763,
+      "usage": 3846,
+      "rank": 346
+    },
+    "2023-08": {
+      "name": "Golem-Alola",
+      "percent": 0.20387,
+      "usage": 3751,
+      "rank": 370
+    },
+    "2023-09": {
+      "name": "Golem-Alola",
+      "percent": 0.18954,
+      "usage": 3250,
+      "rank": 387
+    },
+    "2023-09-DLC1": {
+      "name": "Golem-Alola",
+      "percent": 0.20543,
+      "usage": 1753,
+      "rank": 369
+    },
+    "2023-10": {
+      "name": "Golem-Alola",
+      "percent": 0.21482,
+      "usage": 3387,
+      "rank": 380
+    },
+    "2023-11": {
+      "name": "Golem-Alola",
+      "percent": 0.29867,
+      "usage": 4039,
+      "rank": 323
+    },
+    "2023-12": {
+      "name": "Golem-Alola",
+      "percent": 0.25548,
+      "usage": 3267,
+      "rank": 343
+    },
+    "2023-12-DLC2": {
+      "name": "Golem-Alola",
+      "percent": 0.22178,
+      "usage": 1215,
+      "rank": 355
+    },
+    "2024-01": {
+      "name": "Golem-Alola",
+      "percent": 0.17848,
+      "usage": 2203,
+      "rank": 403
+    },
+    "2024-02": {
+      "name": "Golem-Alola",
+      "percent": 0.17631,
+      "usage": 2283,
+      "rank": 396
+    },
+    "2024-03": {
+      "name": "Golem-Alola",
+      "percent": 0.24268,
+      "usage": 3266,
+      "rank": 341
+    },
+    "2024-04": {
+      "name": "Golem-Alola",
+      "percent": 0.24094,
+      "usage": 2930,
+      "rank": 347
+    },
+    "2024-05": {
+      "name": "Golem-Alola",
+      "percent": 0.24342,
+      "usage": 1456,
+      "rank": 339
+    },
+    "2024-06": {
+      "name": "Golem-Alola",
+      "percent": 0.17941,
+      "usage": 2341,
+      "rank": 370
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Golem-Alola",
+      "percent": 0.10775,
+      "usage": 675,
+      "rank": 496
+    },
+    "2022-12": {
+      "name": "Golem-Alola",
+      "percent": 0.13271,
+      "usage": 1730,
+      "rank": 469
+    },
+    "2023-01": {
+      "name": "Golem-Alola",
+      "percent": 0.18873,
+      "usage": 2726,
+      "rank": 402
+    },
+    "2023-02": {
+      "name": "Golem-Alola",
+      "percent": 0.18878,
+      "usage": 3304,
+      "rank": 391
+    },
+    "2023-03": {
+      "name": "Golem-Alola",
+      "percent": 0.1206,
+      "usage": 2746,
+      "rank": 441
+    },
+    "2023-04": {
+      "name": "Golem-Alola",
+      "percent": 0.1572,
+      "usage": 4468,
+      "rank": 336
+    },
+    "2023-05": {
+      "name": "Golem-Alola",
+      "percent": 0.11242,
+      "usage": 3896,
+      "rank": 379
+    },
+    "2023-06": {
+      "name": "Golem-Alola",
+      "percent": 0.09283,
+      "usage": 3267,
+      "rank": 386
+    },
+    "2023-07": {
+      "name": "Golem-Alola",
+      "percent": 0.16623,
+      "usage": 3846,
+      "rank": 321
+    },
+    "2023-08": {
+      "name": "Golem-Alola",
+      "percent": 0.13534,
+      "usage": 3751,
+      "rank": 329
+    },
+    "2023-09": {
+      "name": "Golem-Alola",
+      "percent": 0.08892,
+      "usage": 3250,
+      "rank": 400
+    },
+    "2023-09-DLC1": {
+      "name": "Golem-Alola",
+      "percent": 0.07861,
+      "usage": 1753,
+      "rank": 410
+    },
+    "2023-10": {
+      "name": "Golem-Alola",
+      "percent": 0.12803,
+      "usage": 3387,
+      "rank": 358
+    },
+    "2023-11": {
+      "name": "Golem-Alola",
+      "percent": 0.20114,
+      "usage": 4039,
+      "rank": 299
+    },
+    "2023-12": {
+      "name": "Golem-Alola",
+      "percent": 0.15165,
+      "usage": 3267,
+      "rank": 322
+    },
+    "2023-12-DLC2": {
+      "name": "Golem-Alola",
+      "percent": 0.11153,
+      "usage": 1215,
+      "rank": 360
+    },
+    "2024-01": {
+      "name": "Golem-Alola",
+      "percent": 0.07003,
+      "usage": 2203,
+      "rank": 417
+    },
+    "2024-02": {
+      "name": "Golem-Alola",
+      "percent": 0.08021,
+      "usage": 2283,
+      "rank": 394
+    },
+    "2024-03": {
+      "name": "Golem-Alola",
+      "percent": 0.14168,
+      "usage": 3266,
+      "rank": 328
+    },
+    "2024-04": {
+      "name": "Golem-Alola",
+      "percent": 0.09668,
+      "usage": 2930,
+      "rank": 382
+    },
+    "2024-05": {
+      "name": "Golem-Alola",
+      "percent": 0.08325,
+      "usage": 1456,
+      "rank": 383
+    },
+    "2024-06": {
+      "name": "Golem-Alola",
+      "percent": 0.09586,
+      "usage": 2341,
+      "rank": 348
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Golem-Alola",
+      "percent": 6e-05,
+      "usage": 675,
+      "rank": 589
+    },
+    "2022-12": {
+      "name": "Golem-Alola",
+      "percent": 0.03704,
+      "usage": 1730,
+      "rank": 382
+    },
+    "2023-01": {
+      "name": "Golem-Alola",
+      "percent": 0.18309,
+      "usage": 2726,
+      "rank": 235
+    },
+    "2023-02": {
+      "name": "Golem-Alola",
+      "percent": 0.08015,
+      "usage": 3304,
+      "rank": 317
+    },
+    "2023-03": {
+      "name": "Golem-Alola",
+      "percent": 0.04454,
+      "usage": 2746,
+      "rank": 362
+    },
+    "2023-04": {
+      "name": "Golem-Alola",
+      "percent": 0.07135,
+      "usage": 4468,
+      "rank": 308
+    },
+    "2023-05": {
+      "name": "Golem-Alola",
+      "percent": 0.05301,
+      "usage": 3896,
+      "rank": 354
+    },
+    "2023-06": {
+      "name": "Golem-Alola",
+      "percent": 0.0309,
+      "usage": 3267,
+      "rank": 389
+    },
+    "2023-07": {
+      "name": "Golem-Alola",
+      "percent": 0.06479,
+      "usage": 3846,
+      "rank": 327
+    },
+    "2023-08": {
+      "name": "Golem-Alola",
+      "percent": 0.03447,
+      "usage": 3751,
+      "rank": 384
+    },
+    "2023-09": {
+      "name": "Golem-Alola",
+      "percent": 0.02317,
+      "usage": 3250,
+      "rank": 421
+    },
+    "2023-09-DLC1": {
+      "name": "Golem-Alola",
+      "percent": 0.01572,
+      "usage": 1753,
+      "rank": 449
+    },
+    "2023-10": {
+      "name": "Golem-Alola",
+      "percent": 0.05199,
+      "usage": 3387,
+      "rank": 353
+    },
+    "2023-11": {
+      "name": "Golem-Alola",
+      "percent": 0.13118,
+      "usage": 4039,
+      "rank": 262
+    },
+    "2023-12": {
+      "name": "Golem-Alola",
+      "percent": 0.05393,
+      "usage": 3267,
+      "rank": 343
+    },
+    "2023-12-DLC2": {
+      "name": "Golem-Alola",
+      "percent": 0.0422,
+      "usage": 1215,
+      "rank": 340
+    },
+    "2024-01": {
+      "name": "Golem-Alola",
+      "percent": 0.03812,
+      "usage": 2203,
+      "rank": 368
+    },
+    "2024-02": {
+      "name": "Golem-Alola",
+      "percent": 0.02095,
+      "usage": 2283,
+      "rank": 436
+    },
+    "2024-03": {
+      "name": "Golem-Alola",
+      "percent": 0.06943,
+      "usage": 3266,
+      "rank": 322
+    },
+    "2024-04": {
+      "name": "Golem-Alola",
+      "percent": 0.03309,
+      "usage": 2930,
+      "rank": 380
+    },
+    "2024-05": {
+      "name": "Golem-Alola",
+      "percent": 0.03526,
+      "usage": 1456,
+      "rank": 357
+    },
+    "2024-06": {
+      "name": "Golem-Alola",
+      "percent": 0.06729,
+      "usage": 2341,
+      "rank": 292
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Golem-Alola",
+      "percent": 0.0,
+      "usage": 675,
+      "rank": 584
+    },
+    "2022-12": {
+      "name": "Golem-Alola",
+      "percent": 0.00098,
+      "usage": 1730,
+      "rank": 489
+    },
+    "2023-01": {
+      "name": "Golem-Alola",
+      "percent": 0.17974,
+      "usage": 2726,
+      "rank": 180
+    },
+    "2023-02": {
+      "name": "Golem-Alola",
+      "percent": 0.02223,
+      "usage": 3304,
+      "rank": 351
+    },
+    "2023-03": {
+      "name": "Golem-Alola",
+      "percent": 0.02529,
+      "usage": 2746,
+      "rank": 327
+    },
+    "2023-04": {
+      "name": "Golem-Alola",
+      "percent": 0.02721,
+      "usage": 4468,
+      "rank": 332
+    },
+    "2023-05": {
+      "name": "Golem-Alola",
+      "percent": 0.03426,
+      "usage": 3896,
+      "rank": 320
+    },
+    "2023-06": {
+      "name": "Golem-Alola",
+      "percent": 0.01526,
+      "usage": 3267,
+      "rank": 339
+    },
+    "2023-07": {
+      "name": "Golem-Alola",
+      "percent": 0.01533,
+      "usage": 3846,
+      "rank": 372
+    },
+    "2023-08": {
+      "name": "Golem-Alola",
+      "percent": 0.00621,
+      "usage": 3751,
+      "rank": 473
+    },
+    "2023-09": {
+      "name": "Golem-Alola",
+      "percent": 0.00935,
+      "usage": 3250,
+      "rank": 411
+    },
+    "2023-09-DLC1": {
+      "name": "Golem-Alola",
+      "percent": 0.00509,
+      "usage": 1753,
+      "rank": 450
+    },
+    "2023-10": {
+      "name": "Golem-Alola",
+      "percent": 0.01825,
+      "usage": 3387,
+      "rank": 366
+    },
+    "2023-11": {
+      "name": "Golem-Alola",
+      "percent": 0.09846,
+      "usage": 4039,
+      "rank": 236
+    },
+    "2023-12": {
+      "name": "Golem-Alola",
+      "percent": 0.01659,
+      "usage": 3267,
+      "rank": 357
+    },
+    "2023-12-DLC2": {
+      "name": "Golem-Alola",
+      "percent": 0.01558,
+      "usage": 1215,
+      "rank": 316
+    },
+    "2024-01": {
+      "name": "Golem-Alola",
+      "percent": 0.0237,
+      "usage": 2203,
+      "rank": 322
+    },
+    "2024-02": {
+      "name": "Golem-Alola",
+      "percent": 0.01091,
+      "usage": 2283,
+      "rank": 391
+    },
+    "2024-03": {
+      "name": "Golem-Alola",
+      "percent": 0.01308,
+      "usage": 3266,
+      "rank": 390
+    },
+    "2024-04": {
+      "name": "Golem-Alola",
+      "percent": 0.01217,
+      "usage": 2930,
+      "rank": 364
+    },
+    "2024-05": {
+      "name": "Golem-Alola",
+      "percent": 0.05415,
+      "usage": 1456,
+      "rank": 247
+    },
+    "2024-06": {
+      "name": "Golem-Alola",
+      "percent": 0.04403,
+      "usage": 2341,
+      "rank": 251
+    }
+  }
+}

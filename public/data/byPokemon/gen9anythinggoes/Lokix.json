@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Lokix",
+      "percent": 2.08935,
+      "usage": 12086,
+      "rank": 64
+    },
+    "2022-12": {
+      "name": "Lokix",
+      "percent": 2.80854,
+      "usage": 30673,
+      "rank": 55
+    },
+    "2023-01": {
+      "name": "Lokix",
+      "percent": 2.63988,
+      "usage": 21312,
+      "rank": 60
+    },
+    "2023-02": {
+      "name": "Lokix",
+      "percent": 2.30017,
+      "usage": 13357,
+      "rank": 63
+    },
+    "2023-03": {
+      "name": "Lokix",
+      "percent": 2.02126,
+      "usage": 11230,
+      "rank": 76
+    },
+    "2023-04": {
+      "name": "Lokix",
+      "percent": 1.85776,
+      "usage": 8775,
+      "rank": 78
+    },
+    "2023-05": {
+      "name": "Lokix",
+      "percent": 1.56674,
+      "usage": 7294,
+      "rank": 87
+    },
+    "2023-06": {
+      "name": "Lokix",
+      "percent": 0.85615,
+      "usage": 4052,
+      "rank": 155
+    },
+    "2023-07": {
+      "name": "Lokix",
+      "percent": 1.03653,
+      "usage": 4767,
+      "rank": 139
+    },
+    "2023-08": {
+      "name": "Lokix",
+      "percent": 1.13073,
+      "usage": 5425,
+      "rank": 124
+    },
+    "2023-09": {
+      "name": "Lokix",
+      "percent": 0.84625,
+      "usage": 4794,
+      "rank": 166
+    },
+    "2023-09-DLC1": {
+      "name": "Lokix",
+      "percent": 0.76618,
+      "usage": 2488,
+      "rank": 183
+    },
+    "2023-10": {
+      "name": "Lokix",
+      "percent": 0.81412,
+      "usage": 5031,
+      "rank": 166
+    },
+    "2023-11": {
+      "name": "Lokix",
+      "percent": 0.78732,
+      "usage": 3904,
+      "rank": 168
+    },
+    "2023-12": {
+      "name": "Lokix",
+      "percent": 0.57191,
+      "usage": 2462,
+      "rank": 218
+    },
+    "2023-12-DLC2": {
+      "name": "Lokix",
+      "percent": 0.49384,
+      "usage": 985,
+      "rank": 249
+    },
+    "2024-01": {
+      "name": "Lokix",
+      "percent": 0.46983,
+      "usage": 2310,
+      "rank": 253
+    },
+    "2024-02": {
+      "name": "Lokix",
+      "percent": 0.68172,
+      "usage": 3118,
+      "rank": 201
+    },
+    "2024-03": {
+      "name": "Lokix",
+      "percent": 0.77943,
+      "usage": 3704,
+      "rank": 179
+    },
+    "2024-04": {
+      "name": "Lokix",
+      "percent": 0.72821,
+      "usage": 3267,
+      "rank": 192
+    },
+    "2024-05": {
+      "name": "Lokix",
+      "percent": 0.804,
+      "usage": 1706,
+      "rank": 165
+    },
+    "2024-06": {
+      "name": "Lokix",
+      "percent": 0.71596,
+      "usage": 2614,
+      "rank": 189
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Lokix",
+      "percent": 2.08785,
+      "usage": 12086,
+      "rank": 63
+    },
+    "2022-12": {
+      "name": "Lokix",
+      "percent": 2.8324,
+      "usage": 30673,
+      "rank": 54
+    },
+    "2023-01": {
+      "name": "Lokix",
+      "percent": 2.66926,
+      "usage": 21312,
+      "rank": 58
+    },
+    "2023-02": {
+      "name": "Lokix",
+      "percent": 2.35299,
+      "usage": 13357,
+      "rank": 62
+    },
+    "2023-03": {
+      "name": "Lokix",
+      "percent": 2.05377,
+      "usage": 11230,
+      "rank": 75
+    },
+    "2023-04": {
+      "name": "Lokix",
+      "percent": 2.08509,
+      "usage": 8775,
+      "rank": 68
+    },
+    "2023-05": {
+      "name": "Lokix",
+      "percent": 1.53378,
+      "usage": 7294,
+      "rank": 83
+    },
+    "2023-06": {
+      "name": "Lokix",
+      "percent": 0.76823,
+      "usage": 4052,
+      "rank": 146
+    },
+    "2023-07": {
+      "name": "Lokix",
+      "percent": 0.88113,
+      "usage": 4767,
+      "rank": 135
+    },
+    "2023-08": {
+      "name": "Lokix",
+      "percent": 1.00332,
+      "usage": 5425,
+      "rank": 127
+    },
+    "2023-09": {
+      "name": "Lokix",
+      "percent": 0.76151,
+      "usage": 4794,
+      "rank": 166
+    },
+    "2023-09-DLC1": {
+      "name": "Lokix",
+      "percent": 0.63482,
+      "usage": 2488,
+      "rank": 192
+    },
+    "2023-10": {
+      "name": "Lokix",
+      "percent": 0.72807,
+      "usage": 5031,
+      "rank": 164
+    },
+    "2023-11": {
+      "name": "Lokix",
+      "percent": 0.7409,
+      "usage": 3904,
+      "rank": 156
+    },
+    "2023-12": {
+      "name": "Lokix",
+      "percent": 0.48915,
+      "usage": 2462,
+      "rank": 215
+    },
+    "2023-12-DLC2": {
+      "name": "Lokix",
+      "percent": 0.37857,
+      "usage": 985,
+      "rank": 255
+    },
+    "2024-01": {
+      "name": "Lokix",
+      "percent": 0.39833,
+      "usage": 2310,
+      "rank": 250
+    },
+    "2024-02": {
+      "name": "Lokix",
+      "percent": 0.5843,
+      "usage": 3118,
+      "rank": 196
+    },
+    "2024-03": {
+      "name": "Lokix",
+      "percent": 0.73792,
+      "usage": 3704,
+      "rank": 167
+    },
+    "2024-04": {
+      "name": "Lokix",
+      "percent": 0.70679,
+      "usage": 3267,
+      "rank": 173
+    },
+    "2024-05": {
+      "name": "Lokix",
+      "percent": 0.74942,
+      "usage": 1706,
+      "rank": 158
+    },
+    "2024-06": {
+      "name": "Lokix",
+      "percent": 0.64182,
+      "usage": 2614,
+      "rank": 180
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Lokix",
+      "percent": 2.15581,
+      "usage": 12086,
+      "rank": 54
+    },
+    "2022-12": {
+      "name": "Lokix",
+      "percent": 2.71919,
+      "usage": 30673,
+      "rank": 49
+    },
+    "2023-01": {
+      "name": "Lokix",
+      "percent": 2.09681,
+      "usage": 21312,
+      "rank": 58
+    },
+    "2023-02": {
+      "name": "Lokix",
+      "percent": 1.49872,
+      "usage": 13357,
+      "rank": 68
+    },
+    "2023-03": {
+      "name": "Lokix",
+      "percent": 1.53193,
+      "usage": 11230,
+      "rank": 74
+    },
+    "2023-04": {
+      "name": "Lokix",
+      "percent": 1.53692,
+      "usage": 8775,
+      "rank": 68
+    },
+    "2023-05": {
+      "name": "Lokix",
+      "percent": 0.90461,
+      "usage": 7294,
+      "rank": 90
+    },
+    "2023-06": {
+      "name": "Lokix",
+      "percent": 0.39144,
+      "usage": 4052,
+      "rank": 151
+    },
+    "2023-07": {
+      "name": "Lokix",
+      "percent": 0.47439,
+      "usage": 4767,
+      "rank": 139
+    },
+    "2023-08": {
+      "name": "Lokix",
+      "percent": 0.56497,
+      "usage": 5425,
+      "rank": 127
+    },
+    "2023-09": {
+      "name": "Lokix",
+      "percent": 0.50218,
+      "usage": 4794,
+      "rank": 161
+    },
+    "2023-09-DLC1": {
+      "name": "Lokix",
+      "percent": 0.51365,
+      "usage": 2488,
+      "rank": 161
+    },
+    "2023-10": {
+      "name": "Lokix",
+      "percent": 0.37767,
+      "usage": 5031,
+      "rank": 171
+    },
+    "2023-11": {
+      "name": "Lokix",
+      "percent": 0.32788,
+      "usage": 3904,
+      "rank": 179
+    },
+    "2023-12": {
+      "name": "Lokix",
+      "percent": 0.21826,
+      "usage": 2462,
+      "rank": 222
+    },
+    "2023-12-DLC2": {
+      "name": "Lokix",
+      "percent": 0.18501,
+      "usage": 985,
+      "rank": 252
+    },
+    "2024-01": {
+      "name": "Lokix",
+      "percent": 0.18011,
+      "usage": 2310,
+      "rank": 249
+    },
+    "2024-02": {
+      "name": "Lokix",
+      "percent": 0.26596,
+      "usage": 3118,
+      "rank": 201
+    },
+    "2024-03": {
+      "name": "Lokix",
+      "percent": 0.21741,
+      "usage": 3704,
+      "rank": 220
+    },
+    "2024-04": {
+      "name": "Lokix",
+      "percent": 0.23138,
+      "usage": 3267,
+      "rank": 207
+    },
+    "2024-05": {
+      "name": "Lokix",
+      "percent": 0.29587,
+      "usage": 1706,
+      "rank": 172
+    },
+    "2024-06": {
+      "name": "Lokix",
+      "percent": 0.46261,
+      "usage": 2614,
+      "rank": 134
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Lokix",
+      "percent": 1.38142,
+      "usage": 12086,
+      "rank": 66
+    },
+    "2022-12": {
+      "name": "Lokix",
+      "percent": 2.26121,
+      "usage": 30673,
+      "rank": 48
+    },
+    "2023-01": {
+      "name": "Lokix",
+      "percent": 0.47838,
+      "usage": 21312,
+      "rank": 79
+    },
+    "2023-02": {
+      "name": "Lokix",
+      "percent": 0.56907,
+      "usage": 13357,
+      "rank": 76
+    },
+    "2023-03": {
+      "name": "Lokix",
+      "percent": 0.49702,
+      "usage": 11230,
+      "rank": 82
+    },
+    "2023-04": {
+      "name": "Lokix",
+      "percent": 0.32544,
+      "usage": 8775,
+      "rank": 83
+    },
+    "2023-05": {
+      "name": "Lokix",
+      "percent": 0.20522,
+      "usage": 7294,
+      "rank": 121
+    },
+    "2023-06": {
+      "name": "Lokix",
+      "percent": 0.08888,
+      "usage": 4052,
+      "rank": 164
+    },
+    "2023-07": {
+      "name": "Lokix",
+      "percent": 0.11862,
+      "usage": 4767,
+      "rank": 149
+    },
+    "2023-08": {
+      "name": "Lokix",
+      "percent": 0.22454,
+      "usage": 5425,
+      "rank": 127
+    },
+    "2023-09": {
+      "name": "Lokix",
+      "percent": 0.3439,
+      "usage": 4794,
+      "rank": 122
+    },
+    "2023-09-DLC1": {
+      "name": "Lokix",
+      "percent": 0.4017,
+      "usage": 2488,
+      "rank": 116
+    },
+    "2023-10": {
+      "name": "Lokix",
+      "percent": 0.10414,
+      "usage": 5031,
+      "rank": 170
+    },
+    "2023-11": {
+      "name": "Lokix",
+      "percent": 0.13379,
+      "usage": 3904,
+      "rank": 159
+    },
+    "2023-12": {
+      "name": "Lokix",
+      "percent": 0.04718,
+      "usage": 2462,
+      "rank": 246
+    },
+    "2023-12-DLC2": {
+      "name": "Lokix",
+      "percent": 0.01491,
+      "usage": 985,
+      "rank": 334
+    },
+    "2024-01": {
+      "name": "Lokix",
+      "percent": 0.02686,
+      "usage": 2310,
+      "rank": 280
+    },
+    "2024-02": {
+      "name": "Lokix",
+      "percent": 0.12457,
+      "usage": 3118,
+      "rank": 157
+    },
+    "2024-03": {
+      "name": "Lokix",
+      "percent": 0.07187,
+      "usage": 3704,
+      "rank": 198
+    },
+    "2024-04": {
+      "name": "Lokix",
+      "percent": 0.03203,
+      "usage": 3267,
+      "rank": 243
+    },
+    "2024-05": {
+      "name": "Lokix",
+      "percent": 0.04695,
+      "usage": 1706,
+      "rank": 200
+    },
+    "2024-06": {
+      "name": "Lokix",
+      "percent": 0.06449,
+      "usage": 2614,
+      "rank": 181
+    }
+  }
+}

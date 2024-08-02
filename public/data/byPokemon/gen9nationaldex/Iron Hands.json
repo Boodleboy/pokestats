@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Iron Hands",
+      "percent": 1.95081,
+      "usage": 11530,
+      "rank": 82
+    },
+    "2022-12": {
+      "name": "Iron Hands",
+      "percent": 1.527,
+      "usage": 18765,
+      "rank": 101
+    },
+    "2023-01": {
+      "name": "Iron Hands",
+      "percent": 1.21464,
+      "usage": 16493,
+      "rank": 127
+    },
+    "2023-02": {
+      "name": "Iron Hands",
+      "percent": 1.23405,
+      "usage": 19258,
+      "rank": 121
+    },
+    "2023-03": {
+      "name": "Iron Hands",
+      "percent": 1.65914,
+      "usage": 29262,
+      "rank": 88
+    },
+    "2023-04": {
+      "name": "Iron Hands",
+      "percent": 1.27584,
+      "usage": 22456,
+      "rank": 113
+    },
+    "2023-05": {
+      "name": "Iron Hands",
+      "percent": 0.99819,
+      "usage": 18630,
+      "rank": 133
+    },
+    "2023-06": {
+      "name": "Iron Hands",
+      "percent": 0.83676,
+      "usage": 14069,
+      "rank": 152
+    },
+    "2023-07": {
+      "name": "Iron Hands",
+      "percent": 1.02861,
+      "usage": 16648,
+      "rank": 131
+    },
+    "2023-08": {
+      "name": "Iron Hands",
+      "percent": 0.94991,
+      "usage": 17477,
+      "rank": 143
+    },
+    "2023-09": {
+      "name": "Iron Hands",
+      "percent": 0.99587,
+      "usage": 17076,
+      "rank": 142
+    },
+    "2023-09-DLC1": {
+      "name": "Iron Hands",
+      "percent": 0.99142,
+      "usage": 8460,
+      "rank": 141
+    },
+    "2023-10": {
+      "name": "Iron Hands",
+      "percent": 1.08235,
+      "usage": 17065,
+      "rank": 136
+    },
+    "2023-11": {
+      "name": "Iron Hands",
+      "percent": 1.37628,
+      "usage": 18612,
+      "rank": 110
+    },
+    "2023-12": {
+      "name": "Iron Hands",
+      "percent": 1.26029,
+      "usage": 16116,
+      "rank": 116
+    },
+    "2023-12-DLC2": {
+      "name": "Iron Hands",
+      "percent": 1.25125,
+      "usage": 6855,
+      "rank": 111
+    },
+    "2024-01": {
+      "name": "Iron Hands",
+      "percent": 1.27375,
+      "usage": 15722,
+      "rank": 118
+    },
+    "2024-02": {
+      "name": "Iron Hands",
+      "percent": 0.89708,
+      "usage": 11616,
+      "rank": 152
+    },
+    "2024-03": {
+      "name": "Iron Hands",
+      "percent": 1.04628,
+      "usage": 14081,
+      "rank": 135
+    },
+    "2024-04": {
+      "name": "Iron Hands",
+      "percent": 0.96311,
+      "usage": 11712,
+      "rank": 146
+    },
+    "2024-05": {
+      "name": "Iron Hands",
+      "percent": 1.08403,
+      "usage": 6484,
+      "rank": 126
+    },
+    "2024-06": {
+      "name": "Iron Hands",
+      "percent": 1.13733,
+      "usage": 14840,
+      "rank": 113
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Iron Hands",
+      "percent": 2.00779,
+      "usage": 11530,
+      "rank": 80
+    },
+    "2022-12": {
+      "name": "Iron Hands",
+      "percent": 1.56864,
+      "usage": 18765,
+      "rank": 98
+    },
+    "2023-01": {
+      "name": "Iron Hands",
+      "percent": 1.23252,
+      "usage": 16493,
+      "rank": 125
+    },
+    "2023-02": {
+      "name": "Iron Hands",
+      "percent": 1.32293,
+      "usage": 19258,
+      "rank": 112
+    },
+    "2023-03": {
+      "name": "Iron Hands",
+      "percent": 1.85528,
+      "usage": 29262,
+      "rank": 77
+    },
+    "2023-04": {
+      "name": "Iron Hands",
+      "percent": 1.54503,
+      "usage": 22456,
+      "rank": 90
+    },
+    "2023-05": {
+      "name": "Iron Hands",
+      "percent": 1.17085,
+      "usage": 18630,
+      "rank": 101
+    },
+    "2023-06": {
+      "name": "Iron Hands",
+      "percent": 0.89542,
+      "usage": 14069,
+      "rank": 129
+    },
+    "2023-07": {
+      "name": "Iron Hands",
+      "percent": 1.19979,
+      "usage": 16648,
+      "rank": 104
+    },
+    "2023-08": {
+      "name": "Iron Hands",
+      "percent": 1.04365,
+      "usage": 17477,
+      "rank": 116
+    },
+    "2023-09": {
+      "name": "Iron Hands",
+      "percent": 1.01199,
+      "usage": 17076,
+      "rank": 124
+    },
+    "2023-09-DLC1": {
+      "name": "Iron Hands",
+      "percent": 0.95775,
+      "usage": 8460,
+      "rank": 128
+    },
+    "2023-10": {
+      "name": "Iron Hands",
+      "percent": 1.14588,
+      "usage": 17065,
+      "rank": 115
+    },
+    "2023-11": {
+      "name": "Iron Hands",
+      "percent": 1.53419,
+      "usage": 18612,
+      "rank": 95
+    },
+    "2023-12": {
+      "name": "Iron Hands",
+      "percent": 1.38608,
+      "usage": 16116,
+      "rank": 98
+    },
+    "2023-12-DLC2": {
+      "name": "Iron Hands",
+      "percent": 1.32444,
+      "usage": 6855,
+      "rank": 96
+    },
+    "2024-01": {
+      "name": "Iron Hands",
+      "percent": 1.32189,
+      "usage": 15722,
+      "rank": 98
+    },
+    "2024-02": {
+      "name": "Iron Hands",
+      "percent": 0.89045,
+      "usage": 11616,
+      "rank": 126
+    },
+    "2024-03": {
+      "name": "Iron Hands",
+      "percent": 1.10794,
+      "usage": 14081,
+      "rank": 115
+    },
+    "2024-04": {
+      "name": "Iron Hands",
+      "percent": 1.09155,
+      "usage": 11712,
+      "rank": 113
+    },
+    "2024-05": {
+      "name": "Iron Hands",
+      "percent": 1.17365,
+      "usage": 6484,
+      "rank": 103
+    },
+    "2024-06": {
+      "name": "Iron Hands",
+      "percent": 1.15054,
+      "usage": 14840,
+      "rank": 103
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Iron Hands",
+      "percent": 1.63672,
+      "usage": 11530,
+      "rank": 94
+    },
+    "2022-12": {
+      "name": "Iron Hands",
+      "percent": 2.9984,
+      "usage": 18765,
+      "rank": 58
+    },
+    "2023-01": {
+      "name": "Iron Hands",
+      "percent": 1.15288,
+      "usage": 16493,
+      "rank": 104
+    },
+    "2023-02": {
+      "name": "Iron Hands",
+      "percent": 2.09558,
+      "usage": 19258,
+      "rank": 69
+    },
+    "2023-03": {
+      "name": "Iron Hands",
+      "percent": 2.96556,
+      "usage": 29262,
+      "rank": 52
+    },
+    "2023-04": {
+      "name": "Iron Hands",
+      "percent": 2.04338,
+      "usage": 22456,
+      "rank": 70
+    },
+    "2023-05": {
+      "name": "Iron Hands",
+      "percent": 1.33452,
+      "usage": 18630,
+      "rank": 89
+    },
+    "2023-06": {
+      "name": "Iron Hands",
+      "percent": 0.88842,
+      "usage": 14069,
+      "rank": 111
+    },
+    "2023-07": {
+      "name": "Iron Hands",
+      "percent": 1.62537,
+      "usage": 16648,
+      "rank": 77
+    },
+    "2023-08": {
+      "name": "Iron Hands",
+      "percent": 1.30349,
+      "usage": 17477,
+      "rank": 89
+    },
+    "2023-09": {
+      "name": "Iron Hands",
+      "percent": 0.98274,
+      "usage": 17076,
+      "rank": 109
+    },
+    "2023-09-DLC1": {
+      "name": "Iron Hands",
+      "percent": 0.88297,
+      "usage": 8460,
+      "rank": 117
+    },
+    "2023-10": {
+      "name": "Iron Hands",
+      "percent": 1.15835,
+      "usage": 17065,
+      "rank": 94
+    },
+    "2023-11": {
+      "name": "Iron Hands",
+      "percent": 1.81434,
+      "usage": 18612,
+      "rank": 83
+    },
+    "2023-12": {
+      "name": "Iron Hands",
+      "percent": 1.52666,
+      "usage": 16116,
+      "rank": 91
+    },
+    "2023-12-DLC2": {
+      "name": "Iron Hands",
+      "percent": 1.42759,
+      "usage": 6855,
+      "rank": 90
+    },
+    "2024-01": {
+      "name": "Iron Hands",
+      "percent": 1.39321,
+      "usage": 15722,
+      "rank": 93
+    },
+    "2024-02": {
+      "name": "Iron Hands",
+      "percent": 0.91101,
+      "usage": 11616,
+      "rank": 111
+    },
+    "2024-03": {
+      "name": "Iron Hands",
+      "percent": 1.18631,
+      "usage": 14081,
+      "rank": 99
+    },
+    "2024-04": {
+      "name": "Iron Hands",
+      "percent": 1.01704,
+      "usage": 11712,
+      "rank": 104
+    },
+    "2024-05": {
+      "name": "Iron Hands",
+      "percent": 1.07148,
+      "usage": 6484,
+      "rank": 102
+    },
+    "2024-06": {
+      "name": "Iron Hands",
+      "percent": 0.98119,
+      "usage": 14840,
+      "rank": 104
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Iron Hands",
+      "percent": 0.70384,
+      "usage": 11530,
+      "rank": 130
+    },
+    "2022-12": {
+      "name": "Iron Hands",
+      "percent": 3.98023,
+      "usage": 18765,
+      "rank": 50
+    },
+    "2023-01": {
+      "name": "Iron Hands",
+      "percent": 1.25672,
+      "usage": 16493,
+      "rank": 94
+    },
+    "2023-02": {
+      "name": "Iron Hands",
+      "percent": 3.65235,
+      "usage": 19258,
+      "rank": 50
+    },
+    "2023-03": {
+      "name": "Iron Hands",
+      "percent": 2.82718,
+      "usage": 29262,
+      "rank": 58
+    },
+    "2023-04": {
+      "name": "Iron Hands",
+      "percent": 2.20491,
+      "usage": 22456,
+      "rank": 67
+    },
+    "2023-05": {
+      "name": "Iron Hands",
+      "percent": 2.09167,
+      "usage": 18630,
+      "rank": 63
+    },
+    "2023-06": {
+      "name": "Iron Hands",
+      "percent": 1.09468,
+      "usage": 14069,
+      "rank": 98
+    },
+    "2023-07": {
+      "name": "Iron Hands",
+      "percent": 2.00448,
+      "usage": 16648,
+      "rank": 64
+    },
+    "2023-08": {
+      "name": "Iron Hands",
+      "percent": 2.35559,
+      "usage": 17477,
+      "rank": 63
+    },
+    "2023-09": {
+      "name": "Iron Hands",
+      "percent": 1.42846,
+      "usage": 17076,
+      "rank": 87
+    },
+    "2023-09-DLC1": {
+      "name": "Iron Hands",
+      "percent": 1.39626,
+      "usage": 8460,
+      "rank": 87
+    },
+    "2023-10": {
+      "name": "Iron Hands",
+      "percent": 2.40025,
+      "usage": 17065,
+      "rank": 73
+    },
+    "2023-11": {
+      "name": "Iron Hands",
+      "percent": 3.27043,
+      "usage": 18612,
+      "rank": 62
+    },
+    "2023-12": {
+      "name": "Iron Hands",
+      "percent": 1.33319,
+      "usage": 16116,
+      "rank": 93
+    },
+    "2023-12-DLC2": {
+      "name": "Iron Hands",
+      "percent": 1.6273,
+      "usage": 6855,
+      "rank": 90
+    },
+    "2024-01": {
+      "name": "Iron Hands",
+      "percent": 1.38027,
+      "usage": 15722,
+      "rank": 88
+    },
+    "2024-02": {
+      "name": "Iron Hands",
+      "percent": 0.48144,
+      "usage": 11616,
+      "rank": 139
+    },
+    "2024-03": {
+      "name": "Iron Hands",
+      "percent": 1.39363,
+      "usage": 14081,
+      "rank": 96
+    },
+    "2024-04": {
+      "name": "Iron Hands",
+      "percent": 2.04144,
+      "usage": 11712,
+      "rank": 76
+    },
+    "2024-05": {
+      "name": "Iron Hands",
+      "percent": 0.81853,
+      "usage": 6484,
+      "rank": 102
+    },
+    "2024-06": {
+      "name": "Iron Hands",
+      "percent": 0.48039,
+      "usage": 14840,
+      "rank": 129
+    }
+  }
+}

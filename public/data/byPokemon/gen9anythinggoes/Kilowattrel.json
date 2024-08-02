@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Kilowattrel",
+      "percent": 3.49325,
+      "usage": 20207,
+      "rank": 39
+    },
+    "2022-12": {
+      "name": "Kilowattrel",
+      "percent": 2.62413,
+      "usage": 28659,
+      "rank": 56
+    },
+    "2023-01": {
+      "name": "Kilowattrel",
+      "percent": 2.42199,
+      "usage": 19553,
+      "rank": 63
+    },
+    "2023-02": {
+      "name": "Kilowattrel",
+      "percent": 2.07682,
+      "usage": 12060,
+      "rank": 69
+    },
+    "2023-03": {
+      "name": "Kilowattrel",
+      "percent": 1.60855,
+      "usage": 8937,
+      "rank": 85
+    },
+    "2023-04": {
+      "name": "Kilowattrel",
+      "percent": 1.48642,
+      "usage": 7021,
+      "rank": 91
+    },
+    "2023-05": {
+      "name": "Kilowattrel",
+      "percent": 1.39511,
+      "usage": 6495,
+      "rank": 97
+    },
+    "2023-06": {
+      "name": "Kilowattrel",
+      "percent": 0.88002,
+      "usage": 4165,
+      "rank": 149
+    },
+    "2023-07": {
+      "name": "Kilowattrel",
+      "percent": 0.79974,
+      "usage": 3678,
+      "rank": 162
+    },
+    "2023-08": {
+      "name": "Kilowattrel",
+      "percent": 0.8208,
+      "usage": 3938,
+      "rank": 161
+    },
+    "2023-09": {
+      "name": "Kilowattrel",
+      "percent": 0.77017,
+      "usage": 4363,
+      "rank": 179
+    },
+    "2023-09-DLC1": {
+      "name": "Kilowattrel",
+      "percent": 0.72954,
+      "usage": 2369,
+      "rank": 190
+    },
+    "2023-10": {
+      "name": "Kilowattrel",
+      "percent": 0.69405,
+      "usage": 4289,
+      "rank": 188
+    },
+    "2023-11": {
+      "name": "Kilowattrel",
+      "percent": 0.68992,
+      "usage": 3421,
+      "rank": 182
+    },
+    "2023-12": {
+      "name": "Kilowattrel",
+      "percent": 0.70176,
+      "usage": 3021,
+      "rank": 190
+    },
+    "2023-12-DLC2": {
+      "name": "Kilowattrel",
+      "percent": 0.60013,
+      "usage": 1197,
+      "rank": 218
+    },
+    "2024-01": {
+      "name": "Kilowattrel",
+      "percent": 0.47511,
+      "usage": 2336,
+      "rank": 251
+    },
+    "2024-02": {
+      "name": "Kilowattrel",
+      "percent": 0.55141,
+      "usage": 2522,
+      "rank": 237
+    },
+    "2024-03": {
+      "name": "Kilowattrel",
+      "percent": 0.44695,
+      "usage": 2124,
+      "rank": 263
+    },
+    "2024-04": {
+      "name": "Kilowattrel",
+      "percent": 0.47366,
+      "usage": 2125,
+      "rank": 257
+    },
+    "2024-05": {
+      "name": "Kilowattrel",
+      "percent": 0.38692,
+      "usage": 821,
+      "rank": 281
+    },
+    "2024-06": {
+      "name": "Kilowattrel",
+      "percent": 0.3651,
+      "usage": 1333,
+      "rank": 298
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Kilowattrel",
+      "percent": 3.47306,
+      "usage": 20207,
+      "rank": 39
+    },
+    "2022-12": {
+      "name": "Kilowattrel",
+      "percent": 2.63972,
+      "usage": 28659,
+      "rank": 57
+    },
+    "2023-01": {
+      "name": "Kilowattrel",
+      "percent": 2.42554,
+      "usage": 19553,
+      "rank": 63
+    },
+    "2023-02": {
+      "name": "Kilowattrel",
+      "percent": 2.01718,
+      "usage": 12060,
+      "rank": 69
+    },
+    "2023-03": {
+      "name": "Kilowattrel",
+      "percent": 1.51814,
+      "usage": 8937,
+      "rank": 86
+    },
+    "2023-04": {
+      "name": "Kilowattrel",
+      "percent": 1.30764,
+      "usage": 7021,
+      "rank": 95
+    },
+    "2023-05": {
+      "name": "Kilowattrel",
+      "percent": 1.39897,
+      "usage": 6495,
+      "rank": 87
+    },
+    "2023-06": {
+      "name": "Kilowattrel",
+      "percent": 0.79053,
+      "usage": 4165,
+      "rank": 141
+    },
+    "2023-07": {
+      "name": "Kilowattrel",
+      "percent": 0.66741,
+      "usage": 3678,
+      "rank": 162
+    },
+    "2023-08": {
+      "name": "Kilowattrel",
+      "percent": 0.75941,
+      "usage": 3938,
+      "rank": 151
+    },
+    "2023-09": {
+      "name": "Kilowattrel",
+      "percent": 0.71684,
+      "usage": 4363,
+      "rank": 170
+    },
+    "2023-09-DLC1": {
+      "name": "Kilowattrel",
+      "percent": 0.67752,
+      "usage": 2369,
+      "rank": 179
+    },
+    "2023-10": {
+      "name": "Kilowattrel",
+      "percent": 0.58603,
+      "usage": 4289,
+      "rank": 188
+    },
+    "2023-11": {
+      "name": "Kilowattrel",
+      "percent": 0.65348,
+      "usage": 3421,
+      "rank": 169
+    },
+    "2023-12": {
+      "name": "Kilowattrel",
+      "percent": 0.71411,
+      "usage": 3021,
+      "rank": 169
+    },
+    "2023-12-DLC2": {
+      "name": "Kilowattrel",
+      "percent": 0.66252,
+      "usage": 1197,
+      "rank": 188
+    },
+    "2024-01": {
+      "name": "Kilowattrel",
+      "percent": 0.44793,
+      "usage": 2336,
+      "rank": 229
+    },
+    "2024-02": {
+      "name": "Kilowattrel",
+      "percent": 0.44574,
+      "usage": 2522,
+      "rank": 239
+    },
+    "2024-03": {
+      "name": "Kilowattrel",
+      "percent": 0.35643,
+      "usage": 2124,
+      "rank": 260
+    },
+    "2024-04": {
+      "name": "Kilowattrel",
+      "percent": 0.36612,
+      "usage": 2125,
+      "rank": 255
+    },
+    "2024-05": {
+      "name": "Kilowattrel",
+      "percent": 0.27704,
+      "usage": 821,
+      "rank": 288
+    },
+    "2024-06": {
+      "name": "Kilowattrel",
+      "percent": 0.27515,
+      "usage": 1333,
+      "rank": 286
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Kilowattrel",
+      "percent": 2.08442,
+      "usage": 20207,
+      "rank": 57
+    },
+    "2022-12": {
+      "name": "Kilowattrel",
+      "percent": 1.15596,
+      "usage": 28659,
+      "rank": 77
+    },
+    "2023-01": {
+      "name": "Kilowattrel",
+      "percent": 1.19792,
+      "usage": 19553,
+      "rank": 76
+    },
+    "2023-02": {
+      "name": "Kilowattrel",
+      "percent": 0.71988,
+      "usage": 12060,
+      "rank": 97
+    },
+    "2023-03": {
+      "name": "Kilowattrel",
+      "percent": 0.8223,
+      "usage": 8937,
+      "rank": 94
+    },
+    "2023-04": {
+      "name": "Kilowattrel",
+      "percent": 0.61744,
+      "usage": 7021,
+      "rank": 104
+    },
+    "2023-05": {
+      "name": "Kilowattrel",
+      "percent": 0.71346,
+      "usage": 6495,
+      "rank": 108
+    },
+    "2023-06": {
+      "name": "Kilowattrel",
+      "percent": 0.26814,
+      "usage": 4165,
+      "rank": 178
+    },
+    "2023-07": {
+      "name": "Kilowattrel",
+      "percent": 0.21637,
+      "usage": 3678,
+      "rank": 191
+    },
+    "2023-08": {
+      "name": "Kilowattrel",
+      "percent": 0.40716,
+      "usage": 3938,
+      "rank": 152
+    },
+    "2023-09": {
+      "name": "Kilowattrel",
+      "percent": 0.37772,
+      "usage": 4363,
+      "rank": 182
+    },
+    "2023-09-DLC1": {
+      "name": "Kilowattrel",
+      "percent": 0.38212,
+      "usage": 2369,
+      "rank": 184
+    },
+    "2023-10": {
+      "name": "Kilowattrel",
+      "percent": 0.17883,
+      "usage": 4289,
+      "rank": 234
+    },
+    "2023-11": {
+      "name": "Kilowattrel",
+      "percent": 0.13326,
+      "usage": 3421,
+      "rank": 249
+    },
+    "2023-12": {
+      "name": "Kilowattrel",
+      "percent": 0.32127,
+      "usage": 3021,
+      "rank": 182
+    },
+    "2023-12-DLC2": {
+      "name": "Kilowattrel",
+      "percent": 0.30668,
+      "usage": 1197,
+      "rank": 193
+    },
+    "2024-01": {
+      "name": "Kilowattrel",
+      "percent": 0.16809,
+      "usage": 2336,
+      "rank": 256
+    },
+    "2024-02": {
+      "name": "Kilowattrel",
+      "percent": 0.16138,
+      "usage": 2522,
+      "rank": 255
+    },
+    "2024-03": {
+      "name": "Kilowattrel",
+      "percent": 0.12772,
+      "usage": 2124,
+      "rank": 285
+    },
+    "2024-04": {
+      "name": "Kilowattrel",
+      "percent": 0.05479,
+      "usage": 2125,
+      "rank": 350
+    },
+    "2024-05": {
+      "name": "Kilowattrel",
+      "percent": 0.04206,
+      "usage": 821,
+      "rank": 373
+    },
+    "2024-06": {
+      "name": "Kilowattrel",
+      "percent": 0.06491,
+      "usage": 1333,
+      "rank": 322
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Kilowattrel",
+      "percent": 1.28511,
+      "usage": 20207,
+      "rank": 73
+    },
+    "2022-12": {
+      "name": "Kilowattrel",
+      "percent": 0.69422,
+      "usage": 28659,
+      "rank": 70
+    },
+    "2023-01": {
+      "name": "Kilowattrel",
+      "percent": 0.31526,
+      "usage": 19553,
+      "rank": 90
+    },
+    "2023-02": {
+      "name": "Kilowattrel",
+      "percent": 0.22741,
+      "usage": 12060,
+      "rank": 109
+    },
+    "2023-03": {
+      "name": "Kilowattrel",
+      "percent": 0.21859,
+      "usage": 8937,
+      "rank": 104
+    },
+    "2023-04": {
+      "name": "Kilowattrel",
+      "percent": 0.11093,
+      "usage": 7021,
+      "rank": 116
+    },
+    "2023-05": {
+      "name": "Kilowattrel",
+      "percent": 0.16737,
+      "usage": 6495,
+      "rank": 137
+    },
+    "2023-06": {
+      "name": "Kilowattrel",
+      "percent": 0.04204,
+      "usage": 4165,
+      "rank": 206
+    },
+    "2023-07": {
+      "name": "Kilowattrel",
+      "percent": 0.02823,
+      "usage": 3678,
+      "rank": 231
+    },
+    "2023-08": {
+      "name": "Kilowattrel",
+      "percent": 0.17073,
+      "usage": 3938,
+      "rank": 136
+    },
+    "2023-09": {
+      "name": "Kilowattrel",
+      "percent": 0.08334,
+      "usage": 4363,
+      "rank": 208
+    },
+    "2023-09-DLC1": {
+      "name": "Kilowattrel",
+      "percent": 0.0958,
+      "usage": 2369,
+      "rank": 196
+    },
+    "2023-10": {
+      "name": "Kilowattrel",
+      "percent": 0.04778,
+      "usage": 4289,
+      "rank": 227
+    },
+    "2023-11": {
+      "name": "Kilowattrel",
+      "percent": 0.02456,
+      "usage": 3421,
+      "rank": 268
+    },
+    "2023-12": {
+      "name": "Kilowattrel",
+      "percent": 0.10365,
+      "usage": 3021,
+      "rank": 191
+    },
+    "2023-12-DLC2": {
+      "name": "Kilowattrel",
+      "percent": 0.06872,
+      "usage": 1197,
+      "rank": 219
+    },
+    "2024-01": {
+      "name": "Kilowattrel",
+      "percent": 0.0516,
+      "usage": 2336,
+      "rank": 236
+    },
+    "2024-02": {
+      "name": "Kilowattrel",
+      "percent": 0.07008,
+      "usage": 2522,
+      "rank": 195
+    },
+    "2024-03": {
+      "name": "Kilowattrel",
+      "percent": 0.02322,
+      "usage": 2124,
+      "rank": 294
+    },
+    "2024-04": {
+      "name": "Kilowattrel",
+      "percent": 0.01605,
+      "usage": 2125,
+      "rank": 295
+    },
+    "2024-05": {
+      "name": "Kilowattrel",
+      "percent": 0.00356,
+      "usage": 821,
+      "rank": 407
+    },
+    "2024-06": {
+      "name": "Kilowattrel",
+      "percent": 0.01258,
+      "usage": 1333,
+      "rank": 309
+    }
+  }
+}

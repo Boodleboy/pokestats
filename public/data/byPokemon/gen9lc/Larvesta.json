@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Larvesta",
+      "percent": 7.99932,
+      "usage": 6155,
+      "rank": 18
+    },
+    "2022-12": {
+      "name": "Larvesta",
+      "percent": 9.51589,
+      "usage": 10693,
+      "rank": 16
+    },
+    "2023-01": {
+      "name": "Larvesta",
+      "percent": 10.1963,
+      "usage": 10129,
+      "rank": 14
+    },
+    "2023-02": {
+      "name": "Larvesta",
+      "percent": 10.1548,
+      "usage": 6586,
+      "rank": 14
+    },
+    "2023-03": {
+      "name": "Larvesta",
+      "percent": 9.40995,
+      "usage": 5116,
+      "rank": 14
+    },
+    "2023-04": {
+      "name": "Larvesta",
+      "percent": 9.16648,
+      "usage": 4819,
+      "rank": 14
+    },
+    "2023-05": {
+      "name": "Larvesta",
+      "percent": 7.65706,
+      "usage": 4127,
+      "rank": 20
+    },
+    "2023-06": {
+      "name": "Larvesta",
+      "percent": 5.16543,
+      "usage": 2142,
+      "rank": 29
+    },
+    "2023-07": {
+      "name": "Larvesta",
+      "percent": 6.01836,
+      "usage": 2530,
+      "rank": 25
+    },
+    "2023-08": {
+      "name": "Larvesta",
+      "percent": 6.72011,
+      "usage": 3806,
+      "rank": 22
+    },
+    "2023-09": {
+      "name": "Larvesta",
+      "percent": 5.64152,
+      "usage": 3223,
+      "rank": 28
+    },
+    "2023-09-DLC1": {
+      "name": "Larvesta",
+      "percent": 5.99455,
+      "usage": 1804,
+      "rank": 26
+    },
+    "2023-10": {
+      "name": "Larvesta",
+      "percent": 6.88249,
+      "usage": 4811,
+      "rank": 24
+    },
+    "2023-11": {
+      "name": "Larvesta",
+      "percent": 6.66307,
+      "usage": 2964,
+      "rank": 28
+    },
+    "2023-12": {
+      "name": "Larvesta",
+      "percent": 5.19405,
+      "usage": 2326,
+      "rank": 34
+    },
+    "2023-12-DLC2": {
+      "name": "Larvesta",
+      "percent": 5.04109,
+      "usage": 1141,
+      "rank": 36
+    },
+    "2024-01": {
+      "name": "Larvesta",
+      "percent": 5.00932,
+      "usage": 2742,
+      "rank": 35
+    },
+    "2024-02": {
+      "name": "Larvesta",
+      "percent": 4.40451,
+      "usage": 1875,
+      "rank": 37
+    },
+    "2024-03": {
+      "name": "Larvesta",
+      "percent": 3.61355,
+      "usage": 1624,
+      "rank": 42
+    },
+    "2024-04": {
+      "name": "Larvesta",
+      "percent": 2.26362,
+      "usage": 1288,
+      "rank": 52
+    },
+    "2024-05": {
+      "name": "Larvesta",
+      "percent": 4.00854,
+      "usage": 695,
+      "rank": 36
+    },
+    "2024-06": {
+      "name": "Larvesta",
+      "percent": 4.31716,
+      "usage": 1365,
+      "rank": 29
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Larvesta",
+      "percent": 8.08766,
+      "usage": 6155,
+      "rank": 18
+    },
+    "2022-12": {
+      "name": "Larvesta",
+      "percent": 9.75007,
+      "usage": 10693,
+      "rank": 15
+    },
+    "2023-01": {
+      "name": "Larvesta",
+      "percent": 10.49783,
+      "usage": 10129,
+      "rank": 14
+    },
+    "2023-02": {
+      "name": "Larvesta",
+      "percent": 10.69385,
+      "usage": 6586,
+      "rank": 14
+    },
+    "2023-03": {
+      "name": "Larvesta",
+      "percent": 10.46558,
+      "usage": 5116,
+      "rank": 14
+    },
+    "2023-04": {
+      "name": "Larvesta",
+      "percent": 10.17638,
+      "usage": 4819,
+      "rank": 14
+    },
+    "2023-05": {
+      "name": "Larvesta",
+      "percent": 8.60691,
+      "usage": 4127,
+      "rank": 19
+    },
+    "2023-06": {
+      "name": "Larvesta",
+      "percent": 5.07936,
+      "usage": 2142,
+      "rank": 30
+    },
+    "2023-07": {
+      "name": "Larvesta",
+      "percent": 5.75855,
+      "usage": 2530,
+      "rank": 25
+    },
+    "2023-08": {
+      "name": "Larvesta",
+      "percent": 6.44239,
+      "usage": 3806,
+      "rank": 23
+    },
+    "2023-09": {
+      "name": "Larvesta",
+      "percent": 5.63129,
+      "usage": 3223,
+      "rank": 27
+    },
+    "2023-09-DLC1": {
+      "name": "Larvesta",
+      "percent": 6.42183,
+      "usage": 1804,
+      "rank": 25
+    },
+    "2023-10": {
+      "name": "Larvesta",
+      "percent": 7.51894,
+      "usage": 4811,
+      "rank": 23
+    },
+    "2023-11": {
+      "name": "Larvesta",
+      "percent": 6.60148,
+      "usage": 2964,
+      "rank": 29
+    },
+    "2023-12": {
+      "name": "Larvesta",
+      "percent": 5.0061,
+      "usage": 2326,
+      "rank": 35
+    },
+    "2023-12-DLC2": {
+      "name": "Larvesta",
+      "percent": 5.15804,
+      "usage": 1141,
+      "rank": 35
+    },
+    "2024-01": {
+      "name": "Larvesta",
+      "percent": 5.48182,
+      "usage": 2742,
+      "rank": 33
+    },
+    "2024-02": {
+      "name": "Larvesta",
+      "percent": 4.13206,
+      "usage": 1875,
+      "rank": 38
+    },
+    "2024-03": {
+      "name": "Larvesta",
+      "percent": 4.34499,
+      "usage": 1624,
+      "rank": 34
+    },
+    "2024-04": {
+      "name": "Larvesta",
+      "percent": 2.42161,
+      "usage": 1288,
+      "rank": 45
+    },
+    "2024-05": {
+      "name": "Larvesta",
+      "percent": 3.10947,
+      "usage": 695,
+      "rank": 45
+    },
+    "2024-06": {
+      "name": "Larvesta",
+      "percent": 4.41838,
+      "usage": 1365,
+      "rank": 30
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Larvesta",
+      "percent": 5.49544,
+      "usage": 6155,
+      "rank": 24
+    },
+    "2022-12": {
+      "name": "Larvesta",
+      "percent": 11.45266,
+      "usage": 10693,
+      "rank": 15
+    },
+    "2023-01": {
+      "name": "Larvesta",
+      "percent": 13.55471,
+      "usage": 10129,
+      "rank": 13
+    },
+    "2023-02": {
+      "name": "Larvesta",
+      "percent": 9.27017,
+      "usage": 6586,
+      "rank": 18
+    },
+    "2023-03": {
+      "name": "Larvesta",
+      "percent": 15.1037,
+      "usage": 5116,
+      "rank": 12
+    },
+    "2023-04": {
+      "name": "Larvesta",
+      "percent": 11.52823,
+      "usage": 4819,
+      "rank": 13
+    },
+    "2023-05": {
+      "name": "Larvesta",
+      "percent": 9.53944,
+      "usage": 4127,
+      "rank": 22
+    },
+    "2023-06": {
+      "name": "Larvesta",
+      "percent": 4.79475,
+      "usage": 2142,
+      "rank": 30
+    },
+    "2023-07": {
+      "name": "Larvesta",
+      "percent": 5.14882,
+      "usage": 2530,
+      "rank": 28
+    },
+    "2023-08": {
+      "name": "Larvesta",
+      "percent": 3.64054,
+      "usage": 3806,
+      "rank": 32
+    },
+    "2023-09": {
+      "name": "Larvesta",
+      "percent": 4.87523,
+      "usage": 3223,
+      "rank": 32
+    },
+    "2023-09-DLC1": {
+      "name": "Larvesta",
+      "percent": 6.60588,
+      "usage": 1804,
+      "rank": 26
+    },
+    "2023-10": {
+      "name": "Larvesta",
+      "percent": 7.1938,
+      "usage": 4811,
+      "rank": 22
+    },
+    "2023-11": {
+      "name": "Larvesta",
+      "percent": 6.11985,
+      "usage": 2964,
+      "rank": 28
+    },
+    "2023-12": {
+      "name": "Larvesta",
+      "percent": 3.20621,
+      "usage": 2326,
+      "rank": 43
+    },
+    "2023-12-DLC2": {
+      "name": "Larvesta",
+      "percent": 4.05737,
+      "usage": 1141,
+      "rank": 38
+    },
+    "2024-01": {
+      "name": "Larvesta",
+      "percent": 4.3664,
+      "usage": 2742,
+      "rank": 31
+    },
+    "2024-02": {
+      "name": "Larvesta",
+      "percent": 2.86519,
+      "usage": 1875,
+      "rank": 41
+    },
+    "2024-03": {
+      "name": "Larvesta",
+      "percent": 4.61243,
+      "usage": 1624,
+      "rank": 28
+    },
+    "2024-04": {
+      "name": "Larvesta",
+      "percent": 2.30448,
+      "usage": 1288,
+      "rank": 42
+    },
+    "2024-05": {
+      "name": "Larvesta",
+      "percent": 1.76141,
+      "usage": 695,
+      "rank": 52
+    },
+    "2024-06": {
+      "name": "Larvesta",
+      "percent": 2.88229,
+      "usage": 1365,
+      "rank": 44
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Larvesta",
+      "percent": 4.73708,
+      "usage": 6155,
+      "rank": 28
+    },
+    "2022-12": {
+      "name": "Larvesta",
+      "percent": 9.66846,
+      "usage": 10693,
+      "rank": 17
+    },
+    "2023-01": {
+      "name": "Larvesta",
+      "percent": 10.67711,
+      "usage": 10129,
+      "rank": 13
+    },
+    "2023-02": {
+      "name": "Larvesta",
+      "percent": 4.89639,
+      "usage": 6586,
+      "rank": 28
+    },
+    "2023-03": {
+      "name": "Larvesta",
+      "percent": 14.55915,
+      "usage": 5116,
+      "rank": 13
+    },
+    "2023-04": {
+      "name": "Larvesta",
+      "percent": 8.19894,
+      "usage": 4819,
+      "rank": 21
+    },
+    "2023-05": {
+      "name": "Larvesta",
+      "percent": 6.44161,
+      "usage": 4127,
+      "rank": 27
+    },
+    "2023-06": {
+      "name": "Larvesta",
+      "percent": 3.30942,
+      "usage": 2142,
+      "rank": 33
+    },
+    "2023-07": {
+      "name": "Larvesta",
+      "percent": 5.18304,
+      "usage": 2530,
+      "rank": 26
+    },
+    "2023-08": {
+      "name": "Larvesta",
+      "percent": 2.34759,
+      "usage": 3806,
+      "rank": 35
+    },
+    "2023-09": {
+      "name": "Larvesta",
+      "percent": 4.37449,
+      "usage": 3223,
+      "rank": 34
+    },
+    "2023-09-DLC1": {
+      "name": "Larvesta",
+      "percent": 6.12281,
+      "usage": 1804,
+      "rank": 26
+    },
+    "2023-10": {
+      "name": "Larvesta",
+      "percent": 5.92491,
+      "usage": 4811,
+      "rank": 21
+    },
+    "2023-11": {
+      "name": "Larvesta",
+      "percent": 6.00509,
+      "usage": 2964,
+      "rank": 27
+    },
+    "2023-12": {
+      "name": "Larvesta",
+      "percent": 2.42189,
+      "usage": 2326,
+      "rank": 42
+    },
+    "2023-12-DLC2": {
+      "name": "Larvesta",
+      "percent": 3.51696,
+      "usage": 1141,
+      "rank": 34
+    },
+    "2024-01": {
+      "name": "Larvesta",
+      "percent": 2.15952,
+      "usage": 2742,
+      "rank": 40
+    },
+    "2024-02": {
+      "name": "Larvesta",
+      "percent": 4.47874,
+      "usage": 1875,
+      "rank": 32
+    },
+    "2024-03": {
+      "name": "Larvesta",
+      "percent": 1.33988,
+      "usage": 1624,
+      "rank": 44
+    },
+    "2024-04": {
+      "name": "Larvesta",
+      "percent": 2.15779,
+      "usage": 1288,
+      "rank": 39
+    },
+    "2024-05": {
+      "name": "Larvesta",
+      "percent": 1.23461,
+      "usage": 695,
+      "rank": 55
+    },
+    "2024-06": {
+      "name": "Larvesta",
+      "percent": 1.41634,
+      "usage": 1365,
+      "rank": 53
+    }
+  }
+}

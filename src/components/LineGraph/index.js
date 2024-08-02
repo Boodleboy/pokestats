@@ -14,7 +14,7 @@ const processLineData = (options, rawData) => {
   const elos = Object.keys(pokemonData)
   const formatMonths = months.slice(
     months.findIndex(
-      month => month === rawData.byPokemon[options.format].firstMonth
+      month => month === rawData.byMonth[options.format].firstMonth
     )
   )
 

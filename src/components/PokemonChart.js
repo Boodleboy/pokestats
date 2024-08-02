@@ -23,6 +23,7 @@ const PokemonChart = () => {
   const [options, setOptions] = useState(initialOptions)
 
   const usageData = useUsageData(options)
+  console.log('usageData', usageData)
 
   if (usageData.loading) {
     return (
@@ -36,7 +37,7 @@ const PokemonChart = () => {
       {options.graphMode === 'bar' ? 
         <BarGraph options={options} setOptions={setOptions} usageData={usageData} /> : null}
       {options.graphMode === 'line' ? 
-        <LineGraph options={options} setOptions={setOptions} /> : null}
+        <LineGraph options={options} setOptions={setOptions} usageData={usageData} /> : null}
     </>
   )
 }
