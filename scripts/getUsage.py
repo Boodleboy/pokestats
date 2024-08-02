@@ -90,9 +90,7 @@ with open(monthFileName) as monthFile:
 
 for mode in formats['formats']:
     firstMonth = mode['firstMonth']
-    result['byPokemon'][mode['name']] = {
-        'firstMonth': firstMonth
-    }
+    result['byPokemon'][mode['name']] = {}
     result['byMonth'][mode['name']] = {
         'firstMonth': firstMonth
     }
@@ -129,6 +127,15 @@ for mode in formats['formats']:
         for elo in mode['elos']:
             obj = result['byMonth'][mode['name']][month][elo]
             dirName = '../public/data/byMonth/'+mode['name']+'/'+month
+            fileName = dirName + '/' + elo + '.json'
+            os.makedirs(dirName, exist_ok=True)
+            with open(fileName, 'w') as f:
+                json.dump(obj, f, indent=2)
+
+    for poke in result['byPokemon'][mode['name']].keys():
+        for elo in mode['elos']:
+            obj = result['byPokemon'][mode['name']][poke][elo]
+            dirName = '../public/data/byPokemon/'+mode['name']+'/'+poke
             fileName = dirName + '/' + elo + '.json'
             os.makedirs(dirName, exist_ok=True)
             with open(fileName, 'w') as f:
