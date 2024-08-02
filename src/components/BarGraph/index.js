@@ -5,6 +5,8 @@ import { BarChart, Bar, Rectangle, XAxis, YAxis,
 
 import usageData from '../../data/data.json'
 
+import useUsageData from '../../hooks/useUsageData'
+
 import './style.css'
 
 const processBarData = (options, rawData) => {
@@ -23,6 +25,9 @@ const BarGraph = ({ options, setOptions }) => {
       pokemon: bar.name
     })
   }
+
+  const testData = useUsageData(options)
+  console.log('testData', testData)
 
   const data = processBarData(options, usageData)
   const labelSize = 140
