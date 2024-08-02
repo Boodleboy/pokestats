@@ -1,7 +1,4 @@
 Add the rest of the data for the modes
-Make line graph get data dynamically
-	Turn each byPokemon dir into a single file
-	That file should have a firstMonth field and an elos field
-Fix crash on second switch between bar and line
 Make graph titles use proper format label
 Make program-crashing chart settings impossible
+Add loading spinner

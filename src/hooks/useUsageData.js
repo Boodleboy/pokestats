@@ -1,37 +1,38 @@
 import { useEffect, useState } from 'react'
 
-const useUsageData = (options) => {
+const useUsageData = (options, setOptions) => {
   const [data, setData] = useState({ loading: true })
   useEffect(() => {
-    setData({ loading: true })
+    setOptions({ ...options, loading: true })
     let fetchString = '/data/'
-    if (options.graphMode === 'bar') {
+    const body = options.body
+    if (body.graphMode === 'bar') {
       fetchString += 'byMonth/' + 
-        options.format + '/' +
-        options.month + '/' +
-        options.elo + '.json'
+        body.format + '/' +
+        body.month + '/' +
+        body.elo + '.json'
     } else {
       fetchString += 'byPokemon/' +
-        options.format + '/' +
-        options.pokemon + '/' +
-        options.elo + '.json'
+        body.format + '/' +
+        body.pokemon + '.json'
     }
     fetch(fetchString)
       .then((response) => response.json())
       .then((data) => {
+        console.log("in here")
         setData({
-          body: data,
-          loading: false
+          body: data
         });
+        setOptions({ ...options, loading: false })
       })
       .catch((error) => {
         console.error('Error fetching the JSON data:', error);
         setData({
-          loading: false,
           error: error
         })
+        setOptions({ ...options, loading: false })
       });
-  }, [options]);
+  }, [options.body]);
 
   return data
 }

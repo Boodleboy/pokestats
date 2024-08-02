@@ -8,7 +8,7 @@ import useUsageData from '../../hooks/useUsageData'
 import './style.css'
 
 const processBarData = (options, rawData) => {
-  const pokemon = rawData.body.slice(0, options.show) 
+  const pokemon = rawData.body.slice(0, options.body.show) 
   return pokemon.map(poke => ({
     name: poke.name,
     percent: poke.percent
@@ -18,19 +18,23 @@ const processBarData = (options, rawData) => {
 const BarGraph = ({ options, setOptions, usageData }) => {
   const onClick = (bar) => {
     setOptions({
-      ...options,
-      graphMode: "line",
-      pokemon: bar.name
+      body: {
+        ...options.body,
+        graphMode: "line",
+        pokemon: bar.name
+      },
+      loading: true
     })
   }
 
   const data = processBarData(options, usageData)
+  console.log('bardata', data)
   const labelSize = 140
 
   return (
     <div style={{width: "90%", height: data.length * 80}}>
       <ResponsiveContainer width="100%" height="100%">
-        <h2> Top Used {options.format} Pokemon </h2>
+        <h2> Top Used {options.body.format} Pokemon </h2>
         <BarChart
           width={500}
           height={300}

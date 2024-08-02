@@ -20,12 +20,16 @@ const initialOptions = {
 }
 
 const PokemonChart = () => {
-  const [options, setOptions] = useState(initialOptions)
+  const [options, setOptions] = useState({ 
+    body: initialOptions,
+    loading: true
+  })
 
-  const usageData = useUsageData(options)
+  const usageData = useUsageData(options, setOptions)
   console.log('usageData', usageData)
+  console.log('options', options)
 
-  if (usageData.loading) {
+  if (options.loading) {
     return (
       <div> looooading </div>
     )
@@ -34,10 +38,10 @@ const PokemonChart = () => {
   return (
     <>
       <GraphOptions options={options} setOptions={setOptions} />
-      {options.graphMode === 'bar' ? 
+      {options.body.graphMode === 'bar' ? 
         <BarGraph options={options} setOptions={setOptions} usageData={usageData} /> : null}
-      {options.graphMode === 'line' ? 
-        <LineGraph options={options} setOptions={setOptions} usageData={usageData} /> : null}
+      {options.body.graphMode === 'line' ? 
+        <LineGraph options={options} setOptions={setOptions} usageData={usageData.body} /> : null}
     </>
   )
 }

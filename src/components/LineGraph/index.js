@@ -2,19 +2,18 @@ import React, { PureComponent } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, 
   Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
-import usageData from '../../data/data.json'
 import months from '../../data/months.json'
 
 import colors from './lineColors'
 
 import './style.css'
 
-const processLineData = (options, rawData) => {
-  const pokemonData = rawData.byPokemon[options.format][options.pokemon]
-  const elos = Object.keys(pokemonData)
+const processLineData = (options, pokemonData) => {
+  console.log("pokemonData in line graph", pokemonData)
+  const elos = pokemonData.elos
   const formatMonths = months.slice(
     months.findIndex(
-      month => month === rawData.byMonth[options.format].firstMonth
+      month => month === pokemonData.firstMonth
     )
   )
 
@@ -31,13 +30,13 @@ const processLineData = (options, rawData) => {
   })
 }
 
-const LineGraph = ({ options, setOptions }) => {
+const LineGraph = ({ options, setOptions, usageData }) => {
   const data = processLineData(options, usageData)
   const elos = Object.keys(data[0]).filter(key => key != "month")
   return (
     <div className="line-graph" style={{width: "100%", height: "500px"}} >
       <ResponsiveContainer width="100%" height="100%">
-        <h2> {options.pokemon} Usage </h2>
+        <h2> {options.body.pokemon} Usage </h2>
         <LineChart
           width={500}
           height={300}

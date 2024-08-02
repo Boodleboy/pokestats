@@ -14,16 +14,25 @@ const GraphOptions = ({ options, setOptions }) => {
 
   const buildOnSelect = (optionKey) => (ev) => {
     setOptions({ 
-      ...options,
-      [optionKey]: ev
+      body: {
+        ...options.body,
+        [optionKey]: ev
+      },
+      loading: true
     })
   }
 
   const onClickBack = (ev) => {
-    setOptions({ ...options, graphMode: 'bar' })
+    setOptions({ 
+      body: {
+        ...options.body, 
+        graphMode: 'bar' 
+      },
+      loading: true
+    })
   }
 
-  const curFormat = formats.formats.filter(format => format.name === options.format)[0]
+  const curFormat = formats.formats.filter(format => format.name === options.body.format)[0]
 
   const formatOptions = formats.formats.map(format => ({
     label: format.label,
@@ -46,12 +55,12 @@ const GraphOptions = ({ options, setOptions }) => {
     <div className='graph-menu'>
       <Row>
         <Col>
-          {options.graphMode === 'bar' ?
+          {options.body.graphMode === 'bar' ?
             <Dropdown title={'Month'} onSelect={buildOnSelect('month')} options={monthOptions} /> :
             <Button onClick={onClickBack}>Back</Button>
           }
         </Col>
-          {options.graphMode === 'bar' ?
+          {options.body.graphMode === 'bar' ?
             <Col>
               <Dropdown title={'ELO'} onSelect={buildOnSelect('elo')} options={eloOptions} />
             </Col> : null}
