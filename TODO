@@ -1,13 +1,14 @@
 Add the rest of the data for the modes
-Rearrange data by generation
-Add a "generation" picker 
 Make graph titles use proper format label
 Make program-crashing chart settings impossible
 Add loading spinner
 Add paging to bar graph
 Change usage script to handle weirdness
-	gen 3 and 4 ubers go away, then comes back
+	some modes go away, then come back
 		gen 3 ubers goes away 2018-02
 		gen 4 ubers goes away 2018-02
 		gen 4 lc goes away 2015-03
 	gen 6 formats have no "gen6" prefix for a while
+Get pokemon data to make pokemon-based styling possible
+	change bar color based on pokemon type
+	display an image of the pokemon on the bar

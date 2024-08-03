@@ -13,7 +13,8 @@ import useUsageData from '../hooks/useUsageData'
 const initialOptions = {
   graphMode: 'bar',
   month: '2024-02', // TODO: make this pull from somewhere central
-  format: 'gen9ou',
+  gen: 'gen9',
+  format: 'ou',
   elo: '0',
   show: 50,
   pokemon: 'Gholdengo'

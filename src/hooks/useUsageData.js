@@ -8,11 +8,13 @@ const useUsageData = (options, setOptions) => {
     const body = options.body
     if (body.graphMode === 'bar') {
       fetchString += 'byMonth/' + 
+        body.gen + '/' +
         body.format + '/' +
         body.month + '/' +
         body.elo + '.json'
     } else {
       fetchString += 'byPokemon/' +
+        body.gen + '/' +
         body.format + '/' +
         body.pokemon + '.json'
     }

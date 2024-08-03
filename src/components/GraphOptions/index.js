@@ -32,9 +32,16 @@ const GraphOptions = ({ options, setOptions }) => {
     })
   }
 
-  const curFormat = formats.formats.filter(format => format.name === options.body.format)[0]
+  const curGen = formats.gens.filter(gen => gen.name === options.body.gen)[0]
 
-  const formatOptions = formats.formats.map(format => ({
+  const curFormat = curGen.formats.filter(format => format.name === options.body.format)[0]
+
+  const genOptions = formats.gens.map(gen => ({
+    label: gen.label,
+    value: gen.name
+  }))
+
+  const formatOptions = curGen.formats.map(format => ({
     label: format.label,
     value: format.name
   }))
@@ -54,6 +61,12 @@ const GraphOptions = ({ options, setOptions }) => {
   return (
     <div className='graph-menu'>
       <Row>
+        <Col>
+          <Dropdown 
+              title={'Generation'} 
+              onSelect={buildOnSelect('gen')} 
+              options={genOptions} />
+        </Col>
         <Col>
           {options.body.graphMode === 'bar' ?
             <Dropdown title={'Month'} onSelect={buildOnSelect('month')} options={monthOptions} /> :
