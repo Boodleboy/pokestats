@@ -15,6 +15,16 @@ const processBarData = (options, rawData) => {
   }))
 }
 
+const CustomToolTip = ({ active, payload }) => {
+  if (!active) return
+  return (
+    <div className='bar-tooltip' >
+      {payload[0].value.toFixed(2) + '%'}
+    </div>
+
+  )
+}
+
 const BarGraph = ({ options, setOptions, usageData }) => {
   const onClick = (bar) => {
     setOptions({
@@ -52,7 +62,7 @@ const BarGraph = ({ options, setOptions, usageData }) => {
             tickFormatter={name => name.replace('-', '- ')}
             tick={{ fontSize: 26 }}
             />
-          <Tooltip />
+          <Tooltip content={CustomToolTip} />
           <Legend />
           <Bar 
             onClick={onClick} 
