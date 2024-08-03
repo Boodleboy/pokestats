@@ -9,7 +9,6 @@ import colors from './lineColors'
 import './style.css'
 
 const processLineData = (options, pokemonData) => {
-  console.log("pokemonData in line graph", pokemonData)
   const elos = pokemonData.elos
   const formatMonths = months.slice(
     months.findIndex(

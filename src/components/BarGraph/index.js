@@ -28,7 +28,6 @@ const BarGraph = ({ options, setOptions, usageData }) => {
   }
 
   const data = processBarData(options, usageData)
-  console.log('bardata', data)
   const labelSize = 140
 
   return (

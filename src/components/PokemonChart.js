@@ -26,12 +26,16 @@ const PokemonChart = () => {
   })
 
   const usageData = useUsageData(options, setOptions)
-  console.log('usageData', usageData)
-  console.log('options', options)
 
   if (options.loading) {
     return (
       <div> looooading </div>
+    )
+  }
+
+  if (usageData.error) {
+    return (
+      <div> ERROR: {usageData.error.message} </div>
     )
   }
 

@@ -19,7 +19,6 @@ const useUsageData = (options, setOptions) => {
     fetch(fetchString)
       .then((response) => response.json())
       .then((data) => {
-        console.log("in here")
         setData({
           body: data
         });
