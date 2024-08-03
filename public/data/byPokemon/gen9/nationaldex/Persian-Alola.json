@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Persian-Alola",
+      "percent": 0.08612,
+      "usage": 509,
+      "rank": 526
+    },
+    "2022-12": {
+      "name": "Persian-Alola",
+      "percent": 0.13289,
+      "usage": 1633,
+      "rank": 475
+    },
+    "2023-01": {
+      "name": "Persian-Alola",
+      "percent": 0.12402,
+      "usage": 1684,
+      "rank": 475
+    },
+    "2023-02": {
+      "name": "Persian-Alola",
+      "percent": 0.17987,
+      "usage": 2807,
+      "rank": 426
+    },
+    "2023-03": {
+      "name": "Persian-Alola",
+      "percent": 0.18144,
+      "usage": 3200,
+      "rank": 412
+    },
+    "2023-04": {
+      "name": "Persian-Alola",
+      "percent": 0.12437,
+      "usage": 2189,
+      "rank": 469
+    },
+    "2023-05": {
+      "name": "Persian-Alola",
+      "percent": 0.14558,
+      "usage": 2717,
+      "rank": 446
+    },
+    "2023-06": {
+      "name": "Persian-Alola",
+      "percent": 0.14197,
+      "usage": 2387,
+      "rank": 435
+    },
+    "2023-07": {
+      "name": "Persian-Alola",
+      "percent": 0.13105,
+      "usage": 2121,
+      "rank": 463
+    },
+    "2023-08": {
+      "name": "Persian-Alola",
+      "percent": 0.09349,
+      "usage": 1720,
+      "rank": 508
+    },
+    "2023-09": {
+      "name": "Persian-Alola",
+      "percent": 0.13093,
+      "usage": 2245,
+      "rank": 460
+    },
+    "2023-09-DLC1": {
+      "name": "Persian-Alola",
+      "percent": 0.13418,
+      "usage": 1145,
+      "rank": 448
+    },
+    "2023-10": {
+      "name": "Persian-Alola",
+      "percent": 0.15,
+      "usage": 2365,
+      "rank": 456
+    },
+    "2023-11": {
+      "name": "Persian-Alola",
+      "percent": 0.12408,
+      "usage": 1678,
+      "rank": 486
+    },
+    "2023-12": {
+      "name": "Persian-Alola",
+      "percent": 0.13748,
+      "usage": 1758,
+      "rank": 467
+    },
+    "2023-12-DLC2": {
+      "name": "Persian-Alola",
+      "percent": 0.13197,
+      "usage": 723,
+      "rank": 459
+    },
+    "2024-01": {
+      "name": "Persian-Alola",
+      "percent": 0.11707,
+      "usage": 1445,
+      "rank": 478
+    },
+    "2024-02": {
+      "name": "Persian-Alola",
+      "percent": 0.09082,
+      "usage": 1176,
+      "rank": 514
+    },
+    "2024-03": {
+      "name": "Persian-Alola",
+      "percent": 0.11532,
+      "usage": 1552,
+      "rank": 484
+    },
+    "2024-04": {
+      "name": "Persian-Alola",
+      "percent": 0.1717,
+      "usage": 2088,
+      "rank": 417
+    },
+    "2024-05": {
+      "name": "Persian-Alola",
+      "percent": 0.11201,
+      "usage": 670,
+      "rank": 479
+    },
+    "2024-06": {
+      "name": "Persian-Alola",
+      "percent": 0.13864,
+      "usage": 1809,
+      "rank": 421
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Persian-Alola",
+      "percent": 0.0846,
+      "usage": 509,
+      "rank": 522
+    },
+    "2022-12": {
+      "name": "Persian-Alola",
+      "percent": 0.12863,
+      "usage": 1633,
+      "rank": 472
+    },
+    "2023-01": {
+      "name": "Persian-Alola",
+      "percent": 0.11908,
+      "usage": 1684,
+      "rank": 472
+    },
+    "2023-02": {
+      "name": "Persian-Alola",
+      "percent": 0.17296,
+      "usage": 2807,
+      "rank": 409
+    },
+    "2023-03": {
+      "name": "Persian-Alola",
+      "percent": 0.16456,
+      "usage": 3200,
+      "rank": 386
+    },
+    "2023-04": {
+      "name": "Persian-Alola",
+      "percent": 0.09853,
+      "usage": 2189,
+      "rank": 401
+    },
+    "2023-05": {
+      "name": "Persian-Alola",
+      "percent": 0.08143,
+      "usage": 2717,
+      "rank": 433
+    },
+    "2023-06": {
+      "name": "Persian-Alola",
+      "percent": 0.08845,
+      "usage": 2387,
+      "rank": 394
+    },
+    "2023-07": {
+      "name": "Persian-Alola",
+      "percent": 0.09448,
+      "usage": 2121,
+      "rank": 389
+    },
+    "2023-08": {
+      "name": "Persian-Alola",
+      "percent": 0.05094,
+      "usage": 1720,
+      "rank": 474
+    },
+    "2023-09": {
+      "name": "Persian-Alola",
+      "percent": 0.0917,
+      "usage": 2245,
+      "rank": 393
+    },
+    "2023-09-DLC1": {
+      "name": "Persian-Alola",
+      "percent": 0.0758,
+      "usage": 1145,
+      "rank": 413
+    },
+    "2023-10": {
+      "name": "Persian-Alola",
+      "percent": 0.08516,
+      "usage": 2365,
+      "rank": 420
+    },
+    "2023-11": {
+      "name": "Persian-Alola",
+      "percent": 0.06737,
+      "usage": 1678,
+      "rank": 457
+    },
+    "2023-12": {
+      "name": "Persian-Alola",
+      "percent": 0.10342,
+      "usage": 1758,
+      "rank": 387
+    },
+    "2023-12-DLC2": {
+      "name": "Persian-Alola",
+      "percent": 0.12018,
+      "usage": 723,
+      "rank": 346
+    },
+    "2024-01": {
+      "name": "Persian-Alola",
+      "percent": 0.05547,
+      "usage": 1445,
+      "rank": 448
+    },
+    "2024-02": {
+      "name": "Persian-Alola",
+      "percent": 0.04325,
+      "usage": 1176,
+      "rank": 481
+    },
+    "2024-03": {
+      "name": "Persian-Alola",
+      "percent": 0.05076,
+      "usage": 1552,
+      "rank": 477
+    },
+    "2024-04": {
+      "name": "Persian-Alola",
+      "percent": 0.07453,
+      "usage": 2088,
+      "rank": 413
+    },
+    "2024-05": {
+      "name": "Persian-Alola",
+      "percent": 0.04943,
+      "usage": 670,
+      "rank": 461
+    },
+    "2024-06": {
+      "name": "Persian-Alola",
+      "percent": 0.04767,
+      "usage": 1809,
+      "rank": 445
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Persian-Alola",
+      "percent": 0.0,
+      "usage": 509,
+      "rank": 724
+    },
+    "2022-12": {
+      "name": "Persian-Alola",
+      "percent": 0.00339,
+      "usage": 1633,
+      "rank": 552
+    },
+    "2023-01": {
+      "name": "Persian-Alola",
+      "percent": 0.01551,
+      "usage": 1684,
+      "rank": 450
+    },
+    "2023-02": {
+      "name": "Persian-Alola",
+      "percent": 0.02475,
+      "usage": 2807,
+      "rank": 441
+    },
+    "2023-03": {
+      "name": "Persian-Alola",
+      "percent": 0.04273,
+      "usage": 3200,
+      "rank": 365
+    },
+    "2023-04": {
+      "name": "Persian-Alola",
+      "percent": 0.03293,
+      "usage": 2189,
+      "rank": 394
+    },
+    "2023-05": {
+      "name": "Persian-Alola",
+      "percent": 0.01659,
+      "usage": 2717,
+      "rank": 475
+    },
+    "2023-06": {
+      "name": "Persian-Alola",
+      "percent": 0.04651,
+      "usage": 2387,
+      "rank": 344
+    },
+    "2023-07": {
+      "name": "Persian-Alola",
+      "percent": 0.04399,
+      "usage": 2121,
+      "rank": 365
+    },
+    "2023-08": {
+      "name": "Persian-Alola",
+      "percent": 0.01266,
+      "usage": 1720,
+      "rank": 503
+    },
+    "2023-09": {
+      "name": "Persian-Alola",
+      "percent": 0.02107,
+      "usage": 2245,
+      "rank": 434
+    },
+    "2023-09-DLC1": {
+      "name": "Persian-Alola",
+      "percent": 0.01185,
+      "usage": 1145,
+      "rank": 483
+    },
+    "2023-10": {
+      "name": "Persian-Alola",
+      "percent": 0.01914,
+      "usage": 2365,
+      "rank": 459
+    },
+    "2023-11": {
+      "name": "Persian-Alola",
+      "percent": 0.01781,
+      "usage": 1678,
+      "rank": 470
+    },
+    "2023-12": {
+      "name": "Persian-Alola",
+      "percent": 0.02637,
+      "usage": 1758,
+      "rank": 426
+    },
+    "2023-12-DLC2": {
+      "name": "Persian-Alola",
+      "percent": 0.03046,
+      "usage": 723,
+      "rank": 381
+    },
+    "2024-01": {
+      "name": "Persian-Alola",
+      "percent": 0.02444,
+      "usage": 1445,
+      "rank": 407
+    },
+    "2024-02": {
+      "name": "Persian-Alola",
+      "percent": 0.01287,
+      "usage": 1176,
+      "rank": 486
+    },
+    "2024-03": {
+      "name": "Persian-Alola",
+      "percent": 0.02349,
+      "usage": 1552,
+      "rank": 435
+    },
+    "2024-04": {
+      "name": "Persian-Alola",
+      "percent": 0.0191,
+      "usage": 2088,
+      "rank": 450
+    },
+    "2024-05": {
+      "name": "Persian-Alola",
+      "percent": 0.01292,
+      "usage": 670,
+      "rank": 463
+    },
+    "2024-06": {
+      "name": "Persian-Alola",
+      "percent": 0.00897,
+      "usage": 1809,
+      "rank": 489
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Persian-Alola",
+      "percent": 0.0,
+      "usage": 509,
+      "rank": 723
+    },
+    "2022-12": {
+      "name": "Persian-Alola",
+      "percent": 0.00052,
+      "usage": 1633,
+      "rank": 519
+    },
+    "2023-01": {
+      "name": "Persian-Alola",
+      "percent": 0.00454,
+      "usage": 1684,
+      "rank": 436
+    },
+    "2023-02": {
+      "name": "Persian-Alola",
+      "percent": 0.00634,
+      "usage": 2807,
+      "rank": 460
+    },
+    "2023-03": {
+      "name": "Persian-Alola",
+      "percent": 0.04124,
+      "usage": 3200,
+      "rank": 298
+    },
+    "2023-04": {
+      "name": "Persian-Alola",
+      "percent": 0.02541,
+      "usage": 2189,
+      "rank": 339
+    },
+    "2023-05": {
+      "name": "Persian-Alola",
+      "percent": 0.00477,
+      "usage": 2717,
+      "rank": 501
+    },
+    "2023-06": {
+      "name": "Persian-Alola",
+      "percent": 0.00765,
+      "usage": 2387,
+      "rank": 412
+    },
+    "2023-07": {
+      "name": "Persian-Alola",
+      "percent": 0.011,
+      "usage": 2121,
+      "rank": 401
+    },
+    "2023-08": {
+      "name": "Persian-Alola",
+      "percent": 0.00372,
+      "usage": 1720,
+      "rank": 526
+    },
+    "2023-09": {
+      "name": "Persian-Alola",
+      "percent": 0.00681,
+      "usage": 2245,
+      "rank": 447
+    },
+    "2023-09-DLC1": {
+      "name": "Persian-Alola",
+      "percent": 0.00212,
+      "usage": 1145,
+      "rank": 513
+    },
+    "2023-10": {
+      "name": "Persian-Alola",
+      "percent": 0.00347,
+      "usage": 2365,
+      "rank": 520
+    },
+    "2023-11": {
+      "name": "Persian-Alola",
+      "percent": 0.00387,
+      "usage": 1678,
+      "rank": 500
+    },
+    "2023-12": {
+      "name": "Persian-Alola",
+      "percent": 0.01012,
+      "usage": 1758,
+      "rank": 405
+    },
+    "2023-12-DLC2": {
+      "name": "Persian-Alola",
+      "percent": 0.00753,
+      "usage": 723,
+      "rank": 371
+    },
+    "2024-01": {
+      "name": "Persian-Alola",
+      "percent": 0.00892,
+      "usage": 1445,
+      "rank": 393
+    },
+    "2024-02": {
+      "name": "Persian-Alola",
+      "percent": 0.00308,
+      "usage": 1176,
+      "rank": 506
+    },
+    "2024-03": {
+      "name": "Persian-Alola",
+      "percent": 0.00336,
+      "usage": 1552,
+      "rank": 514
+    },
+    "2024-04": {
+      "name": "Persian-Alola",
+      "percent": 0.00946,
+      "usage": 2088,
+      "rank": 389
+    },
+    "2024-05": {
+      "name": "Persian-Alola",
+      "percent": 0.00194,
+      "usage": 670,
+      "rank": 513
+    },
+    "2024-06": {
+      "name": "Persian-Alola",
+      "percent": 0.00194,
+      "usage": 1809,
+      "rank": 510
+    }
+  }
+}

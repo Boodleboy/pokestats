@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Chansey",
+      "percent": 0.61661,
+      "usage": 1810,
+      "rank": 98
+    },
+    "2022-12": {
+      "name": "Chansey",
+      "percent": 0.5118,
+      "usage": 2225,
+      "rank": 99
+    },
+    "2023-01": {
+      "name": "Chansey",
+      "percent": 0.60803,
+      "usage": 1856,
+      "rank": 98
+    },
+    "2023-02": {
+      "name": "Chansey",
+      "percent": 0.60172,
+      "usage": 1375,
+      "rank": 109
+    },
+    "2023-03": {
+      "name": "Chansey",
+      "percent": 0.557,
+      "usage": 1211,
+      "rank": 108
+    },
+    "2023-04": {
+      "name": "Chansey",
+      "percent": 0.39675,
+      "usage": 758,
+      "rank": 127
+    },
+    "2023-05": {
+      "name": "Chansey",
+      "percent": 0.56842,
+      "usage": 987,
+      "rank": 122
+    },
+    "2023-06": {
+      "name": "Chansey",
+      "percent": 0.62438,
+      "usage": 1782,
+      "rank": 122
+    },
+    "2023-07": {
+      "name": "Chansey",
+      "percent": 0.66314,
+      "usage": 1441,
+      "rank": 118
+    },
+    "2023-08": {
+      "name": "Chansey",
+      "percent": 0.69255,
+      "usage": 1475,
+      "rank": 117
+    },
+    "2023-09": {
+      "name": "Chansey",
+      "percent": 0.75965,
+      "usage": 1684,
+      "rank": 129
+    },
+    "2023-09-DLC1": {
+      "name": "Chansey",
+      "percent": 0.70387,
+      "usage": 895,
+      "rank": 138
+    },
+    "2023-10": {
+      "name": "Chansey",
+      "percent": 0.75871,
+      "usage": 1996,
+      "rank": 121
+    },
+    "2023-11": {
+      "name": "Chansey",
+      "percent": 0.75231,
+      "usage": 2006,
+      "rank": 124
+    },
+    "2023-12": {
+      "name": "Chansey",
+      "percent": 0.547,
+      "usage": 1848,
+      "rank": 157
+    },
+    "2023-12-DLC2": {
+      "name": "Chansey",
+      "percent": 0.57543,
+      "usage": 993,
+      "rank": 155
+    },
+    "2024-01": {
+      "name": "Chansey",
+      "percent": 0.44236,
+      "usage": 1641,
+      "rank": 185
+    },
+    "2024-02": {
+      "name": "Chansey",
+      "percent": 0.77275,
+      "usage": 2637,
+      "rank": 133
+    },
+    "2024-03": {
+      "name": "Chansey",
+      "percent": 0.57593,
+      "usage": 2200,
+      "rank": 151
+    },
+    "2024-04": {
+      "name": "Chansey",
+      "percent": 0.81676,
+      "usage": 2606,
+      "rank": 128
+    },
+    "2024-05": {
+      "name": "Chansey",
+      "percent": 0.59395,
+      "usage": 948,
+      "rank": 149
+    },
+    "2024-06": {
+      "name": "Chansey",
+      "percent": 0.73504,
+      "usage": 2193,
+      "rank": 138
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Chansey",
+      "percent": 0.6219,
+      "usage": 1810,
+      "rank": 97
+    },
+    "2022-12": {
+      "name": "Chansey",
+      "percent": 0.53389,
+      "usage": 2225,
+      "rank": 95
+    },
+    "2023-01": {
+      "name": "Chansey",
+      "percent": 0.63015,
+      "usage": 1856,
+      "rank": 91
+    },
+    "2023-02": {
+      "name": "Chansey",
+      "percent": 0.60894,
+      "usage": 1375,
+      "rank": 104
+    },
+    "2023-03": {
+      "name": "Chansey",
+      "percent": 0.56488,
+      "usage": 1211,
+      "rank": 103
+    },
+    "2023-04": {
+      "name": "Chansey",
+      "percent": 0.3487,
+      "usage": 758,
+      "rank": 110
+    },
+    "2023-05": {
+      "name": "Chansey",
+      "percent": 0.61285,
+      "usage": 987,
+      "rank": 106
+    },
+    "2023-06": {
+      "name": "Chansey",
+      "percent": 0.65587,
+      "usage": 1782,
+      "rank": 99
+    },
+    "2023-07": {
+      "name": "Chansey",
+      "percent": 0.77125,
+      "usage": 1441,
+      "rank": 87
+    },
+    "2023-08": {
+      "name": "Chansey",
+      "percent": 0.71647,
+      "usage": 1475,
+      "rank": 94
+    },
+    "2023-09": {
+      "name": "Chansey",
+      "percent": 0.81463,
+      "usage": 1684,
+      "rank": 97
+    },
+    "2023-09-DLC1": {
+      "name": "Chansey",
+      "percent": 0.79769,
+      "usage": 895,
+      "rank": 108
+    },
+    "2023-10": {
+      "name": "Chansey",
+      "percent": 0.88123,
+      "usage": 1996,
+      "rank": 95
+    },
+    "2023-11": {
+      "name": "Chansey",
+      "percent": 0.6873,
+      "usage": 2006,
+      "rank": 100
+    },
+    "2023-12": {
+      "name": "Chansey",
+      "percent": 0.4912,
+      "usage": 1848,
+      "rank": 137
+    },
+    "2023-12-DLC2": {
+      "name": "Chansey",
+      "percent": 0.57055,
+      "usage": 993,
+      "rank": 123
+    },
+    "2024-01": {
+      "name": "Chansey",
+      "percent": 0.39043,
+      "usage": 1641,
+      "rank": 157
+    },
+    "2024-02": {
+      "name": "Chansey",
+      "percent": 0.65362,
+      "usage": 2637,
+      "rank": 119
+    },
+    "2024-03": {
+      "name": "Chansey",
+      "percent": 0.50066,
+      "usage": 2200,
+      "rank": 123
+    },
+    "2024-04": {
+      "name": "Chansey",
+      "percent": 0.78365,
+      "usage": 2606,
+      "rank": 101
+    },
+    "2024-05": {
+      "name": "Chansey",
+      "percent": 0.56778,
+      "usage": 948,
+      "rank": 119
+    },
+    "2024-06": {
+      "name": "Chansey",
+      "percent": 0.69818,
+      "usage": 2193,
+      "rank": 116
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Chansey",
+      "percent": 0.32203,
+      "usage": 1810,
+      "rank": 87
+    },
+    "2022-12": {
+      "name": "Chansey",
+      "percent": 0.53019,
+      "usage": 2225,
+      "rank": 73
+    },
+    "2023-01": {
+      "name": "Chansey",
+      "percent": 0.28238,
+      "usage": 1856,
+      "rank": 91
+    },
+    "2023-02": {
+      "name": "Chansey",
+      "percent": 0.29502,
+      "usage": 1375,
+      "rank": 86
+    },
+    "2023-03": {
+      "name": "Chansey",
+      "percent": 0.3526,
+      "usage": 1211,
+      "rank": 87
+    },
+    "2023-04": {
+      "name": "Chansey",
+      "percent": 0.33704,
+      "usage": 758,
+      "rank": 90
+    },
+    "2023-05": {
+      "name": "Chansey",
+      "percent": 0.71264,
+      "usage": 987,
+      "rank": 86
+    },
+    "2023-06": {
+      "name": "Chansey",
+      "percent": 0.50363,
+      "usage": 1782,
+      "rank": 89
+    },
+    "2023-07": {
+      "name": "Chansey",
+      "percent": 0.90476,
+      "usage": 1441,
+      "rank": 67
+    },
+    "2023-08": {
+      "name": "Chansey",
+      "percent": 0.92089,
+      "usage": 1475,
+      "rank": 64
+    },
+    "2023-09": {
+      "name": "Chansey",
+      "percent": 1.32496,
+      "usage": 1684,
+      "rank": 65
+    },
+    "2023-09-DLC1": {
+      "name": "Chansey",
+      "percent": 1.39908,
+      "usage": 895,
+      "rank": 65
+    },
+    "2023-10": {
+      "name": "Chansey",
+      "percent": 1.22269,
+      "usage": 1996,
+      "rank": 66
+    },
+    "2023-11": {
+      "name": "Chansey",
+      "percent": 0.66092,
+      "usage": 2006,
+      "rank": 80
+    },
+    "2023-12": {
+      "name": "Chansey",
+      "percent": 0.41606,
+      "usage": 1848,
+      "rank": 111
+    },
+    "2023-12-DLC2": {
+      "name": "Chansey",
+      "percent": 0.37482,
+      "usage": 993,
+      "rank": 115
+    },
+    "2024-01": {
+      "name": "Chansey",
+      "percent": 0.20533,
+      "usage": 1641,
+      "rank": 148
+    },
+    "2024-02": {
+      "name": "Chansey",
+      "percent": 0.55923,
+      "usage": 2637,
+      "rank": 90
+    },
+    "2024-03": {
+      "name": "Chansey",
+      "percent": 0.29585,
+      "usage": 2200,
+      "rank": 107
+    },
+    "2024-04": {
+      "name": "Chansey",
+      "percent": 0.74047,
+      "usage": 2606,
+      "rank": 74
+    },
+    "2024-05": {
+      "name": "Chansey",
+      "percent": 0.66432,
+      "usage": 948,
+      "rank": 81
+    },
+    "2024-06": {
+      "name": "Chansey",
+      "percent": 0.71002,
+      "usage": 2193,
+      "rank": 82
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Chansey",
+      "percent": 0.20937,
+      "usage": 1810,
+      "rank": 84
+    },
+    "2022-12": {
+      "name": "Chansey",
+      "percent": 0.09984,
+      "usage": 2225,
+      "rank": 86
+    },
+    "2023-01": {
+      "name": "Chansey",
+      "percent": 0.35345,
+      "usage": 1856,
+      "rank": 68
+    },
+    "2023-02": {
+      "name": "Chansey",
+      "percent": 0.42383,
+      "usage": 1375,
+      "rank": 66
+    },
+    "2023-03": {
+      "name": "Chansey",
+      "percent": 0.23848,
+      "usage": 1211,
+      "rank": 86
+    },
+    "2023-04": {
+      "name": "Chansey",
+      "percent": 0.09398,
+      "usage": 758,
+      "rank": 97
+    },
+    "2023-05": {
+      "name": "Chansey",
+      "percent": 0.60255,
+      "usage": 987,
+      "rank": 81
+    },
+    "2023-06": {
+      "name": "Chansey",
+      "percent": 0.51729,
+      "usage": 1782,
+      "rank": 75
+    },
+    "2023-07": {
+      "name": "Chansey",
+      "percent": 1.31983,
+      "usage": 1441,
+      "rank": 58
+    },
+    "2023-08": {
+      "name": "Chansey",
+      "percent": 2.73862,
+      "usage": 1475,
+      "rank": 39
+    },
+    "2023-09": {
+      "name": "Chansey",
+      "percent": 3.12406,
+      "usage": 1684,
+      "rank": 37
+    },
+    "2023-09-DLC1": {
+      "name": "Chansey",
+      "percent": 3.52973,
+      "usage": 895,
+      "rank": 35
+    },
+    "2023-10": {
+      "name": "Chansey",
+      "percent": 2.86662,
+      "usage": 1996,
+      "rank": 40
+    },
+    "2023-11": {
+      "name": "Chansey",
+      "percent": 0.90857,
+      "usage": 2006,
+      "rank": 66
+    },
+    "2023-12": {
+      "name": "Chansey",
+      "percent": 0.70482,
+      "usage": 1848,
+      "rank": 73
+    },
+    "2023-12-DLC2": {
+      "name": "Chansey",
+      "percent": 0.33422,
+      "usage": 993,
+      "rank": 92
+    },
+    "2024-01": {
+      "name": "Chansey",
+      "percent": 0.15772,
+      "usage": 1641,
+      "rank": 121
+    },
+    "2024-02": {
+      "name": "Chansey",
+      "percent": 0.42462,
+      "usage": 2637,
+      "rank": 80
+    },
+    "2024-03": {
+      "name": "Chansey",
+      "percent": 0.2788,
+      "usage": 2200,
+      "rank": 87
+    },
+    "2024-04": {
+      "name": "Chansey",
+      "percent": 0.39017,
+      "usage": 2606,
+      "rank": 75
+    },
+    "2024-05": {
+      "name": "Chansey",
+      "percent": 1.40786,
+      "usage": 948,
+      "rank": 44
+    },
+    "2024-06": {
+      "name": "Chansey",
+      "percent": 1.37646,
+      "usage": 2193,
+      "rank": 49
+    }
+  }
+}

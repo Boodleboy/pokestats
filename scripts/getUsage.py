@@ -5,7 +5,6 @@ import requests
 import shutil
 import os
 
-outFile = '../src/data/data.json'
 baseUrl = 'https://www.smogon.com/stats/'
 formatFileName = 'formats.json'
 monthFileName = 'months.json'
@@ -77,10 +76,10 @@ def getMonthData(time, mode, elo):
 
     return ret
     
-def insertData(newData, month, mode, elo):
-    if not month in result['byMonth'][mode]:
-        result['byMonth'][mode][month] = {}
-    result['byMonth'][mode][month][elo] = newData
+def insertData(newData, month, gen, mode, elo):
+    if not month in result['byMonth'][gen['name']][mode]:
+        result['byMonth'][gen['name']][mode][month] = {}
+    result['byMonth'][gen['name']][mode][month][elo] = newData
 
 with open(formatFileName) as formatFile:
     formats = json.load(formatFile)
@@ -88,61 +87,66 @@ with open(formatFileName) as formatFile:
 with open(monthFileName) as monthFile:
     months = json.load(monthFile)
 
-for mode in formats['formats']:
-    firstMonth = mode['firstMonth']
-    result['byPokemon'][mode['name']] = {}
-    result['byMonth'][mode['name']] = {
-        'firstMonth': firstMonth
-    }
+for gen in formats['gens']:
+    result['byPokemon'][gen['name']] = {}
+    result['byMonth'][gen['name']] = {}
+    for mode in gen['formats']:
+        firstMonth = mode['firstMonth']
+        result['byPokemon'][gen['name']][mode['name']] = {}
+        result['byMonth'][gen['name']][mode['name']] = {
+            'firstMonth': firstMonth
+        }
 
-    formatMonths = months[months.index(firstMonth):]
-    for month in formatMonths:
-        result['byMonth'][mode['name']][month] = {}
-        for elo in mode['elos']:
-            dat = getMonthData(month, mode['name'], elo)
-            insertData(dat, month, mode['name'], elo)
+        formatMonths = months[months.index(firstMonth):]
+        for month in formatMonths:
+            result['byMonth'][gen['name']][mode['name']][month] = {}
+            for elo in mode['elos']:
+                dat = getMonthData(month, gen['name'] + mode['name'], elo)
+                insertData(dat, month, gen, mode['name'], elo)
 
-for mode in formats['formats']:
-    allPokemon = {}
-    
-    formatMonths = months[months.index(mode['firstMonth']):]
-    for month in formatMonths:
-        for poke in result['byMonth'][mode['name']][month]['0']:
-            if not poke['name'] in allPokemon:
-                allPokemon[poke['name']] = True
-    pokes = allPokemon.keys()
+for gen in formats['gens']:
+    for mode in gen['formats']:
+        allPokemon = {}
+        
+        formatMonths = months[months.index(mode['firstMonth']):]
+        for month in formatMonths:
+            for poke in result['byMonth'][gen['name']][mode['name']][month]['0']:
+                if not poke['name'] in allPokemon:
+                    allPokemon[poke['name']] = True
+        pokes = allPokemon.keys()
 
-    for poke in pokes:
-        result['byPokemon'][mode['name']][poke] = {
-                'elos': mode['elos'],
-                'firstMonth': mode['firstMonth']
-            }
-        for elo in mode['elos']:
-            result['byPokemon'][mode['name']][poke][elo] = {}
-            for month in formatMonths:
-                for rank in result['byMonth'][mode['name']][month][elo]:
-                    if rank['name'] == poke:
-                        result['byPokemon'][mode['name']][poke][elo][month] = rank
+        for poke in pokes:
+            result['byPokemon'][gen['name']][mode['name']][poke] = {
+                    'elos': mode['elos'],
+                    'firstMonth': mode['firstMonth']
+                }
+            for elo in mode['elos']:
+                result['byPokemon'][gen['name']][mode['name']][poke][elo] = {}
+                for month in formatMonths:
+                    for rank in result['byMonth'][gen['name']][mode['name']][month][elo]:
+                        if rank['name'] == poke:
+                            result['byPokemon'][gen['name']][mode['name']][poke][elo][month] = rank
 
-for mode in formats['formats']:
-    formatMonths = months[months.index(mode['firstMonth']):]
-    for month in formatMonths:
-        for elo in mode['elos']:
-            obj = result['byMonth'][mode['name']][month][elo]
-            dirName = '../public/data/byMonth/'+mode['name']+'/'+month
-            fileName = dirName + '/' + elo + '.json'
+for gen in formats['gens']:
+    for mode in gen['formats']:
+        formatMonths = months[months.index(mode['firstMonth']):]
+        for month in formatMonths:
+            for elo in mode['elos']:
+                obj = result['byMonth'][gen['name']][mode['name']][month][elo]
+                dirName = '../public/data/byMonth/' + gen['name'] + '/' + \
+                    mode['name']+'/'+month
+                fileName = dirName + '/' + elo + '.json'
+                os.makedirs(dirName, exist_ok=True)
+                with open(fileName, 'w') as f:
+                    json.dump(obj, f, indent=2)
+
+        for poke in result['byPokemon'][gen['name']][mode['name']].keys():
+            obj = result['byPokemon'][gen['name']][mode['name']][poke]
+            dirName = '../public/data/byPokemon/' + gen['name'] + '/' \
+                +mode['name']
+            fileName = dirName + '/' + poke + '.json'
             os.makedirs(dirName, exist_ok=True)
             with open(fileName, 'w') as f:
                 json.dump(obj, f, indent=2)
 
-    for poke in result['byPokemon'][mode['name']].keys():
-        obj = result['byPokemon'][mode['name']][poke]
-        dirName = '../public/data/byPokemon/'+mode['name']
-        fileName = dirName + '/' + poke + '.json'
-        os.makedirs(dirName, exist_ok=True)
-        with open(fileName, 'w') as f:
-            json.dump(obj, f, indent=2)
-
-with open(outFile, 'w') as f:
-    json.dump(result, f, indent=2)
 

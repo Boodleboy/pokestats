@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Tropius",
+      "percent": 0.09975,
+      "usage": 577,
+      "rank": 238
+    },
+    "2022-12": {
+      "name": "Tropius",
+      "percent": 0.23129,
+      "usage": 2526,
+      "rank": 204
+    },
+    "2023-01": {
+      "name": "Tropius",
+      "percent": 0.59593,
+      "usage": 4811,
+      "rank": 152
+    },
+    "2023-02": {
+      "name": "Tropius",
+      "percent": 0.55124,
+      "usage": 3201,
+      "rank": 160
+    },
+    "2023-03": {
+      "name": "Tropius",
+      "percent": 0.54734,
+      "usage": 3041,
+      "rank": 158
+    },
+    "2023-04": {
+      "name": "Tropius",
+      "percent": 0.69272,
+      "usage": 3272,
+      "rank": 146
+    },
+    "2023-05": {
+      "name": "Tropius",
+      "percent": 0.58275,
+      "usage": 2713,
+      "rank": 169
+    },
+    "2023-06": {
+      "name": "Tropius",
+      "percent": 0.62035,
+      "usage": 2936,
+      "rank": 189
+    },
+    "2023-07": {
+      "name": "Tropius",
+      "percent": 0.73973,
+      "usage": 3402,
+      "rank": 167
+    },
+    "2023-08": {
+      "name": "Tropius",
+      "percent": 0.89396,
+      "usage": 4289,
+      "rank": 149
+    },
+    "2023-09": {
+      "name": "Tropius",
+      "percent": 0.60512,
+      "usage": 3428,
+      "rank": 205
+    },
+    "2023-09-DLC1": {
+      "name": "Tropius",
+      "percent": 0.54939,
+      "usage": 1784,
+      "rank": 223
+    },
+    "2023-10": {
+      "name": "Tropius",
+      "percent": 0.60246,
+      "usage": 3723,
+      "rank": 213
+    },
+    "2023-11": {
+      "name": "Tropius",
+      "percent": 0.54169,
+      "usage": 2686,
+      "rank": 217
+    },
+    "2023-12": {
+      "name": "Tropius",
+      "percent": 0.42556,
+      "usage": 1832,
+      "rank": 274
+    },
+    "2023-12-DLC2": {
+      "name": "Tropius",
+      "percent": 0.43919,
+      "usage": 876,
+      "rank": 270
+    },
+    "2024-01": {
+      "name": "Tropius",
+      "percent": 0.42691,
+      "usage": 2099,
+      "rank": 272
+    },
+    "2024-02": {
+      "name": "Tropius",
+      "percent": 0.61285,
+      "usage": 2803,
+      "rank": 217
+    },
+    "2024-03": {
+      "name": "Tropius",
+      "percent": 0.50166,
+      "usage": 2384,
+      "rank": 247
+    },
+    "2024-04": {
+      "name": "Tropius",
+      "percent": 0.39029,
+      "usage": 1751,
+      "rank": 294
+    },
+    "2024-05": {
+      "name": "Tropius",
+      "percent": 0.38268,
+      "usage": 812,
+      "rank": 283
+    },
+    "2024-06": {
+      "name": "Tropius",
+      "percent": 0.44727,
+      "usage": 1633,
+      "rank": 256
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Tropius",
+      "percent": 0.09443,
+      "usage": 577,
+      "rank": 235
+    },
+    "2022-12": {
+      "name": "Tropius",
+      "percent": 0.221,
+      "usage": 2526,
+      "rank": 204
+    },
+    "2023-01": {
+      "name": "Tropius",
+      "percent": 0.56941,
+      "usage": 4811,
+      "rank": 152
+    },
+    "2023-02": {
+      "name": "Tropius",
+      "percent": 0.52524,
+      "usage": 3201,
+      "rank": 162
+    },
+    "2023-03": {
+      "name": "Tropius",
+      "percent": 0.51191,
+      "usage": 3041,
+      "rank": 157
+    },
+    "2023-04": {
+      "name": "Tropius",
+      "percent": 0.59946,
+      "usage": 3272,
+      "rank": 141
+    },
+    "2023-05": {
+      "name": "Tropius",
+      "percent": 0.43873,
+      "usage": 2713,
+      "rank": 169
+    },
+    "2023-06": {
+      "name": "Tropius",
+      "percent": 0.44396,
+      "usage": 2936,
+      "rank": 200
+    },
+    "2023-07": {
+      "name": "Tropius",
+      "percent": 0.7202,
+      "usage": 3402,
+      "rank": 154
+    },
+    "2023-08": {
+      "name": "Tropius",
+      "percent": 0.60715,
+      "usage": 4289,
+      "rank": 168
+    },
+    "2023-09": {
+      "name": "Tropius",
+      "percent": 0.46229,
+      "usage": 3428,
+      "rank": 214
+    },
+    "2023-09-DLC1": {
+      "name": "Tropius",
+      "percent": 0.42279,
+      "usage": 1784,
+      "rank": 230
+    },
+    "2023-10": {
+      "name": "Tropius",
+      "percent": 0.46832,
+      "usage": 3723,
+      "rank": 217
+    },
+    "2023-11": {
+      "name": "Tropius",
+      "percent": 0.48292,
+      "usage": 2686,
+      "rank": 201
+    },
+    "2023-12": {
+      "name": "Tropius",
+      "percent": 0.27958,
+      "usage": 1832,
+      "rank": 292
+    },
+    "2023-12-DLC2": {
+      "name": "Tropius",
+      "percent": 0.31614,
+      "usage": 876,
+      "rank": 280
+    },
+    "2024-01": {
+      "name": "Tropius",
+      "percent": 0.39929,
+      "usage": 2099,
+      "rank": 249
+    },
+    "2024-02": {
+      "name": "Tropius",
+      "percent": 0.69072,
+      "usage": 2803,
+      "rank": 182
+    },
+    "2024-03": {
+      "name": "Tropius",
+      "percent": 0.48875,
+      "usage": 2384,
+      "rank": 222
+    },
+    "2024-04": {
+      "name": "Tropius",
+      "percent": 0.33498,
+      "usage": 1751,
+      "rank": 268
+    },
+    "2024-05": {
+      "name": "Tropius",
+      "percent": 0.31862,
+      "usage": 812,
+      "rank": 268
+    },
+    "2024-06": {
+      "name": "Tropius",
+      "percent": 0.36561,
+      "usage": 1633,
+      "rank": 241
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Tropius",
+      "percent": 0.0196,
+      "usage": 577,
+      "rank": 216
+    },
+    "2022-12": {
+      "name": "Tropius",
+      "percent": 0.02411,
+      "usage": 2526,
+      "rank": 231
+    },
+    "2023-01": {
+      "name": "Tropius",
+      "percent": 0.1072,
+      "usage": 4811,
+      "rank": 174
+    },
+    "2023-02": {
+      "name": "Tropius",
+      "percent": 0.24098,
+      "usage": 3201,
+      "rank": 154
+    },
+    "2023-03": {
+      "name": "Tropius",
+      "percent": 0.43192,
+      "usage": 3041,
+      "rank": 124
+    },
+    "2023-04": {
+      "name": "Tropius",
+      "percent": 0.28388,
+      "usage": 3272,
+      "rank": 138
+    },
+    "2023-05": {
+      "name": "Tropius",
+      "percent": 0.21159,
+      "usage": 2713,
+      "rank": 180
+    },
+    "2023-06": {
+      "name": "Tropius",
+      "percent": 0.07748,
+      "usage": 2936,
+      "rank": 268
+    },
+    "2023-07": {
+      "name": "Tropius",
+      "percent": 0.30426,
+      "usage": 3402,
+      "rank": 165
+    },
+    "2023-08": {
+      "name": "Tropius",
+      "percent": 0.13789,
+      "usage": 4289,
+      "rank": 231
+    },
+    "2023-09": {
+      "name": "Tropius",
+      "percent": 0.13794,
+      "usage": 3428,
+      "rank": 266
+    },
+    "2023-09-DLC1": {
+      "name": "Tropius",
+      "percent": 0.095,
+      "usage": 1784,
+      "rank": 295
+    },
+    "2023-10": {
+      "name": "Tropius",
+      "percent": 0.07974,
+      "usage": 3723,
+      "rank": 301
+    },
+    "2023-11": {
+      "name": "Tropius",
+      "percent": 0.06564,
+      "usage": 2686,
+      "rank": 307
+    },
+    "2023-12": {
+      "name": "Tropius",
+      "percent": 0.044,
+      "usage": 1832,
+      "rank": 383
+    },
+    "2023-12-DLC2": {
+      "name": "Tropius",
+      "percent": 0.04541,
+      "usage": 876,
+      "rank": 382
+    },
+    "2024-01": {
+      "name": "Tropius",
+      "percent": 0.08504,
+      "usage": 2099,
+      "rank": 323
+    },
+    "2024-02": {
+      "name": "Tropius",
+      "percent": 0.12955,
+      "usage": 2803,
+      "rank": 276
+    },
+    "2024-03": {
+      "name": "Tropius",
+      "percent": 0.08709,
+      "usage": 2384,
+      "rank": 329
+    },
+    "2024-04": {
+      "name": "Tropius",
+      "percent": 0.13397,
+      "usage": 1751,
+      "rank": 256
+    },
+    "2024-05": {
+      "name": "Tropius",
+      "percent": 0.05863,
+      "usage": 812,
+      "rank": 343
+    },
+    "2024-06": {
+      "name": "Tropius",
+      "percent": 0.03607,
+      "usage": 1633,
+      "rank": 380
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Tropius",
+      "percent": 0.00064,
+      "usage": 577,
+      "rank": 235
+    },
+    "2022-12": {
+      "name": "Tropius",
+      "percent": 0.00722,
+      "usage": 2526,
+      "rank": 210
+    },
+    "2023-01": {
+      "name": "Tropius",
+      "percent": 0.01397,
+      "usage": 4811,
+      "rank": 202
+    },
+    "2023-02": {
+      "name": "Tropius",
+      "percent": 0.09486,
+      "usage": 3201,
+      "rank": 145
+    },
+    "2023-03": {
+      "name": "Tropius",
+      "percent": 0.2394,
+      "usage": 3041,
+      "rank": 103
+    },
+    "2023-04": {
+      "name": "Tropius",
+      "percent": 0.08588,
+      "usage": 3272,
+      "rank": 133
+    },
+    "2023-05": {
+      "name": "Tropius",
+      "percent": 0.05919,
+      "usage": 2713,
+      "rank": 189
+    },
+    "2023-06": {
+      "name": "Tropius",
+      "percent": 0.01474,
+      "usage": 2936,
+      "rank": 261
+    },
+    "2023-07": {
+      "name": "Tropius",
+      "percent": 0.02712,
+      "usage": 3402,
+      "rank": 232
+    },
+    "2023-08": {
+      "name": "Tropius",
+      "percent": 0.02292,
+      "usage": 4289,
+      "rank": 245
+    },
+    "2023-09": {
+      "name": "Tropius",
+      "percent": 0.01694,
+      "usage": 3428,
+      "rank": 321
+    },
+    "2023-09-DLC1": {
+      "name": "Tropius",
+      "percent": 0.01295,
+      "usage": 1784,
+      "rank": 324
+    },
+    "2023-10": {
+      "name": "Tropius",
+      "percent": 0.00885,
+      "usage": 3723,
+      "rank": 338
+    },
+    "2023-11": {
+      "name": "Tropius",
+      "percent": 0.00902,
+      "usage": 2686,
+      "rank": 327
+    },
+    "2023-12": {
+      "name": "Tropius",
+      "percent": 0.00444,
+      "usage": 1832,
+      "rank": 427
+    },
+    "2023-12-DLC2": {
+      "name": "Tropius",
+      "percent": 0.00467,
+      "usage": 876,
+      "rank": 402
+    },
+    "2024-01": {
+      "name": "Tropius",
+      "percent": 0.01014,
+      "usage": 2099,
+      "rank": 365
+    },
+    "2024-02": {
+      "name": "Tropius",
+      "percent": 0.02779,
+      "usage": 2803,
+      "rank": 276
+    },
+    "2024-03": {
+      "name": "Tropius",
+      "percent": 0.01037,
+      "usage": 2384,
+      "rank": 359
+    },
+    "2024-04": {
+      "name": "Tropius",
+      "percent": 0.01276,
+      "usage": 1751,
+      "rank": 323
+    },
+    "2024-05": {
+      "name": "Tropius",
+      "percent": 0.00827,
+      "usage": 812,
+      "rank": 344
+    },
+    "2024-06": {
+      "name": "Tropius",
+      "percent": 0.00491,
+      "usage": 1633,
+      "rank": 387
+    }
+  }
+}

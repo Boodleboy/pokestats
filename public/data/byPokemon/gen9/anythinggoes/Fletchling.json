@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Fletchling",
+      "percent": 0.00934,
+      "usage": 54,
+      "rank": 352
+    },
+    "2022-12": {
+      "name": "Fletchling",
+      "percent": 0.00906,
+      "usage": 99,
+      "rank": 362
+    },
+    "2023-01": {
+      "name": "Fletchling",
+      "percent": 0.00867,
+      "usage": 70,
+      "rank": 384
+    },
+    "2023-02": {
+      "name": "Fletchling",
+      "percent": 0.02514,
+      "usage": 146,
+      "rank": 319
+    },
+    "2023-03": {
+      "name": "Fletchling",
+      "percent": 0.0162,
+      "usage": 90,
+      "rank": 350
+    },
+    "2023-04": {
+      "name": "Fletchling",
+      "percent": 0.00762,
+      "usage": 36,
+      "rank": 394
+    },
+    "2023-05": {
+      "name": "Fletchling",
+      "percent": 0.00666,
+      "usage": 31,
+      "rank": 494
+    },
+    "2023-06": {
+      "name": "Fletchling",
+      "percent": 0.0169,
+      "usage": 80,
+      "rank": 439
+    },
+    "2023-07": {
+      "name": "Fletchling",
+      "percent": 0.02522,
+      "usage": 116,
+      "rank": 416
+    },
+    "2023-08": {
+      "name": "Fletchling",
+      "percent": 0.00875,
+      "usage": 42,
+      "rank": 505
+    },
+    "2023-09": {
+      "name": "Fletchling",
+      "percent": 0.01006,
+      "usage": 57,
+      "rank": 561
+    },
+    "2023-09-DLC1": {
+      "name": "Fletchling",
+      "percent": 0.00801,
+      "usage": 26,
+      "rank": 577
+    },
+    "2023-10": {
+      "name": "Fletchling",
+      "percent": 0.011,
+      "usage": 68,
+      "rank": 564
+    },
+    "2023-11": {
+      "name": "Fletchling",
+      "percent": 0.01412,
+      "usage": 70,
+      "rank": 556
+    },
+    "2023-12": {
+      "name": "Fletchling",
+      "percent": 0.01974,
+      "usage": 85,
+      "rank": 596
+    },
+    "2023-12-DLC2": {
+      "name": "Fletchling",
+      "percent": 0.00902,
+      "usage": 18,
+      "rank": 652
+    },
+    "2024-01": {
+      "name": "Fletchling",
+      "percent": 0.00264,
+      "usage": 13,
+      "rank": 790
+    },
+    "2024-02": {
+      "name": "Fletchling",
+      "percent": 0.00547,
+      "usage": 25,
+      "rank": 737
+    },
+    "2024-03": {
+      "name": "Fletchling",
+      "percent": 0.004,
+      "usage": 19,
+      "rank": 751
+    },
+    "2024-04": {
+      "name": "Fletchling",
+      "percent": 0.0058,
+      "usage": 26,
+      "rank": 715
+    },
+    "2024-05": {
+      "name": "Fletchling",
+      "percent": 0.00801,
+      "usage": 17,
+      "rank": 664
+    },
+    "2024-06": {
+      "name": "Fletchling",
+      "percent": 0.00247,
+      "usage": 9,
+      "rank": 783
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Fletchling",
+      "percent": 0.00754,
+      "usage": 54,
+      "rank": 354
+    },
+    "2022-12": {
+      "name": "Fletchling",
+      "percent": 0.0065,
+      "usage": 99,
+      "rank": 370
+    },
+    "2023-01": {
+      "name": "Fletchling",
+      "percent": 0.00728,
+      "usage": 70,
+      "rank": 385
+    },
+    "2023-02": {
+      "name": "Fletchling",
+      "percent": 0.01768,
+      "usage": 146,
+      "rank": 328
+    },
+    "2023-03": {
+      "name": "Fletchling",
+      "percent": 0.01306,
+      "usage": 90,
+      "rank": 344
+    },
+    "2023-04": {
+      "name": "Fletchling",
+      "percent": 0.00394,
+      "usage": 36,
+      "rank": 383
+    },
+    "2023-05": {
+      "name": "Fletchling",
+      "percent": 0.00225,
+      "usage": 31,
+      "rank": 516
+    },
+    "2023-06": {
+      "name": "Fletchling",
+      "percent": 0.00398,
+      "usage": 80,
+      "rank": 481
+    },
+    "2023-07": {
+      "name": "Fletchling",
+      "percent": 0.00609,
+      "usage": 116,
+      "rank": 466
+    },
+    "2023-08": {
+      "name": "Fletchling",
+      "percent": 0.00426,
+      "usage": 42,
+      "rank": 487
+    },
+    "2023-09": {
+      "name": "Fletchling",
+      "percent": 0.00602,
+      "usage": 57,
+      "rank": 529
+    },
+    "2023-09-DLC1": {
+      "name": "Fletchling",
+      "percent": 0.0029,
+      "usage": 26,
+      "rank": 589
+    },
+    "2023-10": {
+      "name": "Fletchling",
+      "percent": 0.00479,
+      "usage": 68,
+      "rank": 558
+    },
+    "2023-11": {
+      "name": "Fletchling",
+      "percent": 0.01009,
+      "usage": 70,
+      "rank": 497
+    },
+    "2023-12": {
+      "name": "Fletchling",
+      "percent": 0.00268,
+      "usage": 85,
+      "rank": 716
+    },
+    "2023-12-DLC2": {
+      "name": "Fletchling",
+      "percent": 0.00176,
+      "usage": 18,
+      "rank": 718
+    },
+    "2024-01": {
+      "name": "Fletchling",
+      "percent": 0.00225,
+      "usage": 13,
+      "rank": 729
+    },
+    "2024-02": {
+      "name": "Fletchling",
+      "percent": 0.0044,
+      "usage": 25,
+      "rank": 671
+    },
+    "2024-03": {
+      "name": "Fletchling",
+      "percent": 0.00197,
+      "usage": 19,
+      "rank": 732
+    },
+    "2024-04": {
+      "name": "Fletchling",
+      "percent": 0.00358,
+      "usage": 26,
+      "rank": 675
+    },
+    "2024-05": {
+      "name": "Fletchling",
+      "percent": 0.01587,
+      "usage": 17,
+      "rank": 546
+    },
+    "2024-06": {
+      "name": "Fletchling",
+      "percent": 0.0002,
+      "usage": 9,
+      "rank": 807
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 54,
+      "rank": 306
+    },
+    "2022-12": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 99,
+      "rank": 312
+    },
+    "2023-01": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 70,
+      "rank": 378
+    },
+    "2023-02": {
+      "name": "Fletchling",
+      "percent": 0.00326,
+      "usage": 146,
+      "rank": 302
+    },
+    "2023-03": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 90,
+      "rank": 430
+    },
+    "2023-04": {
+      "name": "Fletchling",
+      "percent": 0.00056,
+      "usage": 36,
+      "rank": 370
+    },
+    "2023-05": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 31,
+      "rank": 548
+    },
+    "2023-06": {
+      "name": "Fletchling",
+      "percent": 0.00093,
+      "usage": 80,
+      "rank": 450
+    },
+    "2023-07": {
+      "name": "Fletchling",
+      "percent": 0.00238,
+      "usage": 116,
+      "rank": 426
+    },
+    "2023-08": {
+      "name": "Fletchling",
+      "percent": 0.00156,
+      "usage": 42,
+      "rank": 440
+    },
+    "2023-09": {
+      "name": "Fletchling",
+      "percent": 0.00059,
+      "usage": 57,
+      "rank": 552
+    },
+    "2023-09-DLC1": {
+      "name": "Fletchling",
+      "percent": 0.00023,
+      "usage": 26,
+      "rank": 575
+    },
+    "2023-10": {
+      "name": "Fletchling",
+      "percent": 0.00032,
+      "usage": 68,
+      "rank": 581
+    },
+    "2023-11": {
+      "name": "Fletchling",
+      "percent": 0.00142,
+      "usage": 70,
+      "rank": 514
+    },
+    "2023-12": {
+      "name": "Fletchling",
+      "percent": 0.0004,
+      "usage": 85,
+      "rank": 675
+    },
+    "2023-12-DLC2": {
+      "name": "Fletchling",
+      "percent": 0.00087,
+      "usage": 18,
+      "rank": 609
+    },
+    "2024-01": {
+      "name": "Fletchling",
+      "percent": 0.00051,
+      "usage": 13,
+      "rank": 664
+    },
+    "2024-02": {
+      "name": "Fletchling",
+      "percent": 0.00045,
+      "usage": 25,
+      "rank": 680
+    },
+    "2024-03": {
+      "name": "Fletchling",
+      "percent": 0.00114,
+      "usage": 19,
+      "rank": 624
+    },
+    "2024-04": {
+      "name": "Fletchling",
+      "percent": 0.00024,
+      "usage": 26,
+      "rank": 666
+    },
+    "2024-05": {
+      "name": "Fletchling",
+      "percent": 0.03892,
+      "usage": 17,
+      "rank": 380
+    },
+    "2024-06": {
+      "name": "Fletchling",
+      "percent": 4e-05,
+      "usage": 9,
+      "rank": 725
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 54,
+      "rank": 302
+    },
+    "2022-12": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 99,
+      "rank": 330
+    },
+    "2023-01": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 70,
+      "rank": 375
+    },
+    "2023-02": {
+      "name": "Fletchling",
+      "percent": 0.00036,
+      "usage": 146,
+      "rank": 296
+    },
+    "2023-03": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 90,
+      "rank": 429
+    },
+    "2023-04": {
+      "name": "Fletchling",
+      "percent": 2e-05,
+      "usage": 36,
+      "rank": 379
+    },
+    "2023-05": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 31,
+      "rank": 550
+    },
+    "2023-06": {
+      "name": "Fletchling",
+      "percent": 0.00034,
+      "usage": 80,
+      "rank": 410
+    },
+    "2023-07": {
+      "name": "Fletchling",
+      "percent": 0.00293,
+      "usage": 116,
+      "rank": 347
+    },
+    "2023-08": {
+      "name": "Fletchling",
+      "percent": 0.00032,
+      "usage": 42,
+      "rank": 412
+    },
+    "2023-09": {
+      "name": "Fletchling",
+      "percent": 1e-05,
+      "usage": 57,
+      "rank": 589
+    },
+    "2023-09-DLC1": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 26,
+      "rank": 595
+    },
+    "2023-10": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 68,
+      "rank": 615
+    },
+    "2023-11": {
+      "name": "Fletchling",
+      "percent": 0.00021,
+      "usage": 70,
+      "rank": 498
+    },
+    "2023-12": {
+      "name": "Fletchling",
+      "percent": 7e-05,
+      "usage": 85,
+      "rank": 631
+    },
+    "2023-12-DLC2": {
+      "name": "Fletchling",
+      "percent": 0.00016,
+      "usage": 18,
+      "rank": 564
+    },
+    "2024-01": {
+      "name": "Fletchling",
+      "percent": 1e-05,
+      "usage": 13,
+      "rank": 691
+    },
+    "2024-02": {
+      "name": "Fletchling",
+      "percent": 2e-05,
+      "usage": 25,
+      "rank": 683
+    },
+    "2024-03": {
+      "name": "Fletchling",
+      "percent": 0.00046,
+      "usage": 19,
+      "rank": 562
+    },
+    "2024-04": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 26,
+      "rank": 675
+    },
+    "2024-05": {
+      "name": "Fletchling",
+      "percent": 0.00655,
+      "usage": 17,
+      "rank": 362
+    },
+    "2024-06": {
+      "name": "Fletchling",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 719
+    }
+  }
+}

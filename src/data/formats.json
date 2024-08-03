@@ -1,59 +1,138 @@
 {
-	"currentMonth": "2024-04",
-	"formats": [
+	"currentMonth": "2024-07",
+	"gens": [
 		{
-			"name": "gen9ou",
-			"label": "Gen 9 OU",
-			"firstMonth": "2022-11",
-			"elos": [
-				"0",
-				"1500",
-				"1695",
-				"1825"
+			"name": "gen1",
+			"label": "Gen 1",
+			"hasFormatless": false,
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2014-12",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
 			]
 		},
 		{
-			"name": "gen9ubers",
-			"label": "Gen 9 Ubers",
-			"firstMonth": "2022-11",
-			"elos": [
-				"0",
-				"1500",
-				"1630",
-				"1760"
+			"name": "gen2",
+			"label": "Gen 2",
+			"hasFormatless": false,
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2014-12",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
 			]
 		},
 		{
-			"name": "gen9nationaldex",
-			"label": "Gen 9 National Dex",
-			"firstMonth": "2022-11",
-			"elos": [
-				"0",
-				"1500",
-				"1630",
-				"1760"
+			"name": "gen3",
+			"label": "Gen 3",
+			"hasFormatless": false,
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2015-03",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
 			]
 		},
 		{
-			"name": "gen9lc",
-			"label": "Gen 9 Little Cup",
-			"firstMonth": "2022-11",
-			"elos": [
-				"0",
-				"1500",
-				"1630",
-				"1760"
+			"name": "gen4",
+			"label": "Gen 4",
+			"hasFormatless": false,
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2014-11",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
 			]
 		},
 		{
-			"name": "gen9anythinggoes",
-			"label": "Gen 9 Anything Goes",
-			"firstMonth": "2022-11",
-			"elos": [
-				"0",
-				"1500",
-				"1630",
-				"1760"
+			"name": "gen9",
+			"label": "Gen 9",
+			"hasFormatless": false,
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2022-11",
+					"elos": [
+						"0",
+						"1500",
+						"1695",
+						"1825"
+					]
+				},
+				{
+					"name": "ubers",
+					"label": "Ubers",
+					"firstMonth": "2022-11",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				},
+				{
+					"name": "nationaldex",
+					"label": "National Dex",
+					"firstMonth": "2022-11",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				},
+				{
+					"name": "lc",
+					"label": "Little Cup",
+					"firstMonth": "2022-11",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				},
+				{
+					"name": "anythinggoes",
+					"label": "Anything Goes",
+					"firstMonth": "2022-11",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
 			]
 		}
 	]

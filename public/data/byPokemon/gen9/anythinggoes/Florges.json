@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Florges",
+      "percent": 0.73955,
+      "usage": 4278,
+      "rank": 119
+    },
+    "2022-12": {
+      "name": "Florges",
+      "percent": 0.73508,
+      "usage": 8028,
+      "rank": 122
+    },
+    "2023-01": {
+      "name": "Florges",
+      "percent": 0.71162,
+      "usage": 5745,
+      "rank": 136
+    },
+    "2023-02": {
+      "name": "Florges",
+      "percent": 0.70054,
+      "usage": 4068,
+      "rank": 139
+    },
+    "2023-03": {
+      "name": "Florges",
+      "percent": 0.67801,
+      "usage": 3767,
+      "rank": 144
+    },
+    "2023-04": {
+      "name": "Florges",
+      "percent": 0.61692,
+      "usage": 2914,
+      "rank": 153
+    },
+    "2023-05": {
+      "name": "Florges",
+      "percent": 0.64053,
+      "usage": 2982,
+      "rank": 157
+    },
+    "2023-06": {
+      "name": "Florges",
+      "percent": 0.43272,
+      "usage": 2048,
+      "rank": 229
+    },
+    "2023-07": {
+      "name": "Florges",
+      "percent": 0.49511,
+      "usage": 2277,
+      "rank": 216
+    },
+    "2023-08": {
+      "name": "Florges",
+      "percent": 0.50711,
+      "usage": 2433,
+      "rank": 214
+    },
+    "2023-09": {
+      "name": "Florges",
+      "percent": 0.33204,
+      "usage": 1881,
+      "rank": 289
+    },
+    "2023-09-DLC1": {
+      "name": "Florges",
+      "percent": 0.26884,
+      "usage": 873,
+      "rank": 309
+    },
+    "2023-10": {
+      "name": "Florges",
+      "percent": 0.32785,
+      "usage": 2026,
+      "rank": 290
+    },
+    "2023-11": {
+      "name": "Florges",
+      "percent": 0.36079,
+      "usage": 1789,
+      "rank": 280
+    },
+    "2023-12": {
+      "name": "Florges",
+      "percent": 0.33938,
+      "usage": 1461,
+      "rank": 308
+    },
+    "2023-12-DLC2": {
+      "name": "Florges",
+      "percent": 0.24266,
+      "usage": 484,
+      "rank": 373
+    },
+    "2024-01": {
+      "name": "Florges",
+      "percent": 0.23166,
+      "usage": 1139,
+      "rank": 375
+    },
+    "2024-02": {
+      "name": "Florges",
+      "percent": 0.28598,
+      "usage": 1308,
+      "rank": 347
+    },
+    "2024-03": {
+      "name": "Florges",
+      "percent": 0.23273,
+      "usage": 1106,
+      "rank": 380
+    },
+    "2024-04": {
+      "name": "Florges",
+      "percent": 0.2044,
+      "usage": 917,
+      "rank": 399
+    },
+    "2024-05": {
+      "name": "Florges",
+      "percent": 0.3379,
+      "usage": 717,
+      "rank": 306
+    },
+    "2024-06": {
+      "name": "Florges",
+      "percent": 0.25582,
+      "usage": 934,
+      "rank": 354
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Florges",
+      "percent": 0.75816,
+      "usage": 4278,
+      "rank": 117
+    },
+    "2022-12": {
+      "name": "Florges",
+      "percent": 0.75696,
+      "usage": 8028,
+      "rank": 117
+    },
+    "2023-01": {
+      "name": "Florges",
+      "percent": 0.71313,
+      "usage": 5745,
+      "rank": 131
+    },
+    "2023-02": {
+      "name": "Florges",
+      "percent": 0.7238,
+      "usage": 4068,
+      "rank": 136
+    },
+    "2023-03": {
+      "name": "Florges",
+      "percent": 0.69152,
+      "usage": 3767,
+      "rank": 133
+    },
+    "2023-04": {
+      "name": "Florges",
+      "percent": 0.60675,
+      "usage": 2914,
+      "rank": 140
+    },
+    "2023-05": {
+      "name": "Florges",
+      "percent": 0.689,
+      "usage": 2982,
+      "rank": 138
+    },
+    "2023-06": {
+      "name": "Florges",
+      "percent": 0.4179,
+      "usage": 2048,
+      "rank": 206
+    },
+    "2023-07": {
+      "name": "Florges",
+      "percent": 0.33582,
+      "usage": 2277,
+      "rank": 225
+    },
+    "2023-08": {
+      "name": "Florges",
+      "percent": 0.40348,
+      "usage": 2433,
+      "rank": 213
+    },
+    "2023-09": {
+      "name": "Florges",
+      "percent": 0.27307,
+      "usage": 1881,
+      "rank": 282
+    },
+    "2023-09-DLC1": {
+      "name": "Florges",
+      "percent": 0.23615,
+      "usage": 873,
+      "rank": 293
+    },
+    "2023-10": {
+      "name": "Florges",
+      "percent": 0.23991,
+      "usage": 2026,
+      "rank": 293
+    },
+    "2023-11": {
+      "name": "Florges",
+      "percent": 0.30544,
+      "usage": 1789,
+      "rank": 262
+    },
+    "2023-12": {
+      "name": "Florges",
+      "percent": 0.23179,
+      "usage": 1461,
+      "rank": 324
+    },
+    "2023-12-DLC2": {
+      "name": "Florges",
+      "percent": 0.16477,
+      "usage": 484,
+      "rank": 380
+    },
+    "2024-01": {
+      "name": "Florges",
+      "percent": 0.18235,
+      "usage": 1139,
+      "rank": 355
+    },
+    "2024-02": {
+      "name": "Florges",
+      "percent": 0.21604,
+      "usage": 1308,
+      "rank": 333
+    },
+    "2024-03": {
+      "name": "Florges",
+      "percent": 0.20227,
+      "usage": 1106,
+      "rank": 349
+    },
+    "2024-04": {
+      "name": "Florges",
+      "percent": 0.12791,
+      "usage": 917,
+      "rank": 396
+    },
+    "2024-05": {
+      "name": "Florges",
+      "percent": 0.21112,
+      "usage": 717,
+      "rank": 326
+    },
+    "2024-06": {
+      "name": "Florges",
+      "percent": 0.15519,
+      "usage": 934,
+      "rank": 371
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Florges",
+      "percent": 0.34823,
+      "usage": 4278,
+      "rank": 124
+    },
+    "2022-12": {
+      "name": "Florges",
+      "percent": 0.56673,
+      "usage": 8028,
+      "rank": 103
+    },
+    "2023-01": {
+      "name": "Florges",
+      "percent": 0.99439,
+      "usage": 5745,
+      "rank": 85
+    },
+    "2023-02": {
+      "name": "Florges",
+      "percent": 1.31908,
+      "usage": 4068,
+      "rank": 73
+    },
+    "2023-03": {
+      "name": "Florges",
+      "percent": 0.58806,
+      "usage": 3767,
+      "rank": 113
+    },
+    "2023-04": {
+      "name": "Florges",
+      "percent": 0.74291,
+      "usage": 2914,
+      "rank": 95
+    },
+    "2023-05": {
+      "name": "Florges",
+      "percent": 0.81205,
+      "usage": 2982,
+      "rank": 96
+    },
+    "2023-06": {
+      "name": "Florges",
+      "percent": 0.37237,
+      "usage": 2048,
+      "rank": 156
+    },
+    "2023-07": {
+      "name": "Florges",
+      "percent": 0.25812,
+      "usage": 2277,
+      "rank": 176
+    },
+    "2023-08": {
+      "name": "Florges",
+      "percent": 0.20047,
+      "usage": 2433,
+      "rank": 203
+    },
+    "2023-09": {
+      "name": "Florges",
+      "percent": 0.14969,
+      "usage": 1881,
+      "rank": 255
+    },
+    "2023-09-DLC1": {
+      "name": "Florges",
+      "percent": 0.10515,
+      "usage": 873,
+      "rank": 288
+    },
+    "2023-10": {
+      "name": "Florges",
+      "percent": 0.10844,
+      "usage": 2026,
+      "rank": 286
+    },
+    "2023-11": {
+      "name": "Florges",
+      "percent": 0.10743,
+      "usage": 1789,
+      "rank": 267
+    },
+    "2023-12": {
+      "name": "Florges",
+      "percent": 0.05778,
+      "usage": 1461,
+      "rank": 360
+    },
+    "2023-12-DLC2": {
+      "name": "Florges",
+      "percent": 0.03971,
+      "usage": 484,
+      "rank": 392
+    },
+    "2024-01": {
+      "name": "Florges",
+      "percent": 0.07648,
+      "usage": 1139,
+      "rank": 338
+    },
+    "2024-02": {
+      "name": "Florges",
+      "percent": 0.07266,
+      "usage": 1308,
+      "rank": 331
+    },
+    "2024-03": {
+      "name": "Florges",
+      "percent": 0.04552,
+      "usage": 1106,
+      "rank": 388
+    },
+    "2024-04": {
+      "name": "Florges",
+      "percent": 0.03273,
+      "usage": 917,
+      "rank": 403
+    },
+    "2024-05": {
+      "name": "Florges",
+      "percent": 0.12093,
+      "usage": 717,
+      "rank": 269
+    },
+    "2024-06": {
+      "name": "Florges",
+      "percent": 0.03128,
+      "usage": 934,
+      "rank": 395
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Florges",
+      "percent": 0.10625,
+      "usage": 4278,
+      "rank": 138
+    },
+    "2022-12": {
+      "name": "Florges",
+      "percent": 0.79709,
+      "usage": 8028,
+      "rank": 65
+    },
+    "2023-01": {
+      "name": "Florges",
+      "percent": 1.80517,
+      "usage": 5745,
+      "rank": 48
+    },
+    "2023-02": {
+      "name": "Florges",
+      "percent": 1.49625,
+      "usage": 4068,
+      "rank": 50
+    },
+    "2023-03": {
+      "name": "Florges",
+      "percent": 0.95045,
+      "usage": 3767,
+      "rank": 70
+    },
+    "2023-04": {
+      "name": "Florges",
+      "percent": 1.26672,
+      "usage": 2914,
+      "rank": 53
+    },
+    "2023-05": {
+      "name": "Florges",
+      "percent": 1.98857,
+      "usage": 2982,
+      "rank": 45
+    },
+    "2023-06": {
+      "name": "Florges",
+      "percent": 0.10172,
+      "usage": 2048,
+      "rank": 156
+    },
+    "2023-07": {
+      "name": "Florges",
+      "percent": 0.05378,
+      "usage": 2277,
+      "rank": 192
+    },
+    "2023-08": {
+      "name": "Florges",
+      "percent": 0.16373,
+      "usage": 2433,
+      "rank": 139
+    },
+    "2023-09": {
+      "name": "Florges",
+      "percent": 0.04471,
+      "usage": 1881,
+      "rank": 244
+    },
+    "2023-09-DLC1": {
+      "name": "Florges",
+      "percent": 0.04381,
+      "usage": 873,
+      "rank": 246
+    },
+    "2023-10": {
+      "name": "Florges",
+      "percent": 0.03154,
+      "usage": 2026,
+      "rank": 261
+    },
+    "2023-11": {
+      "name": "Florges",
+      "percent": 0.055,
+      "usage": 1789,
+      "rank": 209
+    },
+    "2023-12": {
+      "name": "Florges",
+      "percent": 0.01481,
+      "usage": 1461,
+      "rank": 336
+    },
+    "2023-12-DLC2": {
+      "name": "Florges",
+      "percent": 0.01398,
+      "usage": 484,
+      "rank": 342
+    },
+    "2024-01": {
+      "name": "Florges",
+      "percent": 0.01431,
+      "usage": 1139,
+      "rank": 330
+    },
+    "2024-02": {
+      "name": "Florges",
+      "percent": 0.02157,
+      "usage": 1308,
+      "rank": 298
+    },
+    "2024-03": {
+      "name": "Florges",
+      "percent": 0.00681,
+      "usage": 1106,
+      "rank": 397
+    },
+    "2024-04": {
+      "name": "Florges",
+      "percent": 0.02683,
+      "usage": 917,
+      "rank": 256
+    },
+    "2024-05": {
+      "name": "Florges",
+      "percent": 0.07579,
+      "usage": 717,
+      "rank": 173
+    },
+    "2024-06": {
+      "name": "Florges",
+      "percent": 0.00735,
+      "usage": 934,
+      "rank": 357
+    }
+  }
+}

@@ -1,0 +1,656 @@
+[
+  {
+    "name": "Tauros",
+    "percent": 54.90307,
+    "usage": 877,
+    "rank": 1
+  },
+  {
+    "name": "Chansey",
+    "percent": 50.31195,
+    "usage": 803,
+    "rank": 2
+  },
+  {
+    "name": "Alakazam",
+    "percent": 50.04191,
+    "usage": 920,
+    "rank": 3
+  },
+  {
+    "name": "Starmie",
+    "percent": 44.18122,
+    "usage": 682,
+    "rank": 4
+  },
+  {
+    "name": "Snorlax",
+    "percent": 40.57486,
+    "usage": 670,
+    "rank": 5
+  },
+  {
+    "name": "Exeggutor",
+    "percent": 37.77109,
+    "usage": 634,
+    "rank": 6
+  },
+  {
+    "name": "Gengar",
+    "percent": 34.51186,
+    "usage": 648,
+    "rank": 7
+  },
+  {
+    "name": "Dragonite",
+    "percent": 28.86815,
+    "usage": 584,
+    "rank": 8
+  },
+  {
+    "name": "Rhydon",
+    "percent": 25.29471,
+    "usage": 460,
+    "rank": 9
+  },
+  {
+    "name": "Golem",
+    "percent": 17.30959,
+    "usage": 323,
+    "rank": 10
+  },
+  {
+    "name": "Lapras",
+    "percent": 15.80746,
+    "usage": 261,
+    "rank": 11
+  },
+  {
+    "name": "Jynx",
+    "percent": 15.40505,
+    "usage": 245,
+    "rank": 12
+  },
+  {
+    "name": "Jolteon",
+    "percent": 15.01456,
+    "usage": 291,
+    "rank": 13
+  },
+  {
+    "name": "Persian",
+    "percent": 13.26019,
+    "usage": 253,
+    "rank": 14
+  },
+  {
+    "name": "Victreebel",
+    "percent": 12.11717,
+    "usage": 165,
+    "rank": 15
+  },
+  {
+    "name": "Slowbro",
+    "percent": 11.55885,
+    "usage": 250,
+    "rank": 16
+  },
+  {
+    "name": "Zapdos",
+    "percent": 11.51566,
+    "usage": 234,
+    "rank": 17
+  },
+  {
+    "name": "Cloyster",
+    "percent": 11.12479,
+    "usage": 195,
+    "rank": 18
+  },
+  {
+    "name": "Moltres",
+    "percent": 10.98982,
+    "usage": 151,
+    "rank": 19
+  },
+  {
+    "name": "Venusaur",
+    "percent": 8.94606,
+    "usage": 228,
+    "rank": 20
+  },
+  {
+    "name": "Charizard",
+    "percent": 8.70228,
+    "usage": 275,
+    "rank": 21
+  },
+  {
+    "name": "Blastoise",
+    "percent": 7.22765,
+    "usage": 212,
+    "rank": 22
+  },
+  {
+    "name": "Articuno",
+    "percent": 6.54584,
+    "usage": 131,
+    "rank": 23
+  },
+  {
+    "name": "Clefable",
+    "percent": 5.27682,
+    "usage": 97,
+    "rank": 24
+  },
+  {
+    "name": "Arcanine",
+    "percent": 5.23651,
+    "usage": 139,
+    "rank": 25
+  },
+  {
+    "name": "Gyarados",
+    "percent": 3.56628,
+    "usage": 89,
+    "rank": 26
+  },
+  {
+    "name": "Sandslash",
+    "percent": 3.51318,
+    "usage": 70,
+    "rank": 27
+  },
+  {
+    "name": "Rapidash",
+    "percent": 3.4183,
+    "usage": 72,
+    "rank": 28
+  },
+  {
+    "name": "Machamp",
+    "percent": 3.21781,
+    "usage": 55,
+    "rank": 29
+  },
+  {
+    "name": "Raichu",
+    "percent": 3.06893,
+    "usage": 95,
+    "rank": 30
+  },
+  {
+    "name": "Dugtrio",
+    "percent": 2.46697,
+    "usage": 52,
+    "rank": 31
+  },
+  {
+    "name": "Scyther",
+    "percent": 1.98403,
+    "usage": 63,
+    "rank": 32
+  },
+  {
+    "name": "Ninetales",
+    "percent": 1.88574,
+    "usage": 31,
+    "rank": 33
+  },
+  {
+    "name": "Nidoking",
+    "percent": 1.78218,
+    "usage": 58,
+    "rank": 34
+  },
+  {
+    "name": "Electrode",
+    "percent": 1.63858,
+    "usage": 34,
+    "rank": 35
+  },
+  {
+    "name": "Hypno",
+    "percent": 1.5686,
+    "usage": 29,
+    "rank": 36
+  },
+  {
+    "name": "Golduck",
+    "percent": 1.50296,
+    "usage": 26,
+    "rank": 37
+  },
+  {
+    "name": "Raticate",
+    "percent": 1.38091,
+    "usage": 21,
+    "rank": 38
+  },
+  {
+    "name": "Aerodactyl",
+    "percent": 1.26379,
+    "usage": 31,
+    "rank": 39
+  },
+  {
+    "name": "Pidgeot",
+    "percent": 1.19688,
+    "usage": 39,
+    "rank": 40
+  },
+  {
+    "name": "Mr. Mime",
+    "percent": 0.93685,
+    "usage": 39,
+    "rank": 41
+  },
+  {
+    "name": "Fearow",
+    "percent": 0.93335,
+    "usage": 34,
+    "rank": 42
+  },
+  {
+    "name": "Tangela",
+    "percent": 0.92858,
+    "usage": 16,
+    "rank": 43
+  },
+  {
+    "name": "Kangaskhan",
+    "percent": 0.87518,
+    "usage": 19,
+    "rank": 44
+  },
+  {
+    "name": "Pikachu",
+    "percent": 0.87078,
+    "usage": 26,
+    "rank": 45
+  },
+  {
+    "name": "Hitmonlee",
+    "percent": 0.86129,
+    "usage": 27,
+    "rank": 46
+  },
+  {
+    "name": "Magneton",
+    "percent": 0.83116,
+    "usage": 21,
+    "rank": 47
+  },
+  {
+    "name": "Electabuzz",
+    "percent": 0.78798,
+    "usage": 20,
+    "rank": 48
+  },
+  {
+    "name": "Poliwrath",
+    "percent": 0.78018,
+    "usage": 28,
+    "rank": 49
+  },
+  {
+    "name": "Golbat",
+    "percent": 0.75111,
+    "usage": 15,
+    "rank": 50
+  },
+  {
+    "name": "Arbok",
+    "percent": 0.68357,
+    "usage": 15,
+    "rank": 51
+  },
+  {
+    "name": "Vaporeon",
+    "percent": 0.68336,
+    "usage": 17,
+    "rank": 52
+  },
+  {
+    "name": "Kabutops",
+    "percent": 0.64715,
+    "usage": 20,
+    "rank": 53
+  },
+  {
+    "name": "Dodrio",
+    "percent": 0.57474,
+    "usage": 16,
+    "rank": 54
+  },
+  {
+    "name": "Venomoth",
+    "percent": 0.47234,
+    "usage": 13,
+    "rank": 55
+  },
+  {
+    "name": "Vileplume",
+    "percent": 0.47007,
+    "usage": 13,
+    "rank": 56
+  },
+  {
+    "name": "Ditto",
+    "percent": 0.4652,
+    "usage": 14,
+    "rank": 57
+  },
+  {
+    "name": "Butterfree",
+    "percent": 0.44975,
+    "usage": 14,
+    "rank": 58
+  },
+  {
+    "name": "Omastar",
+    "percent": 0.43634,
+    "usage": 12,
+    "rank": 59
+  },
+  {
+    "name": "Beedrill",
+    "percent": 0.38943,
+    "usage": 9,
+    "rank": 60
+  },
+  {
+    "name": "Marowak",
+    "percent": 0.36134,
+    "usage": 9,
+    "rank": 61
+  },
+  {
+    "name": "Poliwhirl",
+    "percent": 0.36007,
+    "usage": 5,
+    "rank": 62
+  },
+  {
+    "name": "Hitmonchan",
+    "percent": 0.32581,
+    "usage": 9,
+    "rank": 63
+  },
+  {
+    "name": "Dragonair",
+    "percent": 0.31512,
+    "usage": 8,
+    "rank": 64
+  },
+  {
+    "name": "Flareon",
+    "percent": 0.31495,
+    "usage": 8,
+    "rank": 65
+  },
+  {
+    "name": "Onix",
+    "percent": 0.30258,
+    "usage": 7,
+    "rank": 66
+  },
+  {
+    "name": "Muk",
+    "percent": 0.29204,
+    "usage": 9,
+    "rank": 67
+  },
+  {
+    "name": "Nidoqueen",
+    "percent": 0.27789,
+    "usage": 6,
+    "rank": 68
+  },
+  {
+    "name": "Parasect",
+    "percent": 0.27705,
+    "usage": 8,
+    "rank": 69
+  },
+  {
+    "name": "Tentacruel",
+    "percent": 0.24658,
+    "usage": 6,
+    "rank": 70
+  },
+  {
+    "name": "Weezing",
+    "percent": 0.20318,
+    "usage": 5,
+    "rank": 71
+  },
+  {
+    "name": "Squirtle",
+    "percent": 0.1995,
+    "usage": 6,
+    "rank": 72
+  },
+  {
+    "name": "Magmar",
+    "percent": 0.195,
+    "usage": 6,
+    "rank": 73
+  },
+  {
+    "name": "Primeape",
+    "percent": 0.18743,
+    "usage": 7,
+    "rank": 74
+  },
+  {
+    "name": "Porygon",
+    "percent": 0.17897,
+    "usage": 6,
+    "rank": 75
+  },
+  {
+    "name": "Wigglytuff",
+    "percent": 0.17663,
+    "usage": 5,
+    "rank": 76
+  },
+  {
+    "name": "Kingler",
+    "percent": 0.12899,
+    "usage": 6,
+    "rank": 77
+  },
+  {
+    "name": "Farfetch'd",
+    "percent": 0.12379,
+    "usage": 2,
+    "rank": 78
+  },
+  {
+    "name": "Voltorb",
+    "percent": 0.11372,
+    "usage": 2,
+    "rank": 79
+  },
+  {
+    "name": "Bulbasaur",
+    "percent": 0.10965,
+    "usage": 4,
+    "rank": 80
+  },
+  {
+    "name": "Diglett",
+    "percent": 0.08695,
+    "usage": 2,
+    "rank": 81
+  },
+  {
+    "name": "Charmander",
+    "percent": 0.07616,
+    "usage": 2,
+    "rank": 82
+  },
+  {
+    "name": "Machoke",
+    "percent": 0.07149,
+    "usage": 2,
+    "rank": 83
+  },
+  {
+    "name": "Magikarp",
+    "percent": 0.07101,
+    "usage": 2,
+    "rank": 84
+  },
+  {
+    "name": "Sandshrew",
+    "percent": 0.06778,
+    "usage": 2,
+    "rank": 85
+  },
+  {
+    "name": "Dewgong",
+    "percent": 0.06274,
+    "usage": 2,
+    "rank": 86
+  },
+  {
+    "name": "Abra",
+    "percent": 0.06124,
+    "usage": 1,
+    "rank": 87
+  },
+  {
+    "name": "Graveler",
+    "percent": 0.06124,
+    "usage": 1,
+    "rank": 88
+  },
+  {
+    "name": "Gastly",
+    "percent": 0.06124,
+    "usage": 1,
+    "rank": 89
+  },
+  {
+    "name": "Exeggcute",
+    "percent": 0.05713,
+    "usage": 1,
+    "rank": 90
+  },
+  {
+    "name": "Charmeleon",
+    "percent": 0.05705,
+    "usage": 2,
+    "rank": 91
+  },
+  {
+    "name": "Weepinbell",
+    "percent": 0.05055,
+    "usage": 1,
+    "rank": 92
+  },
+  {
+    "name": "Pinsir",
+    "percent": 0.04216,
+    "usage": 1,
+    "rank": 93
+  },
+  {
+    "name": "Pidgey",
+    "percent": 0.03886,
+    "usage": 2,
+    "rank": 94
+  },
+  {
+    "name": "Poliwag",
+    "percent": 0.03383,
+    "usage": 1,
+    "rank": 95
+  },
+  {
+    "name": "Ekans",
+    "percent": 0.03383,
+    "usage": 1,
+    "rank": 96
+  },
+  {
+    "name": "Metapod",
+    "percent": 0.03383,
+    "usage": 1,
+    "rank": 97
+  },
+  {
+    "name": "Ivysaur",
+    "percent": 0.03383,
+    "usage": 1,
+    "rank": 98
+  },
+  {
+    "name": "Weedle",
+    "percent": 0.03383,
+    "usage": 1,
+    "rank": 99
+  },
+  {
+    "name": "Caterpie",
+    "percent": 0.03383,
+    "usage": 1,
+    "rank": 100
+  },
+  {
+    "name": "Seadra",
+    "percent": 0.03335,
+    "usage": 1,
+    "rank": 101
+  },
+  {
+    "name": "Eevee",
+    "percent": 0.02432,
+    "usage": 1,
+    "rank": 102
+  },
+  {
+    "name": "Jigglypuff",
+    "percent": 0.01952,
+    "usage": 1,
+    "rank": 103
+  },
+  {
+    "name": "Psyduck",
+    "percent": 0.01388,
+    "usage": 1,
+    "rank": 104
+  },
+  {
+    "name": "Kadabra",
+    "percent": 0.01281,
+    "usage": 1,
+    "rank": 105
+  },
+  {
+    "name": "Mankey",
+    "percent": 0.00014,
+    "usage": 1,
+    "rank": 106
+  },
+  {
+    "name": "Rattata",
+    "percent": 0.00014,
+    "usage": 1,
+    "rank": 107
+  },
+  {
+    "name": "Spearow",
+    "percent": 0.00014,
+    "usage": 1,
+    "rank": 108
+  },
+  {
+    "name": "NidoranM",
+    "percent": 0.00014,
+    "usage": 1,
+    "rank": 109
+  }
+]

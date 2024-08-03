@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Lycanroc",
+      "percent": 0.26377,
+      "usage": 1559,
+      "rank": 367
+    },
+    "2022-12": {
+      "name": "Lycanroc",
+      "percent": 0.23428,
+      "usage": 2879,
+      "rank": 399
+    },
+    "2023-01": {
+      "name": "Lycanroc",
+      "percent": 0.20716,
+      "usage": 2813,
+      "rank": 394
+    },
+    "2023-02": {
+      "name": "Lycanroc",
+      "percent": 0.19845,
+      "usage": 3097,
+      "rank": 400
+    },
+    "2023-03": {
+      "name": "Lycanroc",
+      "percent": 0.2615,
+      "usage": 4612,
+      "rank": 337
+    },
+    "2023-04": {
+      "name": "Lycanroc",
+      "percent": 0.18829,
+      "usage": 3314,
+      "rank": 398
+    },
+    "2023-05": {
+      "name": "Lycanroc",
+      "percent": 0.21705,
+      "usage": 4051,
+      "rank": 366
+    },
+    "2023-06": {
+      "name": "Lycanroc",
+      "percent": 0.13079,
+      "usage": 2199,
+      "rank": 446
+    },
+    "2023-07": {
+      "name": "Lycanroc",
+      "percent": 0.20334,
+      "usage": 3291,
+      "rank": 369
+    },
+    "2023-08": {
+      "name": "Lycanroc",
+      "percent": 0.22442,
+      "usage": 4129,
+      "rank": 344
+    },
+    "2023-09": {
+      "name": "Lycanroc",
+      "percent": 0.15764,
+      "usage": 2703,
+      "rank": 426
+    },
+    "2023-09-DLC1": {
+      "name": "Lycanroc",
+      "percent": 0.14461,
+      "usage": 1234,
+      "rank": 430
+    },
+    "2023-10": {
+      "name": "Lycanroc",
+      "percent": 0.16973,
+      "usage": 2676,
+      "rank": 423
+    },
+    "2023-11": {
+      "name": "Lycanroc",
+      "percent": 0.19574,
+      "usage": 2647,
+      "rank": 401
+    },
+    "2023-12": {
+      "name": "Lycanroc",
+      "percent": 0.18612,
+      "usage": 2380,
+      "rank": 404
+    },
+    "2023-12-DLC2": {
+      "name": "Lycanroc",
+      "percent": 0.1588,
+      "usage": 870,
+      "rank": 420
+    },
+    "2024-01": {
+      "name": "Lycanroc",
+      "percent": 0.15231,
+      "usage": 1880,
+      "rank": 438
+    },
+    "2024-02": {
+      "name": "Lycanroc",
+      "percent": 0.13785,
+      "usage": 1785,
+      "rank": 447
+    },
+    "2024-03": {
+      "name": "Lycanroc",
+      "percent": 0.1388,
+      "usage": 1868,
+      "rank": 455
+    },
+    "2024-04": {
+      "name": "Lycanroc",
+      "percent": 0.1421,
+      "usage": 1728,
+      "rank": 460
+    },
+    "2024-05": {
+      "name": "Lycanroc",
+      "percent": 0.13776,
+      "usage": 824,
+      "rank": 452
+    },
+    "2024-06": {
+      "name": "Lycanroc",
+      "percent": 0.13113,
+      "usage": 1711,
+      "rank": 433
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Lycanroc",
+      "percent": 0.25496,
+      "usage": 1559,
+      "rank": 366
+    },
+    "2022-12": {
+      "name": "Lycanroc",
+      "percent": 0.2251,
+      "usage": 2879,
+      "rank": 398
+    },
+    "2023-01": {
+      "name": "Lycanroc",
+      "percent": 0.19418,
+      "usage": 2813,
+      "rank": 397
+    },
+    "2023-02": {
+      "name": "Lycanroc",
+      "percent": 0.1857,
+      "usage": 3097,
+      "rank": 396
+    },
+    "2023-03": {
+      "name": "Lycanroc",
+      "percent": 0.22651,
+      "usage": 4612,
+      "rank": 328
+    },
+    "2023-04": {
+      "name": "Lycanroc",
+      "percent": 0.10448,
+      "usage": 3314,
+      "rank": 392
+    },
+    "2023-05": {
+      "name": "Lycanroc",
+      "percent": 0.1436,
+      "usage": 4051,
+      "rank": 337
+    },
+    "2023-06": {
+      "name": "Lycanroc",
+      "percent": 0.07386,
+      "usage": 2199,
+      "rank": 418
+    },
+    "2023-07": {
+      "name": "Lycanroc",
+      "percent": 0.13501,
+      "usage": 3291,
+      "rank": 341
+    },
+    "2023-08": {
+      "name": "Lycanroc",
+      "percent": 0.13881,
+      "usage": 4129,
+      "rank": 328
+    },
+    "2023-09": {
+      "name": "Lycanroc",
+      "percent": 0.09895,
+      "usage": 2703,
+      "rank": 380
+    },
+    "2023-09-DLC1": {
+      "name": "Lycanroc",
+      "percent": 0.09553,
+      "usage": 1234,
+      "rank": 382
+    },
+    "2023-10": {
+      "name": "Lycanroc",
+      "percent": 0.10866,
+      "usage": 2676,
+      "rank": 375
+    },
+    "2023-11": {
+      "name": "Lycanroc",
+      "percent": 0.13064,
+      "usage": 2647,
+      "rank": 360
+    },
+    "2023-12": {
+      "name": "Lycanroc",
+      "percent": 0.07094,
+      "usage": 2380,
+      "rank": 442
+    },
+    "2023-12-DLC2": {
+      "name": "Lycanroc",
+      "percent": 0.06171,
+      "usage": 870,
+      "rank": 455
+    },
+    "2024-01": {
+      "name": "Lycanroc",
+      "percent": 0.07309,
+      "usage": 1880,
+      "rank": 414
+    },
+    "2024-02": {
+      "name": "Lycanroc",
+      "percent": 0.081,
+      "usage": 1785,
+      "rank": 391
+    },
+    "2024-03": {
+      "name": "Lycanroc",
+      "percent": 0.07021,
+      "usage": 1868,
+      "rank": 424
+    },
+    "2024-04": {
+      "name": "Lycanroc",
+      "percent": 0.10067,
+      "usage": 1728,
+      "rank": 375
+    },
+    "2024-05": {
+      "name": "Lycanroc",
+      "percent": 0.06272,
+      "usage": 824,
+      "rank": 417
+    },
+    "2024-06": {
+      "name": "Lycanroc",
+      "percent": 0.04538,
+      "usage": 1711,
+      "rank": 451
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Lycanroc",
+      "percent": 0.00307,
+      "usage": 1559,
+      "rank": 523
+    },
+    "2022-12": {
+      "name": "Lycanroc",
+      "percent": 0.00406,
+      "usage": 2879,
+      "rank": 542
+    },
+    "2023-01": {
+      "name": "Lycanroc",
+      "percent": 0.03715,
+      "usage": 2813,
+      "rank": 384
+    },
+    "2023-02": {
+      "name": "Lycanroc",
+      "percent": 0.15498,
+      "usage": 3097,
+      "rank": 262
+    },
+    "2023-03": {
+      "name": "Lycanroc",
+      "percent": 0.08685,
+      "usage": 4612,
+      "rank": 282
+    },
+    "2023-04": {
+      "name": "Lycanroc",
+      "percent": 0.06131,
+      "usage": 3314,
+      "rank": 331
+    },
+    "2023-05": {
+      "name": "Lycanroc",
+      "percent": 0.09652,
+      "usage": 4051,
+      "rank": 293
+    },
+    "2023-06": {
+      "name": "Lycanroc",
+      "percent": 0.0273,
+      "usage": 2199,
+      "rank": 403
+    },
+    "2023-07": {
+      "name": "Lycanroc",
+      "percent": 0.09761,
+      "usage": 3291,
+      "rank": 282
+    },
+    "2023-08": {
+      "name": "Lycanroc",
+      "percent": 0.08941,
+      "usage": 4129,
+      "rank": 288
+    },
+    "2023-09": {
+      "name": "Lycanroc",
+      "percent": 0.0413,
+      "usage": 2703,
+      "rank": 365
+    },
+    "2023-09-DLC1": {
+      "name": "Lycanroc",
+      "percent": 0.06171,
+      "usage": 1234,
+      "rank": 313
+    },
+    "2023-10": {
+      "name": "Lycanroc",
+      "percent": 0.14448,
+      "usage": 2676,
+      "rank": 256
+    },
+    "2023-11": {
+      "name": "Lycanroc",
+      "percent": 0.05656,
+      "usage": 2647,
+      "rank": 346
+    },
+    "2023-12": {
+      "name": "Lycanroc",
+      "percent": 0.03749,
+      "usage": 2380,
+      "rank": 376
+    },
+    "2023-12-DLC2": {
+      "name": "Lycanroc",
+      "percent": 0.0156,
+      "usage": 870,
+      "rank": 440
+    },
+    "2024-01": {
+      "name": "Lycanroc",
+      "percent": 0.02031,
+      "usage": 1880,
+      "rank": 428
+    },
+    "2024-02": {
+      "name": "Lycanroc",
+      "percent": 0.11539,
+      "usage": 1785,
+      "rank": 249
+    },
+    "2024-03": {
+      "name": "Lycanroc",
+      "percent": 0.05023,
+      "usage": 1868,
+      "rank": 358
+    },
+    "2024-04": {
+      "name": "Lycanroc",
+      "percent": 0.07386,
+      "usage": 1728,
+      "rank": 299
+    },
+    "2024-05": {
+      "name": "Lycanroc",
+      "percent": 0.07026,
+      "usage": 824,
+      "rank": 296
+    },
+    "2024-06": {
+      "name": "Lycanroc",
+      "percent": 0.02471,
+      "usage": 1711,
+      "rank": 392
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Lycanroc",
+      "percent": 0.00017,
+      "usage": 1559,
+      "rank": 514
+    },
+    "2022-12": {
+      "name": "Lycanroc",
+      "percent": 1e-05,
+      "usage": 2879,
+      "rank": 626
+    },
+    "2023-01": {
+      "name": "Lycanroc",
+      "percent": 0.00516,
+      "usage": 2813,
+      "rank": 428
+    },
+    "2023-02": {
+      "name": "Lycanroc",
+      "percent": 0.14771,
+      "usage": 3097,
+      "rank": 222
+    },
+    "2023-03": {
+      "name": "Lycanroc",
+      "percent": 0.04216,
+      "usage": 4612,
+      "rank": 297
+    },
+    "2023-04": {
+      "name": "Lycanroc",
+      "percent": 0.0808,
+      "usage": 3314,
+      "rank": 248
+    },
+    "2023-05": {
+      "name": "Lycanroc",
+      "percent": 0.0238,
+      "usage": 4051,
+      "rank": 352
+    },
+    "2023-06": {
+      "name": "Lycanroc",
+      "percent": 0.03754,
+      "usage": 2199,
+      "rank": 277
+    },
+    "2023-07": {
+      "name": "Lycanroc",
+      "percent": 0.04507,
+      "usage": 3291,
+      "rank": 274
+    },
+    "2023-08": {
+      "name": "Lycanroc",
+      "percent": 0.09292,
+      "usage": 4129,
+      "rank": 224
+    },
+    "2023-09": {
+      "name": "Lycanroc",
+      "percent": 0.00897,
+      "usage": 2703,
+      "rank": 414
+    },
+    "2023-09-DLC1": {
+      "name": "Lycanroc",
+      "percent": 0.01311,
+      "usage": 1234,
+      "rank": 363
+    },
+    "2023-10": {
+      "name": "Lycanroc",
+      "percent": 0.02801,
+      "usage": 2676,
+      "rank": 321
+    },
+    "2023-11": {
+      "name": "Lycanroc",
+      "percent": 0.01324,
+      "usage": 2647,
+      "rank": 393
+    },
+    "2023-12": {
+      "name": "Lycanroc",
+      "percent": 0.00957,
+      "usage": 2380,
+      "rank": 413
+    },
+    "2023-12-DLC2": {
+      "name": "Lycanroc",
+      "percent": 0.00547,
+      "usage": 870,
+      "rank": 404
+    },
+    "2024-01": {
+      "name": "Lycanroc",
+      "percent": 0.01079,
+      "usage": 1880,
+      "rank": 376
+    },
+    "2024-02": {
+      "name": "Lycanroc",
+      "percent": 0.02671,
+      "usage": 1785,
+      "rank": 301
+    },
+    "2024-03": {
+      "name": "Lycanroc",
+      "percent": 0.03851,
+      "usage": 1868,
+      "rank": 301
+    },
+    "2024-04": {
+      "name": "Lycanroc",
+      "percent": 0.01755,
+      "usage": 1728,
+      "rank": 329
+    },
+    "2024-05": {
+      "name": "Lycanroc",
+      "percent": 0.07049,
+      "usage": 824,
+      "rank": 229
+    },
+    "2024-06": {
+      "name": "Lycanroc",
+      "percent": 0.0032,
+      "usage": 1711,
+      "rank": 462
+    }
+  }
+}

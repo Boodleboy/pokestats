@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1695",
+    "1825"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Glaceon",
+      "percent": 0.18328,
+      "usage": 9279,
+      "rank": 160
+    },
+    "2022-12": {
+      "name": "Glaceon",
+      "percent": 0.19666,
+      "usage": 13315,
+      "rank": 152
+    },
+    "2023-01": {
+      "name": "Glaceon",
+      "percent": 0.23106,
+      "usage": 10113,
+      "rank": 149
+    },
+    "2023-02": {
+      "name": "Glaceon",
+      "percent": 0.261,
+      "usage": 7654,
+      "rank": 142
+    },
+    "2023-03": {
+      "name": "Glaceon",
+      "percent": 0.25826,
+      "usage": 7808,
+      "rank": 133
+    },
+    "2023-04": {
+      "name": "Glaceon",
+      "percent": 0.28869,
+      "usage": 6897,
+      "rank": 137
+    },
+    "2023-05": {
+      "name": "Glaceon",
+      "percent": 0.27089,
+      "usage": 6949,
+      "rank": 171
+    },
+    "2023-06": {
+      "name": "Glaceon",
+      "percent": 0.10613,
+      "usage": 4244,
+      "rank": 210
+    },
+    "2023-07": {
+      "name": "Glaceon",
+      "percent": 0.15483,
+      "usage": 4140,
+      "rank": 188
+    },
+    "2023-08": {
+      "name": "Glaceon",
+      "percent": 0.27275,
+      "usage": 6820,
+      "rank": 157
+    },
+    "2023-09": {
+      "name": "Glaceon",
+      "percent": 0.20193,
+      "usage": 7722,
+      "rank": 208
+    },
+    "2023-09-DLC1": {
+      "name": "Glaceon",
+      "percent": 0.12918,
+      "usage": 3113,
+      "rank": 237
+    },
+    "2023-10": {
+      "name": "Glaceon",
+      "percent": 0.13127,
+      "usage": 4487,
+      "rank": 237
+    },
+    "2023-11": {
+      "name": "Glaceon",
+      "percent": 0.21269,
+      "usage": 5698,
+      "rank": 202
+    },
+    "2023-12": {
+      "name": "Glaceon",
+      "percent": 0.11943,
+      "usage": 4448,
+      "rank": 297
+    },
+    "2023-12-DLC2": {
+      "name": "Glaceon",
+      "percent": 0.06187,
+      "usage": 1324,
+      "rank": 333
+    },
+    "2024-01": {
+      "name": "Glaceon",
+      "percent": 0.1134,
+      "usage": 4266,
+      "rank": 284
+    },
+    "2024-02": {
+      "name": "Glaceon",
+      "percent": 0.11349,
+      "usage": 3202,
+      "rank": 299
+    },
+    "2024-03": {
+      "name": "Glaceon",
+      "percent": 0.10559,
+      "usage": 2809,
+      "rank": 309
+    },
+    "2024-04": {
+      "name": "Glaceon",
+      "percent": 0.13267,
+      "usage": 3088,
+      "rank": 283
+    },
+    "2024-05": {
+      "name": "Glaceon",
+      "percent": 0.17929,
+      "usage": 1909,
+      "rank": 260
+    },
+    "2024-06": {
+      "name": "Glaceon",
+      "percent": 0.15218,
+      "usage": 3145,
+      "rank": 279
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Glaceon",
+      "percent": 0.17136,
+      "usage": 9279,
+      "rank": 160
+    },
+    "2022-12": {
+      "name": "Glaceon",
+      "percent": 0.18153,
+      "usage": 13315,
+      "rank": 154
+    },
+    "2023-01": {
+      "name": "Glaceon",
+      "percent": 0.21644,
+      "usage": 10113,
+      "rank": 149
+    },
+    "2023-02": {
+      "name": "Glaceon",
+      "percent": 0.23208,
+      "usage": 7654,
+      "rank": 142
+    },
+    "2023-03": {
+      "name": "Glaceon",
+      "percent": 0.22075,
+      "usage": 7808,
+      "rank": 134
+    },
+    "2023-04": {
+      "name": "Glaceon",
+      "percent": 0.19398,
+      "usage": 6897,
+      "rank": 130
+    },
+    "2023-05": {
+      "name": "Glaceon",
+      "percent": 0.16435,
+      "usage": 6949,
+      "rank": 176
+    },
+    "2023-06": {
+      "name": "Glaceon",
+      "percent": 0.04971,
+      "usage": 4244,
+      "rank": 209
+    },
+    "2023-07": {
+      "name": "Glaceon",
+      "percent": 0.08372,
+      "usage": 4140,
+      "rank": 186
+    },
+    "2023-08": {
+      "name": "Glaceon",
+      "percent": 0.18709,
+      "usage": 6820,
+      "rank": 147
+    },
+    "2023-09": {
+      "name": "Glaceon",
+      "percent": 0.13034,
+      "usage": 7722,
+      "rank": 202
+    },
+    "2023-09-DLC1": {
+      "name": "Glaceon",
+      "percent": 0.06734,
+      "usage": 3113,
+      "rank": 233
+    },
+    "2023-10": {
+      "name": "Glaceon",
+      "percent": 0.07311,
+      "usage": 4487,
+      "rank": 224
+    },
+    "2023-11": {
+      "name": "Glaceon",
+      "percent": 0.10128,
+      "usage": 5698,
+      "rank": 202
+    },
+    "2023-12": {
+      "name": "Glaceon",
+      "percent": 0.04281,
+      "usage": 4448,
+      "rank": 315
+    },
+    "2023-12-DLC2": {
+      "name": "Glaceon",
+      "percent": 0.02237,
+      "usage": 1324,
+      "rank": 338
+    },
+    "2024-01": {
+      "name": "Glaceon",
+      "percent": 0.05676,
+      "usage": 4266,
+      "rank": 269
+    },
+    "2024-02": {
+      "name": "Glaceon",
+      "percent": 0.04527,
+      "usage": 3202,
+      "rank": 297
+    },
+    "2024-03": {
+      "name": "Glaceon",
+      "percent": 0.05885,
+      "usage": 2809,
+      "rank": 278
+    },
+    "2024-04": {
+      "name": "Glaceon",
+      "percent": 0.05229,
+      "usage": 3088,
+      "rank": 291
+    },
+    "2024-05": {
+      "name": "Glaceon",
+      "percent": 0.05907,
+      "usage": 1909,
+      "rank": 294
+    },
+    "2024-06": {
+      "name": "Glaceon",
+      "percent": 0.04979,
+      "usage": 3145,
+      "rank": 302
+    }
+  },
+  "1695": {
+    "2022-11": {
+      "name": "Glaceon",
+      "percent": 0.02537,
+      "usage": 9279,
+      "rank": 174
+    },
+    "2022-12": {
+      "name": "Glaceon",
+      "percent": 0.00993,
+      "usage": 13315,
+      "rank": 183
+    },
+    "2023-01": {
+      "name": "Glaceon",
+      "percent": 0.02688,
+      "usage": 10113,
+      "rank": 160
+    },
+    "2023-02": {
+      "name": "Glaceon",
+      "percent": 0.14759,
+      "usage": 7654,
+      "rank": 105
+    },
+    "2023-03": {
+      "name": "Glaceon",
+      "percent": 0.12508,
+      "usage": 7808,
+      "rank": 108
+    },
+    "2023-04": {
+      "name": "Glaceon",
+      "percent": 0.15342,
+      "usage": 6897,
+      "rank": 105
+    },
+    "2023-05": {
+      "name": "Glaceon",
+      "percent": 0.18951,
+      "usage": 6949,
+      "rank": 131
+    },
+    "2023-06": {
+      "name": "Glaceon",
+      "percent": 0.01046,
+      "usage": 4244,
+      "rank": 220
+    },
+    "2023-07": {
+      "name": "Glaceon",
+      "percent": 0.02972,
+      "usage": 4140,
+      "rank": 184
+    },
+    "2023-08": {
+      "name": "Glaceon",
+      "percent": 0.07226,
+      "usage": 6820,
+      "rank": 146
+    },
+    "2023-09": {
+      "name": "Glaceon",
+      "percent": 0.04105,
+      "usage": 7722,
+      "rank": 212
+    },
+    "2023-09-DLC1": {
+      "name": "Glaceon",
+      "percent": 0.01258,
+      "usage": 3113,
+      "rank": 250
+    },
+    "2023-10": {
+      "name": "Glaceon",
+      "percent": 0.035,
+      "usage": 4487,
+      "rank": 197
+    },
+    "2023-11": {
+      "name": "Glaceon",
+      "percent": 0.06388,
+      "usage": 5698,
+      "rank": 169
+    },
+    "2023-12": {
+      "name": "Glaceon",
+      "percent": 0.01583,
+      "usage": 4448,
+      "rank": 294
+    },
+    "2023-12-DLC2": {
+      "name": "Glaceon",
+      "percent": 0.00164,
+      "usage": 1324,
+      "rank": 371
+    },
+    "2024-01": {
+      "name": "Glaceon",
+      "percent": 0.02529,
+      "usage": 4266,
+      "rank": 257
+    },
+    "2024-02": {
+      "name": "Glaceon",
+      "percent": 0.0354,
+      "usage": 3202,
+      "rank": 227
+    },
+    "2024-03": {
+      "name": "Glaceon",
+      "percent": 0.01836,
+      "usage": 2809,
+      "rank": 265
+    },
+    "2024-04": {
+      "name": "Glaceon",
+      "percent": 0.02493,
+      "usage": 3088,
+      "rank": 245
+    },
+    "2024-05": {
+      "name": "Glaceon",
+      "percent": 0.0188,
+      "usage": 1909,
+      "rank": 269
+    },
+    "2024-06": {
+      "name": "Glaceon",
+      "percent": 0.00761,
+      "usage": 3145,
+      "rank": 311
+    }
+  },
+  "1825": {
+    "2022-11": {
+      "name": "Glaceon",
+      "percent": 0.01448,
+      "usage": 9279,
+      "rank": 163
+    },
+    "2022-12": {
+      "name": "Glaceon",
+      "percent": 0.01029,
+      "usage": 13315,
+      "rank": 152
+    },
+    "2023-01": {
+      "name": "Glaceon",
+      "percent": 0.01224,
+      "usage": 10113,
+      "rank": 149
+    },
+    "2023-02": {
+      "name": "Glaceon",
+      "percent": 0.02428,
+      "usage": 7654,
+      "rank": 132
+    },
+    "2023-03": {
+      "name": "Glaceon",
+      "percent": 0.04331,
+      "usage": 7808,
+      "rank": 115
+    },
+    "2023-04": {
+      "name": "Glaceon",
+      "percent": 0.06193,
+      "usage": 6897,
+      "rank": 119
+    },
+    "2023-05": {
+      "name": "Glaceon",
+      "percent": 0.10077,
+      "usage": 6949,
+      "rank": 136
+    },
+    "2023-06": {
+      "name": "Glaceon",
+      "percent": 0.00265,
+      "usage": 4244,
+      "rank": 236
+    },
+    "2023-07": {
+      "name": "Glaceon",
+      "percent": 0.01803,
+      "usage": 4140,
+      "rank": 180
+    },
+    "2023-08": {
+      "name": "Glaceon",
+      "percent": 0.04413,
+      "usage": 6820,
+      "rank": 145
+    },
+    "2023-09": {
+      "name": "Glaceon",
+      "percent": 0.01805,
+      "usage": 7722,
+      "rank": 221
+    },
+    "2023-09-DLC1": {
+      "name": "Glaceon",
+      "percent": 0.00418,
+      "usage": 3113,
+      "rank": 257
+    },
+    "2023-10": {
+      "name": "Glaceon",
+      "percent": 0.01031,
+      "usage": 4487,
+      "rank": 224
+    },
+    "2023-11": {
+      "name": "Glaceon",
+      "percent": 0.02439,
+      "usage": 5698,
+      "rank": 191
+    },
+    "2023-12": {
+      "name": "Glaceon",
+      "percent": 0.01176,
+      "usage": 4448,
+      "rank": 259
+    },
+    "2023-12-DLC2": {
+      "name": "Glaceon",
+      "percent": 0.00049,
+      "usage": 1324,
+      "rank": 374
+    },
+    "2024-01": {
+      "name": "Glaceon",
+      "percent": 0.03071,
+      "usage": 4266,
+      "rank": 196
+    },
+    "2024-02": {
+      "name": "Glaceon",
+      "percent": 0.01006,
+      "usage": 3202,
+      "rank": 240
+    },
+    "2024-03": {
+      "name": "Glaceon",
+      "percent": 0.00308,
+      "usage": 2809,
+      "rank": 299
+    },
+    "2024-04": {
+      "name": "Glaceon",
+      "percent": 0.00227,
+      "usage": 3088,
+      "rank": 312
+    },
+    "2024-05": {
+      "name": "Glaceon",
+      "percent": 0.0259,
+      "usage": 1909,
+      "rank": 199
+    },
+    "2024-06": {
+      "name": "Glaceon",
+      "percent": 0.0127,
+      "usage": 3145,
+      "rank": 237
+    }
+  }
+}
