@@ -1,0 +1,905 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Elgyem",
+      "percent": 0.00177,
+      "usage": 19,
+      "rank": 828
+    },
+    "2020-03": {
+      "name": "Elgyem",
+      "percent": 0.00268,
+      "usage": 32,
+      "rank": 763
+    },
+    "2020-04": {
+      "name": "Elgyem",
+      "percent": 0.00093,
+      "usage": 11,
+      "rank": 822
+    },
+    "2020-05": {
+      "name": "Elgyem",
+      "percent": 0.00122,
+      "usage": 15,
+      "rank": 796
+    },
+    "2020-06": {
+      "name": "Elgyem",
+      "percent": 0.00021,
+      "usage": 2,
+      "rank": 875
+    },
+    "2020-07": {
+      "name": "Elgyem",
+      "percent": 0.001,
+      "usage": 9,
+      "rank": 814
+    },
+    "2020-09": {
+      "name": "Elgyem",
+      "percent": 0.00061,
+      "usage": 5,
+      "rank": 845
+    },
+    "2020-10": {
+      "name": "Elgyem",
+      "percent": 0.00218,
+      "usage": 17,
+      "rank": 720
+    },
+    "2020-10-DLC2": {
+      "name": "Elgyem",
+      "percent": 0.00051,
+      "usage": 1,
+      "rank": 784
+    },
+    "2020-11": {
+      "name": "Elgyem",
+      "percent": 0.00162,
+      "usage": 11,
+      "rank": 787
+    },
+    "2020-11-H1": {
+      "name": "Elgyem",
+      "percent": 0.00194,
+      "usage": 6,
+      "rank": 736
+    },
+    "2020-11-H2": {
+      "name": "Elgyem",
+      "percent": 0.00135,
+      "usage": 5,
+      "rank": 788
+    },
+    "2020-12": {
+      "name": "Elgyem",
+      "percent": 0.0003,
+      "usage": 2,
+      "rank": 857
+    },
+    "2020-12-H2": {
+      "name": "Elgyem",
+      "percent": 0.00059,
+      "usage": 2,
+      "rank": 814
+    },
+    "2021-01": {
+      "name": "Elgyem",
+      "percent": 0.00178,
+      "usage": 13,
+      "rank": 748
+    },
+    "2021-02": {
+      "name": "Elgyem",
+      "percent": 0.00087,
+      "usage": 6,
+      "rank": 823
+    },
+    "2021-03": {
+      "name": "Elgyem",
+      "percent": 0.00039,
+      "usage": 3,
+      "rank": 847
+    },
+    "2021-04": {
+      "name": "Elgyem",
+      "percent": 0.0022,
+      "usage": 15,
+      "rank": 723
+    },
+    "2021-05": {
+      "name": "Elgyem",
+      "percent": 0.00015,
+      "usage": 1,
+      "rank": 861
+    },
+    "2021-06": {
+      "name": "Elgyem",
+      "percent": 0.00035,
+      "usage": 2,
+      "rank": 850
+    },
+    "2021-07": {
+      "name": "Elgyem",
+      "percent": 0.00114,
+      "usage": 7,
+      "rank": 784
+    },
+    "2021-08": {
+      "name": "Elgyem",
+      "percent": 0.00059,
+      "usage": 4,
+      "rank": 818
+    },
+    "2021-09": {
+      "name": "Elgyem",
+      "percent": 0.00017,
+      "usage": 1,
+      "rank": 854
+    },
+    "2021-10": {
+      "name": "Elgyem",
+      "percent": 0.00071,
+      "usage": 4,
+      "rank": 795
+    },
+    "2021-11": {
+      "name": "Elgyem",
+      "percent": 0.00214,
+      "usage": 11,
+      "rank": 732
+    },
+    "2021-12": {
+      "name": "Elgyem",
+      "percent": 0.00021,
+      "usage": 1,
+      "rank": 848
+    },
+    "2022-01": {
+      "name": "Elgyem",
+      "percent": 0.00232,
+      "usage": 11,
+      "rank": 681
+    },
+    "2022-04": {
+      "name": "Elgyem",
+      "percent": 0.0006,
+      "usage": 3,
+      "rank": 792
+    },
+    "2022-06": {
+      "name": "Elgyem",
+      "percent": 0.00039,
+      "usage": 2,
+      "rank": 803
+    },
+    "2022-08": {
+      "name": "Elgyem",
+      "percent": 0.00017,
+      "usage": 1,
+      "rank": 847
+    },
+    "2022-10": {
+      "name": "Elgyem",
+      "percent": 0.00698,
+      "usage": 37,
+      "rank": 598
+    },
+    "2022-11": {
+      "name": "Elgyem",
+      "percent": 0.00153,
+      "usage": 7,
+      "rank": 723
+    },
+    "2022-12": {
+      "name": "Elgyem",
+      "percent": 0.00025,
+      "usage": 1,
+      "rank": 823
+    },
+    "2023-01": {
+      "name": "Elgyem",
+      "percent": 0.00054,
+      "usage": 2,
+      "rank": 798
+    },
+    "2023-06": {
+      "name": "Elgyem",
+      "percent": 0.00124,
+      "usage": 4,
+      "rank": 711
+    },
+    "2023-07": {
+      "name": "Elgyem",
+      "percent": 0.00088,
+      "usage": 3,
+      "rank": 757
+    },
+    "2023-09": {
+      "name": "Elgyem",
+      "percent": 0.00063,
+      "usage": 2,
+      "rank": 744
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Elgyem",
+      "percent": 0.00052,
+      "usage": 19,
+      "rank": 838
+    },
+    "2020-03": {
+      "name": "Elgyem",
+      "percent": 0.00123,
+      "usage": 32,
+      "rank": 765
+    },
+    "2020-04": {
+      "name": "Elgyem",
+      "percent": 0.00068,
+      "usage": 11,
+      "rank": 783
+    },
+    "2020-05": {
+      "name": "Elgyem",
+      "percent": 0.00092,
+      "usage": 15,
+      "rank": 762
+    },
+    "2020-06": {
+      "name": "Elgyem",
+      "percent": 0.0001,
+      "usage": 2,
+      "rank": 873
+    },
+    "2020-07": {
+      "name": "Elgyem",
+      "percent": 0.00069,
+      "usage": 9,
+      "rank": 781
+    },
+    "2020-09": {
+      "name": "Elgyem",
+      "percent": 0.00016,
+      "usage": 5,
+      "rank": 855
+    },
+    "2020-10": {
+      "name": "Elgyem",
+      "percent": 0.0015,
+      "usage": 17,
+      "rank": 677
+    },
+    "2020-10-DLC2": {
+      "name": "Elgyem",
+      "percent": 0.00037,
+      "usage": 1,
+      "rank": 778
+    },
+    "2020-11": {
+      "name": "Elgyem",
+      "percent": 0.0012,
+      "usage": 11,
+      "rank": 764
+    },
+    "2020-11-H1": {
+      "name": "Elgyem",
+      "percent": 0.00134,
+      "usage": 6,
+      "rank": 716
+    },
+    "2020-11-H2": {
+      "name": "Elgyem",
+      "percent": 0.0011,
+      "usage": 5,
+      "rank": 758
+    },
+    "2020-12": {
+      "name": "Elgyem",
+      "percent": 8e-05,
+      "usage": 2,
+      "rank": 871
+    },
+    "2020-12-H2": {
+      "name": "Elgyem",
+      "percent": 0.00015,
+      "usage": 2,
+      "rank": 829
+    },
+    "2021-01": {
+      "name": "Elgyem",
+      "percent": 0.00148,
+      "usage": 13,
+      "rank": 697
+    },
+    "2021-02": {
+      "name": "Elgyem",
+      "percent": 0.00073,
+      "usage": 6,
+      "rank": 786
+    },
+    "2021-03": {
+      "name": "Elgyem",
+      "percent": 0.00027,
+      "usage": 3,
+      "rank": 835
+    },
+    "2021-04": {
+      "name": "Elgyem",
+      "percent": 0.00084,
+      "usage": 15,
+      "rank": 772
+    },
+    "2021-05": {
+      "name": "Elgyem",
+      "percent": 1e-05,
+      "usage": 1,
+      "rank": 871
+    },
+    "2021-06": {
+      "name": "Elgyem",
+      "percent": 0.00017,
+      "usage": 2,
+      "rank": 837
+    },
+    "2021-07": {
+      "name": "Elgyem",
+      "percent": 0.00073,
+      "usage": 7,
+      "rank": 777
+    },
+    "2021-08": {
+      "name": "Elgyem",
+      "percent": 0.0004,
+      "usage": 4,
+      "rank": 805
+    },
+    "2021-09": {
+      "name": "Elgyem",
+      "percent": 0.00011,
+      "usage": 1,
+      "rank": 850
+    },
+    "2021-10": {
+      "name": "Elgyem",
+      "percent": 0.00036,
+      "usage": 4,
+      "rank": 794
+    },
+    "2021-11": {
+      "name": "Elgyem",
+      "percent": 0.00145,
+      "usage": 11,
+      "rank": 715
+    },
+    "2021-12": {
+      "name": "Elgyem",
+      "percent": 0.00014,
+      "usage": 1,
+      "rank": 836
+    },
+    "2022-01": {
+      "name": "Elgyem",
+      "percent": 0.00112,
+      "usage": 11,
+      "rank": 682
+    },
+    "2022-04": {
+      "name": "Elgyem",
+      "percent": 0.00048,
+      "usage": 3,
+      "rank": 778
+    },
+    "2022-06": {
+      "name": "Elgyem",
+      "percent": 0.00027,
+      "usage": 2,
+      "rank": 800
+    },
+    "2022-08": {
+      "name": "Elgyem",
+      "percent": 0.0002,
+      "usage": 1,
+      "rank": 832
+    },
+    "2022-10": {
+      "name": "Elgyem",
+      "percent": 0.00602,
+      "usage": 37,
+      "rank": 589
+    },
+    "2022-11": {
+      "name": "Elgyem",
+      "percent": 0.00134,
+      "usage": 7,
+      "rank": 714
+    },
+    "2022-12": {
+      "name": "Elgyem",
+      "percent": 0.00019,
+      "usage": 1,
+      "rank": 826
+    },
+    "2023-01": {
+      "name": "Elgyem",
+      "percent": 0.00066,
+      "usage": 2,
+      "rank": 773
+    },
+    "2023-06": {
+      "name": "Elgyem",
+      "percent": 1e-05,
+      "usage": 4,
+      "rank": 763
+    },
+    "2023-07": {
+      "name": "Elgyem",
+      "percent": 3e-05,
+      "usage": 3,
+      "rank": 786
+    },
+    "2023-09": {
+      "name": "Elgyem",
+      "percent": 6e-05,
+      "usage": 2,
+      "rank": 749
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Elgyem",
+      "percent": 2e-05,
+      "usage": 19,
+      "rank": 787
+    },
+    "2020-03": {
+      "name": "Elgyem",
+      "percent": 3e-05,
+      "usage": 32,
+      "rank": 748
+    },
+    "2020-04": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 884
+    },
+    "2020-05": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 15,
+      "rank": 764
+    },
+    "2020-06": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 808
+    },
+    "2020-07": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 744
+    },
+    "2020-09": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 786
+    },
+    "2020-10": {
+      "name": "Elgyem",
+      "percent": 0.00014,
+      "usage": 17,
+      "rank": 602
+    },
+    "2020-10-DLC2": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 734
+    },
+    "2020-11": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 735
+    },
+    "2020-11-H1": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 644
+    },
+    "2020-11-H2": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 792
+    },
+    "2020-12": {
+      "name": "Elgyem",
+      "percent": 2e-05,
+      "usage": 2,
+      "rank": 685
+    },
+    "2020-12-H2": {
+      "name": "Elgyem",
+      "percent": 4e-05,
+      "usage": 2,
+      "rank": 633
+    },
+    "2021-01": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 734
+    },
+    "2021-02": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 825
+    },
+    "2021-03": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 831
+    },
+    "2021-04": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 15,
+      "rank": 798
+    },
+    "2021-05": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 731
+    },
+    "2021-06": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 840
+    },
+    "2021-07": {
+      "name": "Elgyem",
+      "percent": 6e-05,
+      "usage": 7,
+      "rank": 642
+    },
+    "2021-08": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 821
+    },
+    "2021-09": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 806
+    },
+    "2021-10": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 758
+    },
+    "2021-11": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 816
+    },
+    "2021-12": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 803
+    },
+    "2022-01": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 698
+    },
+    "2022-04": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 753
+    },
+    "2022-06": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 754
+    },
+    "2022-08": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 752
+    },
+    "2022-10": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 37,
+      "rank": 729
+    },
+    "2022-11": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 668
+    },
+    "2022-12": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 618
+    },
+    "2023-01": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 648
+    },
+    "2023-06": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 665
+    },
+    "2023-07": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 744
+    },
+    "2023-09": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 649
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 19,
+      "rank": 774
+    },
+    "2020-03": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 32,
+      "rank": 728
+    },
+    "2020-04": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 877
+    },
+    "2020-05": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 15,
+      "rank": 780
+    },
+    "2020-06": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 827
+    },
+    "2020-07": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 782
+    },
+    "2020-09": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 775
+    },
+    "2020-10": {
+      "name": "Elgyem",
+      "percent": 2e-05,
+      "usage": 17,
+      "rank": 561
+    },
+    "2020-10-DLC2": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 720
+    },
+    "2020-11": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 719
+    },
+    "2020-11-H1": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 629
+    },
+    "2020-11-H2": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 777
+    },
+    "2020-12": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 644
+    },
+    "2020-12-H2": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 615
+    },
+    "2021-01": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 739
+    },
+    "2021-02": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 818
+    },
+    "2021-03": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 815
+    },
+    "2021-04": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 15,
+      "rank": 812
+    },
+    "2021-05": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 710
+    },
+    "2021-06": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 832
+    },
+    "2021-07": {
+      "name": "Elgyem",
+      "percent": 1e-05,
+      "usage": 7,
+      "rank": 623
+    },
+    "2021-08": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 808
+    },
+    "2021-09": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 792
+    },
+    "2021-10": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 779
+    },
+    "2021-11": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 806
+    },
+    "2021-12": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 786
+    },
+    "2022-01": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 689
+    },
+    "2022-04": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 738
+    },
+    "2022-06": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 733
+    },
+    "2022-08": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 739
+    },
+    "2022-10": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 37,
+      "rank": 714
+    },
+    "2022-11": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 659
+    },
+    "2022-12": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 598
+    },
+    "2023-01": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 630
+    },
+    "2023-06": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 649
+    },
+    "2023-07": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 771
+    },
+    "2023-09": {
+      "name": "Elgyem",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 634
+    }
+  }
+}

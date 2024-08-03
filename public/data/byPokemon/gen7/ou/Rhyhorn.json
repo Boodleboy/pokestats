@@ -1,0 +1,1433 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Rhyhorn",
+      "percent": 0.00633,
+      "usage": 68,
+      "rank": 693
+    },
+    "2020-03": {
+      "name": "Rhyhorn",
+      "percent": 0.00352,
+      "usage": 42,
+      "rank": 740
+    },
+    "2020-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00433,
+      "usage": 51,
+      "rank": 671
+    },
+    "2020-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00316,
+      "usage": 39,
+      "rank": 699
+    },
+    "2020-06": {
+      "name": "Rhyhorn",
+      "percent": 0.00219,
+      "usage": 21,
+      "rank": 747
+    },
+    "2020-06-DLC1": {
+      "name": "Rhyhorn",
+      "percent": 0.0006,
+      "usage": 2,
+      "rank": 805
+    },
+    "2020-07": {
+      "name": "Rhyhorn",
+      "percent": 0.003,
+      "usage": 27,
+      "rank": 697
+    },
+    "2020-08": {
+      "name": "Rhyhorn",
+      "percent": 0.00146,
+      "usage": 13,
+      "rank": 772
+    },
+    "2020-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00418,
+      "usage": 34,
+      "rank": 668
+    },
+    "2020-10": {
+      "name": "Rhyhorn",
+      "percent": 0.00051,
+      "usage": 4,
+      "rank": 837
+    },
+    "2020-10-DLC2": {
+      "name": "Rhyhorn",
+      "percent": 0.00103,
+      "usage": 2,
+      "rank": 762
+    },
+    "2020-11": {
+      "name": "Rhyhorn",
+      "percent": 0.00147,
+      "usage": 10,
+      "rank": 804
+    },
+    "2020-11-H1": {
+      "name": "Rhyhorn",
+      "percent": 0.00065,
+      "usage": 2,
+      "rank": 819
+    },
+    "2020-11-H2": {
+      "name": "Rhyhorn",
+      "percent": 0.00217,
+      "usage": 8,
+      "rank": 756
+    },
+    "2020-12": {
+      "name": "Rhyhorn",
+      "percent": 0.00089,
+      "usage": 6,
+      "rank": 824
+    },
+    "2020-12-H1": {
+      "name": "Rhyhorn",
+      "percent": 0.00089,
+      "usage": 3,
+      "rank": 799
+    },
+    "2020-12-H2": {
+      "name": "Rhyhorn",
+      "percent": 0.00089,
+      "usage": 3,
+      "rank": 801
+    },
+    "2021-01": {
+      "name": "Rhyhorn",
+      "percent": 0.00151,
+      "usage": 11,
+      "rank": 773
+    },
+    "2021-02": {
+      "name": "Rhyhorn",
+      "percent": 0.00145,
+      "usage": 10,
+      "rank": 786
+    },
+    "2021-03": {
+      "name": "Rhyhorn",
+      "percent": 0.00488,
+      "usage": 38,
+      "rank": 636
+    },
+    "2021-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00162,
+      "usage": 11,
+      "rank": 764
+    },
+    "2021-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00703,
+      "usage": 46,
+      "rank": 627
+    },
+    "2021-06": {
+      "name": "Rhyhorn",
+      "percent": 0.00453,
+      "usage": 26,
+      "rank": 653
+    },
+    "2021-07": {
+      "name": "Rhyhorn",
+      "percent": 0.0013,
+      "usage": 8,
+      "rank": 778
+    },
+    "2021-08": {
+      "name": "Rhyhorn",
+      "percent": 0.00458,
+      "usage": 31,
+      "rank": 654
+    },
+    "2021-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00083,
+      "usage": 5,
+      "rank": 803
+    },
+    "2021-10": {
+      "name": "Rhyhorn",
+      "percent": 0.00071,
+      "usage": 4,
+      "rank": 798
+    },
+    "2021-11": {
+      "name": "Rhyhorn",
+      "percent": 0.00058,
+      "usage": 3,
+      "rank": 838
+    },
+    "2021-12": {
+      "name": "Rhyhorn",
+      "percent": 0.00334,
+      "usage": 16,
+      "rank": 679
+    },
+    "2022-01": {
+      "name": "Rhyhorn",
+      "percent": 0.00063,
+      "usage": 3,
+      "rank": 790
+    },
+    "2022-02": {
+      "name": "Rhyhorn",
+      "percent": 0.00258,
+      "usage": 12,
+      "rank": 701
+    },
+    "2022-03": {
+      "name": "Rhyhorn",
+      "percent": 0.00324,
+      "usage": 17,
+      "rank": 645
+    },
+    "2022-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00398,
+      "usage": 20,
+      "rank": 632
+    },
+    "2022-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00117,
+      "usage": 6,
+      "rank": 737
+    },
+    "2022-06": {
+      "name": "Rhyhorn",
+      "percent": 0.00137,
+      "usage": 7,
+      "rank": 730
+    },
+    "2022-07": {
+      "name": "Rhyhorn",
+      "percent": 0.00053,
+      "usage": 3,
+      "rank": 808
+    },
+    "2022-08": {
+      "name": "Rhyhorn",
+      "percent": 0.00152,
+      "usage": 9,
+      "rank": 722
+    },
+    "2022-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00057,
+      "usage": 3,
+      "rank": 803
+    },
+    "2022-10": {
+      "name": "Rhyhorn",
+      "percent": 0.00603,
+      "usage": 32,
+      "rank": 613
+    },
+    "2022-11": {
+      "name": "Rhyhorn",
+      "percent": 0.00219,
+      "usage": 10,
+      "rank": 703
+    },
+    "2022-12": {
+      "name": "Rhyhorn",
+      "percent": 0.00102,
+      "usage": 4,
+      "rank": 775
+    },
+    "2023-01": {
+      "name": "Rhyhorn",
+      "percent": 0.00215,
+      "usage": 8,
+      "rank": 707
+    },
+    "2023-02": {
+      "name": "Rhyhorn",
+      "percent": 0.01565,
+      "usage": 47,
+      "rank": 543
+    },
+    "2023-03": {
+      "name": "Rhyhorn",
+      "percent": 0.00028,
+      "usage": 1,
+      "rank": 841
+    },
+    "2023-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00079,
+      "usage": 3,
+      "rank": 761
+    },
+    "2023-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00465,
+      "usage": 17,
+      "rank": 628
+    },
+    "2023-06": {
+      "name": "Rhyhorn",
+      "percent": 0.0034,
+      "usage": 11,
+      "rank": 660
+    },
+    "2023-07": {
+      "name": "Rhyhorn",
+      "percent": 0.00146,
+      "usage": 5,
+      "rank": 735
+    },
+    "2023-08": {
+      "name": "Rhyhorn",
+      "percent": 0.00029,
+      "usage": 1,
+      "rank": 822
+    },
+    "2023-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00031,
+      "usage": 1,
+      "rank": 803
+    },
+    "2023-09-DLC1": {
+      "name": "Rhyhorn",
+      "percent": 0.00063,
+      "usage": 1,
+      "rank": 743
+    },
+    "2023-10": {
+      "name": "Rhyhorn",
+      "percent": 0.00063,
+      "usage": 2,
+      "rank": 766
+    },
+    "2023-11": {
+      "name": "Rhyhorn",
+      "percent": 0.00035,
+      "usage": 1,
+      "rank": 781
+    },
+    "2023-12": {
+      "name": "Rhyhorn",
+      "percent": 0.00153,
+      "usage": 4,
+      "rank": 662
+    },
+    "2023-12-DLC2": {
+      "name": "Rhyhorn",
+      "percent": 0.00365,
+      "usage": 4,
+      "rank": 589
+    },
+    "2024-01": {
+      "name": "Rhyhorn",
+      "percent": 0.00431,
+      "usage": 11,
+      "rank": 598
+    },
+    "2024-02": {
+      "name": "Rhyhorn",
+      "percent": 0.00041,
+      "usage": 1,
+      "rank": 780
+    },
+    "2024-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00258,
+      "usage": 7,
+      "rank": 616
+    },
+    "2024-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00076,
+      "usage": 1,
+      "rank": 685
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Rhyhorn",
+      "percent": 0.00334,
+      "usage": 68,
+      "rank": 647
+    },
+    "2020-03": {
+      "name": "Rhyhorn",
+      "percent": 0.00152,
+      "usage": 42,
+      "rank": 741
+    },
+    "2020-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00181,
+      "usage": 51,
+      "rank": 691
+    },
+    "2020-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00186,
+      "usage": 39,
+      "rank": 690
+    },
+    "2020-06": {
+      "name": "Rhyhorn",
+      "percent": 0.00072,
+      "usage": 21,
+      "rank": 782
+    },
+    "2020-06-DLC1": {
+      "name": "Rhyhorn",
+      "percent": 0.00023,
+      "usage": 2,
+      "rank": 798
+    },
+    "2020-07": {
+      "name": "Rhyhorn",
+      "percent": 0.00195,
+      "usage": 27,
+      "rank": 671
+    },
+    "2020-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0006,
+      "usage": 13,
+      "rank": 769
+    },
+    "2020-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00213,
+      "usage": 34,
+      "rank": 657
+    },
+    "2020-10": {
+      "name": "Rhyhorn",
+      "percent": 0.00036,
+      "usage": 4,
+      "rank": 801
+    },
+    "2020-10-DLC2": {
+      "name": "Rhyhorn",
+      "percent": 0.00074,
+      "usage": 2,
+      "rank": 737
+    },
+    "2020-11": {
+      "name": "Rhyhorn",
+      "percent": 0.00096,
+      "usage": 10,
+      "rank": 784
+    },
+    "2020-11-H1": {
+      "name": "Rhyhorn",
+      "percent": 0.00047,
+      "usage": 2,
+      "rank": 797
+    },
+    "2020-11-H2": {
+      "name": "Rhyhorn",
+      "percent": 0.00137,
+      "usage": 8,
+      "rank": 741
+    },
+    "2020-12": {
+      "name": "Rhyhorn",
+      "percent": 0.00014,
+      "usage": 6,
+      "rank": 855
+    },
+    "2020-12-H1": {
+      "name": "Rhyhorn",
+      "percent": 0.00029,
+      "usage": 3,
+      "rank": 809
+    },
+    "2020-12-H2": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 852
+    },
+    "2021-01": {
+      "name": "Rhyhorn",
+      "percent": 0.00083,
+      "usage": 11,
+      "rank": 765
+    },
+    "2021-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0007,
+      "usage": 10,
+      "rank": 790
+    },
+    "2021-03": {
+      "name": "Rhyhorn",
+      "percent": 0.00323,
+      "usage": 38,
+      "rank": 634
+    },
+    "2021-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00089,
+      "usage": 11,
+      "rank": 763
+    },
+    "2021-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00383,
+      "usage": 46,
+      "rank": 615
+    },
+    "2021-06": {
+      "name": "Rhyhorn",
+      "percent": 0.00234,
+      "usage": 26,
+      "rank": 636
+    },
+    "2021-07": {
+      "name": "Rhyhorn",
+      "percent": 0.00108,
+      "usage": 8,
+      "rank": 740
+    },
+    "2021-08": {
+      "name": "Rhyhorn",
+      "percent": 0.00113,
+      "usage": 31,
+      "rank": 735
+    },
+    "2021-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00065,
+      "usage": 5,
+      "rank": 773
+    },
+    "2021-10": {
+      "name": "Rhyhorn",
+      "percent": 0.00043,
+      "usage": 4,
+      "rank": 789
+    },
+    "2021-11": {
+      "name": "Rhyhorn",
+      "percent": 0.00012,
+      "usage": 3,
+      "rank": 858
+    },
+    "2021-12": {
+      "name": "Rhyhorn",
+      "percent": 0.00198,
+      "usage": 16,
+      "rank": 661
+    },
+    "2022-01": {
+      "name": "Rhyhorn",
+      "percent": 0.00042,
+      "usage": 3,
+      "rank": 756
+    },
+    "2022-02": {
+      "name": "Rhyhorn",
+      "percent": 0.00198,
+      "usage": 12,
+      "rank": 674
+    },
+    "2022-03": {
+      "name": "Rhyhorn",
+      "percent": 0.00212,
+      "usage": 17,
+      "rank": 650
+    },
+    "2022-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00285,
+      "usage": 20,
+      "rank": 623
+    },
+    "2022-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00089,
+      "usage": 6,
+      "rank": 718
+    },
+    "2022-06": {
+      "name": "Rhyhorn",
+      "percent": 0.00081,
+      "usage": 7,
+      "rank": 728
+    },
+    "2022-07": {
+      "name": "Rhyhorn",
+      "percent": 0.00028,
+      "usage": 3,
+      "rank": 811
+    },
+    "2022-08": {
+      "name": "Rhyhorn",
+      "percent": 0.00122,
+      "usage": 9,
+      "rank": 711
+    },
+    "2022-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00041,
+      "usage": 3,
+      "rank": 798
+    },
+    "2022-10": {
+      "name": "Rhyhorn",
+      "percent": 0.0044,
+      "usage": 32,
+      "rank": 617
+    },
+    "2022-11": {
+      "name": "Rhyhorn",
+      "percent": 0.0017,
+      "usage": 10,
+      "rank": 701
+    },
+    "2022-12": {
+      "name": "Rhyhorn",
+      "percent": 0.00088,
+      "usage": 4,
+      "rank": 770
+    },
+    "2023-01": {
+      "name": "Rhyhorn",
+      "percent": 0.00171,
+      "usage": 8,
+      "rank": 703
+    },
+    "2023-02": {
+      "name": "Rhyhorn",
+      "percent": 0.01308,
+      "usage": 47,
+      "rank": 533
+    },
+    "2023-03": {
+      "name": "Rhyhorn",
+      "percent": 0.00019,
+      "usage": 1,
+      "rank": 828
+    },
+    "2023-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00028,
+      "usage": 3,
+      "rank": 719
+    },
+    "2023-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00229,
+      "usage": 17,
+      "rank": 574
+    },
+    "2023-06": {
+      "name": "Rhyhorn",
+      "percent": 0.00087,
+      "usage": 11,
+      "rank": 642
+    },
+    "2023-07": {
+      "name": "Rhyhorn",
+      "percent": 5e-05,
+      "usage": 5,
+      "rank": 781
+    },
+    "2023-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 792
+    },
+    "2023-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00019,
+      "usage": 1,
+      "rank": 726
+    },
+    "2023-09-DLC1": {
+      "name": "Rhyhorn",
+      "percent": 0.00038,
+      "usage": 1,
+      "rank": 647
+    },
+    "2023-10": {
+      "name": "Rhyhorn",
+      "percent": 0.00031,
+      "usage": 2,
+      "rank": 694
+    },
+    "2023-11": {
+      "name": "Rhyhorn",
+      "percent": 0.00021,
+      "usage": 1,
+      "rank": 699
+    },
+    "2023-12": {
+      "name": "Rhyhorn",
+      "percent": 0.00052,
+      "usage": 4,
+      "rank": 606
+    },
+    "2023-12-DLC2": {
+      "name": "Rhyhorn",
+      "percent": 0.00123,
+      "usage": 4,
+      "rank": 544
+    },
+    "2024-01": {
+      "name": "Rhyhorn",
+      "percent": 0.00028,
+      "usage": 11,
+      "rank": 660
+    },
+    "2024-02": {
+      "name": "Rhyhorn",
+      "percent": 0.00021,
+      "usage": 1,
+      "rank": 688
+    },
+    "2024-04": {
+      "name": "Rhyhorn",
+      "percent": 0.00071,
+      "usage": 7,
+      "rank": 581
+    },
+    "2024-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 681
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0002,
+      "usage": 68,
+      "rank": 688
+    },
+    "2020-03": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 42,
+      "rank": 819
+    },
+    "2020-04": {
+      "name": "Rhyhorn",
+      "percent": 1e-05,
+      "usage": 51,
+      "rank": 737
+    },
+    "2020-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 39,
+      "rank": 784
+    },
+    "2020-06": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 21,
+      "rank": 747
+    },
+    "2020-06-DLC1": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 841
+    },
+    "2020-07": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 27,
+      "rank": 820
+    },
+    "2020-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 805
+    },
+    "2020-09": {
+      "name": "Rhyhorn",
+      "percent": 0.00015,
+      "usage": 34,
+      "rank": 602
+    },
+    "2020-10": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 879
+    },
+    "2020-10-DLC2": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 801
+    },
+    "2020-11": {
+      "name": "Rhyhorn",
+      "percent": 1e-05,
+      "usage": 10,
+      "rank": 676
+    },
+    "2020-11-H1": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 845
+    },
+    "2020-11-H2": {
+      "name": "Rhyhorn",
+      "percent": 1e-05,
+      "usage": 8,
+      "rank": 635
+    },
+    "2020-12": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 780
+    },
+    "2020-12-H1": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 703
+    },
+    "2020-12-H2": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 767
+    },
+    "2021-01": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 813
+    },
+    "2021-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 878
+    },
+    "2021-03": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 38,
+      "rank": 747
+    },
+    "2021-04": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 702
+    },
+    "2021-05": {
+      "name": "Rhyhorn",
+      "percent": 0.00014,
+      "usage": 46,
+      "rank": 603
+    },
+    "2021-06": {
+      "name": "Rhyhorn",
+      "percent": 1e-05,
+      "usage": 26,
+      "rank": 670
+    },
+    "2021-07": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 872
+    },
+    "2021-08": {
+      "name": "Rhyhorn",
+      "percent": 1e-05,
+      "usage": 31,
+      "rank": 672
+    },
+    "2021-09": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 863
+    },
+    "2021-10": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 862
+    },
+    "2021-11": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 706
+    },
+    "2021-12": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 16,
+      "rank": 739
+    },
+    "2022-01": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 846
+    },
+    "2022-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 12,
+      "rank": 850
+    },
+    "2022-03": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 17,
+      "rank": 859
+    },
+    "2022-04": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 847
+    },
+    "2022-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 845
+    },
+    "2022-06": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 696
+    },
+    "2022-07": {
+      "name": "Rhyhorn",
+      "percent": 2e-05,
+      "usage": 3,
+      "rank": 574
+    },
+    "2022-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 860
+    },
+    "2022-09": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 841
+    },
+    "2022-10": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 32,
+      "rank": 606
+    },
+    "2022-11": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 841
+    },
+    "2022-12": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 839
+    },
+    "2023-01": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 827
+    },
+    "2023-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 47,
+      "rank": 818
+    },
+    "2023-03": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 837
+    },
+    "2023-04": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 693
+    },
+    "2023-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 17,
+      "rank": 729
+    },
+    "2023-06": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 670
+    },
+    "2023-07": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 743
+    },
+    "2023-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 821
+    },
+    "2023-09": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 803
+    },
+    "2023-09-DLC1": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 743
+    },
+    "2023-10": {
+      "name": "Rhyhorn",
+      "percent": 2e-05,
+      "usage": 2,
+      "rank": 621
+    },
+    "2023-11": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 780
+    },
+    "2023-12": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 756
+    },
+    "2023-12-DLC2": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 679
+    },
+    "2024-01": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 662
+    },
+    "2024-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 782
+    },
+    "2024-04": {
+      "name": "Rhyhorn",
+      "percent": 3e-05,
+      "usage": 7,
+      "rank": 530
+    },
+    "2024-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 684
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Rhyhorn",
+      "percent": 7e-05,
+      "usage": 68,
+      "rank": 615
+    },
+    "2020-03": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 42,
+      "rank": 793
+    },
+    "2020-04": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 51,
+      "rank": 729
+    },
+    "2020-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 39,
+      "rank": 811
+    },
+    "2020-06": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 21,
+      "rank": 718
+    },
+    "2020-06-DLC1": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 841
+    },
+    "2020-07": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 27,
+      "rank": 828
+    },
+    "2020-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 785
+    },
+    "2020-09": {
+      "name": "Rhyhorn",
+      "percent": 1e-05,
+      "usage": 34,
+      "rank": 600
+    },
+    "2020-10": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 879
+    },
+    "2020-10-DLC2": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 801
+    },
+    "2020-11": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 654
+    },
+    "2020-11-H1": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 845
+    },
+    "2020-11-H2": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 612
+    },
+    "2020-12": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 766
+    },
+    "2020-12-H1": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 674
+    },
+    "2020-12-H2": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 759
+    },
+    "2021-01": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 878
+    },
+    "2021-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 878
+    },
+    "2021-03": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 38,
+      "rank": 728
+    },
+    "2021-04": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 660
+    },
+    "2021-05": {
+      "name": "Rhyhorn",
+      "percent": 1e-05,
+      "usage": 46,
+      "rank": 594
+    },
+    "2021-06": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 26,
+      "rank": 657
+    },
+    "2021-07": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 872
+    },
+    "2021-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 31,
+      "rank": 659
+    },
+    "2021-09": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 863
+    },
+    "2021-10": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 861
+    },
+    "2021-11": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 685
+    },
+    "2021-12": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 16,
+      "rank": 724
+    },
+    "2022-01": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 845
+    },
+    "2022-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 12,
+      "rank": 850
+    },
+    "2022-03": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 17,
+      "rank": 859
+    },
+    "2022-04": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 847
+    },
+    "2022-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 845
+    },
+    "2022-06": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 850
+    },
+    "2022-07": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 550
+    },
+    "2022-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 859
+    },
+    "2022-09": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 841
+    },
+    "2022-10": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 32,
+      "rank": 609
+    },
+    "2022-11": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 840
+    },
+    "2022-12": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 838
+    },
+    "2023-01": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 825
+    },
+    "2023-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 47,
+      "rank": 816
+    },
+    "2023-03": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 837
+    },
+    "2023-04": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 682
+    },
+    "2023-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 17,
+      "rank": 722
+    },
+    "2023-06": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 665
+    },
+    "2023-07": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 823
+    },
+    "2023-08": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 821
+    },
+    "2023-09": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 801
+    },
+    "2023-09-DLC1": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 742
+    },
+    "2023-10": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 610
+    },
+    "2023-11": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 780
+    },
+    "2023-12": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 753
+    },
+    "2023-12-DLC2": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 679
+    },
+    "2024-01": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 675
+    },
+    "2024-02": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 782
+    },
+    "2024-04": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 504
+    },
+    "2024-05": {
+      "name": "Rhyhorn",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 683
+    }
+  }
+}

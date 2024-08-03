@@ -19,10 +19,15 @@ shutil.copy("formats.json", "../src/data/formats.json")
 os.makedirs("../src/data/usage", exist_ok=True)
 os.makedirs("cache", exist_ok=True)
 
-def cacheUsageData(time, mode, elo):
-    completeUrl = baseUrl + time + '/' + mode + '-' + elo + '.txt'
+def cacheUsageData(time, gen, mode, elo, lastFormatless):
+    if (not lastFormatless is None and \
+            months.index(month) <= months.index(lastFormatless)):
+        completeUrl = baseUrl + time + '/' + mode + '-' + elo + '.txt'
+    else:
+        completeUrl = baseUrl + time + '/' + gen + mode + '-' + elo + '.txt'
+
     cacheDirName = 'cache/' + time
-    cacheFileName = 'cache/' + time + '/' + mode + '-' + elo + '.txt'
+    cacheFileName = 'cache/' + time + '/' + gen + mode + '-' + elo + '.txt'
 
     if os.path.exists(cacheFileName):
         return
@@ -32,6 +37,8 @@ def cacheUsageData(time, mode, elo):
 
     if (r.status_code != 200):
         print("http failure")
+        print("gen = " + gen)
+        print("mode = " + mode)
         print("url = " + completeUrl)
         print("response: ")
         print(r.text)
@@ -41,9 +48,9 @@ def cacheUsageData(time, mode, elo):
         file.write(r.text)
 
 
-def getMonthData(time, mode, elo):
-    cacheUsageData(time, mode, elo)
-    cacheFileName = 'cache/' + time + '/' + mode + '-' + elo + '.txt'
+def getMonthData(time, gen, mode, elo, lastFormatless):
+    cacheUsageData(time, gen, mode, elo, lastFormatless)
+    cacheFileName = 'cache/' + time + '/' + gen + mode + '-' + elo + '.txt'
 
     with open(cacheFileName, 'r') as file:
         lines = file.read().split('\n')
@@ -98,10 +105,17 @@ for gen in formats['gens']:
         }
 
         formatMonths = months[months.index(firstMonth):]
+        if ('missingMonths' in mode):
+            formatMonths = [element for element in formatMonths if element not \
+                            in mode['missingMonths']]
         for month in formatMonths:
             result['byMonth'][gen['name']][mode['name']][month] = {}
             for elo in mode['elos']:
-                dat = getMonthData(month, gen['name'] + mode['name'], elo)
+                lastFormatless = None
+                if (gen['hasFormatless']):
+                    lastFormatless = gen['lastFormatless']
+                dat = getMonthData(month, gen['name'], mode['name'], elo,
+                                   lastFormatless)
                 insertData(dat, month, gen, mode['name'], elo)
 
 for gen in formats['gens']:

@@ -1,0 +1,1409 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Weedle",
+      "percent": 0.00605,
+      "usage": 65,
+      "rank": 699
+    },
+    "2020-03": {
+      "name": "Weedle",
+      "percent": 0.00562,
+      "usage": 67,
+      "rank": 686
+    },
+    "2020-04": {
+      "name": "Weedle",
+      "percent": 0.00722,
+      "usage": 85,
+      "rank": 610
+    },
+    "2020-05": {
+      "name": "Weedle",
+      "percent": 0.00381,
+      "usage": 47,
+      "rank": 689
+    },
+    "2020-06": {
+      "name": "Weedle",
+      "percent": 0.00718,
+      "usage": 69,
+      "rank": 607
+    },
+    "2020-06-DLC1": {
+      "name": "Weedle",
+      "percent": 0.00725,
+      "usage": 24,
+      "rank": 603
+    },
+    "2020-07": {
+      "name": "Weedle",
+      "percent": 0.00544,
+      "usage": 49,
+      "rank": 636
+    },
+    "2020-08": {
+      "name": "Weedle",
+      "percent": 0.00394,
+      "usage": 35,
+      "rank": 662
+    },
+    "2020-09": {
+      "name": "Weedle",
+      "percent": 0.00283,
+      "usage": 23,
+      "rank": 715
+    },
+    "2020-10": {
+      "name": "Weedle",
+      "percent": 0.00513,
+      "usage": 40,
+      "rank": 631
+    },
+    "2020-10-DLC2": {
+      "name": "Weedle",
+      "percent": 0.01128,
+      "usage": 22,
+      "rank": 564
+    },
+    "2020-11": {
+      "name": "Weedle",
+      "percent": 0.01002,
+      "usage": 68,
+      "rank": 588
+    },
+    "2020-11-H1": {
+      "name": "Weedle",
+      "percent": 0.01456,
+      "usage": 45,
+      "rank": 548
+    },
+    "2020-11-H2": {
+      "name": "Weedle",
+      "percent": 0.00623,
+      "usage": 23,
+      "rank": 639
+    },
+    "2020-12": {
+      "name": "Weedle",
+      "percent": 0.00385,
+      "usage": 26,
+      "rank": 687
+    },
+    "2020-12-H2": {
+      "name": "Weedle",
+      "percent": 0.00768,
+      "usage": 26,
+      "rank": 607
+    },
+    "2021-01": {
+      "name": "Weedle",
+      "percent": 0.00274,
+      "usage": 20,
+      "rank": 698
+    },
+    "2021-02": {
+      "name": "Weedle",
+      "percent": 0.00405,
+      "usage": 28,
+      "rank": 664
+    },
+    "2021-03": {
+      "name": "Weedle",
+      "percent": 0.00578,
+      "usage": 45,
+      "rank": 623
+    },
+    "2021-04": {
+      "name": "Weedle",
+      "percent": 0.00808,
+      "usage": 55,
+      "rank": 604
+    },
+    "2021-05": {
+      "name": "Weedle",
+      "percent": 0.00306,
+      "usage": 20,
+      "rank": 705
+    },
+    "2021-06": {
+      "name": "Weedle",
+      "percent": 0.00801,
+      "usage": 46,
+      "rank": 601
+    },
+    "2021-07": {
+      "name": "Weedle",
+      "percent": 0.00635,
+      "usage": 39,
+      "rank": 620
+    },
+    "2021-08": {
+      "name": "Weedle",
+      "percent": 0.01182,
+      "usage": 80,
+      "rank": 557
+    },
+    "2021-09": {
+      "name": "Weedle",
+      "percent": 0.00149,
+      "usage": 9,
+      "rank": 752
+    },
+    "2021-10": {
+      "name": "Weedle",
+      "percent": 0.00748,
+      "usage": 42,
+      "rank": 597
+    },
+    "2021-11": {
+      "name": "Weedle",
+      "percent": 0.00408,
+      "usage": 21,
+      "rank": 670
+    },
+    "2021-12": {
+      "name": "Weedle",
+      "percent": 0.00146,
+      "usage": 7,
+      "rank": 753
+    },
+    "2022-01": {
+      "name": "Weedle",
+      "percent": 0.00421,
+      "usage": 20,
+      "rank": 641
+    },
+    "2022-02": {
+      "name": "Weedle",
+      "percent": 0.00301,
+      "usage": 14,
+      "rank": 683
+    },
+    "2022-03": {
+      "name": "Weedle",
+      "percent": 0.00152,
+      "usage": 8,
+      "rank": 723
+    },
+    "2022-04": {
+      "name": "Weedle",
+      "percent": 0.01034,
+      "usage": 52,
+      "rank": 548
+    },
+    "2022-05": {
+      "name": "Weedle",
+      "percent": 0.00486,
+      "usage": 25,
+      "rank": 608
+    },
+    "2022-06": {
+      "name": "Weedle",
+      "percent": 0.00039,
+      "usage": 2,
+      "rank": 823
+    },
+    "2022-07": {
+      "name": "Weedle",
+      "percent": 0.00106,
+      "usage": 6,
+      "rank": 766
+    },
+    "2022-08": {
+      "name": "Weedle",
+      "percent": 0.00219,
+      "usage": 13,
+      "rank": 700
+    },
+    "2022-09": {
+      "name": "Weedle",
+      "percent": 0.00191,
+      "usage": 10,
+      "rank": 710
+    },
+    "2022-10": {
+      "name": "Weedle",
+      "percent": 0.00434,
+      "usage": 23,
+      "rank": 644
+    },
+    "2022-11": {
+      "name": "Weedle",
+      "percent": 0.00941,
+      "usage": 43,
+      "rank": 583
+    },
+    "2022-12": {
+      "name": "Weedle",
+      "percent": 0.00788,
+      "usage": 31,
+      "rank": 590
+    },
+    "2023-01": {
+      "name": "Weedle",
+      "percent": 0.00295,
+      "usage": 11,
+      "rank": 675
+    },
+    "2023-02": {
+      "name": "Weedle",
+      "percent": 0.00167,
+      "usage": 5,
+      "rank": 730
+    },
+    "2023-03": {
+      "name": "Weedle",
+      "percent": 0.00166,
+      "usage": 6,
+      "rank": 730
+    },
+    "2023-04": {
+      "name": "Weedle",
+      "percent": 0.0021,
+      "usage": 8,
+      "rank": 687
+    },
+    "2023-05": {
+      "name": "Weedle",
+      "percent": 0.00438,
+      "usage": 16,
+      "rank": 633
+    },
+    "2023-07": {
+      "name": "Weedle",
+      "percent": 0.00584,
+      "usage": 20,
+      "rank": 613
+    },
+    "2023-08": {
+      "name": "Weedle",
+      "percent": 0.00257,
+      "usage": 9,
+      "rank": 678
+    },
+    "2023-09": {
+      "name": "Weedle",
+      "percent": 0.00031,
+      "usage": 1,
+      "rank": 800
+    },
+    "2023-10": {
+      "name": "Weedle",
+      "percent": 0.00063,
+      "usage": 2,
+      "rank": 764
+    },
+    "2023-11": {
+      "name": "Weedle",
+      "percent": 0.00139,
+      "usage": 4,
+      "rank": 690
+    },
+    "2023-12": {
+      "name": "Weedle",
+      "percent": 0.00153,
+      "usage": 4,
+      "rank": 660
+    },
+    "2023-12-DLC2": {
+      "name": "Weedle",
+      "percent": 0.00091,
+      "usage": 1,
+      "rank": 679
+    },
+    "2024-01": {
+      "name": "Weedle",
+      "percent": 0.00275,
+      "usage": 7,
+      "rank": 632
+    },
+    "2024-02": {
+      "name": "Weedle",
+      "percent": 0.00124,
+      "usage": 3,
+      "rank": 711
+    },
+    "2024-03": {
+      "name": "Weedle",
+      "percent": 0.00243,
+      "usage": 7,
+      "rank": 638
+    },
+    "2024-04": {
+      "name": "Weedle",
+      "percent": 0.00147,
+      "usage": 4,
+      "rank": 666
+    },
+    "2024-05": {
+      "name": "Weedle",
+      "percent": 0.00227,
+      "usage": 3,
+      "rank": 611
+    },
+    "2024-06": {
+      "name": "Weedle",
+      "percent": 0.00038,
+      "usage": 1,
+      "rank": 760
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Weedle",
+      "percent": 0.0021,
+      "usage": 65,
+      "rank": 705
+    },
+    "2020-03": {
+      "name": "Weedle",
+      "percent": 0.0025,
+      "usage": 67,
+      "rank": 686
+    },
+    "2020-04": {
+      "name": "Weedle",
+      "percent": 0.00489,
+      "usage": 85,
+      "rank": 600
+    },
+    "2020-05": {
+      "name": "Weedle",
+      "percent": 0.00136,
+      "usage": 47,
+      "rank": 724
+    },
+    "2020-06": {
+      "name": "Weedle",
+      "percent": 0.00475,
+      "usage": 69,
+      "rank": 603
+    },
+    "2020-06-DLC1": {
+      "name": "Weedle",
+      "percent": 0.0039,
+      "usage": 24,
+      "rank": 615
+    },
+    "2020-07": {
+      "name": "Weedle",
+      "percent": 0.00199,
+      "usage": 49,
+      "rank": 670
+    },
+    "2020-08": {
+      "name": "Weedle",
+      "percent": 0.00169,
+      "usage": 35,
+      "rank": 671
+    },
+    "2020-09": {
+      "name": "Weedle",
+      "percent": 0.0013,
+      "usage": 23,
+      "rank": 704
+    },
+    "2020-10": {
+      "name": "Weedle",
+      "percent": 0.00314,
+      "usage": 40,
+      "rank": 602
+    },
+    "2020-10-DLC2": {
+      "name": "Weedle",
+      "percent": 0.00793,
+      "usage": 22,
+      "rank": 553
+    },
+    "2020-11": {
+      "name": "Weedle",
+      "percent": 0.00448,
+      "usage": 68,
+      "rank": 624
+    },
+    "2020-11-H1": {
+      "name": "Weedle",
+      "percent": 0.00433,
+      "usage": 45,
+      "rank": 609
+    },
+    "2020-11-H2": {
+      "name": "Weedle",
+      "percent": 0.0046,
+      "usage": 23,
+      "rank": 617
+    },
+    "2020-12": {
+      "name": "Weedle",
+      "percent": 0.00205,
+      "usage": 26,
+      "rank": 672
+    },
+    "2020-12-H2": {
+      "name": "Weedle",
+      "percent": 0.00401,
+      "usage": 26,
+      "rank": 595
+    },
+    "2021-01": {
+      "name": "Weedle",
+      "percent": 0.00143,
+      "usage": 20,
+      "rank": 703
+    },
+    "2021-02": {
+      "name": "Weedle",
+      "percent": 0.00248,
+      "usage": 28,
+      "rank": 657
+    },
+    "2021-03": {
+      "name": "Weedle",
+      "percent": 0.0035,
+      "usage": 45,
+      "rank": 630
+    },
+    "2021-04": {
+      "name": "Weedle",
+      "percent": 0.00523,
+      "usage": 55,
+      "rank": 591
+    },
+    "2021-05": {
+      "name": "Weedle",
+      "percent": 0.00211,
+      "usage": 20,
+      "rank": 670
+    },
+    "2021-06": {
+      "name": "Weedle",
+      "percent": 0.0026,
+      "usage": 46,
+      "rank": 632
+    },
+    "2021-07": {
+      "name": "Weedle",
+      "percent": 0.00149,
+      "usage": 39,
+      "rank": 710
+    },
+    "2021-08": {
+      "name": "Weedle",
+      "percent": 0.00397,
+      "usage": 80,
+      "rank": 606
+    },
+    "2021-09": {
+      "name": "Weedle",
+      "percent": 0.0007,
+      "usage": 9,
+      "rank": 764
+    },
+    "2021-10": {
+      "name": "Weedle",
+      "percent": 0.00566,
+      "usage": 42,
+      "rank": 573
+    },
+    "2021-11": {
+      "name": "Weedle",
+      "percent": 0.00229,
+      "usage": 21,
+      "rank": 665
+    },
+    "2021-12": {
+      "name": "Weedle",
+      "percent": 0.00057,
+      "usage": 7,
+      "rank": 770
+    },
+    "2022-01": {
+      "name": "Weedle",
+      "percent": 0.00277,
+      "usage": 20,
+      "rank": 620
+    },
+    "2022-02": {
+      "name": "Weedle",
+      "percent": 0.00205,
+      "usage": 14,
+      "rank": 671
+    },
+    "2022-03": {
+      "name": "Weedle",
+      "percent": 0.00115,
+      "usage": 8,
+      "rank": 704
+    },
+    "2022-04": {
+      "name": "Weedle",
+      "percent": 0.00725,
+      "usage": 52,
+      "rank": 552
+    },
+    "2022-05": {
+      "name": "Weedle",
+      "percent": 0.00296,
+      "usage": 25,
+      "rank": 612
+    },
+    "2022-06": {
+      "name": "Weedle",
+      "percent": 0.00025,
+      "usage": 2,
+      "rank": 813
+    },
+    "2022-07": {
+      "name": "Weedle",
+      "percent": 0.00073,
+      "usage": 6,
+      "rank": 752
+    },
+    "2022-08": {
+      "name": "Weedle",
+      "percent": 0.00169,
+      "usage": 13,
+      "rank": 685
+    },
+    "2022-09": {
+      "name": "Weedle",
+      "percent": 0.00108,
+      "usage": 10,
+      "rank": 724
+    },
+    "2022-10": {
+      "name": "Weedle",
+      "percent": 0.00332,
+      "usage": 23,
+      "rank": 637
+    },
+    "2022-11": {
+      "name": "Weedle",
+      "percent": 0.0074,
+      "usage": 43,
+      "rank": 588
+    },
+    "2022-12": {
+      "name": "Weedle",
+      "percent": 0.00621,
+      "usage": 31,
+      "rank": 596
+    },
+    "2023-01": {
+      "name": "Weedle",
+      "percent": 0.00216,
+      "usage": 11,
+      "rank": 680
+    },
+    "2023-02": {
+      "name": "Weedle",
+      "percent": 0.00109,
+      "usage": 5,
+      "rank": 730
+    },
+    "2023-03": {
+      "name": "Weedle",
+      "percent": 0.0014,
+      "usage": 6,
+      "rank": 697
+    },
+    "2023-04": {
+      "name": "Weedle",
+      "percent": 0.00109,
+      "usage": 8,
+      "rank": 628
+    },
+    "2023-05": {
+      "name": "Weedle",
+      "percent": 0.00252,
+      "usage": 16,
+      "rank": 565
+    },
+    "2023-07": {
+      "name": "Weedle",
+      "percent": 0.00094,
+      "usage": 20,
+      "rank": 632
+    },
+    "2023-08": {
+      "name": "Weedle",
+      "percent": 0.00028,
+      "usage": 9,
+      "rank": 714
+    },
+    "2023-09": {
+      "name": "Weedle",
+      "percent": 0.00014,
+      "usage": 1,
+      "rank": 736
+    },
+    "2023-10": {
+      "name": "Weedle",
+      "percent": 0.00017,
+      "usage": 2,
+      "rank": 723
+    },
+    "2023-11": {
+      "name": "Weedle",
+      "percent": 0.00047,
+      "usage": 4,
+      "rank": 637
+    },
+    "2023-12": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 705
+    },
+    "2023-12-DLC2": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 624
+    },
+    "2024-01": {
+      "name": "Weedle",
+      "percent": 0.00089,
+      "usage": 7,
+      "rank": 585
+    },
+    "2024-02": {
+      "name": "Weedle",
+      "percent": 0.00011,
+      "usage": 3,
+      "rank": 700
+    },
+    "2024-03": {
+      "name": "Weedle",
+      "percent": 5e-05,
+      "usage": 7,
+      "rank": 702
+    },
+    "2024-04": {
+      "name": "Weedle",
+      "percent": 0.00117,
+      "usage": 4,
+      "rank": 555
+    },
+    "2024-05": {
+      "name": "Weedle",
+      "percent": 0.00076,
+      "usage": 3,
+      "rank": 579
+    },
+    "2024-06": {
+      "name": "Weedle",
+      "percent": 0.0002,
+      "usage": 1,
+      "rank": 687
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Weedle",
+      "percent": 0.00023,
+      "usage": 65,
+      "rank": 680
+    },
+    "2020-03": {
+      "name": "Weedle",
+      "percent": 0.00033,
+      "usage": 67,
+      "rank": 635
+    },
+    "2020-04": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 85,
+      "rank": 755
+    },
+    "2020-05": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 47,
+      "rank": 747
+    },
+    "2020-06": {
+      "name": "Weedle",
+      "percent": 0.00021,
+      "usage": 69,
+      "rank": 622
+    },
+    "2020-06-DLC1": {
+      "name": "Weedle",
+      "percent": 0.00038,
+      "usage": 24,
+      "rank": 561
+    },
+    "2020-07": {
+      "name": "Weedle",
+      "percent": 0.00011,
+      "usage": 49,
+      "rank": 618
+    },
+    "2020-08": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 35,
+      "rank": 732
+    },
+    "2020-09": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 23,
+      "rank": 719
+    },
+    "2020-10": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 40,
+      "rank": 688
+    },
+    "2020-10-DLC2": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 22,
+      "rank": 570
+    },
+    "2020-11": {
+      "name": "Weedle",
+      "percent": 2e-05,
+      "usage": 68,
+      "rank": 645
+    },
+    "2020-11-H1": {
+      "name": "Weedle",
+      "percent": 4e-05,
+      "usage": 45,
+      "rank": 569
+    },
+    "2020-11-H2": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 23,
+      "rank": 638
+    },
+    "2020-12": {
+      "name": "Weedle",
+      "percent": 0.00019,
+      "usage": 26,
+      "rank": 601
+    },
+    "2020-12-H2": {
+      "name": "Weedle",
+      "percent": 0.0003,
+      "usage": 26,
+      "rank": 570
+    },
+    "2021-01": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 786
+    },
+    "2021-02": {
+      "name": "Weedle",
+      "percent": 0.00032,
+      "usage": 28,
+      "rank": 575
+    },
+    "2021-03": {
+      "name": "Weedle",
+      "percent": 0.0003,
+      "usage": 45,
+      "rank": 581
+    },
+    "2021-04": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 55,
+      "rank": 669
+    },
+    "2021-05": {
+      "name": "Weedle",
+      "percent": 0.00022,
+      "usage": 20,
+      "rank": 587
+    },
+    "2021-06": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 46,
+      "rank": 787
+    },
+    "2021-07": {
+      "name": "Weedle",
+      "percent": 0.00018,
+      "usage": 39,
+      "rank": 599
+    },
+    "2021-08": {
+      "name": "Weedle",
+      "percent": 4e-05,
+      "usage": 80,
+      "rank": 638
+    },
+    "2021-09": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 763
+    },
+    "2021-10": {
+      "name": "Weedle",
+      "percent": 0.00094,
+      "usage": 42,
+      "rank": 523
+    },
+    "2021-11": {
+      "name": "Weedle",
+      "percent": 5e-05,
+      "usage": 21,
+      "rank": 617
+    },
+    "2021-12": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 713
+    },
+    "2022-01": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 844
+    },
+    "2022-02": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 14,
+      "rank": 623
+    },
+    "2022-03": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 855
+    },
+    "2022-04": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 52,
+      "rank": 840
+    },
+    "2022-05": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 25,
+      "rank": 599
+    },
+    "2022-06": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 846
+    },
+    "2022-07": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 847
+    },
+    "2022-08": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 853
+    },
+    "2022-09": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 617
+    },
+    "2022-10": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 23,
+      "rank": 843
+    },
+    "2022-11": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 43,
+      "rank": 832
+    },
+    "2022-12": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 31,
+      "rank": 826
+    },
+    "2023-01": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 818
+    },
+    "2023-02": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 812
+    },
+    "2023-03": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 831
+    },
+    "2023-04": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 813
+    },
+    "2023-05": {
+      "name": "Weedle",
+      "percent": 0.00257,
+      "usage": 16,
+      "rank": 462
+    },
+    "2023-07": {
+      "name": "Weedle",
+      "percent": 6e-05,
+      "usage": 20,
+      "rank": 593
+    },
+    "2023-08": {
+      "name": "Weedle",
+      "percent": 3e-05,
+      "usage": 9,
+      "rank": 604
+    },
+    "2023-09": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 799
+    },
+    "2023-10": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 798
+    },
+    "2023-11": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 734
+    },
+    "2023-12": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 629
+    },
+    "2023-12-DLC2": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 561
+    },
+    "2024-01": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 7,
+      "rank": 578
+    },
+    "2024-02": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 648
+    },
+    "2024-03": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 607
+    },
+    "2024-04": {
+      "name": "Weedle",
+      "percent": 0.00158,
+      "usage": 4,
+      "rank": 426
+    },
+    "2024-05": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 575
+    },
+    "2024-06": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 757
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Weedle",
+      "percent": 8e-05,
+      "usage": 65,
+      "rank": 607
+    },
+    "2020-03": {
+      "name": "Weedle",
+      "percent": 6e-05,
+      "usage": 67,
+      "rank": 614
+    },
+    "2020-04": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 85,
+      "rank": 753
+    },
+    "2020-05": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 47,
+      "rank": 748
+    },
+    "2020-06": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 69,
+      "rank": 640
+    },
+    "2020-06-DLC1": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 24,
+      "rank": 547
+    },
+    "2020-07": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 49,
+      "rank": 606
+    },
+    "2020-08": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 35,
+      "rank": 701
+    },
+    "2020-09": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 23,
+      "rank": 799
+    },
+    "2020-10": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 40,
+      "rank": 656
+    },
+    "2020-10-DLC2": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 22,
+      "rank": 542
+    },
+    "2020-11": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 68,
+      "rank": 632
+    },
+    "2020-11-H1": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 45,
+      "rank": 549
+    },
+    "2020-11-H2": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 23,
+      "rank": 618
+    },
+    "2020-12": {
+      "name": "Weedle",
+      "percent": 3e-05,
+      "usage": 26,
+      "rank": 566
+    },
+    "2020-12-H2": {
+      "name": "Weedle",
+      "percent": 5e-05,
+      "usage": 26,
+      "rank": 534
+    },
+    "2021-01": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 776
+    },
+    "2021-02": {
+      "name": "Weedle",
+      "percent": 6e-05,
+      "usage": 28,
+      "rank": 545
+    },
+    "2021-03": {
+      "name": "Weedle",
+      "percent": 9e-05,
+      "usage": 45,
+      "rank": 526
+    },
+    "2021-04": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 55,
+      "rank": 677
+    },
+    "2021-05": {
+      "name": "Weedle",
+      "percent": 2e-05,
+      "usage": 20,
+      "rank": 567
+    },
+    "2021-06": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 46,
+      "rank": 794
+    },
+    "2021-07": {
+      "name": "Weedle",
+      "percent": 3e-05,
+      "usage": 39,
+      "rank": 559
+    },
+    "2021-08": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 80,
+      "rank": 607
+    },
+    "2021-09": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 859
+    },
+    "2021-10": {
+      "name": "Weedle",
+      "percent": 0.00012,
+      "usage": 42,
+      "rank": 510
+    },
+    "2021-11": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 21,
+      "rank": 579
+    },
+    "2021-12": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 700
+    },
+    "2022-01": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 842
+    },
+    "2022-02": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 14,
+      "rank": 612
+    },
+    "2022-03": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 855
+    },
+    "2022-04": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 52,
+      "rank": 840
+    },
+    "2022-05": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 25,
+      "rank": 575
+    },
+    "2022-06": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 844
+    },
+    "2022-07": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 846
+    },
+    "2022-08": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 851
+    },
+    "2022-09": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 606
+    },
+    "2022-10": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 23,
+      "rank": 842
+    },
+    "2022-11": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 43,
+      "rank": 831
+    },
+    "2022-12": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 31,
+      "rank": 824
+    },
+    "2023-01": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 816
+    },
+    "2023-02": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 809
+    },
+    "2023-03": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 831
+    },
+    "2023-04": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 812
+    },
+    "2023-05": {
+      "name": "Weedle",
+      "percent": 0.00603,
+      "usage": 16,
+      "rank": 295
+    },
+    "2023-07": {
+      "name": "Weedle",
+      "percent": 1e-05,
+      "usage": 20,
+      "rank": 551
+    },
+    "2023-08": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 568
+    },
+    "2023-09": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 797
+    },
+    "2023-10": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 797
+    },
+    "2023-11": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 776
+    },
+    "2023-12": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 611
+    },
+    "2023-12-DLC2": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 544
+    },
+    "2024-01": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 553
+    },
+    "2024-02": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 638
+    },
+    "2024-03": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 604
+    },
+    "2024-04": {
+      "name": "Weedle",
+      "percent": 0.00048,
+      "usage": 4,
+      "rank": 364
+    },
+    "2024-05": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 558
+    },
+    "2024-06": {
+      "name": "Weedle",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 756
+    }
+  }
+}

@@ -1,0 +1,1361 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Meditite",
+      "percent": 0.03649,
+      "usage": 392,
+      "rank": 514
+    },
+    "2020-03": {
+      "name": "Meditite",
+      "percent": 0.03847,
+      "usage": 459,
+      "rank": 496
+    },
+    "2020-04": {
+      "name": "Meditite",
+      "percent": 0.02022,
+      "usage": 238,
+      "rank": 540
+    },
+    "2020-05": {
+      "name": "Meditite",
+      "percent": 0.01386,
+      "usage": 171,
+      "rank": 553
+    },
+    "2020-06": {
+      "name": "Meditite",
+      "percent": 0.00687,
+      "usage": 66,
+      "rank": 610
+    },
+    "2020-06-DLC1": {
+      "name": "Meditite",
+      "percent": 0.00755,
+      "usage": 25,
+      "rank": 599
+    },
+    "2020-07": {
+      "name": "Meditite",
+      "percent": 0.008,
+      "usage": 72,
+      "rank": 606
+    },
+    "2020-08": {
+      "name": "Meditite",
+      "percent": 0.01375,
+      "usage": 122,
+      "rank": 548
+    },
+    "2020-09": {
+      "name": "Meditite",
+      "percent": 0.00565,
+      "usage": 46,
+      "rank": 640
+    },
+    "2020-10": {
+      "name": "Meditite",
+      "percent": 0.00552,
+      "usage": 43,
+      "rank": 624
+    },
+    "2020-10-DLC2": {
+      "name": "Meditite",
+      "percent": 0.01025,
+      "usage": 20,
+      "rank": 569
+    },
+    "2020-11": {
+      "name": "Meditite",
+      "percent": 0.00413,
+      "usage": 28,
+      "rank": 683
+    },
+    "2020-11-H1": {
+      "name": "Meditite",
+      "percent": 0.00712,
+      "usage": 22,
+      "rank": 609
+    },
+    "2020-11-H2": {
+      "name": "Meditite",
+      "percent": 0.00162,
+      "usage": 6,
+      "rank": 783
+    },
+    "2020-12": {
+      "name": "Meditite",
+      "percent": 0.00548,
+      "usage": 37,
+      "rank": 645
+    },
+    "2020-12-H1": {
+      "name": "Meditite",
+      "percent": 0.00564,
+      "usage": 19,
+      "rank": 636
+    },
+    "2020-12-H2": {
+      "name": "Meditite",
+      "percent": 0.00532,
+      "usage": 18,
+      "rank": 643
+    },
+    "2021-01": {
+      "name": "Meditite",
+      "percent": 0.00219,
+      "usage": 16,
+      "rank": 720
+    },
+    "2021-02": {
+      "name": "Meditite",
+      "percent": 0.00766,
+      "usage": 53,
+      "rank": 604
+    },
+    "2021-03": {
+      "name": "Meditite",
+      "percent": 0.00244,
+      "usage": 19,
+      "rank": 707
+    },
+    "2021-04": {
+      "name": "Meditite",
+      "percent": 0.00426,
+      "usage": 29,
+      "rank": 664
+    },
+    "2021-05": {
+      "name": "Meditite",
+      "percent": 0.00306,
+      "usage": 20,
+      "rank": 704
+    },
+    "2021-06": {
+      "name": "Meditite",
+      "percent": 0.00209,
+      "usage": 12,
+      "rank": 728
+    },
+    "2021-07": {
+      "name": "Meditite",
+      "percent": 0.0057,
+      "usage": 35,
+      "rank": 632
+    },
+    "2021-08": {
+      "name": "Meditite",
+      "percent": 0.00458,
+      "usage": 31,
+      "rank": 650
+    },
+    "2021-09": {
+      "name": "Meditite",
+      "percent": 0.00349,
+      "usage": 21,
+      "rank": 683
+    },
+    "2021-10": {
+      "name": "Meditite",
+      "percent": 0.00285,
+      "usage": 16,
+      "rank": 677
+    },
+    "2021-11": {
+      "name": "Meditite",
+      "percent": 0.00427,
+      "usage": 22,
+      "rank": 662
+    },
+    "2021-12": {
+      "name": "Meditite",
+      "percent": 0.00063,
+      "usage": 3,
+      "rank": 810
+    },
+    "2022-01": {
+      "name": "Meditite",
+      "percent": 0.00126,
+      "usage": 6,
+      "rank": 739
+    },
+    "2022-02": {
+      "name": "Meditite",
+      "percent": 0.00301,
+      "usage": 14,
+      "rank": 678
+    },
+    "2022-03": {
+      "name": "Meditite",
+      "percent": 0.00019,
+      "usage": 1,
+      "rank": 840
+    },
+    "2022-04": {
+      "name": "Meditite",
+      "percent": 0.00159,
+      "usage": 8,
+      "rank": 718
+    },
+    "2022-05": {
+      "name": "Meditite",
+      "percent": 0.00039,
+      "usage": 2,
+      "rank": 796
+    },
+    "2022-06": {
+      "name": "Meditite",
+      "percent": 0.00059,
+      "usage": 3,
+      "rank": 785
+    },
+    "2022-07": {
+      "name": "Meditite",
+      "percent": 0.00176,
+      "usage": 10,
+      "rank": 711
+    },
+    "2022-08": {
+      "name": "Meditite",
+      "percent": 0.00118,
+      "usage": 7,
+      "rank": 736
+    },
+    "2022-10": {
+      "name": "Meditite",
+      "percent": 0.00849,
+      "usage": 45,
+      "rank": 582
+    },
+    "2022-11": {
+      "name": "Meditite",
+      "percent": 0.00284,
+      "usage": 13,
+      "rank": 679
+    },
+    "2022-12": {
+      "name": "Meditite",
+      "percent": 0.00127,
+      "usage": 5,
+      "rank": 758
+    },
+    "2023-01": {
+      "name": "Meditite",
+      "percent": 0.00215,
+      "usage": 8,
+      "rank": 702
+    },
+    "2023-02": {
+      "name": "Meditite",
+      "percent": 0.00133,
+      "usage": 4,
+      "rank": 734
+    },
+    "2023-03": {
+      "name": "Meditite",
+      "percent": 0.00028,
+      "usage": 1,
+      "rank": 828
+    },
+    "2023-04": {
+      "name": "Meditite",
+      "percent": 0.00079,
+      "usage": 3,
+      "rank": 750
+    },
+    "2023-05": {
+      "name": "Meditite",
+      "percent": 0.00055,
+      "usage": 2,
+      "rank": 790
+    },
+    "2023-06": {
+      "name": "Meditite",
+      "percent": 0.00185,
+      "usage": 6,
+      "rank": 690
+    },
+    "2023-07": {
+      "name": "Meditite",
+      "percent": 0.00964,
+      "usage": 33,
+      "rank": 567
+    },
+    "2023-08": {
+      "name": "Meditite",
+      "percent": 0.00543,
+      "usage": 19,
+      "rank": 611
+    },
+    "2023-09": {
+      "name": "Meditite",
+      "percent": 0.00346,
+      "usage": 11,
+      "rank": 632
+    },
+    "2023-09-DLC1": {
+      "name": "Meditite",
+      "percent": 0.00568,
+      "usage": 9,
+      "rank": 587
+    },
+    "2023-10": {
+      "name": "Meditite",
+      "percent": 0.00188,
+      "usage": 6,
+      "rank": 700
+    },
+    "2023-11": {
+      "name": "Meditite",
+      "percent": 0.0007,
+      "usage": 2,
+      "rank": 727
+    },
+    "2023-12": {
+      "name": "Meditite",
+      "percent": 0.00038,
+      "usage": 1,
+      "rank": 731
+    },
+    "2023-12-DLC2": {
+      "name": "Meditite",
+      "percent": 0.00091,
+      "usage": 1,
+      "rank": 650
+    },
+    "2024-02": {
+      "name": "Meditite",
+      "percent": 0.00124,
+      "usage": 3,
+      "rank": 689
+    },
+    "2024-05": {
+      "name": "Meditite",
+      "percent": 0.00681,
+      "usage": 9,
+      "rank": 535
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Meditite",
+      "percent": 0.01326,
+      "usage": 392,
+      "rank": 526
+    },
+    "2020-03": {
+      "name": "Meditite",
+      "percent": 0.01524,
+      "usage": 459,
+      "rank": 517
+    },
+    "2020-04": {
+      "name": "Meditite",
+      "percent": 0.0091,
+      "usage": 238,
+      "rank": 550
+    },
+    "2020-05": {
+      "name": "Meditite",
+      "percent": 0.00568,
+      "usage": 171,
+      "rank": 580
+    },
+    "2020-06": {
+      "name": "Meditite",
+      "percent": 0.00468,
+      "usage": 66,
+      "rank": 605
+    },
+    "2020-06-DLC1": {
+      "name": "Meditite",
+      "percent": 0.00565,
+      "usage": 25,
+      "rank": 583
+    },
+    "2020-07": {
+      "name": "Meditite",
+      "percent": 0.00474,
+      "usage": 72,
+      "rank": 591
+    },
+    "2020-08": {
+      "name": "Meditite",
+      "percent": 0.00468,
+      "usage": 122,
+      "rank": 580
+    },
+    "2020-09": {
+      "name": "Meditite",
+      "percent": 0.00255,
+      "usage": 46,
+      "rank": 634
+    },
+    "2020-10": {
+      "name": "Meditite",
+      "percent": 0.00252,
+      "usage": 43,
+      "rank": 623
+    },
+    "2020-10-DLC2": {
+      "name": "Meditite",
+      "percent": 0.00799,
+      "usage": 20,
+      "rank": 552
+    },
+    "2020-11": {
+      "name": "Meditite",
+      "percent": 0.00327,
+      "usage": 28,
+      "rank": 654
+    },
+    "2020-11-H1": {
+      "name": "Meditite",
+      "percent": 0.00525,
+      "usage": 22,
+      "rank": 597
+    },
+    "2020-11-H2": {
+      "name": "Meditite",
+      "percent": 0.00164,
+      "usage": 6,
+      "rank": 728
+    },
+    "2020-12": {
+      "name": "Meditite",
+      "percent": 0.00378,
+      "usage": 37,
+      "rank": 616
+    },
+    "2020-12-H1": {
+      "name": "Meditite",
+      "percent": 0.00386,
+      "usage": 19,
+      "rank": 624
+    },
+    "2020-12-H2": {
+      "name": "Meditite",
+      "percent": 0.0037,
+      "usage": 18,
+      "rank": 606
+    },
+    "2021-01": {
+      "name": "Meditite",
+      "percent": 0.00137,
+      "usage": 16,
+      "rank": 709
+    },
+    "2021-02": {
+      "name": "Meditite",
+      "percent": 0.00506,
+      "usage": 53,
+      "rank": 591
+    },
+    "2021-03": {
+      "name": "Meditite",
+      "percent": 0.00275,
+      "usage": 19,
+      "rank": 649
+    },
+    "2021-04": {
+      "name": "Meditite",
+      "percent": 0.00092,
+      "usage": 29,
+      "rank": 758
+    },
+    "2021-05": {
+      "name": "Meditite",
+      "percent": 0.00053,
+      "usage": 20,
+      "rank": 796
+    },
+    "2021-06": {
+      "name": "Meditite",
+      "percent": 0.00096,
+      "usage": 12,
+      "rank": 724
+    },
+    "2021-07": {
+      "name": "Meditite",
+      "percent": 0.00399,
+      "usage": 35,
+      "rank": 618
+    },
+    "2021-08": {
+      "name": "Meditite",
+      "percent": 0.00333,
+      "usage": 31,
+      "rank": 629
+    },
+    "2021-09": {
+      "name": "Meditite",
+      "percent": 0.00176,
+      "usage": 21,
+      "rank": 696
+    },
+    "2021-10": {
+      "name": "Meditite",
+      "percent": 0.00196,
+      "usage": 16,
+      "rank": 670
+    },
+    "2021-11": {
+      "name": "Meditite",
+      "percent": 0.00295,
+      "usage": 22,
+      "rank": 650
+    },
+    "2021-12": {
+      "name": "Meditite",
+      "percent": 0.00012,
+      "usage": 3,
+      "rank": 843
+    },
+    "2022-01": {
+      "name": "Meditite",
+      "percent": 1e-05,
+      "usage": 6,
+      "rank": 838
+    },
+    "2022-02": {
+      "name": "Meditite",
+      "percent": 0.0022,
+      "usage": 14,
+      "rank": 661
+    },
+    "2022-03": {
+      "name": "Meditite",
+      "percent": 0.00013,
+      "usage": 1,
+      "rank": 841
+    },
+    "2022-04": {
+      "name": "Meditite",
+      "percent": 0.0011,
+      "usage": 8,
+      "rank": 715
+    },
+    "2022-05": {
+      "name": "Meditite",
+      "percent": 0.00024,
+      "usage": 2,
+      "rank": 803
+    },
+    "2022-06": {
+      "name": "Meditite",
+      "percent": 5e-05,
+      "usage": 3,
+      "rank": 849
+    },
+    "2022-07": {
+      "name": "Meditite",
+      "percent": 0.0007,
+      "usage": 10,
+      "rank": 755
+    },
+    "2022-08": {
+      "name": "Meditite",
+      "percent": 0.00098,
+      "usage": 7,
+      "rank": 723
+    },
+    "2022-10": {
+      "name": "Meditite",
+      "percent": 0.00726,
+      "usage": 45,
+      "rank": 570
+    },
+    "2022-11": {
+      "name": "Meditite",
+      "percent": 0.00262,
+      "usage": 13,
+      "rank": 675
+    },
+    "2022-12": {
+      "name": "Meditite",
+      "percent": 0.00097,
+      "usage": 5,
+      "rank": 755
+    },
+    "2023-01": {
+      "name": "Meditite",
+      "percent": 0.00184,
+      "usage": 8,
+      "rank": 694
+    },
+    "2023-02": {
+      "name": "Meditite",
+      "percent": 0.0011,
+      "usage": 4,
+      "rank": 726
+    },
+    "2023-03": {
+      "name": "Meditite",
+      "percent": 0.00019,
+      "usage": 1,
+      "rank": 820
+    },
+    "2023-04": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 793
+    },
+    "2023-05": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 822
+    },
+    "2023-06": {
+      "name": "Meditite",
+      "percent": 0.00013,
+      "usage": 6,
+      "rank": 738
+    },
+    "2023-07": {
+      "name": "Meditite",
+      "percent": 0.00299,
+      "usage": 33,
+      "rank": 557
+    },
+    "2023-08": {
+      "name": "Meditite",
+      "percent": 6e-05,
+      "usage": 19,
+      "rank": 773
+    },
+    "2023-09": {
+      "name": "Meditite",
+      "percent": 0.00384,
+      "usage": 11,
+      "rank": 536
+    },
+    "2023-09-DLC1": {
+      "name": "Meditite",
+      "percent": 0.00713,
+      "usage": 9,
+      "rank": 482
+    },
+    "2023-10": {
+      "name": "Meditite",
+      "percent": 0.00012,
+      "usage": 6,
+      "rank": 738
+    },
+    "2023-11": {
+      "name": "Meditite",
+      "percent": 0.00032,
+      "usage": 2,
+      "rank": 663
+    },
+    "2023-12": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 699
+    },
+    "2023-12-DLC2": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 614
+    },
+    "2024-02": {
+      "name": "Meditite",
+      "percent": 4e-05,
+      "usage": 3,
+      "rank": 710
+    },
+    "2024-05": {
+      "name": "Meditite",
+      "percent": 0.00703,
+      "usage": 9,
+      "rank": 448
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Meditite",
+      "percent": 0.00079,
+      "usage": 392,
+      "rank": 602
+    },
+    "2020-03": {
+      "name": "Meditite",
+      "percent": 0.00036,
+      "usage": 459,
+      "rank": 628
+    },
+    "2020-04": {
+      "name": "Meditite",
+      "percent": 7e-05,
+      "usage": 238,
+      "rank": 670
+    },
+    "2020-05": {
+      "name": "Meditite",
+      "percent": 2e-05,
+      "usage": 171,
+      "rank": 715
+    },
+    "2020-06": {
+      "name": "Meditite",
+      "percent": 3e-05,
+      "usage": 66,
+      "rank": 685
+    },
+    "2020-06-DLC1": {
+      "name": "Meditite",
+      "percent": 3e-05,
+      "usage": 25,
+      "rank": 618
+    },
+    "2020-07": {
+      "name": "Meditite",
+      "percent": 0.00032,
+      "usage": 72,
+      "rank": 570
+    },
+    "2020-08": {
+      "name": "Meditite",
+      "percent": 4e-05,
+      "usage": 122,
+      "rank": 666
+    },
+    "2020-09": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 46,
+      "rank": 782
+    },
+    "2020-10": {
+      "name": "Meditite",
+      "percent": 2e-05,
+      "usage": 43,
+      "rank": 666
+    },
+    "2020-10-DLC2": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 698
+    },
+    "2020-11": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 28,
+      "rank": 703
+    },
+    "2020-11-H1": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 22,
+      "rank": 653
+    },
+    "2020-11-H2": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 665
+    },
+    "2020-12": {
+      "name": "Meditite",
+      "percent": 0.00016,
+      "usage": 37,
+      "rank": 607
+    },
+    "2020-12-H1": {
+      "name": "Meditite",
+      "percent": 8e-05,
+      "usage": 19,
+      "rank": 598
+    },
+    "2020-12-H2": {
+      "name": "Meditite",
+      "percent": 0.00021,
+      "usage": 18,
+      "rank": 583
+    },
+    "2021-01": {
+      "name": "Meditite",
+      "percent": 1e-05,
+      "usage": 16,
+      "rank": 672
+    },
+    "2021-02": {
+      "name": "Meditite",
+      "percent": 0.00015,
+      "usage": 53,
+      "rank": 608
+    },
+    "2021-03": {
+      "name": "Meditite",
+      "percent": 0.00046,
+      "usage": 19,
+      "rank": 561
+    },
+    "2021-04": {
+      "name": "Meditite",
+      "percent": 1e-05,
+      "usage": 29,
+      "rank": 673
+    },
+    "2021-05": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 744
+    },
+    "2021-06": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 12,
+      "rank": 700
+    },
+    "2021-07": {
+      "name": "Meditite",
+      "percent": 0.00028,
+      "usage": 35,
+      "rank": 581
+    },
+    "2021-08": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 31,
+      "rank": 726
+    },
+    "2021-09": {
+      "name": "Meditite",
+      "percent": 0.00023,
+      "usage": 21,
+      "rank": 562
+    },
+    "2021-10": {
+      "name": "Meditite",
+      "percent": 4e-05,
+      "usage": 16,
+      "rank": 632
+    },
+    "2021-11": {
+      "name": "Meditite",
+      "percent": 0.00023,
+      "usage": 22,
+      "rank": 565
+    },
+    "2021-12": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 670
+    },
+    "2022-01": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 682
+    },
+    "2022-02": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 14,
+      "rank": 764
+    },
+    "2022-03": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 741
+    },
+    "2022-04": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 721
+    },
+    "2022-05": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 606
+    },
+    "2022-06": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 611
+    },
+    "2022-07": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 628
+    },
+    "2022-08": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 745
+    },
+    "2022-10": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 45,
+      "rank": 721
+    },
+    "2022-11": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 656
+    },
+    "2022-12": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 825
+    },
+    "2023-01": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 638
+    },
+    "2023-02": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 675
+    },
+    "2023-03": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 749
+    },
+    "2023-04": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 735
+    },
+    "2023-05": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 799
+    },
+    "2023-06": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 655
+    },
+    "2023-07": {
+      "name": "Meditite",
+      "percent": 7e-05,
+      "usage": 33,
+      "rank": 586
+    },
+    "2023-08": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 19,
+      "rank": 660
+    },
+    "2023-09": {
+      "name": "Meditite",
+      "percent": 0.00346,
+      "usage": 11,
+      "rank": 424
+    },
+    "2023-09-DLC1": {
+      "name": "Meditite",
+      "percent": 0.00717,
+      "usage": 9,
+      "rank": 371
+    },
+    "2023-10": {
+      "name": "Meditite",
+      "percent": 1e-05,
+      "usage": 6,
+      "rank": 625
+    },
+    "2023-11": {
+      "name": "Meditite",
+      "percent": 1e-05,
+      "usage": 2,
+      "rank": 612
+    },
+    "2023-12": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 624
+    },
+    "2023-12-DLC2": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 556
+    },
+    "2024-02": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 624
+    },
+    "2024-05": {
+      "name": "Meditite",
+      "percent": 0.0023,
+      "usage": 9,
+      "rank": 372
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Meditite",
+      "percent": 0.0001,
+      "usage": 392,
+      "rank": 594
+    },
+    "2020-03": {
+      "name": "Meditite",
+      "percent": 7e-05,
+      "usage": 459,
+      "rank": 612
+    },
+    "2020-04": {
+      "name": "Meditite",
+      "percent": 1e-05,
+      "usage": 238,
+      "rank": 650
+    },
+    "2020-05": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 171,
+      "rank": 692
+    },
+    "2020-06": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 66,
+      "rank": 670
+    },
+    "2020-06-DLC1": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 25,
+      "rank": 619
+    },
+    "2020-07": {
+      "name": "Meditite",
+      "percent": 6e-05,
+      "usage": 72,
+      "rank": 540
+    },
+    "2020-08": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 122,
+      "rank": 664
+    },
+    "2020-09": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 46,
+      "rank": 774
+    },
+    "2020-10": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 43,
+      "rank": 639
+    },
+    "2020-10-DLC2": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 678
+    },
+    "2020-11": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 28,
+      "rank": 733
+    },
+    "2020-11-H1": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 22,
+      "rank": 644
+    },
+    "2020-11-H2": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 687
+    },
+    "2020-12": {
+      "name": "Meditite",
+      "percent": 1e-05,
+      "usage": 37,
+      "rank": 588
+    },
+    "2020-12-H1": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 19,
+      "rank": 553
+    },
+    "2020-12-H2": {
+      "name": "Meditite",
+      "percent": 2e-05,
+      "usage": 18,
+      "rank": 560
+    },
+    "2021-01": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 16,
+      "rank": 655
+    },
+    "2021-02": {
+      "name": "Meditite",
+      "percent": 1e-05,
+      "usage": 53,
+      "rank": 588
+    },
+    "2021-03": {
+      "name": "Meditite",
+      "percent": 7e-05,
+      "usage": 19,
+      "rank": 534
+    },
+    "2021-04": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 29,
+      "rank": 658
+    },
+    "2021-05": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 20,
+      "rank": 723
+    },
+    "2021-06": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 12,
+      "rank": 705
+    },
+    "2021-07": {
+      "name": "Meditite",
+      "percent": 2e-05,
+      "usage": 35,
+      "rank": 570
+    },
+    "2021-08": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 31,
+      "rank": 718
+    },
+    "2021-09": {
+      "name": "Meditite",
+      "percent": 2e-05,
+      "usage": 21,
+      "rank": 546
+    },
+    "2021-10": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 16,
+      "rank": 674
+    },
+    "2021-11": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 22,
+      "rank": 628
+    },
+    "2021-12": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 688
+    },
+    "2022-01": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 673
+    },
+    "2022-02": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 14,
+      "rank": 750
+    },
+    "2022-03": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 732
+    },
+    "2022-04": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 702
+    },
+    "2022-05": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 588
+    },
+    "2022-06": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 581
+    },
+    "2022-07": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 10,
+      "rank": 619
+    },
+    "2022-08": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 729
+    },
+    "2022-10": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 45,
+      "rank": 705
+    },
+    "2022-11": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 647
+    },
+    "2022-12": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 823
+    },
+    "2023-01": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 8,
+      "rank": 620
+    },
+    "2023-02": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 657
+    },
+    "2023-03": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 742
+    },
+    "2023-04": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 766
+    },
+    "2023-05": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 791
+    },
+    "2023-06": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 669
+    },
+    "2023-07": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 33,
+      "rank": 566
+    },
+    "2023-08": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 19,
+      "rank": 660
+    },
+    "2023-09": {
+      "name": "Meditite",
+      "percent": 0.0009,
+      "usage": 11,
+      "rank": 375
+    },
+    "2023-09-DLC1": {
+      "name": "Meditite",
+      "percent": 0.00189,
+      "usage": 9,
+      "rank": 315
+    },
+    "2023-10": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 620
+    },
+    "2023-11": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 572
+    },
+    "2023-12": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 617
+    },
+    "2023-12-DLC2": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 550
+    },
+    "2024-02": {
+      "name": "Meditite",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 626
+    },
+    "2024-05": {
+      "name": "Meditite",
+      "percent": 0.00049,
+      "usage": 9,
+      "rank": 333
+    }
+  }
+}

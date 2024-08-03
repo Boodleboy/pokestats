@@ -1,14 +1,19 @@
-Add the rest of the data for the modes
 Make graph titles use proper format label
 Make program-crashing chart settings impossible
 Add loading spinner
 Add paging to bar graph
-Change usage script to handle weirdness
-	some modes go away, then come back
-		gen 3 ubers goes away 2018-02
-		gen 4 ubers goes away 2018-02
-		gen 4 lc goes away 2015-03
-	gen 6 formats have no "gen6" prefix for a while
+Don't bother with missing months, just get the data I can
+Add the rest of the data for the modes
+	Change usage script to handle weirdness
+		Gen 6 changes it's elo thesholds starting 2017-07
+			Same month that it starts having 'gen6' as a prefix for the modes
+			Gen 7 ou does the same thing, starting 2020-02
+			Gen 8 ou does the same, starting 2022-11
+		some modes go away, then come back
+			gen 3 ubers goes away 2018-02
+			gen 4 ubers goes away 2018-02
+			gen 4 lc goes away 2015-03
+		gen 6 formats have no "gen6" prefix for a while
 Get pokemon data to make pokemon-based styling possible
 	change bar color based on pokemon type
 	display an image of the pokemon on the bar

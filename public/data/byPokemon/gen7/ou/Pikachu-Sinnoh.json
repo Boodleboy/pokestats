@@ -1,0 +1,65 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Pikachu-Sinnoh",
+      "percent": 0.00382,
+      "usage": 41,
+      "rank": 749
+    },
+    "2020-03": {
+      "name": "Pikachu-Sinnoh",
+      "percent": 0.00964,
+      "usage": 115,
+      "rank": 625
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Pikachu-Sinnoh",
+      "percent": 0.00156,
+      "usage": 41,
+      "rank": 739
+    },
+    "2020-03": {
+      "name": "Pikachu-Sinnoh",
+      "percent": 0.00651,
+      "usage": 115,
+      "rank": 588
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Pikachu-Sinnoh",
+      "percent": 0.00024,
+      "usage": 41,
+      "rank": 679
+    },
+    "2020-03": {
+      "name": "Pikachu-Sinnoh",
+      "percent": 0.00088,
+      "usage": 115,
+      "rank": 582
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Pikachu-Sinnoh",
+      "percent": 8e-05,
+      "usage": 41,
+      "rank": 613
+    },
+    "2020-03": {
+      "name": "Pikachu-Sinnoh",
+      "percent": 0.00019,
+      "usage": 115,
+      "rank": 562
+    }
+  }
+}

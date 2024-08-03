@@ -1,0 +1,1481 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Machamp",
+      "percent": 0.83243,
+      "usage": 8943,
+      "rank": 162
+    },
+    "2020-03": {
+      "name": "Machamp",
+      "percent": 0.84947,
+      "usage": 10134,
+      "rank": 150
+    },
+    "2020-04": {
+      "name": "Machamp",
+      "percent": 0.81477,
+      "usage": 9592,
+      "rank": 149
+    },
+    "2020-05": {
+      "name": "Machamp",
+      "percent": 0.80938,
+      "usage": 9988,
+      "rank": 148
+    },
+    "2020-06": {
+      "name": "Machamp",
+      "percent": 0.75386,
+      "usage": 7243,
+      "rank": 159
+    },
+    "2020-06-DLC1": {
+      "name": "Machamp",
+      "percent": 0.78564,
+      "usage": 2600,
+      "rank": 156
+    },
+    "2020-07": {
+      "name": "Machamp",
+      "percent": 0.72598,
+      "usage": 6536,
+      "rank": 159
+    },
+    "2020-08": {
+      "name": "Machamp",
+      "percent": 0.77672,
+      "usage": 6894,
+      "rank": 155
+    },
+    "2020-09": {
+      "name": "Machamp",
+      "percent": 0.74186,
+      "usage": 6039,
+      "rank": 152
+    },
+    "2020-10": {
+      "name": "Machamp",
+      "percent": 0.91808,
+      "usage": 7157,
+      "rank": 143
+    },
+    "2020-10-DLC2": {
+      "name": "Machamp",
+      "percent": 0.91246,
+      "usage": 1780,
+      "rank": 146
+    },
+    "2020-11": {
+      "name": "Machamp",
+      "percent": 0.9841,
+      "usage": 6676,
+      "rank": 145
+    },
+    "2020-11-H1": {
+      "name": "Machamp",
+      "percent": 1.10634,
+      "usage": 3419,
+      "rank": 134
+    },
+    "2020-11-H2": {
+      "name": "Machamp",
+      "percent": 0.88181,
+      "usage": 3257,
+      "rank": 149
+    },
+    "2020-12": {
+      "name": "Machamp",
+      "percent": 0.77437,
+      "usage": 5232,
+      "rank": 161
+    },
+    "2020-12-H1": {
+      "name": "Machamp",
+      "percent": 0.72726,
+      "usage": 2451,
+      "rank": 167
+    },
+    "2020-12-H2": {
+      "name": "Machamp",
+      "percent": 0.82125,
+      "usage": 2781,
+      "rank": 155
+    },
+    "2021-01": {
+      "name": "Machamp",
+      "percent": 0.83503,
+      "usage": 6103,
+      "rank": 154
+    },
+    "2021-02": {
+      "name": "Machamp",
+      "percent": 0.77954,
+      "usage": 5393,
+      "rank": 159
+    },
+    "2021-03": {
+      "name": "Machamp",
+      "percent": 0.73866,
+      "usage": 5748,
+      "rank": 157
+    },
+    "2021-04": {
+      "name": "Machamp",
+      "percent": 0.73633,
+      "usage": 5014,
+      "rank": 159
+    },
+    "2021-05": {
+      "name": "Machamp",
+      "percent": 0.70944,
+      "usage": 4640,
+      "rank": 167
+    },
+    "2021-06": {
+      "name": "Machamp",
+      "percent": 0.59697,
+      "usage": 3429,
+      "rank": 187
+    },
+    "2021-07": {
+      "name": "Machamp",
+      "percent": 0.70928,
+      "usage": 4357,
+      "rank": 169
+    },
+    "2021-08": {
+      "name": "Machamp",
+      "percent": 0.59672,
+      "usage": 4038,
+      "rank": 180
+    },
+    "2021-09": {
+      "name": "Machamp",
+      "percent": 0.62241,
+      "usage": 3748,
+      "rank": 176
+    },
+    "2021-10": {
+      "name": "Machamp",
+      "percent": 0.62353,
+      "usage": 3500,
+      "rank": 173
+    },
+    "2021-11": {
+      "name": "Machamp",
+      "percent": 0.71303,
+      "usage": 3670,
+      "rank": 161
+    },
+    "2021-12": {
+      "name": "Machamp",
+      "percent": 0.77332,
+      "usage": 3703,
+      "rank": 155
+    },
+    "2022-01": {
+      "name": "Machamp",
+      "percent": 0.71055,
+      "usage": 3373,
+      "rank": 160
+    },
+    "2022-02": {
+      "name": "Machamp",
+      "percent": 0.54609,
+      "usage": 2544,
+      "rank": 180
+    },
+    "2022-03": {
+      "name": "Machamp",
+      "percent": 0.42695,
+      "usage": 2243,
+      "rank": 202
+    },
+    "2022-04": {
+      "name": "Machamp",
+      "percent": 0.45855,
+      "usage": 2306,
+      "rank": 194
+    },
+    "2022-05": {
+      "name": "Machamp",
+      "percent": 0.50927,
+      "usage": 2620,
+      "rank": 182
+    },
+    "2022-06": {
+      "name": "Machamp",
+      "percent": 0.46318,
+      "usage": 2369,
+      "rank": 189
+    },
+    "2022-07": {
+      "name": "Machamp",
+      "percent": 0.44461,
+      "usage": 2521,
+      "rank": 191
+    },
+    "2022-08": {
+      "name": "Machamp",
+      "percent": 0.43187,
+      "usage": 2564,
+      "rank": 197
+    },
+    "2022-09": {
+      "name": "Machamp",
+      "percent": 0.43301,
+      "usage": 2265,
+      "rank": 201
+    },
+    "2022-10": {
+      "name": "Machamp",
+      "percent": 0.42107,
+      "usage": 2233,
+      "rank": 197
+    },
+    "2022-11": {
+      "name": "Machamp",
+      "percent": 0.6226,
+      "usage": 2846,
+      "rank": 164
+    },
+    "2022-12": {
+      "name": "Machamp",
+      "percent": 0.72024,
+      "usage": 2834,
+      "rank": 156
+    },
+    "2023-01": {
+      "name": "Machamp",
+      "percent": 0.55746,
+      "usage": 2079,
+      "rank": 177
+    },
+    "2023-02": {
+      "name": "Machamp",
+      "percent": 0.53517,
+      "usage": 1607,
+      "rank": 183
+    },
+    "2023-03": {
+      "name": "Machamp",
+      "percent": 0.60811,
+      "usage": 2196,
+      "rank": 166
+    },
+    "2023-04": {
+      "name": "Machamp",
+      "percent": 0.47853,
+      "usage": 1822,
+      "rank": 188
+    },
+    "2023-05": {
+      "name": "Machamp",
+      "percent": 0.68886,
+      "usage": 2519,
+      "rank": 159
+    },
+    "2023-06": {
+      "name": "Machamp",
+      "percent": 0.64729,
+      "usage": 2096,
+      "rank": 169
+    },
+    "2023-07": {
+      "name": "Machamp",
+      "percent": 0.64842,
+      "usage": 2220,
+      "rank": 166
+    },
+    "2023-08": {
+      "name": "Machamp",
+      "percent": 0.57989,
+      "usage": 2028,
+      "rank": 177
+    },
+    "2023-09": {
+      "name": "Machamp",
+      "percent": 0.57008,
+      "usage": 1815,
+      "rank": 173
+    },
+    "2023-09-DLC1": {
+      "name": "Machamp",
+      "percent": 0.49956,
+      "usage": 792,
+      "rank": 184
+    },
+    "2023-10": {
+      "name": "Machamp",
+      "percent": 0.55888,
+      "usage": 1784,
+      "rank": 167
+    },
+    "2023-11": {
+      "name": "Machamp",
+      "percent": 0.56928,
+      "usage": 1637,
+      "rank": 170
+    },
+    "2023-12": {
+      "name": "Machamp",
+      "percent": 0.50876,
+      "usage": 1329,
+      "rank": 177
+    },
+    "2023-12-DLC2": {
+      "name": "Machamp",
+      "percent": 0.58538,
+      "usage": 641,
+      "rank": 160
+    },
+    "2024-01": {
+      "name": "Machamp",
+      "percent": 0.51301,
+      "usage": 1308,
+      "rank": 175
+    },
+    "2024-02": {
+      "name": "Machamp",
+      "percent": 0.45269,
+      "usage": 1093,
+      "rank": 191
+    },
+    "2024-03": {
+      "name": "Machamp",
+      "percent": 0.58745,
+      "usage": 1690,
+      "rank": 173
+    },
+    "2024-04": {
+      "name": "Machamp",
+      "percent": 0.59013,
+      "usage": 1601,
+      "rank": 164
+    },
+    "2024-05": {
+      "name": "Machamp",
+      "percent": 0.54966,
+      "usage": 726,
+      "rank": 162
+    },
+    "2024-06": {
+      "name": "Machamp",
+      "percent": 0.58873,
+      "usage": 1564,
+      "rank": 164
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Machamp",
+      "percent": 0.61467,
+      "usage": 8943,
+      "rank": 156
+    },
+    "2020-03": {
+      "name": "Machamp",
+      "percent": 0.58583,
+      "usage": 10134,
+      "rank": 163
+    },
+    "2020-04": {
+      "name": "Machamp",
+      "percent": 0.5722,
+      "usage": 9592,
+      "rank": 168
+    },
+    "2020-05": {
+      "name": "Machamp",
+      "percent": 0.61154,
+      "usage": 9988,
+      "rank": 153
+    },
+    "2020-06": {
+      "name": "Machamp",
+      "percent": 0.59116,
+      "usage": 7243,
+      "rank": 164
+    },
+    "2020-06-DLC1": {
+      "name": "Machamp",
+      "percent": 0.61673,
+      "usage": 2600,
+      "rank": 167
+    },
+    "2020-07": {
+      "name": "Machamp",
+      "percent": 0.51112,
+      "usage": 6536,
+      "rank": 176
+    },
+    "2020-08": {
+      "name": "Machamp",
+      "percent": 0.52097,
+      "usage": 6894,
+      "rank": 168
+    },
+    "2020-09": {
+      "name": "Machamp",
+      "percent": 0.49829,
+      "usage": 6039,
+      "rank": 171
+    },
+    "2020-10": {
+      "name": "Machamp",
+      "percent": 0.6523,
+      "usage": 7157,
+      "rank": 148
+    },
+    "2020-10-DLC2": {
+      "name": "Machamp",
+      "percent": 0.75938,
+      "usage": 1780,
+      "rank": 151
+    },
+    "2020-11": {
+      "name": "Machamp",
+      "percent": 0.80556,
+      "usage": 6676,
+      "rank": 150
+    },
+    "2020-11-H1": {
+      "name": "Machamp",
+      "percent": 0.91633,
+      "usage": 3419,
+      "rank": 142
+    },
+    "2020-11-H2": {
+      "name": "Machamp",
+      "percent": 0.71426,
+      "usage": 3257,
+      "rank": 151
+    },
+    "2020-12": {
+      "name": "Machamp",
+      "percent": 0.57257,
+      "usage": 5232,
+      "rank": 169
+    },
+    "2020-12-H1": {
+      "name": "Machamp",
+      "percent": 0.58126,
+      "usage": 2451,
+      "rank": 173
+    },
+    "2020-12-H2": {
+      "name": "Machamp",
+      "percent": 0.56426,
+      "usage": 2781,
+      "rank": 163
+    },
+    "2021-01": {
+      "name": "Machamp",
+      "percent": 0.59798,
+      "usage": 6103,
+      "rank": 167
+    },
+    "2021-02": {
+      "name": "Machamp",
+      "percent": 0.59638,
+      "usage": 5393,
+      "rank": 167
+    },
+    "2021-03": {
+      "name": "Machamp",
+      "percent": 0.61247,
+      "usage": 5748,
+      "rank": 164
+    },
+    "2021-04": {
+      "name": "Machamp",
+      "percent": 0.58877,
+      "usage": 5014,
+      "rank": 166
+    },
+    "2021-05": {
+      "name": "Machamp",
+      "percent": 0.58876,
+      "usage": 4640,
+      "rank": 164
+    },
+    "2021-06": {
+      "name": "Machamp",
+      "percent": 0.4461,
+      "usage": 3429,
+      "rank": 187
+    },
+    "2021-07": {
+      "name": "Machamp",
+      "percent": 0.56237,
+      "usage": 4357,
+      "rank": 175
+    },
+    "2021-08": {
+      "name": "Machamp",
+      "percent": 0.44163,
+      "usage": 4038,
+      "rank": 196
+    },
+    "2021-09": {
+      "name": "Machamp",
+      "percent": 0.48504,
+      "usage": 3748,
+      "rank": 185
+    },
+    "2021-10": {
+      "name": "Machamp",
+      "percent": 0.55766,
+      "usage": 3500,
+      "rank": 174
+    },
+    "2021-11": {
+      "name": "Machamp",
+      "percent": 0.60816,
+      "usage": 3670,
+      "rank": 164
+    },
+    "2021-12": {
+      "name": "Machamp",
+      "percent": 0.63059,
+      "usage": 3703,
+      "rank": 162
+    },
+    "2022-01": {
+      "name": "Machamp",
+      "percent": 0.47761,
+      "usage": 3373,
+      "rank": 184
+    },
+    "2022-02": {
+      "name": "Machamp",
+      "percent": 0.44843,
+      "usage": 2544,
+      "rank": 189
+    },
+    "2022-03": {
+      "name": "Machamp",
+      "percent": 0.36587,
+      "usage": 2243,
+      "rank": 206
+    },
+    "2022-04": {
+      "name": "Machamp",
+      "percent": 0.35579,
+      "usage": 2306,
+      "rank": 210
+    },
+    "2022-05": {
+      "name": "Machamp",
+      "percent": 0.39713,
+      "usage": 2620,
+      "rank": 189
+    },
+    "2022-06": {
+      "name": "Machamp",
+      "percent": 0.38621,
+      "usage": 2369,
+      "rank": 194
+    },
+    "2022-07": {
+      "name": "Machamp",
+      "percent": 0.36806,
+      "usage": 2521,
+      "rank": 194
+    },
+    "2022-08": {
+      "name": "Machamp",
+      "percent": 0.38409,
+      "usage": 2564,
+      "rank": 195
+    },
+    "2022-09": {
+      "name": "Machamp",
+      "percent": 0.38654,
+      "usage": 2265,
+      "rank": 201
+    },
+    "2022-10": {
+      "name": "Machamp",
+      "percent": 0.35638,
+      "usage": 2233,
+      "rank": 198
+    },
+    "2022-11": {
+      "name": "Machamp",
+      "percent": 0.57145,
+      "usage": 2846,
+      "rank": 166
+    },
+    "2022-12": {
+      "name": "Machamp",
+      "percent": 0.68909,
+      "usage": 2834,
+      "rank": 158
+    },
+    "2023-01": {
+      "name": "Machamp",
+      "percent": 0.52851,
+      "usage": 2079,
+      "rank": 179
+    },
+    "2023-02": {
+      "name": "Machamp",
+      "percent": 0.47572,
+      "usage": 1607,
+      "rank": 184
+    },
+    "2023-03": {
+      "name": "Machamp",
+      "percent": 0.50373,
+      "usage": 2196,
+      "rank": 171
+    },
+    "2023-04": {
+      "name": "Machamp",
+      "percent": 0.27739,
+      "usage": 1822,
+      "rank": 200
+    },
+    "2023-05": {
+      "name": "Machamp",
+      "percent": 0.60632,
+      "usage": 2519,
+      "rank": 144
+    },
+    "2023-06": {
+      "name": "Machamp",
+      "percent": 0.46508,
+      "usage": 2096,
+      "rank": 164
+    },
+    "2023-07": {
+      "name": "Machamp",
+      "percent": 0.38822,
+      "usage": 2220,
+      "rank": 177
+    },
+    "2023-08": {
+      "name": "Machamp",
+      "percent": 0.3662,
+      "usage": 2028,
+      "rank": 181
+    },
+    "2023-09": {
+      "name": "Machamp",
+      "percent": 0.3235,
+      "usage": 1815,
+      "rank": 184
+    },
+    "2023-09-DLC1": {
+      "name": "Machamp",
+      "percent": 0.27665,
+      "usage": 792,
+      "rank": 196
+    },
+    "2023-10": {
+      "name": "Machamp",
+      "percent": 0.31152,
+      "usage": 1784,
+      "rank": 183
+    },
+    "2023-11": {
+      "name": "Machamp",
+      "percent": 0.33473,
+      "usage": 1637,
+      "rank": 178
+    },
+    "2023-12": {
+      "name": "Machamp",
+      "percent": 0.23473,
+      "usage": 1329,
+      "rank": 202
+    },
+    "2023-12-DLC2": {
+      "name": "Machamp",
+      "percent": 0.2556,
+      "usage": 641,
+      "rank": 198
+    },
+    "2024-01": {
+      "name": "Machamp",
+      "percent": 0.23515,
+      "usage": 1308,
+      "rank": 207
+    },
+    "2024-02": {
+      "name": "Machamp",
+      "percent": 0.22566,
+      "usage": 1093,
+      "rank": 200
+    },
+    "2024-03": {
+      "name": "Machamp",
+      "percent": 0.35482,
+      "usage": 1690,
+      "rank": 170
+    },
+    "2024-04": {
+      "name": "Machamp",
+      "percent": 0.35687,
+      "usage": 1601,
+      "rank": 174
+    },
+    "2024-05": {
+      "name": "Machamp",
+      "percent": 0.24985,
+      "usage": 726,
+      "rank": 194
+    },
+    "2024-06": {
+      "name": "Machamp",
+      "percent": 0.39155,
+      "usage": 1564,
+      "rank": 160
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Machamp",
+      "percent": 0.28215,
+      "usage": 8943,
+      "rank": 178
+    },
+    "2020-03": {
+      "name": "Machamp",
+      "percent": 0.22686,
+      "usage": 10134,
+      "rank": 184
+    },
+    "2020-04": {
+      "name": "Machamp",
+      "percent": 0.17728,
+      "usage": 9592,
+      "rank": 196
+    },
+    "2020-05": {
+      "name": "Machamp",
+      "percent": 0.11679,
+      "usage": 9988,
+      "rank": 229
+    },
+    "2020-06": {
+      "name": "Machamp",
+      "percent": 0.13127,
+      "usage": 7243,
+      "rank": 224
+    },
+    "2020-06-DLC1": {
+      "name": "Machamp",
+      "percent": 0.0834,
+      "usage": 2600,
+      "rank": 252
+    },
+    "2020-07": {
+      "name": "Machamp",
+      "percent": 0.11814,
+      "usage": 6536,
+      "rank": 220
+    },
+    "2020-08": {
+      "name": "Machamp",
+      "percent": 0.09965,
+      "usage": 6894,
+      "rank": 231
+    },
+    "2020-09": {
+      "name": "Machamp",
+      "percent": 0.0922,
+      "usage": 6039,
+      "rank": 237
+    },
+    "2020-10": {
+      "name": "Machamp",
+      "percent": 0.19593,
+      "usage": 7157,
+      "rank": 189
+    },
+    "2020-10-DLC2": {
+      "name": "Machamp",
+      "percent": 0.05591,
+      "usage": 1780,
+      "rank": 256
+    },
+    "2020-11": {
+      "name": "Machamp",
+      "percent": 0.11021,
+      "usage": 6676,
+      "rank": 228
+    },
+    "2020-11-H1": {
+      "name": "Machamp",
+      "percent": 0.11108,
+      "usage": 3419,
+      "rank": 226
+    },
+    "2020-11-H2": {
+      "name": "Machamp",
+      "percent": 0.10965,
+      "usage": 3257,
+      "rank": 224
+    },
+    "2020-12": {
+      "name": "Machamp",
+      "percent": 0.12677,
+      "usage": 5232,
+      "rank": 218
+    },
+    "2020-12-H1": {
+      "name": "Machamp",
+      "percent": 0.13134,
+      "usage": 2451,
+      "rank": 213
+    },
+    "2020-12-H2": {
+      "name": "Machamp",
+      "percent": 0.12402,
+      "usage": 2781,
+      "rank": 219
+    },
+    "2021-01": {
+      "name": "Machamp",
+      "percent": 0.08085,
+      "usage": 6103,
+      "rank": 251
+    },
+    "2021-02": {
+      "name": "Machamp",
+      "percent": 0.19088,
+      "usage": 5393,
+      "rank": 194
+    },
+    "2021-03": {
+      "name": "Machamp",
+      "percent": 0.15872,
+      "usage": 5748,
+      "rank": 206
+    },
+    "2021-04": {
+      "name": "Machamp",
+      "percent": 0.17416,
+      "usage": 5014,
+      "rank": 190
+    },
+    "2021-05": {
+      "name": "Machamp",
+      "percent": 0.13299,
+      "usage": 4640,
+      "rank": 212
+    },
+    "2021-06": {
+      "name": "Machamp",
+      "percent": 0.11713,
+      "usage": 3429,
+      "rank": 227
+    },
+    "2021-07": {
+      "name": "Machamp",
+      "percent": 0.19318,
+      "usage": 4357,
+      "rank": 190
+    },
+    "2021-08": {
+      "name": "Machamp",
+      "percent": 0.12008,
+      "usage": 4038,
+      "rank": 215
+    },
+    "2021-09": {
+      "name": "Machamp",
+      "percent": 0.07609,
+      "usage": 3748,
+      "rank": 255
+    },
+    "2021-10": {
+      "name": "Machamp",
+      "percent": 0.21145,
+      "usage": 3500,
+      "rank": 173
+    },
+    "2021-11": {
+      "name": "Machamp",
+      "percent": 0.18435,
+      "usage": 3670,
+      "rank": 195
+    },
+    "2021-12": {
+      "name": "Machamp",
+      "percent": 0.21541,
+      "usage": 3703,
+      "rank": 182
+    },
+    "2022-01": {
+      "name": "Machamp",
+      "percent": 0.11069,
+      "usage": 3373,
+      "rank": 216
+    },
+    "2022-02": {
+      "name": "Machamp",
+      "percent": 0.17845,
+      "usage": 2544,
+      "rank": 183
+    },
+    "2022-03": {
+      "name": "Machamp",
+      "percent": 0.07324,
+      "usage": 2243,
+      "rank": 239
+    },
+    "2022-04": {
+      "name": "Machamp",
+      "percent": 0.05461,
+      "usage": 2306,
+      "rank": 238
+    },
+    "2022-05": {
+      "name": "Machamp",
+      "percent": 0.07955,
+      "usage": 2620,
+      "rank": 227
+    },
+    "2022-06": {
+      "name": "Machamp",
+      "percent": 0.05306,
+      "usage": 2369,
+      "rank": 247
+    },
+    "2022-07": {
+      "name": "Machamp",
+      "percent": 0.0816,
+      "usage": 2521,
+      "rank": 227
+    },
+    "2022-08": {
+      "name": "Machamp",
+      "percent": 0.07115,
+      "usage": 2564,
+      "rank": 231
+    },
+    "2022-09": {
+      "name": "Machamp",
+      "percent": 0.17589,
+      "usage": 2265,
+      "rank": 185
+    },
+    "2022-10": {
+      "name": "Machamp",
+      "percent": 0.04849,
+      "usage": 2233,
+      "rank": 248
+    },
+    "2022-11": {
+      "name": "Machamp",
+      "percent": 0.05245,
+      "usage": 2846,
+      "rank": 241
+    },
+    "2022-12": {
+      "name": "Machamp",
+      "percent": 0.094,
+      "usage": 2834,
+      "rank": 197
+    },
+    "2023-01": {
+      "name": "Machamp",
+      "percent": 0.06824,
+      "usage": 2079,
+      "rank": 209
+    },
+    "2023-02": {
+      "name": "Machamp",
+      "percent": 0.173,
+      "usage": 1607,
+      "rank": 170
+    },
+    "2023-03": {
+      "name": "Machamp",
+      "percent": 0.11603,
+      "usage": 2196,
+      "rank": 199
+    },
+    "2023-04": {
+      "name": "Machamp",
+      "percent": 0.07915,
+      "usage": 1822,
+      "rank": 222
+    },
+    "2023-05": {
+      "name": "Machamp",
+      "percent": 0.19105,
+      "usage": 2519,
+      "rank": 175
+    },
+    "2023-06": {
+      "name": "Machamp",
+      "percent": 0.09396,
+      "usage": 2096,
+      "rank": 207
+    },
+    "2023-07": {
+      "name": "Machamp",
+      "percent": 0.10454,
+      "usage": 2220,
+      "rank": 211
+    },
+    "2023-08": {
+      "name": "Machamp",
+      "percent": 0.0363,
+      "usage": 2028,
+      "rank": 269
+    },
+    "2023-09": {
+      "name": "Machamp",
+      "percent": 0.04638,
+      "usage": 1815,
+      "rank": 254
+    },
+    "2023-09-DLC1": {
+      "name": "Machamp",
+      "percent": 0.06796,
+      "usage": 792,
+      "rank": 228
+    },
+    "2023-10": {
+      "name": "Machamp",
+      "percent": 0.06314,
+      "usage": 1784,
+      "rank": 222
+    },
+    "2023-11": {
+      "name": "Machamp",
+      "percent": 0.0378,
+      "usage": 1637,
+      "rank": 257
+    },
+    "2023-12": {
+      "name": "Machamp",
+      "percent": 0.05563,
+      "usage": 1329,
+      "rank": 226
+    },
+    "2023-12-DLC2": {
+      "name": "Machamp",
+      "percent": 0.08277,
+      "usage": 641,
+      "rank": 212
+    },
+    "2024-01": {
+      "name": "Machamp",
+      "percent": 0.04614,
+      "usage": 1308,
+      "rank": 250
+    },
+    "2024-02": {
+      "name": "Machamp",
+      "percent": 0.04437,
+      "usage": 1093,
+      "rank": 248
+    },
+    "2024-03": {
+      "name": "Machamp",
+      "percent": 0.04143,
+      "usage": 1690,
+      "rank": 238
+    },
+    "2024-04": {
+      "name": "Machamp",
+      "percent": 0.0422,
+      "usage": 1601,
+      "rank": 243
+    },
+    "2024-05": {
+      "name": "Machamp",
+      "percent": 0.03381,
+      "usage": 726,
+      "rank": 251
+    },
+    "2024-06": {
+      "name": "Machamp",
+      "percent": 0.03621,
+      "usage": 1564,
+      "rank": 256
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Machamp",
+      "percent": 0.14739,
+      "usage": 8943,
+      "rank": 164
+    },
+    "2020-03": {
+      "name": "Machamp",
+      "percent": 0.12354,
+      "usage": 10134,
+      "rank": 164
+    },
+    "2020-04": {
+      "name": "Machamp",
+      "percent": 0.12385,
+      "usage": 9592,
+      "rank": 171
+    },
+    "2020-05": {
+      "name": "Machamp",
+      "percent": 0.02992,
+      "usage": 9988,
+      "rank": 257
+    },
+    "2020-06": {
+      "name": "Machamp",
+      "percent": 0.02236,
+      "usage": 7243,
+      "rank": 285
+    },
+    "2020-06-DLC1": {
+      "name": "Machamp",
+      "percent": 0.00723,
+      "usage": 2600,
+      "rank": 328
+    },
+    "2020-07": {
+      "name": "Machamp",
+      "percent": 0.03877,
+      "usage": 6536,
+      "rank": 234
+    },
+    "2020-08": {
+      "name": "Machamp",
+      "percent": 0.0195,
+      "usage": 6894,
+      "rank": 272
+    },
+    "2020-09": {
+      "name": "Machamp",
+      "percent": 0.01889,
+      "usage": 6039,
+      "rank": 257
+    },
+    "2020-10": {
+      "name": "Machamp",
+      "percent": 0.12266,
+      "usage": 7157,
+      "rank": 171
+    },
+    "2020-10-DLC2": {
+      "name": "Machamp",
+      "percent": 0.01285,
+      "usage": 1780,
+      "rank": 253
+    },
+    "2020-11": {
+      "name": "Machamp",
+      "percent": 0.01828,
+      "usage": 6676,
+      "rank": 274
+    },
+    "2020-11-H1": {
+      "name": "Machamp",
+      "percent": 0.00775,
+      "usage": 3419,
+      "rank": 298
+    },
+    "2020-11-H2": {
+      "name": "Machamp",
+      "percent": 0.0248,
+      "usage": 3257,
+      "rank": 248
+    },
+    "2020-12": {
+      "name": "Machamp",
+      "percent": 0.02929,
+      "usage": 5232,
+      "rank": 261
+    },
+    "2020-12-H1": {
+      "name": "Machamp",
+      "percent": 0.0213,
+      "usage": 2451,
+      "rank": 263
+    },
+    "2020-12-H2": {
+      "name": "Machamp",
+      "percent": 0.03392,
+      "usage": 2781,
+      "rank": 252
+    },
+    "2021-01": {
+      "name": "Machamp",
+      "percent": 0.01132,
+      "usage": 6103,
+      "rank": 312
+    },
+    "2021-02": {
+      "name": "Machamp",
+      "percent": 0.33389,
+      "usage": 5393,
+      "rank": 129
+    },
+    "2021-03": {
+      "name": "Machamp",
+      "percent": 0.03975,
+      "usage": 5748,
+      "rank": 235
+    },
+    "2021-04": {
+      "name": "Machamp",
+      "percent": 0.0954,
+      "usage": 5014,
+      "rank": 175
+    },
+    "2021-05": {
+      "name": "Machamp",
+      "percent": 0.06377,
+      "usage": 4640,
+      "rank": 200
+    },
+    "2021-06": {
+      "name": "Machamp",
+      "percent": 0.02834,
+      "usage": 3429,
+      "rank": 244
+    },
+    "2021-07": {
+      "name": "Machamp",
+      "percent": 0.01718,
+      "usage": 4357,
+      "rank": 282
+    },
+    "2021-08": {
+      "name": "Machamp",
+      "percent": 0.02072,
+      "usage": 4038,
+      "rank": 262
+    },
+    "2021-09": {
+      "name": "Machamp",
+      "percent": 0.0151,
+      "usage": 3748,
+      "rank": 266
+    },
+    "2021-10": {
+      "name": "Machamp",
+      "percent": 0.0157,
+      "usage": 3500,
+      "rank": 274
+    },
+    "2021-11": {
+      "name": "Machamp",
+      "percent": 0.04703,
+      "usage": 3670,
+      "rank": 210
+    },
+    "2021-12": {
+      "name": "Machamp",
+      "percent": 0.148,
+      "usage": 3703,
+      "rank": 156
+    },
+    "2022-01": {
+      "name": "Machamp",
+      "percent": 0.01555,
+      "usage": 3373,
+      "rank": 273
+    },
+    "2022-02": {
+      "name": "Machamp",
+      "percent": 0.04303,
+      "usage": 2544,
+      "rank": 200
+    },
+    "2022-03": {
+      "name": "Machamp",
+      "percent": 0.00918,
+      "usage": 2243,
+      "rank": 274
+    },
+    "2022-04": {
+      "name": "Machamp",
+      "percent": 0.00784,
+      "usage": 2306,
+      "rank": 273
+    },
+    "2022-05": {
+      "name": "Machamp",
+      "percent": 0.01366,
+      "usage": 2620,
+      "rank": 269
+    },
+    "2022-06": {
+      "name": "Machamp",
+      "percent": 0.00823,
+      "usage": 2369,
+      "rank": 279
+    },
+    "2022-07": {
+      "name": "Machamp",
+      "percent": 0.0145,
+      "usage": 2521,
+      "rank": 268
+    },
+    "2022-08": {
+      "name": "Machamp",
+      "percent": 0.04928,
+      "usage": 2564,
+      "rank": 192
+    },
+    "2022-09": {
+      "name": "Machamp",
+      "percent": 0.03541,
+      "usage": 2265,
+      "rank": 214
+    },
+    "2022-10": {
+      "name": "Machamp",
+      "percent": 0.01877,
+      "usage": 2233,
+      "rank": 224
+    },
+    "2022-11": {
+      "name": "Machamp",
+      "percent": 0.04314,
+      "usage": 2846,
+      "rank": 180
+    },
+    "2022-12": {
+      "name": "Machamp",
+      "percent": 0.11771,
+      "usage": 2834,
+      "rank": 129
+    },
+    "2023-01": {
+      "name": "Machamp",
+      "percent": 0.0586,
+      "usage": 2079,
+      "rank": 154
+    },
+    "2023-02": {
+      "name": "Machamp",
+      "percent": 0.02235,
+      "usage": 1607,
+      "rank": 200
+    },
+    "2023-03": {
+      "name": "Machamp",
+      "percent": 0.0144,
+      "usage": 2196,
+      "rank": 250
+    },
+    "2023-04": {
+      "name": "Machamp",
+      "percent": 0.01212,
+      "usage": 1822,
+      "rank": 259
+    },
+    "2023-05": {
+      "name": "Machamp",
+      "percent": 0.04892,
+      "usage": 2519,
+      "rank": 190
+    },
+    "2023-06": {
+      "name": "Machamp",
+      "percent": 0.00518,
+      "usage": 2096,
+      "rank": 286
+    },
+    "2023-07": {
+      "name": "Machamp",
+      "percent": 0.02236,
+      "usage": 2220,
+      "rank": 220
+    },
+    "2023-08": {
+      "name": "Machamp",
+      "percent": 0.01075,
+      "usage": 2028,
+      "rank": 264
+    },
+    "2023-09": {
+      "name": "Machamp",
+      "percent": 0.00248,
+      "usage": 1815,
+      "rank": 324
+    },
+    "2023-09-DLC1": {
+      "name": "Machamp",
+      "percent": 0.00274,
+      "usage": 792,
+      "rank": 293
+    },
+    "2023-10": {
+      "name": "Machamp",
+      "percent": 0.02253,
+      "usage": 1784,
+      "rank": 225
+    },
+    "2023-11": {
+      "name": "Machamp",
+      "percent": 0.00317,
+      "usage": 1637,
+      "rank": 324
+    },
+    "2023-12": {
+      "name": "Machamp",
+      "percent": 0.00826,
+      "usage": 1329,
+      "rank": 259
+    },
+    "2023-12-DLC2": {
+      "name": "Machamp",
+      "percent": 0.01132,
+      "usage": 641,
+      "rank": 237
+    },
+    "2024-01": {
+      "name": "Machamp",
+      "percent": 0.0162,
+      "usage": 1308,
+      "rank": 240
+    },
+    "2024-02": {
+      "name": "Machamp",
+      "percent": 0.00776,
+      "usage": 1093,
+      "rank": 258
+    },
+    "2024-03": {
+      "name": "Machamp",
+      "percent": 0.00361,
+      "usage": 1690,
+      "rank": 295
+    },
+    "2024-04": {
+      "name": "Machamp",
+      "percent": 0.00965,
+      "usage": 1601,
+      "rank": 250
+    },
+    "2024-05": {
+      "name": "Machamp",
+      "percent": 0.0077,
+      "usage": 726,
+      "rank": 256
+    },
+    "2024-06": {
+      "name": "Machamp",
+      "percent": 0.0298,
+      "usage": 1564,
+      "rank": 201
+    }
+  }
+}

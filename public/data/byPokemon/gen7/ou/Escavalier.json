@@ -1,0 +1,1481 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Escavalier",
+      "percent": 0.29498,
+      "usage": 3169,
+      "rank": 279
+    },
+    "2020-03": {
+      "name": "Escavalier",
+      "percent": 0.23915,
+      "usage": 2853,
+      "rank": 295
+    },
+    "2020-04": {
+      "name": "Escavalier",
+      "percent": 0.21329,
+      "usage": 2511,
+      "rank": 304
+    },
+    "2020-05": {
+      "name": "Escavalier",
+      "percent": 0.15705,
+      "usage": 1938,
+      "rank": 330
+    },
+    "2020-06": {
+      "name": "Escavalier",
+      "percent": 0.27061,
+      "usage": 2600,
+      "rank": 260
+    },
+    "2020-06-DLC1": {
+      "name": "Escavalier",
+      "percent": 0.20759,
+      "usage": 687,
+      "rank": 301
+    },
+    "2020-07": {
+      "name": "Escavalier",
+      "percent": 0.19949,
+      "usage": 1796,
+      "rank": 299
+    },
+    "2020-08": {
+      "name": "Escavalier",
+      "percent": 0.20055,
+      "usage": 1780,
+      "rank": 298
+    },
+    "2020-09": {
+      "name": "Escavalier",
+      "percent": 0.17837,
+      "usage": 1452,
+      "rank": 312
+    },
+    "2020-10": {
+      "name": "Escavalier",
+      "percent": 0.17535,
+      "usage": 1367,
+      "rank": 312
+    },
+    "2020-10-DLC2": {
+      "name": "Escavalier",
+      "percent": 0.1748,
+      "usage": 341,
+      "rank": 321
+    },
+    "2020-11": {
+      "name": "Escavalier",
+      "percent": 0.22347,
+      "usage": 1516,
+      "rank": 295
+    },
+    "2020-11-H1": {
+      "name": "Escavalier",
+      "percent": 0.22489,
+      "usage": 695,
+      "rank": 300
+    },
+    "2020-11-H2": {
+      "name": "Escavalier",
+      "percent": 0.22228,
+      "usage": 821,
+      "rank": 294
+    },
+    "2020-12": {
+      "name": "Escavalier",
+      "percent": 0.16281,
+      "usage": 1100,
+      "rank": 334
+    },
+    "2020-12-H1": {
+      "name": "Escavalier",
+      "percent": 0.15756,
+      "usage": 531,
+      "rank": 338
+    },
+    "2020-12-H2": {
+      "name": "Escavalier",
+      "percent": 0.16803,
+      "usage": 569,
+      "rank": 332
+    },
+    "2021-01": {
+      "name": "Escavalier",
+      "percent": 0.19429,
+      "usage": 1420,
+      "rank": 309
+    },
+    "2021-02": {
+      "name": "Escavalier",
+      "percent": 0.14845,
+      "usage": 1027,
+      "rank": 339
+    },
+    "2021-03": {
+      "name": "Escavalier",
+      "percent": 0.1812,
+      "usage": 1410,
+      "rank": 317
+    },
+    "2021-04": {
+      "name": "Escavalier",
+      "percent": 0.21543,
+      "usage": 1467,
+      "rank": 303
+    },
+    "2021-05": {
+      "name": "Escavalier",
+      "percent": 0.1662,
+      "usage": 1087,
+      "rank": 334
+    },
+    "2021-06": {
+      "name": "Escavalier",
+      "percent": 0.17984,
+      "usage": 1033,
+      "rank": 316
+    },
+    "2021-07": {
+      "name": "Escavalier",
+      "percent": 0.1387,
+      "usage": 852,
+      "rank": 350
+    },
+    "2021-08": {
+      "name": "Escavalier",
+      "percent": 0.15842,
+      "usage": 1072,
+      "rank": 330
+    },
+    "2021-09": {
+      "name": "Escavalier",
+      "percent": 0.14132,
+      "usage": 851,
+      "rank": 349
+    },
+    "2021-10": {
+      "name": "Escavalier",
+      "percent": 0.26099,
+      "usage": 1465,
+      "rank": 270
+    },
+    "2021-11": {
+      "name": "Escavalier",
+      "percent": 0.22304,
+      "usage": 1148,
+      "rank": 286
+    },
+    "2021-12": {
+      "name": "Escavalier",
+      "percent": 0.21301,
+      "usage": 1020,
+      "rank": 302
+    },
+    "2022-01": {
+      "name": "Escavalier",
+      "percent": 0.13967,
+      "usage": 663,
+      "rank": 340
+    },
+    "2022-02": {
+      "name": "Escavalier",
+      "percent": 0.15928,
+      "usage": 742,
+      "rank": 324
+    },
+    "2022-03": {
+      "name": "Escavalier",
+      "percent": 0.13972,
+      "usage": 734,
+      "rank": 339
+    },
+    "2022-04": {
+      "name": "Escavalier",
+      "percent": 0.16922,
+      "usage": 851,
+      "rank": 305
+    },
+    "2022-05": {
+      "name": "Escavalier",
+      "percent": 0.10166,
+      "usage": 523,
+      "rank": 357
+    },
+    "2022-06": {
+      "name": "Escavalier",
+      "percent": 0.09561,
+      "usage": 489,
+      "rank": 371
+    },
+    "2022-07": {
+      "name": "Escavalier",
+      "percent": 0.16684,
+      "usage": 946,
+      "rank": 307
+    },
+    "2022-08": {
+      "name": "Escavalier",
+      "percent": 0.20768,
+      "usage": 1233,
+      "rank": 269
+    },
+    "2022-09": {
+      "name": "Escavalier",
+      "percent": 0.18123,
+      "usage": 948,
+      "rank": 296
+    },
+    "2022-10": {
+      "name": "Escavalier",
+      "percent": 0.14275,
+      "usage": 757,
+      "rank": 323
+    },
+    "2022-11": {
+      "name": "Escavalier",
+      "percent": 0.14657,
+      "usage": 670,
+      "rank": 337
+    },
+    "2022-12": {
+      "name": "Escavalier",
+      "percent": 0.15122,
+      "usage": 595,
+      "rank": 332
+    },
+    "2023-01": {
+      "name": "Escavalier",
+      "percent": 0.19091,
+      "usage": 712,
+      "rank": 304
+    },
+    "2023-02": {
+      "name": "Escavalier",
+      "percent": 0.16651,
+      "usage": 500,
+      "rank": 312
+    },
+    "2023-03": {
+      "name": "Escavalier",
+      "percent": 0.11104,
+      "usage": 401,
+      "rank": 360
+    },
+    "2023-04": {
+      "name": "Escavalier",
+      "percent": 0.13447,
+      "usage": 512,
+      "rank": 336
+    },
+    "2023-05": {
+      "name": "Escavalier",
+      "percent": 0.1165,
+      "usage": 426,
+      "rank": 355
+    },
+    "2023-06": {
+      "name": "Escavalier",
+      "percent": 0.13001,
+      "usage": 421,
+      "rank": 347
+    },
+    "2023-07": {
+      "name": "Escavalier",
+      "percent": 0.27105,
+      "usage": 928,
+      "rank": 256
+    },
+    "2023-08": {
+      "name": "Escavalier",
+      "percent": 0.18844,
+      "usage": 659,
+      "rank": 293
+    },
+    "2023-09": {
+      "name": "Escavalier",
+      "percent": 0.1404,
+      "usage": 447,
+      "rank": 325
+    },
+    "2023-09-DLC1": {
+      "name": "Escavalier",
+      "percent": 0.12489,
+      "usage": 198,
+      "rank": 345
+    },
+    "2023-10": {
+      "name": "Escavalier",
+      "percent": 0.13032,
+      "usage": 416,
+      "rank": 325
+    },
+    "2023-11": {
+      "name": "Escavalier",
+      "percent": 0.2476,
+      "usage": 712,
+      "rank": 250
+    },
+    "2023-12": {
+      "name": "Escavalier",
+      "percent": 0.24117,
+      "usage": 630,
+      "rank": 248
+    },
+    "2023-12-DLC2": {
+      "name": "Escavalier",
+      "percent": 0.20822,
+      "usage": 228,
+      "rank": 258
+    },
+    "2024-01": {
+      "name": "Escavalier",
+      "percent": 0.171,
+      "usage": 436,
+      "rank": 282
+    },
+    "2024-02": {
+      "name": "Escavalier",
+      "percent": 0.12218,
+      "usage": 295,
+      "rank": 328
+    },
+    "2024-03": {
+      "name": "Escavalier",
+      "percent": 0.16789,
+      "usage": 483,
+      "rank": 287
+    },
+    "2024-04": {
+      "name": "Escavalier",
+      "percent": 0.11205,
+      "usage": 304,
+      "rank": 332
+    },
+    "2024-05": {
+      "name": "Escavalier",
+      "percent": 0.15218,
+      "usage": 201,
+      "rank": 294
+    },
+    "2024-06": {
+      "name": "Escavalier",
+      "percent": 0.24995,
+      "usage": 664,
+      "rank": 242
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Escavalier",
+      "percent": 0.18982,
+      "usage": 3169,
+      "rank": 274
+    },
+    "2020-03": {
+      "name": "Escavalier",
+      "percent": 0.13202,
+      "usage": 2853,
+      "rank": 310
+    },
+    "2020-04": {
+      "name": "Escavalier",
+      "percent": 0.13715,
+      "usage": 2511,
+      "rank": 310
+    },
+    "2020-05": {
+      "name": "Escavalier",
+      "percent": 0.10269,
+      "usage": 1938,
+      "rank": 338
+    },
+    "2020-06": {
+      "name": "Escavalier",
+      "percent": 0.15406,
+      "usage": 2600,
+      "rank": 294
+    },
+    "2020-06-DLC1": {
+      "name": "Escavalier",
+      "percent": 0.13129,
+      "usage": 687,
+      "rank": 321
+    },
+    "2020-07": {
+      "name": "Escavalier",
+      "percent": 0.13887,
+      "usage": 1796,
+      "rank": 302
+    },
+    "2020-08": {
+      "name": "Escavalier",
+      "percent": 0.10997,
+      "usage": 1780,
+      "rank": 317
+    },
+    "2020-09": {
+      "name": "Escavalier",
+      "percent": 0.11454,
+      "usage": 1452,
+      "rank": 308
+    },
+    "2020-10": {
+      "name": "Escavalier",
+      "percent": 0.1273,
+      "usage": 1367,
+      "rank": 309
+    },
+    "2020-10-DLC2": {
+      "name": "Escavalier",
+      "percent": 0.1572,
+      "usage": 341,
+      "rank": 304
+    },
+    "2020-11": {
+      "name": "Escavalier",
+      "percent": 0.18194,
+      "usage": 1516,
+      "rank": 287
+    },
+    "2020-11-H1": {
+      "name": "Escavalier",
+      "percent": 0.1736,
+      "usage": 695,
+      "rank": 303
+    },
+    "2020-11-H2": {
+      "name": "Escavalier",
+      "percent": 0.18882,
+      "usage": 821,
+      "rank": 281
+    },
+    "2020-12": {
+      "name": "Escavalier",
+      "percent": 0.10659,
+      "usage": 1100,
+      "rank": 341
+    },
+    "2020-12-H1": {
+      "name": "Escavalier",
+      "percent": 0.10523,
+      "usage": 531,
+      "rank": 349
+    },
+    "2020-12-H2": {
+      "name": "Escavalier",
+      "percent": 0.10788,
+      "usage": 569,
+      "rank": 328
+    },
+    "2021-01": {
+      "name": "Escavalier",
+      "percent": 0.1354,
+      "usage": 1420,
+      "rank": 322
+    },
+    "2021-02": {
+      "name": "Escavalier",
+      "percent": 0.12878,
+      "usage": 1027,
+      "rank": 327
+    },
+    "2021-03": {
+      "name": "Escavalier",
+      "percent": 0.14138,
+      "usage": 1410,
+      "rank": 314
+    },
+    "2021-04": {
+      "name": "Escavalier",
+      "percent": 0.13847,
+      "usage": 1467,
+      "rank": 315
+    },
+    "2021-05": {
+      "name": "Escavalier",
+      "percent": 0.1119,
+      "usage": 1087,
+      "rank": 339
+    },
+    "2021-06": {
+      "name": "Escavalier",
+      "percent": 0.13063,
+      "usage": 1033,
+      "rank": 305
+    },
+    "2021-07": {
+      "name": "Escavalier",
+      "percent": 0.1023,
+      "usage": 852,
+      "rank": 347
+    },
+    "2021-08": {
+      "name": "Escavalier",
+      "percent": 0.13154,
+      "usage": 1072,
+      "rank": 319
+    },
+    "2021-09": {
+      "name": "Escavalier",
+      "percent": 0.10508,
+      "usage": 851,
+      "rank": 341
+    },
+    "2021-10": {
+      "name": "Escavalier",
+      "percent": 0.17188,
+      "usage": 1465,
+      "rank": 281
+    },
+    "2021-11": {
+      "name": "Escavalier",
+      "percent": 0.15743,
+      "usage": 1148,
+      "rank": 291
+    },
+    "2021-12": {
+      "name": "Escavalier",
+      "percent": 0.14796,
+      "usage": 1020,
+      "rank": 311
+    },
+    "2022-01": {
+      "name": "Escavalier",
+      "percent": 0.09469,
+      "usage": 663,
+      "rank": 334
+    },
+    "2022-02": {
+      "name": "Escavalier",
+      "percent": 0.13138,
+      "usage": 742,
+      "rank": 318
+    },
+    "2022-03": {
+      "name": "Escavalier",
+      "percent": 0.11425,
+      "usage": 734,
+      "rank": 335
+    },
+    "2022-04": {
+      "name": "Escavalier",
+      "percent": 0.12421,
+      "usage": 851,
+      "rank": 316
+    },
+    "2022-05": {
+      "name": "Escavalier",
+      "percent": 0.07625,
+      "usage": 523,
+      "rank": 363
+    },
+    "2022-06": {
+      "name": "Escavalier",
+      "percent": 0.08333,
+      "usage": 489,
+      "rank": 358
+    },
+    "2022-07": {
+      "name": "Escavalier",
+      "percent": 0.13464,
+      "usage": 946,
+      "rank": 308
+    },
+    "2022-08": {
+      "name": "Escavalier",
+      "percent": 0.18516,
+      "usage": 1233,
+      "rank": 265
+    },
+    "2022-09": {
+      "name": "Escavalier",
+      "percent": 0.16276,
+      "usage": 948,
+      "rank": 295
+    },
+    "2022-10": {
+      "name": "Escavalier",
+      "percent": 0.11501,
+      "usage": 757,
+      "rank": 330
+    },
+    "2022-11": {
+      "name": "Escavalier",
+      "percent": 0.13348,
+      "usage": 670,
+      "rank": 334
+    },
+    "2022-12": {
+      "name": "Escavalier",
+      "percent": 0.14376,
+      "usage": 595,
+      "rank": 333
+    },
+    "2023-01": {
+      "name": "Escavalier",
+      "percent": 0.18285,
+      "usage": 712,
+      "rank": 297
+    },
+    "2023-02": {
+      "name": "Escavalier",
+      "percent": 0.13452,
+      "usage": 500,
+      "rank": 316
+    },
+    "2023-03": {
+      "name": "Escavalier",
+      "percent": 0.0765,
+      "usage": 401,
+      "rank": 366
+    },
+    "2023-04": {
+      "name": "Escavalier",
+      "percent": 0.08125,
+      "usage": 512,
+      "rank": 313
+    },
+    "2023-05": {
+      "name": "Escavalier",
+      "percent": 0.06243,
+      "usage": 426,
+      "rank": 329
+    },
+    "2023-06": {
+      "name": "Escavalier",
+      "percent": 0.0495,
+      "usage": 421,
+      "rank": 348
+    },
+    "2023-07": {
+      "name": "Escavalier",
+      "percent": 0.11092,
+      "usage": 928,
+      "rank": 279
+    },
+    "2023-08": {
+      "name": "Escavalier",
+      "percent": 0.08355,
+      "usage": 659,
+      "rank": 301
+    },
+    "2023-09": {
+      "name": "Escavalier",
+      "percent": 0.09298,
+      "usage": 447,
+      "rank": 289
+    },
+    "2023-09-DLC1": {
+      "name": "Escavalier",
+      "percent": 0.09649,
+      "usage": 198,
+      "rank": 285
+    },
+    "2023-10": {
+      "name": "Escavalier",
+      "percent": 0.10201,
+      "usage": 416,
+      "rank": 266
+    },
+    "2023-11": {
+      "name": "Escavalier",
+      "percent": 0.17353,
+      "usage": 712,
+      "rank": 230
+    },
+    "2023-12": {
+      "name": "Escavalier",
+      "percent": 0.12841,
+      "usage": 630,
+      "rank": 249
+    },
+    "2023-12-DLC2": {
+      "name": "Escavalier",
+      "percent": 0.11143,
+      "usage": 228,
+      "rank": 260
+    },
+    "2024-01": {
+      "name": "Escavalier",
+      "percent": 0.14499,
+      "usage": 436,
+      "rank": 244
+    },
+    "2024-02": {
+      "name": "Escavalier",
+      "percent": 0.05853,
+      "usage": 295,
+      "rank": 314
+    },
+    "2024-03": {
+      "name": "Escavalier",
+      "percent": 0.06934,
+      "usage": 483,
+      "rank": 291
+    },
+    "2024-04": {
+      "name": "Escavalier",
+      "percent": 0.04522,
+      "usage": 304,
+      "rank": 329
+    },
+    "2024-05": {
+      "name": "Escavalier",
+      "percent": 0.0514,
+      "usage": 201,
+      "rank": 311
+    },
+    "2024-06": {
+      "name": "Escavalier",
+      "percent": 0.12721,
+      "usage": 664,
+      "rank": 248
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Escavalier",
+      "percent": 0.0554,
+      "usage": 3169,
+      "rank": 288
+    },
+    "2020-03": {
+      "name": "Escavalier",
+      "percent": 0.03223,
+      "usage": 2853,
+      "rank": 320
+    },
+    "2020-04": {
+      "name": "Escavalier",
+      "percent": 0.04194,
+      "usage": 2511,
+      "rank": 295
+    },
+    "2020-05": {
+      "name": "Escavalier",
+      "percent": 0.03313,
+      "usage": 1938,
+      "rank": 308
+    },
+    "2020-06": {
+      "name": "Escavalier",
+      "percent": 0.01283,
+      "usage": 2600,
+      "rank": 401
+    },
+    "2020-06-DLC1": {
+      "name": "Escavalier",
+      "percent": 0.01342,
+      "usage": 687,
+      "rank": 378
+    },
+    "2020-07": {
+      "name": "Escavalier",
+      "percent": 0.03389,
+      "usage": 1796,
+      "rank": 300
+    },
+    "2020-08": {
+      "name": "Escavalier",
+      "percent": 0.02274,
+      "usage": 1780,
+      "rank": 336
+    },
+    "2020-09": {
+      "name": "Escavalier",
+      "percent": 0.02924,
+      "usage": 1452,
+      "rank": 306
+    },
+    "2020-10": {
+      "name": "Escavalier",
+      "percent": 0.06781,
+      "usage": 1367,
+      "rank": 265
+    },
+    "2020-10-DLC2": {
+      "name": "Escavalier",
+      "percent": 0.06748,
+      "usage": 341,
+      "rank": 242
+    },
+    "2020-11": {
+      "name": "Escavalier",
+      "percent": 0.01608,
+      "usage": 1516,
+      "rank": 349
+    },
+    "2020-11-H1": {
+      "name": "Escavalier",
+      "percent": 0.02779,
+      "usage": 695,
+      "rank": 316
+    },
+    "2020-11-H2": {
+      "name": "Escavalier",
+      "percent": 0.00848,
+      "usage": 821,
+      "rank": 395
+    },
+    "2020-12": {
+      "name": "Escavalier",
+      "percent": 0.02499,
+      "usage": 1100,
+      "rank": 336
+    },
+    "2020-12-H1": {
+      "name": "Escavalier",
+      "percent": 0.01595,
+      "usage": 531,
+      "rank": 348
+    },
+    "2020-12-H2": {
+      "name": "Escavalier",
+      "percent": 0.03042,
+      "usage": 569,
+      "rank": 314
+    },
+    "2021-01": {
+      "name": "Escavalier",
+      "percent": 0.03896,
+      "usage": 1420,
+      "rank": 305
+    },
+    "2021-02": {
+      "name": "Escavalier",
+      "percent": 0.0408,
+      "usage": 1027,
+      "rank": 300
+    },
+    "2021-03": {
+      "name": "Escavalier",
+      "percent": 0.03079,
+      "usage": 1410,
+      "rank": 321
+    },
+    "2021-04": {
+      "name": "Escavalier",
+      "percent": 0.01819,
+      "usage": 1467,
+      "rank": 347
+    },
+    "2021-05": {
+      "name": "Escavalier",
+      "percent": 0.01672,
+      "usage": 1087,
+      "rank": 355
+    },
+    "2021-06": {
+      "name": "Escavalier",
+      "percent": 0.01654,
+      "usage": 1033,
+      "rank": 357
+    },
+    "2021-07": {
+      "name": "Escavalier",
+      "percent": 0.01259,
+      "usage": 852,
+      "rank": 381
+    },
+    "2021-08": {
+      "name": "Escavalier",
+      "percent": 0.0791,
+      "usage": 1072,
+      "rank": 246
+    },
+    "2021-09": {
+      "name": "Escavalier",
+      "percent": 0.02069,
+      "usage": 851,
+      "rank": 344
+    },
+    "2021-10": {
+      "name": "Escavalier",
+      "percent": 0.00759,
+      "usage": 1465,
+      "rank": 407
+    },
+    "2021-11": {
+      "name": "Escavalier",
+      "percent": 0.01237,
+      "usage": 1148,
+      "rank": 357
+    },
+    "2021-12": {
+      "name": "Escavalier",
+      "percent": 0.01657,
+      "usage": 1020,
+      "rank": 355
+    },
+    "2022-01": {
+      "name": "Escavalier",
+      "percent": 0.01275,
+      "usage": 663,
+      "rank": 362
+    },
+    "2022-02": {
+      "name": "Escavalier",
+      "percent": 0.01885,
+      "usage": 742,
+      "rank": 329
+    },
+    "2022-03": {
+      "name": "Escavalier",
+      "percent": 0.01091,
+      "usage": 734,
+      "rank": 361
+    },
+    "2022-04": {
+      "name": "Escavalier",
+      "percent": 0.00559,
+      "usage": 851,
+      "rank": 386
+    },
+    "2022-05": {
+      "name": "Escavalier",
+      "percent": 0.00296,
+      "usage": 523,
+      "rank": 432
+    },
+    "2022-06": {
+      "name": "Escavalier",
+      "percent": 0.04788,
+      "usage": 489,
+      "rank": 261
+    },
+    "2022-07": {
+      "name": "Escavalier",
+      "percent": 0.01574,
+      "usage": 946,
+      "rank": 341
+    },
+    "2022-08": {
+      "name": "Escavalier",
+      "percent": 0.01084,
+      "usage": 1233,
+      "rank": 345
+    },
+    "2022-09": {
+      "name": "Escavalier",
+      "percent": 0.01891,
+      "usage": 948,
+      "rank": 316
+    },
+    "2022-10": {
+      "name": "Escavalier",
+      "percent": 0.01718,
+      "usage": 757,
+      "rank": 315
+    },
+    "2022-11": {
+      "name": "Escavalier",
+      "percent": 0.00666,
+      "usage": 670,
+      "rank": 349
+    },
+    "2022-12": {
+      "name": "Escavalier",
+      "percent": 0.00034,
+      "usage": 595,
+      "rank": 373
+    },
+    "2023-01": {
+      "name": "Escavalier",
+      "percent": 0.15435,
+      "usage": 712,
+      "rank": 168
+    },
+    "2023-02": {
+      "name": "Escavalier",
+      "percent": 0.05698,
+      "usage": 500,
+      "rank": 225
+    },
+    "2023-03": {
+      "name": "Escavalier",
+      "percent": 0.01677,
+      "usage": 401,
+      "rank": 329
+    },
+    "2023-04": {
+      "name": "Escavalier",
+      "percent": 0.00783,
+      "usage": 512,
+      "rank": 376
+    },
+    "2023-05": {
+      "name": "Escavalier",
+      "percent": 0.00962,
+      "usage": 426,
+      "rank": 373
+    },
+    "2023-06": {
+      "name": "Escavalier",
+      "percent": 0.00152,
+      "usage": 421,
+      "rank": 474
+    },
+    "2023-07": {
+      "name": "Escavalier",
+      "percent": 0.00867,
+      "usage": 928,
+      "rank": 371
+    },
+    "2023-08": {
+      "name": "Escavalier",
+      "percent": 0.00985,
+      "usage": 659,
+      "rank": 362
+    },
+    "2023-09": {
+      "name": "Escavalier",
+      "percent": 0.00529,
+      "usage": 447,
+      "rank": 398
+    },
+    "2023-09-DLC1": {
+      "name": "Escavalier",
+      "percent": 0.00607,
+      "usage": 198,
+      "rank": 377
+    },
+    "2023-10": {
+      "name": "Escavalier",
+      "percent": 0.01303,
+      "usage": 416,
+      "rank": 326
+    },
+    "2023-11": {
+      "name": "Escavalier",
+      "percent": 0.00998,
+      "usage": 712,
+      "rank": 339
+    },
+    "2023-12": {
+      "name": "Escavalier",
+      "percent": 0.00244,
+      "usage": 630,
+      "rank": 415
+    },
+    "2023-12-DLC2": {
+      "name": "Escavalier",
+      "percent": 0.00169,
+      "usage": 228,
+      "rank": 408
+    },
+    "2024-01": {
+      "name": "Escavalier",
+      "percent": 0.07045,
+      "usage": 436,
+      "rank": 227
+    },
+    "2024-02": {
+      "name": "Escavalier",
+      "percent": 0.00682,
+      "usage": 295,
+      "rank": 359
+    },
+    "2024-03": {
+      "name": "Escavalier",
+      "percent": 0.0343,
+      "usage": 483,
+      "rank": 253
+    },
+    "2024-04": {
+      "name": "Escavalier",
+      "percent": 0.00325,
+      "usage": 304,
+      "rank": 390
+    },
+    "2024-05": {
+      "name": "Escavalier",
+      "percent": 0.00035,
+      "usage": 201,
+      "rank": 444
+    },
+    "2024-06": {
+      "name": "Escavalier",
+      "percent": 0.00886,
+      "usage": 664,
+      "rank": 339
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Escavalier",
+      "percent": 0.03252,
+      "usage": 3169,
+      "rank": 250
+    },
+    "2020-03": {
+      "name": "Escavalier",
+      "percent": 0.01481,
+      "usage": 2853,
+      "rank": 302
+    },
+    "2020-04": {
+      "name": "Escavalier",
+      "percent": 0.00454,
+      "usage": 2511,
+      "rank": 356
+    },
+    "2020-05": {
+      "name": "Escavalier",
+      "percent": 0.007,
+      "usage": 1938,
+      "rank": 332
+    },
+    "2020-06": {
+      "name": "Escavalier",
+      "percent": 0.0042,
+      "usage": 2600,
+      "rank": 384
+    },
+    "2020-06-DLC1": {
+      "name": "Escavalier",
+      "percent": 0.00617,
+      "usage": 687,
+      "rank": 334
+    },
+    "2020-07": {
+      "name": "Escavalier",
+      "percent": 0.00693,
+      "usage": 1796,
+      "rank": 342
+    },
+    "2020-08": {
+      "name": "Escavalier",
+      "percent": 0.00738,
+      "usage": 1780,
+      "rank": 327
+    },
+    "2020-09": {
+      "name": "Escavalier",
+      "percent": 0.00894,
+      "usage": 1452,
+      "rank": 297
+    },
+    "2020-10": {
+      "name": "Escavalier",
+      "percent": 0.03895,
+      "usage": 1367,
+      "rank": 231
+    },
+    "2020-10-DLC2": {
+      "name": "Escavalier",
+      "percent": 0.05768,
+      "usage": 341,
+      "rank": 196
+    },
+    "2020-11": {
+      "name": "Escavalier",
+      "percent": 0.00463,
+      "usage": 1516,
+      "rank": 347
+    },
+    "2020-11-H1": {
+      "name": "Escavalier",
+      "percent": 0.00929,
+      "usage": 695,
+      "rank": 293
+    },
+    "2020-11-H2": {
+      "name": "Escavalier",
+      "percent": 0.00174,
+      "usage": 821,
+      "rank": 387
+    },
+    "2020-12": {
+      "name": "Escavalier",
+      "percent": 0.01806,
+      "usage": 1100,
+      "rank": 288
+    },
+    "2020-12-H1": {
+      "name": "Escavalier",
+      "percent": 0.02003,
+      "usage": 531,
+      "rank": 272
+    },
+    "2020-12-H2": {
+      "name": "Escavalier",
+      "percent": 0.01691,
+      "usage": 569,
+      "rank": 285
+    },
+    "2021-01": {
+      "name": "Escavalier",
+      "percent": 0.01188,
+      "usage": 1420,
+      "rank": 308
+    },
+    "2021-02": {
+      "name": "Escavalier",
+      "percent": 0.01188,
+      "usage": 1027,
+      "rank": 303
+    },
+    "2021-03": {
+      "name": "Escavalier",
+      "percent": 0.00531,
+      "usage": 1410,
+      "rank": 346
+    },
+    "2021-04": {
+      "name": "Escavalier",
+      "percent": 0.01061,
+      "usage": 1467,
+      "rank": 294
+    },
+    "2021-05": {
+      "name": "Escavalier",
+      "percent": 0.00354,
+      "usage": 1087,
+      "rank": 355
+    },
+    "2021-06": {
+      "name": "Escavalier",
+      "percent": 0.00146,
+      "usage": 1033,
+      "rank": 408
+    },
+    "2021-07": {
+      "name": "Escavalier",
+      "percent": 0.00286,
+      "usage": 852,
+      "rank": 380
+    },
+    "2021-08": {
+      "name": "Escavalier",
+      "percent": 0.04513,
+      "usage": 1072,
+      "rank": 210
+    },
+    "2021-09": {
+      "name": "Escavalier",
+      "percent": 0.00229,
+      "usage": 851,
+      "rank": 384
+    },
+    "2021-10": {
+      "name": "Escavalier",
+      "percent": 0.00041,
+      "usage": 1465,
+      "rank": 462
+    },
+    "2021-11": {
+      "name": "Escavalier",
+      "percent": 0.00353,
+      "usage": 1148,
+      "rank": 338
+    },
+    "2021-12": {
+      "name": "Escavalier",
+      "percent": 0.00194,
+      "usage": 1020,
+      "rank": 388
+    },
+    "2022-01": {
+      "name": "Escavalier",
+      "percent": 0.00201,
+      "usage": 663,
+      "rank": 366
+    },
+    "2022-02": {
+      "name": "Escavalier",
+      "percent": 0.00873,
+      "usage": 742,
+      "rank": 282
+    },
+    "2022-03": {
+      "name": "Escavalier",
+      "percent": 0.00023,
+      "usage": 734,
+      "rank": 435
+    },
+    "2022-04": {
+      "name": "Escavalier",
+      "percent": 0.00022,
+      "usage": 851,
+      "rank": 428
+    },
+    "2022-05": {
+      "name": "Escavalier",
+      "percent": 7e-05,
+      "usage": 523,
+      "rank": 479
+    },
+    "2022-06": {
+      "name": "Escavalier",
+      "percent": 0.00353,
+      "usage": 489,
+      "rank": 323
+    },
+    "2022-07": {
+      "name": "Escavalier",
+      "percent": 0.0028,
+      "usage": 946,
+      "rank": 339
+    },
+    "2022-08": {
+      "name": "Escavalier",
+      "percent": 0.00094,
+      "usage": 1233,
+      "rank": 371
+    },
+    "2022-09": {
+      "name": "Escavalier",
+      "percent": 0.00078,
+      "usage": 948,
+      "rank": 365
+    },
+    "2022-10": {
+      "name": "Escavalier",
+      "percent": 0.00391,
+      "usage": 757,
+      "rank": 301
+    },
+    "2022-11": {
+      "name": "Escavalier",
+      "percent": 0.0012,
+      "usage": 670,
+      "rank": 306
+    },
+    "2022-12": {
+      "name": "Escavalier",
+      "percent": 2e-05,
+      "usage": 595,
+      "rank": 334
+    },
+    "2023-01": {
+      "name": "Escavalier",
+      "percent": 0.00035,
+      "usage": 712,
+      "rank": 312
+    },
+    "2023-02": {
+      "name": "Escavalier",
+      "percent": 0.04666,
+      "usage": 500,
+      "rank": 172
+    },
+    "2023-03": {
+      "name": "Escavalier",
+      "percent": 0.00321,
+      "usage": 401,
+      "rank": 309
+    },
+    "2023-04": {
+      "name": "Escavalier",
+      "percent": 0.00111,
+      "usage": 512,
+      "rank": 384
+    },
+    "2023-05": {
+      "name": "Escavalier",
+      "percent": 0.00066,
+      "usage": 426,
+      "rank": 426
+    },
+    "2023-06": {
+      "name": "Escavalier",
+      "percent": 0.00015,
+      "usage": 421,
+      "rank": 461
+    },
+    "2023-07": {
+      "name": "Escavalier",
+      "percent": 0.00111,
+      "usage": 928,
+      "rank": 388
+    },
+    "2023-08": {
+      "name": "Escavalier",
+      "percent": 0.00097,
+      "usage": 659,
+      "rank": 390
+    },
+    "2023-09": {
+      "name": "Escavalier",
+      "percent": 0.00071,
+      "usage": 447,
+      "rank": 384
+    },
+    "2023-09-DLC1": {
+      "name": "Escavalier",
+      "percent": 0.00048,
+      "usage": 198,
+      "rank": 370
+    },
+    "2023-10": {
+      "name": "Escavalier",
+      "percent": 0.0011,
+      "usage": 416,
+      "rank": 386
+    },
+    "2023-11": {
+      "name": "Escavalier",
+      "percent": 0.00389,
+      "usage": 712,
+      "rank": 315
+    },
+    "2023-12": {
+      "name": "Escavalier",
+      "percent": 4e-05,
+      "usage": 630,
+      "rank": 468
+    },
+    "2023-12-DLC2": {
+      "name": "Escavalier",
+      "percent": 2e-05,
+      "usage": 228,
+      "rank": 437
+    },
+    "2024-01": {
+      "name": "Escavalier",
+      "percent": 0.00062,
+      "usage": 436,
+      "rank": 372
+    },
+    "2024-02": {
+      "name": "Escavalier",
+      "percent": 0.00089,
+      "usage": 295,
+      "rank": 359
+    },
+    "2024-03": {
+      "name": "Escavalier",
+      "percent": 0.00858,
+      "usage": 483,
+      "rank": 255
+    },
+    "2024-04": {
+      "name": "Escavalier",
+      "percent": 2e-05,
+      "usage": 304,
+      "rank": 456
+    },
+    "2024-05": {
+      "name": "Escavalier",
+      "percent": 0.0,
+      "usage": 201,
+      "rank": 455
+    },
+    "2024-06": {
+      "name": "Escavalier",
+      "percent": 0.00204,
+      "usage": 664,
+      "rank": 327
+    }
+  }
+}

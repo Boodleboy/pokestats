@@ -1,0 +1,905 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2014-11",
+  "0": {
+    "2016-08": {
+      "name": "Numel",
+      "percent": 0.00545,
+      "usage": 1,
+      "rank": 459
+    },
+    "2016-09": {
+      "name": "Numel",
+      "percent": 0.01803,
+      "usage": 3,
+      "rank": 372
+    },
+    "2017-05": {
+      "name": "Numel",
+      "percent": 0.00726,
+      "usage": 1,
+      "rank": 395
+    },
+    "2018-05": {
+      "name": "Numel",
+      "percent": 0.0088,
+      "usage": 2,
+      "rank": 403
+    },
+    "2018-06": {
+      "name": "Numel",
+      "percent": 0.00477,
+      "usage": 1,
+      "rank": 443
+    },
+    "2018-07": {
+      "name": "Numel",
+      "percent": 0.00482,
+      "usage": 1,
+      "rank": 429
+    },
+    "2019-08": {
+      "name": "Numel",
+      "percent": 0.04505,
+      "usage": 13,
+      "rank": 304
+    },
+    "2020-03": {
+      "name": "Numel",
+      "percent": 0.00263,
+      "usage": 2,
+      "rank": 489
+    },
+    "2020-04": {
+      "name": "Numel",
+      "percent": 0.00443,
+      "usage": 4,
+      "rank": 446
+    },
+    "2020-05": {
+      "name": "Numel",
+      "percent": 0.01105,
+      "usage": 11,
+      "rank": 400
+    },
+    "2020-06": {
+      "name": "Numel",
+      "percent": 0.00487,
+      "usage": 4,
+      "rank": 447
+    },
+    "2020-09": {
+      "name": "Numel",
+      "percent": 0.00287,
+      "usage": 3,
+      "rank": 476
+    },
+    "2021-01": {
+      "name": "Numel",
+      "percent": 0.02353,
+      "usage": 24,
+      "rank": 364
+    },
+    "2021-03": {
+      "name": "Numel",
+      "percent": 0.00375,
+      "usage": 5,
+      "rank": 448
+    },
+    "2021-04": {
+      "name": "Numel",
+      "percent": 0.00089,
+      "usage": 1,
+      "rank": 518
+    },
+    "2021-05": {
+      "name": "Numel",
+      "percent": 0.00094,
+      "usage": 1,
+      "rank": 506
+    },
+    "2021-07": {
+      "name": "Numel",
+      "percent": 0.0083,
+      "usage": 11,
+      "rank": 406
+    },
+    "2021-10": {
+      "name": "Numel",
+      "percent": 0.00103,
+      "usage": 1,
+      "rank": 493
+    },
+    "2021-11": {
+      "name": "Numel",
+      "percent": 0.00219,
+      "usage": 2,
+      "rank": 481
+    },
+    "2022-02": {
+      "name": "Numel",
+      "percent": 0.00118,
+      "usage": 1,
+      "rank": 506
+    },
+    "2022-05": {
+      "name": "Numel",
+      "percent": 0.00211,
+      "usage": 2,
+      "rank": 474
+    },
+    "2022-06": {
+      "name": "Numel",
+      "percent": 0.00198,
+      "usage": 2,
+      "rank": 471
+    },
+    "2022-07": {
+      "name": "Numel",
+      "percent": 0.00187,
+      "usage": 2,
+      "rank": 478
+    },
+    "2022-08": {
+      "name": "Numel",
+      "percent": 0.00186,
+      "usage": 2,
+      "rank": 480
+    },
+    "2022-09": {
+      "name": "Numel",
+      "percent": 0.00096,
+      "usage": 1,
+      "rank": 496
+    },
+    "2022-11": {
+      "name": "Numel",
+      "percent": 0.013,
+      "usage": 12,
+      "rank": 375
+    },
+    "2022-12": {
+      "name": "Numel",
+      "percent": 0.02256,
+      "usage": 21,
+      "rank": 344
+    },
+    "2023-01": {
+      "name": "Numel",
+      "percent": 0.00905,
+      "usage": 9,
+      "rank": 397
+    },
+    "2023-03": {
+      "name": "Numel",
+      "percent": 0.00184,
+      "usage": 2,
+      "rank": 447
+    },
+    "2023-05": {
+      "name": "Numel",
+      "percent": 0.00302,
+      "usage": 3,
+      "rank": 454
+    },
+    "2023-07": {
+      "name": "Numel",
+      "percent": 0.00096,
+      "usage": 1,
+      "rank": 506
+    },
+    "2023-10": {
+      "name": "Numel",
+      "percent": 0.0092,
+      "usage": 11,
+      "rank": 370
+    },
+    "2023-12": {
+      "name": "Numel",
+      "percent": 0.00304,
+      "usage": 3,
+      "rank": 455
+    },
+    "2024-01": {
+      "name": "Numel",
+      "percent": 0.05141,
+      "usage": 51,
+      "rank": 288
+    },
+    "2024-02": {
+      "name": "Numel",
+      "percent": 0.08107,
+      "usage": 81,
+      "rank": 243
+    },
+    "2024-04": {
+      "name": "Numel",
+      "percent": 0.24629,
+      "usage": 264,
+      "rank": 159
+    },
+    "2024-06": {
+      "name": "Numel",
+      "percent": 0.00623,
+      "usage": 7,
+      "rank": 386
+    }
+  },
+  "1500": {
+    "2016-08": {
+      "name": "Numel",
+      "percent": 0.00354,
+      "usage": 1,
+      "rank": 464
+    },
+    "2016-09": {
+      "name": "Numel",
+      "percent": 0.01508,
+      "usage": 3,
+      "rank": 359
+    },
+    "2017-05": {
+      "name": "Numel",
+      "percent": 0.00795,
+      "usage": 1,
+      "rank": 363
+    },
+    "2018-05": {
+      "name": "Numel",
+      "percent": 0.00463,
+      "usage": 2,
+      "rank": 386
+    },
+    "2018-06": {
+      "name": "Numel",
+      "percent": 0.00238,
+      "usage": 1,
+      "rank": 435
+    },
+    "2018-07": {
+      "name": "Numel",
+      "percent": 0.00329,
+      "usage": 1,
+      "rank": 401
+    },
+    "2019-08": {
+      "name": "Numel",
+      "percent": 3e-05,
+      "usage": 13,
+      "rank": 459
+    },
+    "2020-03": {
+      "name": "Numel",
+      "percent": 0.00266,
+      "usage": 2,
+      "rank": 437
+    },
+    "2020-04": {
+      "name": "Numel",
+      "percent": 0.00295,
+      "usage": 4,
+      "rank": 439
+    },
+    "2020-05": {
+      "name": "Numel",
+      "percent": 0.00408,
+      "usage": 11,
+      "rank": 426
+    },
+    "2020-06": {
+      "name": "Numel",
+      "percent": 0.0046,
+      "usage": 4,
+      "rank": 417
+    },
+    "2020-09": {
+      "name": "Numel",
+      "percent": 0.00159,
+      "usage": 3,
+      "rank": 467
+    },
+    "2021-01": {
+      "name": "Numel",
+      "percent": 0.0117,
+      "usage": 24,
+      "rank": 372
+    },
+    "2021-03": {
+      "name": "Numel",
+      "percent": 2e-05,
+      "usage": 5,
+      "rank": 536
+    },
+    "2021-04": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 539
+    },
+    "2021-05": {
+      "name": "Numel",
+      "percent": 0.00055,
+      "usage": 1,
+      "rank": 527
+    },
+    "2021-07": {
+      "name": "Numel",
+      "percent": 0.00065,
+      "usage": 11,
+      "rank": 497
+    },
+    "2021-10": {
+      "name": "Numel",
+      "percent": 0.00049,
+      "usage": 1,
+      "rank": 504
+    },
+    "2021-11": {
+      "name": "Numel",
+      "percent": 0.00147,
+      "usage": 2,
+      "rank": 474
+    },
+    "2022-02": {
+      "name": "Numel",
+      "percent": 0.00082,
+      "usage": 1,
+      "rank": 500
+    },
+    "2022-05": {
+      "name": "Numel",
+      "percent": 0.00198,
+      "usage": 2,
+      "rank": 460
+    },
+    "2022-06": {
+      "name": "Numel",
+      "percent": 0.0013,
+      "usage": 2,
+      "rank": 489
+    },
+    "2022-07": {
+      "name": "Numel",
+      "percent": 0.00133,
+      "usage": 2,
+      "rank": 479
+    },
+    "2022-08": {
+      "name": "Numel",
+      "percent": 0.00181,
+      "usage": 2,
+      "rank": 476
+    },
+    "2022-09": {
+      "name": "Numel",
+      "percent": 0.0007,
+      "usage": 1,
+      "rank": 496
+    },
+    "2022-11": {
+      "name": "Numel",
+      "percent": 0.01172,
+      "usage": 12,
+      "rank": 374
+    },
+    "2022-12": {
+      "name": "Numel",
+      "percent": 0.01943,
+      "usage": 21,
+      "rank": 344
+    },
+    "2023-01": {
+      "name": "Numel",
+      "percent": 0.00818,
+      "usage": 9,
+      "rank": 392
+    },
+    "2023-03": {
+      "name": "Numel",
+      "percent": 0.00126,
+      "usage": 2,
+      "rank": 443
+    },
+    "2023-05": {
+      "name": "Numel",
+      "percent": 0.00276,
+      "usage": 3,
+      "rank": 387
+    },
+    "2023-07": {
+      "name": "Numel",
+      "percent": 2e-05,
+      "usage": 1,
+      "rank": 508
+    },
+    "2023-10": {
+      "name": "Numel",
+      "percent": 0.00325,
+      "usage": 11,
+      "rank": 364
+    },
+    "2023-12": {
+      "name": "Numel",
+      "percent": 0.0005,
+      "usage": 3,
+      "rank": 463
+    },
+    "2024-01": {
+      "name": "Numel",
+      "percent": 7e-05,
+      "usage": 51,
+      "rank": 470
+    },
+    "2024-02": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 81,
+      "rank": 472
+    },
+    "2024-04": {
+      "name": "Numel",
+      "percent": 0.00186,
+      "usage": 264,
+      "rank": 379
+    },
+    "2024-06": {
+      "name": "Numel",
+      "percent": 6e-05,
+      "usage": 7,
+      "rank": 465
+    }
+  },
+  "1630": {
+    "2016-08": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 388
+    },
+    "2016-09": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 359
+    },
+    "2017-05": {
+      "name": "Numel",
+      "percent": 0.00433,
+      "usage": 1,
+      "rank": 251
+    },
+    "2018-05": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 410
+    },
+    "2018-06": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 409
+    },
+    "2018-07": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 409
+    },
+    "2019-08": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 343
+    },
+    "2020-03": {
+      "name": "Numel",
+      "percent": 0.00069,
+      "usage": 2,
+      "rank": 323
+    },
+    "2020-04": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 455
+    },
+    "2020-05": {
+      "name": "Numel",
+      "percent": 8e-05,
+      "usage": 11,
+      "rank": 352
+    },
+    "2020-06": {
+      "name": "Numel",
+      "percent": 0.00023,
+      "usage": 4,
+      "rank": 326
+    },
+    "2020-09": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 492
+    },
+    "2021-01": {
+      "name": "Numel",
+      "percent": 9e-05,
+      "usage": 24,
+      "rank": 365
+    },
+    "2021-03": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 406
+    },
+    "2021-04": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 431
+    },
+    "2021-05": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 450
+    },
+    "2021-07": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 386
+    },
+    "2021-10": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 436
+    },
+    "2021-11": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 442
+    },
+    "2022-02": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 425
+    },
+    "2022-05": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 415
+    },
+    "2022-06": {
+      "name": "Numel",
+      "percent": 0.00013,
+      "usage": 2,
+      "rank": 294
+    },
+    "2022-07": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 403
+    },
+    "2022-08": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 412
+    },
+    "2022-09": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 387
+    },
+    "2022-11": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 12,
+      "rank": 354
+    },
+    "2022-12": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 21,
+      "rank": 304
+    },
+    "2023-01": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 341
+    },
+    "2023-03": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 407
+    },
+    "2023-05": {
+      "name": "Numel",
+      "percent": 0.00228,
+      "usage": 3,
+      "rank": 287
+    },
+    "2023-07": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 429
+    },
+    "2023-10": {
+      "name": "Numel",
+      "percent": 0.00055,
+      "usage": 11,
+      "rank": 320
+    },
+    "2023-12": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 467
+    },
+    "2024-01": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 51,
+      "rank": 417
+    },
+    "2024-02": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 81,
+      "rank": 427
+    },
+    "2024-04": {
+      "name": "Numel",
+      "percent": 9e-05,
+      "usage": 264,
+      "rank": 342
+    },
+    "2024-06": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 423
+    }
+  },
+  "1760": {
+    "2016-08": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 383
+    },
+    "2016-09": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 358
+    },
+    "2017-05": {
+      "name": "Numel",
+      "percent": 0.00039,
+      "usage": 1,
+      "rank": 246
+    },
+    "2018-05": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 402
+    },
+    "2018-06": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 395
+    },
+    "2018-07": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 408
+    },
+    "2019-08": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 13,
+      "rank": 342
+    },
+    "2020-03": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 373
+    },
+    "2020-04": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 451
+    },
+    "2020-05": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 340
+    },
+    "2020-06": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 348
+    },
+    "2020-09": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 480
+    },
+    "2021-01": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 24,
+      "rank": 354
+    },
+    "2021-03": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 405
+    },
+    "2021-04": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 429
+    },
+    "2021-05": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 434
+    },
+    "2021-07": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 376
+    },
+    "2021-10": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 427
+    },
+    "2021-11": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 433
+    },
+    "2022-02": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 412
+    },
+    "2022-05": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 402
+    },
+    "2022-06": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 314
+    },
+    "2022-07": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 399
+    },
+    "2022-08": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 409
+    },
+    "2022-09": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 381
+    },
+    "2022-11": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 12,
+      "rank": 343
+    },
+    "2022-12": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 21,
+      "rank": 293
+    },
+    "2023-01": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 9,
+      "rank": 315
+    },
+    "2023-03": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 392
+    },
+    "2023-05": {
+      "name": "Numel",
+      "percent": 0.00038,
+      "usage": 3,
+      "rank": 256
+    },
+    "2023-07": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 432
+    },
+    "2023-10": {
+      "name": "Numel",
+      "percent": 3e-05,
+      "usage": 11,
+      "rank": 320
+    },
+    "2023-12": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 452
+    },
+    "2024-01": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 51,
+      "rank": 430
+    },
+    "2024-02": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 81,
+      "rank": 436
+    },
+    "2024-04": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 264,
+      "rank": 338
+    },
+    "2024-06": {
+      "name": "Numel",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 455
+    }
+  }
+}

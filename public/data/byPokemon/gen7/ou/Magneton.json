@@ -1,0 +1,1481 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Magneton",
+      "percent": 0.20404,
+      "usage": 2192,
+      "rank": 333
+    },
+    "2020-03": {
+      "name": "Magneton",
+      "percent": 0.25667,
+      "usage": 3062,
+      "rank": 289
+    },
+    "2020-04": {
+      "name": "Magneton",
+      "percent": 0.18084,
+      "usage": 2129,
+      "rank": 325
+    },
+    "2020-05": {
+      "name": "Magneton",
+      "percent": 0.22787,
+      "usage": 2812,
+      "rank": 283
+    },
+    "2020-06": {
+      "name": "Magneton",
+      "percent": 0.20743,
+      "usage": 1993,
+      "rank": 301
+    },
+    "2020-06-DLC1": {
+      "name": "Magneton",
+      "percent": 0.15924,
+      "usage": 527,
+      "rank": 335
+    },
+    "2020-07": {
+      "name": "Magneton",
+      "percent": 0.20249,
+      "usage": 1823,
+      "rank": 298
+    },
+    "2020-08": {
+      "name": "Magneton",
+      "percent": 0.13531,
+      "usage": 1201,
+      "rank": 344
+    },
+    "2020-09": {
+      "name": "Magneton",
+      "percent": 0.18181,
+      "usage": 1480,
+      "rank": 308
+    },
+    "2020-10": {
+      "name": "Magneton",
+      "percent": 0.14701,
+      "usage": 1146,
+      "rank": 344
+    },
+    "2020-10-DLC2": {
+      "name": "Magneton",
+      "percent": 0.142,
+      "usage": 277,
+      "rank": 346
+    },
+    "2020-11": {
+      "name": "Magneton",
+      "percent": 0.17512,
+      "usage": 1188,
+      "rank": 325
+    },
+    "2020-11-H1": {
+      "name": "Magneton",
+      "percent": 0.1783,
+      "usage": 551,
+      "rank": 327
+    },
+    "2020-11-H2": {
+      "name": "Magneton",
+      "percent": 0.17246,
+      "usage": 637,
+      "rank": 325
+    },
+    "2020-12": {
+      "name": "Magneton",
+      "percent": 0.1523,
+      "usage": 1029,
+      "rank": 345
+    },
+    "2020-12-H1": {
+      "name": "Magneton",
+      "percent": 0.15607,
+      "usage": 526,
+      "rank": 339
+    },
+    "2020-12-H2": {
+      "name": "Magneton",
+      "percent": 0.14854,
+      "usage": 503,
+      "rank": 345
+    },
+    "2021-01": {
+      "name": "Magneton",
+      "percent": 0.24314,
+      "usage": 1777,
+      "rank": 279
+    },
+    "2021-02": {
+      "name": "Magneton",
+      "percent": 0.28548,
+      "usage": 1975,
+      "rank": 256
+    },
+    "2021-03": {
+      "name": "Magneton",
+      "percent": 0.17413,
+      "usage": 1355,
+      "rank": 325
+    },
+    "2021-04": {
+      "name": "Magneton",
+      "percent": 0.23746,
+      "usage": 1617,
+      "rank": 281
+    },
+    "2021-05": {
+      "name": "Magneton",
+      "percent": 0.24219,
+      "usage": 1584,
+      "rank": 282
+    },
+    "2021-06": {
+      "name": "Magneton",
+      "percent": 0.16748,
+      "usage": 962,
+      "rank": 330
+    },
+    "2021-07": {
+      "name": "Magneton",
+      "percent": 0.19014,
+      "usage": 1168,
+      "rank": 310
+    },
+    "2021-08": {
+      "name": "Magneton",
+      "percent": 0.15649,
+      "usage": 1059,
+      "rank": 332
+    },
+    "2021-09": {
+      "name": "Magneton",
+      "percent": 0.18782,
+      "usage": 1131,
+      "rank": 313
+    },
+    "2021-10": {
+      "name": "Magneton",
+      "percent": 0.16194,
+      "usage": 909,
+      "rank": 329
+    },
+    "2021-11": {
+      "name": "Magneton",
+      "percent": 0.22518,
+      "usage": 1159,
+      "rank": 285
+    },
+    "2021-12": {
+      "name": "Magneton",
+      "percent": 0.21239,
+      "usage": 1017,
+      "rank": 303
+    },
+    "2022-01": {
+      "name": "Magneton",
+      "percent": 0.3381,
+      "usage": 1605,
+      "rank": 228
+    },
+    "2022-02": {
+      "name": "Magneton",
+      "percent": 0.24278,
+      "usage": 1131,
+      "rank": 273
+    },
+    "2022-03": {
+      "name": "Magneton",
+      "percent": 0.22423,
+      "usage": 1178,
+      "rank": 276
+    },
+    "2022-04": {
+      "name": "Magneton",
+      "percent": 0.16664,
+      "usage": 838,
+      "rank": 308
+    },
+    "2022-05": {
+      "name": "Magneton",
+      "percent": 0.20546,
+      "usage": 1057,
+      "rank": 275
+    },
+    "2022-06": {
+      "name": "Magneton",
+      "percent": 0.17812,
+      "usage": 911,
+      "rank": 300
+    },
+    "2022-07": {
+      "name": "Magneton",
+      "percent": 0.13192,
+      "usage": 748,
+      "rank": 331
+    },
+    "2022-08": {
+      "name": "Magneton",
+      "percent": 0.15766,
+      "usage": 936,
+      "rank": 302
+    },
+    "2022-09": {
+      "name": "Magneton",
+      "percent": 0.18812,
+      "usage": 984,
+      "rank": 293
+    },
+    "2022-10": {
+      "name": "Magneton",
+      "percent": 0.17405,
+      "usage": 923,
+      "rank": 300
+    },
+    "2022-11": {
+      "name": "Magneton",
+      "percent": 0.23342,
+      "usage": 1067,
+      "rank": 277
+    },
+    "2022-12": {
+      "name": "Magneton",
+      "percent": 0.13317,
+      "usage": 524,
+      "rank": 351
+    },
+    "2023-01": {
+      "name": "Magneton",
+      "percent": 0.10243,
+      "usage": 382,
+      "rank": 384
+    },
+    "2023-02": {
+      "name": "Magneton",
+      "percent": 0.13354,
+      "usage": 401,
+      "rank": 339
+    },
+    "2023-03": {
+      "name": "Magneton",
+      "percent": 0.3143,
+      "usage": 1135,
+      "rank": 241
+    },
+    "2023-04": {
+      "name": "Magneton",
+      "percent": 0.13815,
+      "usage": 526,
+      "rank": 333
+    },
+    "2023-05": {
+      "name": "Magneton",
+      "percent": 0.17064,
+      "usage": 624,
+      "rank": 314
+    },
+    "2023-06": {
+      "name": "Magneton",
+      "percent": 0.18406,
+      "usage": 596,
+      "rank": 303
+    },
+    "2023-07": {
+      "name": "Magneton",
+      "percent": 0.12852,
+      "usage": 440,
+      "rank": 354
+    },
+    "2023-08": {
+      "name": "Magneton",
+      "percent": 0.08064,
+      "usage": 282,
+      "rank": 400
+    },
+    "2023-09": {
+      "name": "Magneton",
+      "percent": 0.10962,
+      "usage": 349,
+      "rank": 354
+    },
+    "2023-09-DLC1": {
+      "name": "Magneton",
+      "percent": 0.08831,
+      "usage": 140,
+      "rank": 375
+    },
+    "2023-10": {
+      "name": "Magneton",
+      "percent": 0.09398,
+      "usage": 300,
+      "rank": 359
+    },
+    "2023-11": {
+      "name": "Magneton",
+      "percent": 0.09076,
+      "usage": 261,
+      "rank": 357
+    },
+    "2023-12": {
+      "name": "Magneton",
+      "percent": 0.08154,
+      "usage": 213,
+      "rank": 369
+    },
+    "2023-12-DLC2": {
+      "name": "Magneton",
+      "percent": 0.09498,
+      "usage": 104,
+      "rank": 349
+    },
+    "2024-01": {
+      "name": "Magneton",
+      "percent": 0.06589,
+      "usage": 168,
+      "rank": 393
+    },
+    "2024-02": {
+      "name": "Magneton",
+      "percent": 0.06047,
+      "usage": 146,
+      "rank": 398
+    },
+    "2024-03": {
+      "name": "Magneton",
+      "percent": 0.10637,
+      "usage": 306,
+      "rank": 335
+    },
+    "2024-04": {
+      "name": "Magneton",
+      "percent": 0.07225,
+      "usage": 196,
+      "rank": 387
+    },
+    "2024-05": {
+      "name": "Magneton",
+      "percent": 0.08404,
+      "usage": 111,
+      "rank": 366
+    },
+    "2024-06": {
+      "name": "Magneton",
+      "percent": 0.05044,
+      "usage": 134,
+      "rank": 412
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Magneton",
+      "percent": 0.13674,
+      "usage": 2192,
+      "rank": 300
+    },
+    "2020-03": {
+      "name": "Magneton",
+      "percent": 0.16296,
+      "usage": 3062,
+      "rank": 287
+    },
+    "2020-04": {
+      "name": "Magneton",
+      "percent": 0.13369,
+      "usage": 2129,
+      "rank": 312
+    },
+    "2020-05": {
+      "name": "Magneton",
+      "percent": 0.21372,
+      "usage": 2812,
+      "rank": 254
+    },
+    "2020-06": {
+      "name": "Magneton",
+      "percent": 0.17034,
+      "usage": 1993,
+      "rank": 282
+    },
+    "2020-06-DLC1": {
+      "name": "Magneton",
+      "percent": 0.1315,
+      "usage": 527,
+      "rank": 320
+    },
+    "2020-07": {
+      "name": "Magneton",
+      "percent": 0.15903,
+      "usage": 1823,
+      "rank": 281
+    },
+    "2020-08": {
+      "name": "Magneton",
+      "percent": 0.09001,
+      "usage": 1201,
+      "rank": 336
+    },
+    "2020-09": {
+      "name": "Magneton",
+      "percent": 0.12983,
+      "usage": 1480,
+      "rank": 292
+    },
+    "2020-10": {
+      "name": "Magneton",
+      "percent": 0.11578,
+      "usage": 1146,
+      "rank": 317
+    },
+    "2020-10-DLC2": {
+      "name": "Magneton",
+      "percent": 0.14769,
+      "usage": 277,
+      "rank": 309
+    },
+    "2020-11": {
+      "name": "Magneton",
+      "percent": 0.15378,
+      "usage": 1188,
+      "rank": 308
+    },
+    "2020-11-H1": {
+      "name": "Magneton",
+      "percent": 0.14822,
+      "usage": 551,
+      "rank": 319
+    },
+    "2020-11-H2": {
+      "name": "Magneton",
+      "percent": 0.15836,
+      "usage": 637,
+      "rank": 303
+    },
+    "2020-12": {
+      "name": "Magneton",
+      "percent": 0.11711,
+      "usage": 1029,
+      "rank": 333
+    },
+    "2020-12-H1": {
+      "name": "Magneton",
+      "percent": 0.12054,
+      "usage": 526,
+      "rank": 335
+    },
+    "2020-12-H2": {
+      "name": "Magneton",
+      "percent": 0.11382,
+      "usage": 503,
+      "rank": 324
+    },
+    "2021-01": {
+      "name": "Magneton",
+      "percent": 0.19544,
+      "usage": 1777,
+      "rank": 275
+    },
+    "2021-02": {
+      "name": "Magneton",
+      "percent": 0.22137,
+      "usage": 1975,
+      "rank": 255
+    },
+    "2021-03": {
+      "name": "Magneton",
+      "percent": 0.15314,
+      "usage": 1355,
+      "rank": 302
+    },
+    "2021-04": {
+      "name": "Magneton",
+      "percent": 0.22739,
+      "usage": 1617,
+      "rank": 256
+    },
+    "2021-05": {
+      "name": "Magneton",
+      "percent": 0.19475,
+      "usage": 1584,
+      "rank": 270
+    },
+    "2021-06": {
+      "name": "Magneton",
+      "percent": 0.13319,
+      "usage": 962,
+      "rank": 300
+    },
+    "2021-07": {
+      "name": "Magneton",
+      "percent": 0.15683,
+      "usage": 1168,
+      "rank": 298
+    },
+    "2021-08": {
+      "name": "Magneton",
+      "percent": 0.13112,
+      "usage": 1059,
+      "rank": 320
+    },
+    "2021-09": {
+      "name": "Magneton",
+      "percent": 0.13991,
+      "usage": 1131,
+      "rank": 314
+    },
+    "2021-10": {
+      "name": "Magneton",
+      "percent": 0.1337,
+      "usage": 909,
+      "rank": 312
+    },
+    "2021-11": {
+      "name": "Magneton",
+      "percent": 0.22263,
+      "usage": 1159,
+      "rank": 254
+    },
+    "2021-12": {
+      "name": "Magneton",
+      "percent": 0.17009,
+      "usage": 1017,
+      "rank": 290
+    },
+    "2022-01": {
+      "name": "Magneton",
+      "percent": 0.2795,
+      "usage": 1605,
+      "rank": 227
+    },
+    "2022-02": {
+      "name": "Magneton",
+      "percent": 0.20868,
+      "usage": 1131,
+      "rank": 264
+    },
+    "2022-03": {
+      "name": "Magneton",
+      "percent": 0.19643,
+      "usage": 1178,
+      "rank": 273
+    },
+    "2022-04": {
+      "name": "Magneton",
+      "percent": 0.14542,
+      "usage": 838,
+      "rank": 297
+    },
+    "2022-05": {
+      "name": "Magneton",
+      "percent": 0.19172,
+      "usage": 1057,
+      "rank": 261
+    },
+    "2022-06": {
+      "name": "Magneton",
+      "percent": 0.14897,
+      "usage": 911,
+      "rank": 297
+    },
+    "2022-07": {
+      "name": "Magneton",
+      "percent": 0.11238,
+      "usage": 748,
+      "rank": 326
+    },
+    "2022-08": {
+      "name": "Magneton",
+      "percent": 0.12976,
+      "usage": 936,
+      "rank": 303
+    },
+    "2022-09": {
+      "name": "Magneton",
+      "percent": 0.1679,
+      "usage": 984,
+      "rank": 292
+    },
+    "2022-10": {
+      "name": "Magneton",
+      "percent": 0.1555,
+      "usage": 923,
+      "rank": 292
+    },
+    "2022-11": {
+      "name": "Magneton",
+      "percent": 0.2214,
+      "usage": 1067,
+      "rank": 271
+    },
+    "2022-12": {
+      "name": "Magneton",
+      "percent": 0.12668,
+      "usage": 524,
+      "rank": 344
+    },
+    "2023-01": {
+      "name": "Magneton",
+      "percent": 0.09486,
+      "usage": 382,
+      "rank": 382
+    },
+    "2023-02": {
+      "name": "Magneton",
+      "percent": 0.1214,
+      "usage": 401,
+      "rank": 330
+    },
+    "2023-03": {
+      "name": "Magneton",
+      "percent": 0.26823,
+      "usage": 1135,
+      "rank": 240
+    },
+    "2023-04": {
+      "name": "Magneton",
+      "percent": 0.09418,
+      "usage": 526,
+      "rank": 292
+    },
+    "2023-05": {
+      "name": "Magneton",
+      "percent": 0.08234,
+      "usage": 624,
+      "rank": 312
+    },
+    "2023-06": {
+      "name": "Magneton",
+      "percent": 0.09997,
+      "usage": 596,
+      "rank": 286
+    },
+    "2023-07": {
+      "name": "Magneton",
+      "percent": 0.0668,
+      "usage": 440,
+      "rank": 337
+    },
+    "2023-08": {
+      "name": "Magneton",
+      "percent": 0.06482,
+      "usage": 282,
+      "rank": 327
+    },
+    "2023-09": {
+      "name": "Magneton",
+      "percent": 0.04759,
+      "usage": 349,
+      "rank": 342
+    },
+    "2023-09-DLC1": {
+      "name": "Magneton",
+      "percent": 0.07194,
+      "usage": 140,
+      "rank": 306
+    },
+    "2023-10": {
+      "name": "Magneton",
+      "percent": 0.03289,
+      "usage": 300,
+      "rank": 365
+    },
+    "2023-11": {
+      "name": "Magneton",
+      "percent": 0.04951,
+      "usage": 261,
+      "rank": 323
+    },
+    "2023-12": {
+      "name": "Magneton",
+      "percent": 0.03794,
+      "usage": 213,
+      "rank": 345
+    },
+    "2023-12-DLC2": {
+      "name": "Magneton",
+      "percent": 0.04266,
+      "usage": 104,
+      "rank": 331
+    },
+    "2024-01": {
+      "name": "Magneton",
+      "percent": 0.06536,
+      "usage": 168,
+      "rank": 299
+    },
+    "2024-02": {
+      "name": "Magneton",
+      "percent": 0.03396,
+      "usage": 146,
+      "rank": 355
+    },
+    "2024-03": {
+      "name": "Magneton",
+      "percent": 0.0429,
+      "usage": 306,
+      "rank": 336
+    },
+    "2024-04": {
+      "name": "Magneton",
+      "percent": 0.02895,
+      "usage": 196,
+      "rank": 371
+    },
+    "2024-05": {
+      "name": "Magneton",
+      "percent": 0.03308,
+      "usage": 111,
+      "rank": 346
+    },
+    "2024-06": {
+      "name": "Magneton",
+      "percent": 0.02279,
+      "usage": 134,
+      "rank": 395
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Magneton",
+      "percent": 0.08917,
+      "usage": 2192,
+      "rank": 245
+    },
+    "2020-03": {
+      "name": "Magneton",
+      "percent": 0.06025,
+      "usage": 3062,
+      "rank": 281
+    },
+    "2020-04": {
+      "name": "Magneton",
+      "percent": 0.08,
+      "usage": 2129,
+      "rank": 251
+    },
+    "2020-05": {
+      "name": "Magneton",
+      "percent": 0.1448,
+      "usage": 2812,
+      "rank": 215
+    },
+    "2020-06": {
+      "name": "Magneton",
+      "percent": 0.04826,
+      "usage": 1993,
+      "rank": 293
+    },
+    "2020-06-DLC1": {
+      "name": "Magneton",
+      "percent": 0.01543,
+      "usage": 527,
+      "rank": 365
+    },
+    "2020-07": {
+      "name": "Magneton",
+      "percent": 0.04173,
+      "usage": 1823,
+      "rank": 285
+    },
+    "2020-08": {
+      "name": "Magneton",
+      "percent": 0.03407,
+      "usage": 1201,
+      "rank": 311
+    },
+    "2020-09": {
+      "name": "Magneton",
+      "percent": 0.03738,
+      "usage": 1480,
+      "rank": 293
+    },
+    "2020-10": {
+      "name": "Magneton",
+      "percent": 0.07985,
+      "usage": 1146,
+      "rank": 248
+    },
+    "2020-10-DLC2": {
+      "name": "Magneton",
+      "percent": 0.14634,
+      "usage": 277,
+      "rank": 200
+    },
+    "2020-11": {
+      "name": "Magneton",
+      "percent": 0.08821,
+      "usage": 1188,
+      "rank": 241
+    },
+    "2020-11-H1": {
+      "name": "Magneton",
+      "percent": 0.05062,
+      "usage": 551,
+      "rank": 281
+    },
+    "2020-11-H2": {
+      "name": "Magneton",
+      "percent": 0.1126,
+      "usage": 637,
+      "rank": 221
+    },
+    "2020-12": {
+      "name": "Magneton",
+      "percent": 0.06884,
+      "usage": 1029,
+      "rank": 261
+    },
+    "2020-12-H1": {
+      "name": "Magneton",
+      "percent": 0.06672,
+      "usage": 526,
+      "rank": 255
+    },
+    "2020-12-H2": {
+      "name": "Magneton",
+      "percent": 0.07011,
+      "usage": 503,
+      "rank": 265
+    },
+    "2021-01": {
+      "name": "Magneton",
+      "percent": 0.05639,
+      "usage": 1777,
+      "rank": 281
+    },
+    "2021-02": {
+      "name": "Magneton",
+      "percent": 0.02524,
+      "usage": 1975,
+      "rank": 338
+    },
+    "2021-03": {
+      "name": "Magneton",
+      "percent": 0.02616,
+      "usage": 1355,
+      "rank": 333
+    },
+    "2021-04": {
+      "name": "Magneton",
+      "percent": 0.12678,
+      "usage": 1617,
+      "rank": 213
+    },
+    "2021-05": {
+      "name": "Magneton",
+      "percent": 0.1063,
+      "usage": 1584,
+      "rank": 232
+    },
+    "2021-06": {
+      "name": "Magneton",
+      "percent": 0.07058,
+      "usage": 962,
+      "rank": 268
+    },
+    "2021-07": {
+      "name": "Magneton",
+      "percent": 0.05755,
+      "usage": 1168,
+      "rank": 275
+    },
+    "2021-08": {
+      "name": "Magneton",
+      "percent": 0.03914,
+      "usage": 1059,
+      "rank": 289
+    },
+    "2021-09": {
+      "name": "Magneton",
+      "percent": 0.03386,
+      "usage": 1131,
+      "rank": 304
+    },
+    "2021-10": {
+      "name": "Magneton",
+      "percent": 0.00934,
+      "usage": 909,
+      "rank": 393
+    },
+    "2021-11": {
+      "name": "Magneton",
+      "percent": 0.02027,
+      "usage": 1159,
+      "rank": 330
+    },
+    "2021-12": {
+      "name": "Magneton",
+      "percent": 0.02192,
+      "usage": 1017,
+      "rank": 328
+    },
+    "2022-01": {
+      "name": "Magneton",
+      "percent": 0.02367,
+      "usage": 1605,
+      "rank": 322
+    },
+    "2022-02": {
+      "name": "Magneton",
+      "percent": 0.02202,
+      "usage": 1131,
+      "rank": 323
+    },
+    "2022-03": {
+      "name": "Magneton",
+      "percent": 0.0323,
+      "usage": 1178,
+      "rank": 287
+    },
+    "2022-04": {
+      "name": "Magneton",
+      "percent": 0.04716,
+      "usage": 838,
+      "rank": 248
+    },
+    "2022-05": {
+      "name": "Magneton",
+      "percent": 0.03945,
+      "usage": 1057,
+      "rank": 270
+    },
+    "2022-06": {
+      "name": "Magneton",
+      "percent": 0.01843,
+      "usage": 911,
+      "rank": 323
+    },
+    "2022-07": {
+      "name": "Magneton",
+      "percent": 0.0221,
+      "usage": 748,
+      "rank": 319
+    },
+    "2022-08": {
+      "name": "Magneton",
+      "percent": 0.02,
+      "usage": 936,
+      "rank": 314
+    },
+    "2022-09": {
+      "name": "Magneton",
+      "percent": 0.17917,
+      "usage": 984,
+      "rank": 184
+    },
+    "2022-10": {
+      "name": "Magneton",
+      "percent": 0.04201,
+      "usage": 923,
+      "rank": 256
+    },
+    "2022-11": {
+      "name": "Magneton",
+      "percent": 0.09776,
+      "usage": 1067,
+      "rank": 211
+    },
+    "2022-12": {
+      "name": "Magneton",
+      "percent": 0.00357,
+      "usage": 524,
+      "rank": 325
+    },
+    "2023-01": {
+      "name": "Magneton",
+      "percent": 0.01757,
+      "usage": 382,
+      "rank": 282
+    },
+    "2023-02": {
+      "name": "Magneton",
+      "percent": 0.04495,
+      "usage": 401,
+      "rank": 246
+    },
+    "2023-03": {
+      "name": "Magneton",
+      "percent": 0.11089,
+      "usage": 1135,
+      "rank": 204
+    },
+    "2023-04": {
+      "name": "Magneton",
+      "percent": 0.03202,
+      "usage": 526,
+      "rank": 280
+    },
+    "2023-05": {
+      "name": "Magneton",
+      "percent": 0.01944,
+      "usage": 624,
+      "rank": 316
+    },
+    "2023-06": {
+      "name": "Magneton",
+      "percent": 0.04117,
+      "usage": 596,
+      "rank": 252
+    },
+    "2023-07": {
+      "name": "Magneton",
+      "percent": 0.05024,
+      "usage": 440,
+      "rank": 245
+    },
+    "2023-08": {
+      "name": "Magneton",
+      "percent": 0.01675,
+      "usage": 282,
+      "rank": 324
+    },
+    "2023-09": {
+      "name": "Magneton",
+      "percent": 0.00953,
+      "usage": 349,
+      "rank": 358
+    },
+    "2023-09-DLC1": {
+      "name": "Magneton",
+      "percent": 0.01911,
+      "usage": 140,
+      "rank": 303
+    },
+    "2023-10": {
+      "name": "Magneton",
+      "percent": 0.02025,
+      "usage": 300,
+      "rank": 299
+    },
+    "2023-11": {
+      "name": "Magneton",
+      "percent": 0.04132,
+      "usage": 261,
+      "rank": 249
+    },
+    "2023-12": {
+      "name": "Magneton",
+      "percent": 0.01676,
+      "usage": 213,
+      "rank": 298
+    },
+    "2023-12-DLC2": {
+      "name": "Magneton",
+      "percent": 0.00581,
+      "usage": 104,
+      "rank": 344
+    },
+    "2024-01": {
+      "name": "Magneton",
+      "percent": 0.04307,
+      "usage": 168,
+      "rank": 251
+    },
+    "2024-02": {
+      "name": "Magneton",
+      "percent": 0.01668,
+      "usage": 146,
+      "rank": 310
+    },
+    "2024-03": {
+      "name": "Magneton",
+      "percent": 0.0066,
+      "usage": 306,
+      "rank": 364
+    },
+    "2024-04": {
+      "name": "Magneton",
+      "percent": 0.01002,
+      "usage": 196,
+      "rank": 326
+    },
+    "2024-05": {
+      "name": "Magneton",
+      "percent": 0.00695,
+      "usage": 111,
+      "rank": 327
+    },
+    "2024-06": {
+      "name": "Magneton",
+      "percent": 0.01162,
+      "usage": 134,
+      "rank": 318
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Magneton",
+      "percent": 0.02913,
+      "usage": 2192,
+      "rank": 260
+    },
+    "2020-03": {
+      "name": "Magneton",
+      "percent": 0.0317,
+      "usage": 3062,
+      "rank": 249
+    },
+    "2020-04": {
+      "name": "Magneton",
+      "percent": 0.05979,
+      "usage": 2129,
+      "rank": 211
+    },
+    "2020-05": {
+      "name": "Magneton",
+      "percent": 0.07249,
+      "usage": 2812,
+      "rank": 204
+    },
+    "2020-06": {
+      "name": "Magneton",
+      "percent": 0.03123,
+      "usage": 1993,
+      "rank": 263
+    },
+    "2020-06-DLC1": {
+      "name": "Magneton",
+      "percent": 0.01365,
+      "usage": 527,
+      "rank": 309
+    },
+    "2020-07": {
+      "name": "Magneton",
+      "percent": 0.01429,
+      "usage": 1823,
+      "rank": 293
+    },
+    "2020-08": {
+      "name": "Magneton",
+      "percent": 0.0174,
+      "usage": 1201,
+      "rank": 281
+    },
+    "2020-09": {
+      "name": "Magneton",
+      "percent": 0.01274,
+      "usage": 1480,
+      "rank": 280
+    },
+    "2020-10": {
+      "name": "Magneton",
+      "percent": 0.04567,
+      "usage": 1146,
+      "rank": 221
+    },
+    "2020-10-DLC2": {
+      "name": "Magneton",
+      "percent": 0.09346,
+      "usage": 277,
+      "rank": 177
+    },
+    "2020-11": {
+      "name": "Magneton",
+      "percent": 0.08194,
+      "usage": 1188,
+      "rank": 197
+    },
+    "2020-11-H1": {
+      "name": "Magneton",
+      "percent": 0.05308,
+      "usage": 551,
+      "rank": 203
+    },
+    "2020-11-H2": {
+      "name": "Magneton",
+      "percent": 0.09982,
+      "usage": 637,
+      "rank": 180
+    },
+    "2020-12": {
+      "name": "Magneton",
+      "percent": 0.03734,
+      "usage": 1029,
+      "rank": 247
+    },
+    "2020-12-H1": {
+      "name": "Magneton",
+      "percent": 0.05526,
+      "usage": 526,
+      "rank": 212
+    },
+    "2020-12-H2": {
+      "name": "Magneton",
+      "percent": 0.02694,
+      "usage": 503,
+      "rank": 264
+    },
+    "2021-01": {
+      "name": "Magneton",
+      "percent": 0.00932,
+      "usage": 1777,
+      "rank": 328
+    },
+    "2021-02": {
+      "name": "Magneton",
+      "percent": 0.00364,
+      "usage": 1975,
+      "rank": 377
+    },
+    "2021-03": {
+      "name": "Magneton",
+      "percent": 0.01543,
+      "usage": 1355,
+      "rank": 287
+    },
+    "2021-04": {
+      "name": "Magneton",
+      "percent": 0.06656,
+      "usage": 1617,
+      "rank": 198
+    },
+    "2021-05": {
+      "name": "Magneton",
+      "percent": 0.02225,
+      "usage": 1584,
+      "rank": 260
+    },
+    "2021-06": {
+      "name": "Magneton",
+      "percent": 0.0124,
+      "usage": 962,
+      "rank": 293
+    },
+    "2021-07": {
+      "name": "Magneton",
+      "percent": 0.02829,
+      "usage": 1168,
+      "rank": 252
+    },
+    "2021-08": {
+      "name": "Magneton",
+      "percent": 0.01711,
+      "usage": 1059,
+      "rank": 273
+    },
+    "2021-09": {
+      "name": "Magneton",
+      "percent": 0.0093,
+      "usage": 1131,
+      "rank": 303
+    },
+    "2021-10": {
+      "name": "Magneton",
+      "percent": 0.00111,
+      "usage": 909,
+      "rank": 418
+    },
+    "2021-11": {
+      "name": "Magneton",
+      "percent": 0.00426,
+      "usage": 1159,
+      "rank": 328
+    },
+    "2021-12": {
+      "name": "Magneton",
+      "percent": 0.00363,
+      "usage": 1017,
+      "rank": 351
+    },
+    "2022-01": {
+      "name": "Magneton",
+      "percent": 0.00397,
+      "usage": 1605,
+      "rank": 342
+    },
+    "2022-02": {
+      "name": "Magneton",
+      "percent": 0.00125,
+      "usage": 1131,
+      "rank": 371
+    },
+    "2022-03": {
+      "name": "Magneton",
+      "percent": 0.00485,
+      "usage": 1178,
+      "rank": 312
+    },
+    "2022-04": {
+      "name": "Magneton",
+      "percent": 0.01282,
+      "usage": 838,
+      "rank": 241
+    },
+    "2022-05": {
+      "name": "Magneton",
+      "percent": 0.02378,
+      "usage": 1057,
+      "rank": 243
+    },
+    "2022-06": {
+      "name": "Magneton",
+      "percent": 0.00052,
+      "usage": 911,
+      "rank": 408
+    },
+    "2022-07": {
+      "name": "Magneton",
+      "percent": 0.01951,
+      "usage": 748,
+      "rank": 255
+    },
+    "2022-08": {
+      "name": "Magneton",
+      "percent": 0.00344,
+      "usage": 936,
+      "rank": 313
+    },
+    "2022-09": {
+      "name": "Magneton",
+      "percent": 0.03712,
+      "usage": 984,
+      "rank": 210
+    },
+    "2022-10": {
+      "name": "Magneton",
+      "percent": 0.01411,
+      "usage": 923,
+      "rank": 236
+    },
+    "2022-11": {
+      "name": "Magneton",
+      "percent": 0.02302,
+      "usage": 1067,
+      "rank": 206
+    },
+    "2022-12": {
+      "name": "Magneton",
+      "percent": 1e-05,
+      "usage": 524,
+      "rank": 344
+    },
+    "2023-01": {
+      "name": "Magneton",
+      "percent": 0.00086,
+      "usage": 382,
+      "rank": 269
+    },
+    "2023-02": {
+      "name": "Magneton",
+      "percent": 0.00011,
+      "usage": 401,
+      "rank": 389
+    },
+    "2023-03": {
+      "name": "Magneton",
+      "percent": 0.29822,
+      "usage": 1135,
+      "rank": 107
+    },
+    "2023-04": {
+      "name": "Magneton",
+      "percent": 0.02916,
+      "usage": 526,
+      "rank": 213
+    },
+    "2023-05": {
+      "name": "Magneton",
+      "percent": 0.0041,
+      "usage": 624,
+      "rank": 318
+    },
+    "2023-06": {
+      "name": "Magneton",
+      "percent": 0.00766,
+      "usage": 596,
+      "rank": 266
+    },
+    "2023-07": {
+      "name": "Magneton",
+      "percent": 0.00883,
+      "usage": 440,
+      "rank": 266
+    },
+    "2023-08": {
+      "name": "Magneton",
+      "percent": 0.00224,
+      "usage": 282,
+      "rank": 358
+    },
+    "2023-09": {
+      "name": "Magneton",
+      "percent": 0.00245,
+      "usage": 349,
+      "rank": 326
+    },
+    "2023-09-DLC1": {
+      "name": "Magneton",
+      "percent": 0.00508,
+      "usage": 140,
+      "rank": 268
+    },
+    "2023-10": {
+      "name": "Magneton",
+      "percent": 0.0059,
+      "usage": 300,
+      "rank": 305
+    },
+    "2023-11": {
+      "name": "Magneton",
+      "percent": 0.01116,
+      "usage": 261,
+      "rank": 266
+    },
+    "2023-12": {
+      "name": "Magneton",
+      "percent": 0.0262,
+      "usage": 213,
+      "rank": 199
+    },
+    "2023-12-DLC2": {
+      "name": "Magneton",
+      "percent": 0.0005,
+      "usage": 104,
+      "rank": 342
+    },
+    "2024-01": {
+      "name": "Magneton",
+      "percent": 0.01,
+      "usage": 168,
+      "rank": 254
+    },
+    "2024-02": {
+      "name": "Magneton",
+      "percent": 0.0037,
+      "usage": 146,
+      "rank": 289
+    },
+    "2024-03": {
+      "name": "Magneton",
+      "percent": 0.00131,
+      "usage": 306,
+      "rank": 346
+    },
+    "2024-04": {
+      "name": "Magneton",
+      "percent": 0.01368,
+      "usage": 196,
+      "rank": 236
+    },
+    "2024-05": {
+      "name": "Magneton",
+      "percent": 0.00286,
+      "usage": 111,
+      "rank": 284
+    },
+    "2024-06": {
+      "name": "Magneton",
+      "percent": 0.00252,
+      "usage": 134,
+      "rank": 316
+    }
+  }
+}

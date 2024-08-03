@@ -74,6 +74,79 @@
 			]
 		},
 		{
+			"name": "gen5",
+			"label": "Gen 5",
+			"hasFormatless": false,
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2014-11",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
+			]
+		},
+		{
+			"name": "gen6",
+			"label": "Gen 6",
+			"hasFormatless": true,
+			"lastFormatless": "2017-06",
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2017-07",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
+			]
+		},
+		{
+			"name": "gen7",
+			"label": "Gen 7",
+			"hasFormatless": false,
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2020-02",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
+			]
+		},
+		{
+			"name": "gen8",
+			"label": "Gen 8",
+			"hasFormatless": false,
+			"formats": [
+				{
+					"name": "ou",
+					"label": "OU",
+					"firstMonth": "2022-11",
+					"elos": [
+						"0",
+						"1500",
+						"1630",
+						"1760"
+					]
+				}
+			]
+		},
+		{
 			"name": "gen9",
 			"label": "Gen 9",
 			"hasFormatless": false,

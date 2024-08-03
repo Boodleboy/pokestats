@@ -1,0 +1,545 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2022-11",
+  "0": {
+    "2022-11": {
+      "name": "Espeon",
+      "percent": 1.07837,
+      "usage": 20485,
+      "rank": 99
+    },
+    "2022-12": {
+      "name": "Espeon",
+      "percent": 1.61491,
+      "usage": 6705,
+      "rank": 92
+    },
+    "2023-01": {
+      "name": "Espeon",
+      "percent": 0.99675,
+      "usage": 2770,
+      "rank": 108
+    },
+    "2023-02": {
+      "name": "Espeon",
+      "percent": 1.28495,
+      "usage": 2498,
+      "rank": 101
+    },
+    "2023-03": {
+      "name": "Espeon",
+      "percent": 1.63506,
+      "usage": 3773,
+      "rank": 87
+    },
+    "2023-04": {
+      "name": "Espeon",
+      "percent": 1.41418,
+      "usage": 3238,
+      "rank": 95
+    },
+    "2023-05": {
+      "name": "Espeon",
+      "percent": 1.41324,
+      "usage": 2903,
+      "rank": 96
+    },
+    "2023-06": {
+      "name": "Espeon",
+      "percent": 1.3765,
+      "usage": 2195,
+      "rank": 100
+    },
+    "2023-07": {
+      "name": "Espeon",
+      "percent": 1.51486,
+      "usage": 2699,
+      "rank": 91
+    },
+    "2023-08": {
+      "name": "Espeon",
+      "percent": 1.7349,
+      "usage": 2980,
+      "rank": 84
+    },
+    "2023-09": {
+      "name": "Espeon",
+      "percent": 1.71389,
+      "usage": 2631,
+      "rank": 79
+    },
+    "2023-09-DLC1": {
+      "name": "Espeon",
+      "percent": 1.70953,
+      "usage": 1320,
+      "rank": 84
+    },
+    "2023-10": {
+      "name": "Espeon",
+      "percent": 1.32623,
+      "usage": 1906,
+      "rank": 96
+    },
+    "2023-11": {
+      "name": "Espeon",
+      "percent": 1.82324,
+      "usage": 2209,
+      "rank": 75
+    },
+    "2023-12": {
+      "name": "Espeon",
+      "percent": 1.41849,
+      "usage": 1508,
+      "rank": 94
+    },
+    "2023-12-DLC2": {
+      "name": "Espeon",
+      "percent": 1.42082,
+      "usage": 649,
+      "rank": 90
+    },
+    "2024-01": {
+      "name": "Espeon",
+      "percent": 1.44655,
+      "usage": 1292,
+      "rank": 89
+    },
+    "2024-02": {
+      "name": "Espeon",
+      "percent": 1.69179,
+      "usage": 1347,
+      "rank": 79
+    },
+    "2024-03": {
+      "name": "Espeon",
+      "percent": 1.60445,
+      "usage": 1317,
+      "rank": 79
+    },
+    "2024-04": {
+      "name": "Espeon",
+      "percent": 1.4335,
+      "usage": 1138,
+      "rank": 87
+    },
+    "2024-05": {
+      "name": "Espeon",
+      "percent": 1.51811,
+      "usage": 575,
+      "rank": 87
+    },
+    "2024-06": {
+      "name": "Espeon",
+      "percent": 2.0459,
+      "usage": 1685,
+      "rank": 68
+    }
+  },
+  "1500": {
+    "2022-11": {
+      "name": "Espeon",
+      "percent": 1.01232,
+      "usage": 20485,
+      "rank": 99
+    },
+    "2022-12": {
+      "name": "Espeon",
+      "percent": 1.58907,
+      "usage": 6705,
+      "rank": 95
+    },
+    "2023-01": {
+      "name": "Espeon",
+      "percent": 0.93992,
+      "usage": 2770,
+      "rank": 108
+    },
+    "2023-02": {
+      "name": "Espeon",
+      "percent": 1.10495,
+      "usage": 2498,
+      "rank": 105
+    },
+    "2023-03": {
+      "name": "Espeon",
+      "percent": 1.53255,
+      "usage": 3773,
+      "rank": 85
+    },
+    "2023-04": {
+      "name": "Espeon",
+      "percent": 1.02565,
+      "usage": 3238,
+      "rank": 99
+    },
+    "2023-05": {
+      "name": "Espeon",
+      "percent": 1.268,
+      "usage": 2903,
+      "rank": 90
+    },
+    "2023-06": {
+      "name": "Espeon",
+      "percent": 1.22394,
+      "usage": 2195,
+      "rank": 89
+    },
+    "2023-07": {
+      "name": "Espeon",
+      "percent": 1.09211,
+      "usage": 2699,
+      "rank": 95
+    },
+    "2023-08": {
+      "name": "Espeon",
+      "percent": 1.2523,
+      "usage": 2980,
+      "rank": 93
+    },
+    "2023-09": {
+      "name": "Espeon",
+      "percent": 1.20993,
+      "usage": 2631,
+      "rank": 93
+    },
+    "2023-09-DLC1": {
+      "name": "Espeon",
+      "percent": 1.14224,
+      "usage": 1320,
+      "rank": 94
+    },
+    "2023-10": {
+      "name": "Espeon",
+      "percent": 1.23143,
+      "usage": 1906,
+      "rank": 86
+    },
+    "2023-11": {
+      "name": "Espeon",
+      "percent": 1.31672,
+      "usage": 2209,
+      "rank": 84
+    },
+    "2023-12": {
+      "name": "Espeon",
+      "percent": 1.07083,
+      "usage": 1508,
+      "rank": 94
+    },
+    "2023-12-DLC2": {
+      "name": "Espeon",
+      "percent": 1.19897,
+      "usage": 649,
+      "rank": 85
+    },
+    "2024-01": {
+      "name": "Espeon",
+      "percent": 1.26434,
+      "usage": 1292,
+      "rank": 88
+    },
+    "2024-02": {
+      "name": "Espeon",
+      "percent": 1.3751,
+      "usage": 1347,
+      "rank": 84
+    },
+    "2024-03": {
+      "name": "Espeon",
+      "percent": 1.29989,
+      "usage": 1317,
+      "rank": 81
+    },
+    "2024-04": {
+      "name": "Espeon",
+      "percent": 1.09874,
+      "usage": 1138,
+      "rank": 87
+    },
+    "2024-05": {
+      "name": "Espeon",
+      "percent": 1.28916,
+      "usage": 575,
+      "rank": 83
+    },
+    "2024-06": {
+      "name": "Espeon",
+      "percent": 2.18107,
+      "usage": 1685,
+      "rank": 65
+    }
+  },
+  "1630": {
+    "2022-11": {
+      "name": "Espeon",
+      "percent": 0.51469,
+      "usage": 20485,
+      "rank": 100
+    },
+    "2022-12": {
+      "name": "Espeon",
+      "percent": 0.0782,
+      "usage": 6705,
+      "rank": 175
+    },
+    "2023-01": {
+      "name": "Espeon",
+      "percent": 0.26723,
+      "usage": 2770,
+      "rank": 137
+    },
+    "2023-02": {
+      "name": "Espeon",
+      "percent": 0.18437,
+      "usage": 2498,
+      "rank": 136
+    },
+    "2023-03": {
+      "name": "Espeon",
+      "percent": 0.57685,
+      "usage": 3773,
+      "rank": 113
+    },
+    "2023-04": {
+      "name": "Espeon",
+      "percent": 0.18167,
+      "usage": 3238,
+      "rank": 156
+    },
+    "2023-05": {
+      "name": "Espeon",
+      "percent": 0.43587,
+      "usage": 2903,
+      "rank": 118
+    },
+    "2023-06": {
+      "name": "Espeon",
+      "percent": 0.56989,
+      "usage": 2195,
+      "rank": 102
+    },
+    "2023-07": {
+      "name": "Espeon",
+      "percent": 0.47032,
+      "usage": 2699,
+      "rank": 117
+    },
+    "2023-08": {
+      "name": "Espeon",
+      "percent": 0.30956,
+      "usage": 2980,
+      "rank": 130
+    },
+    "2023-09": {
+      "name": "Espeon",
+      "percent": 0.35395,
+      "usage": 2631,
+      "rank": 126
+    },
+    "2023-09-DLC1": {
+      "name": "Espeon",
+      "percent": 0.36029,
+      "usage": 1320,
+      "rank": 120
+    },
+    "2023-10": {
+      "name": "Espeon",
+      "percent": 0.37506,
+      "usage": 1906,
+      "rank": 120
+    },
+    "2023-11": {
+      "name": "Espeon",
+      "percent": 0.29364,
+      "usage": 2209,
+      "rank": 130
+    },
+    "2023-12": {
+      "name": "Espeon",
+      "percent": 0.27334,
+      "usage": 1508,
+      "rank": 128
+    },
+    "2023-12-DLC2": {
+      "name": "Espeon",
+      "percent": 0.27269,
+      "usage": 649,
+      "rank": 128
+    },
+    "2024-01": {
+      "name": "Espeon",
+      "percent": 0.14148,
+      "usage": 1292,
+      "rank": 149
+    },
+    "2024-02": {
+      "name": "Espeon",
+      "percent": 0.1635,
+      "usage": 1347,
+      "rank": 140
+    },
+    "2024-03": {
+      "name": "Espeon",
+      "percent": 0.13617,
+      "usage": 1317,
+      "rank": 152
+    },
+    "2024-04": {
+      "name": "Espeon",
+      "percent": 0.19125,
+      "usage": 1138,
+      "rank": 140
+    },
+    "2024-05": {
+      "name": "Espeon",
+      "percent": 0.4647,
+      "usage": 575,
+      "rank": 101
+    },
+    "2024-06": {
+      "name": "Espeon",
+      "percent": 0.8612,
+      "usage": 1685,
+      "rank": 88
+    }
+  },
+  "1760": {
+    "2022-11": {
+      "name": "Espeon",
+      "percent": 0.60277,
+      "usage": 20485,
+      "rank": 92
+    },
+    "2022-12": {
+      "name": "Espeon",
+      "percent": 0.07513,
+      "usage": 6705,
+      "rank": 128
+    },
+    "2023-01": {
+      "name": "Espeon",
+      "percent": 0.31219,
+      "usage": 2770,
+      "rank": 86
+    },
+    "2023-02": {
+      "name": "Espeon",
+      "percent": 0.01323,
+      "usage": 2498,
+      "rank": 189
+    },
+    "2023-03": {
+      "name": "Espeon",
+      "percent": 0.21025,
+      "usage": 3773,
+      "rank": 106
+    },
+    "2023-04": {
+      "name": "Espeon",
+      "percent": 0.02424,
+      "usage": 3238,
+      "rank": 198
+    },
+    "2023-05": {
+      "name": "Espeon",
+      "percent": 0.49848,
+      "usage": 2903,
+      "rank": 90
+    },
+    "2023-06": {
+      "name": "Espeon",
+      "percent": 0.14302,
+      "usage": 2195,
+      "rank": 116
+    },
+    "2023-07": {
+      "name": "Espeon",
+      "percent": 0.889,
+      "usage": 2699,
+      "rank": 83
+    },
+    "2023-08": {
+      "name": "Espeon",
+      "percent": 0.15636,
+      "usage": 2980,
+      "rank": 128
+    },
+    "2023-09": {
+      "name": "Espeon",
+      "percent": 0.06805,
+      "usage": 2631,
+      "rank": 152
+    },
+    "2023-09-DLC1": {
+      "name": "Espeon",
+      "percent": 0.09043,
+      "usage": 1320,
+      "rank": 142
+    },
+    "2023-10": {
+      "name": "Espeon",
+      "percent": 0.04008,
+      "usage": 1906,
+      "rank": 161
+    },
+    "2023-11": {
+      "name": "Espeon",
+      "percent": 0.03644,
+      "usage": 2209,
+      "rank": 174
+    },
+    "2023-12": {
+      "name": "Espeon",
+      "percent": 0.06061,
+      "usage": 1508,
+      "rank": 144
+    },
+    "2023-12-DLC2": {
+      "name": "Espeon",
+      "percent": 0.05614,
+      "usage": 649,
+      "rank": 137
+    },
+    "2024-01": {
+      "name": "Espeon",
+      "percent": 0.04623,
+      "usage": 1292,
+      "rank": 152
+    },
+    "2024-02": {
+      "name": "Espeon",
+      "percent": 0.14642,
+      "usage": 1347,
+      "rank": 117
+    },
+    "2024-03": {
+      "name": "Espeon",
+      "percent": 0.06916,
+      "usage": 1317,
+      "rank": 149
+    },
+    "2024-04": {
+      "name": "Espeon",
+      "percent": 0.10952,
+      "usage": 1138,
+      "rank": 134
+    },
+    "2024-05": {
+      "name": "Espeon",
+      "percent": 0.1662,
+      "usage": 575,
+      "rank": 121
+    },
+    "2024-06": {
+      "name": "Espeon",
+      "percent": 0.2047,
+      "usage": 1685,
+      "rank": 117
+    }
+  }
+}

@@ -1,0 +1,617 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2017-07",
+  "0": {
+    "2017-08": {
+      "name": "Clauncher",
+      "percent": 0.00482,
+      "usage": 6,
+      "rank": 531
+    },
+    "2017-10": {
+      "name": "Clauncher",
+      "percent": 0.00106,
+      "usage": 1,
+      "rank": 605
+    },
+    "2018-01": {
+      "name": "Clauncher",
+      "percent": 0.00133,
+      "usage": 1,
+      "rank": 627
+    },
+    "2018-04": {
+      "name": "Clauncher",
+      "percent": 0.00175,
+      "usage": 1,
+      "rank": 601
+    },
+    "2018-12": {
+      "name": "Clauncher",
+      "percent": 0.00204,
+      "usage": 1,
+      "rank": 593
+    },
+    "2019-09": {
+      "name": "Clauncher",
+      "percent": 0.02527,
+      "usage": 7,
+      "rank": 420
+    },
+    "2019-11": {
+      "name": "Clauncher",
+      "percent": 0.00772,
+      "usage": 2,
+      "rank": 546
+    },
+    "2019-12": {
+      "name": "Clauncher",
+      "percent": 0.00445,
+      "usage": 2,
+      "rank": 576
+    },
+    "2020-03": {
+      "name": "Clauncher",
+      "percent": 0.01993,
+      "usage": 17,
+      "rank": 443
+    },
+    "2020-10": {
+      "name": "Clauncher",
+      "percent": 0.00103,
+      "usage": 1,
+      "rank": 623
+    },
+    "2021-01": {
+      "name": "Clauncher",
+      "percent": 0.00086,
+      "usage": 1,
+      "rank": 646
+    },
+    "2021-02": {
+      "name": "Clauncher",
+      "percent": 0.00269,
+      "usage": 3,
+      "rank": 567
+    },
+    "2021-06": {
+      "name": "Clauncher",
+      "percent": 0.01908,
+      "usage": 21,
+      "rank": 447
+    },
+    "2021-11": {
+      "name": "Clauncher",
+      "percent": 0.00101,
+      "usage": 1,
+      "rank": 613
+    },
+    "2022-03": {
+      "name": "Clauncher",
+      "percent": 0.00269,
+      "usage": 3,
+      "rank": 560
+    },
+    "2022-05": {
+      "name": "Clauncher",
+      "percent": 0.00283,
+      "usage": 3,
+      "rank": 562
+    },
+    "2022-07": {
+      "name": "Clauncher",
+      "percent": 0.00084,
+      "usage": 1,
+      "rank": 617
+    },
+    "2022-08": {
+      "name": "Clauncher",
+      "percent": 0.00229,
+      "usage": 3,
+      "rank": 562
+    },
+    "2022-10": {
+      "name": "Clauncher",
+      "percent": 0.00236,
+      "usage": 3,
+      "rank": 564
+    },
+    "2023-01": {
+      "name": "Clauncher",
+      "percent": 0.00611,
+      "usage": 7,
+      "rank": 513
+    },
+    "2023-02": {
+      "name": "Clauncher",
+      "percent": 0.00201,
+      "usage": 2,
+      "rank": 577
+    },
+    "2023-03": {
+      "name": "Clauncher",
+      "percent": 0.0009,
+      "usage": 1,
+      "rank": 599
+    },
+    "2023-05": {
+      "name": "Clauncher",
+      "percent": 0.00088,
+      "usage": 1,
+      "rank": 608
+    },
+    "2023-06": {
+      "name": "Clauncher",
+      "percent": 0.00297,
+      "usage": 3,
+      "rank": 543
+    },
+    "2024-02": {
+      "name": "Clauncher",
+      "percent": 0.00087,
+      "usage": 1,
+      "rank": 575
+    }
+  },
+  "1500": {
+    "2017-08": {
+      "name": "Clauncher",
+      "percent": 0.00101,
+      "usage": 6,
+      "rank": 579
+    },
+    "2017-10": {
+      "name": "Clauncher",
+      "percent": 0.00057,
+      "usage": 1,
+      "rank": 592
+    },
+    "2018-01": {
+      "name": "Clauncher",
+      "percent": 0.00082,
+      "usage": 1,
+      "rank": 602
+    },
+    "2018-04": {
+      "name": "Clauncher",
+      "percent": 0.00013,
+      "usage": 1,
+      "rank": 615
+    },
+    "2018-12": {
+      "name": "Clauncher",
+      "percent": 0.00046,
+      "usage": 1,
+      "rank": 588
+    },
+    "2019-09": {
+      "name": "Clauncher",
+      "percent": 0.00218,
+      "usage": 7,
+      "rank": 509
+    },
+    "2019-11": {
+      "name": "Clauncher",
+      "percent": 0.0026,
+      "usage": 2,
+      "rank": 566
+    },
+    "2019-12": {
+      "name": "Clauncher",
+      "percent": 0.00288,
+      "usage": 2,
+      "rank": 552
+    },
+    "2020-03": {
+      "name": "Clauncher",
+      "percent": 0.0022,
+      "usage": 17,
+      "rank": 551
+    },
+    "2020-10": {
+      "name": "Clauncher",
+      "percent": 0.00064,
+      "usage": 1,
+      "rank": 611
+    },
+    "2021-01": {
+      "name": "Clauncher",
+      "percent": 0.00057,
+      "usage": 1,
+      "rank": 633
+    },
+    "2021-02": {
+      "name": "Clauncher",
+      "percent": 0.00179,
+      "usage": 3,
+      "rank": 557
+    },
+    "2021-06": {
+      "name": "Clauncher",
+      "percent": 0.00148,
+      "usage": 21,
+      "rank": 557
+    },
+    "2021-11": {
+      "name": "Clauncher",
+      "percent": 0.00058,
+      "usage": 1,
+      "rank": 624
+    },
+    "2022-03": {
+      "name": "Clauncher",
+      "percent": 0.0023,
+      "usage": 3,
+      "rank": 547
+    },
+    "2022-05": {
+      "name": "Clauncher",
+      "percent": 0.00241,
+      "usage": 3,
+      "rank": 550
+    },
+    "2022-07": {
+      "name": "Clauncher",
+      "percent": 0.00049,
+      "usage": 1,
+      "rank": 639
+    },
+    "2022-08": {
+      "name": "Clauncher",
+      "percent": 0.00162,
+      "usage": 3,
+      "rank": 566
+    },
+    "2022-10": {
+      "name": "Clauncher",
+      "percent": 0.00167,
+      "usage": 3,
+      "rank": 562
+    },
+    "2023-01": {
+      "name": "Clauncher",
+      "percent": 0.0045,
+      "usage": 7,
+      "rank": 526
+    },
+    "2023-02": {
+      "name": "Clauncher",
+      "percent": 0.00144,
+      "usage": 2,
+      "rank": 572
+    },
+    "2023-03": {
+      "name": "Clauncher",
+      "percent": 0.00061,
+      "usage": 1,
+      "rank": 597
+    },
+    "2023-05": {
+      "name": "Clauncher",
+      "percent": 0.00051,
+      "usage": 1,
+      "rank": 577
+    },
+    "2023-06": {
+      "name": "Clauncher",
+      "percent": 0.00315,
+      "usage": 3,
+      "rank": 468
+    },
+    "2024-02": {
+      "name": "Clauncher",
+      "percent": 1e-05,
+      "usage": 1,
+      "rank": 562
+    }
+  },
+  "1630": {
+    "2017-08": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 530
+    },
+    "2017-10": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 593
+    },
+    "2018-01": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 601
+    },
+    "2018-04": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 582
+    },
+    "2018-12": {
+      "name": "Clauncher",
+      "percent": 3e-05,
+      "usage": 1,
+      "rank": 430
+    },
+    "2019-09": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 449
+    },
+    "2019-11": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 433
+    },
+    "2019-12": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 570
+    },
+    "2020-03": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 17,
+      "rank": 532
+    },
+    "2020-10": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 593
+    },
+    "2021-01": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 602
+    },
+    "2021-02": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 596
+    },
+    "2021-06": {
+      "name": "Clauncher",
+      "percent": 0.00034,
+      "usage": 21,
+      "rank": 429
+    },
+    "2021-11": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 576
+    },
+    "2022-03": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 559
+    },
+    "2022-05": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 548
+    },
+    "2022-07": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 555
+    },
+    "2022-08": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 554
+    },
+    "2022-10": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 533
+    },
+    "2023-01": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 534
+    },
+    "2023-02": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 566
+    },
+    "2023-03": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 559
+    },
+    "2023-05": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 604
+    },
+    "2023-06": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 585
+    },
+    "2024-02": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 479
+    }
+  },
+  "1760": {
+    "2017-08": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 522
+    },
+    "2017-10": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 588
+    },
+    "2018-01": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 594
+    },
+    "2018-04": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 577
+    },
+    "2018-12": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 429
+    },
+    "2019-09": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 461
+    },
+    "2019-11": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 434
+    },
+    "2019-12": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 568
+    },
+    "2020-03": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 17,
+      "rank": 594
+    },
+    "2020-10": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 580
+    },
+    "2021-01": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 602
+    },
+    "2021-02": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 592
+    },
+    "2021-06": {
+      "name": "Clauncher",
+      "percent": 2e-05,
+      "usage": 21,
+      "rank": 412
+    },
+    "2021-11": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 572
+    },
+    "2022-03": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 550
+    },
+    "2022-05": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 543
+    },
+    "2022-07": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 547
+    },
+    "2022-08": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 550
+    },
+    "2022-10": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 529
+    },
+    "2023-01": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 7,
+      "rank": 523
+    },
+    "2023-02": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 561
+    },
+    "2023-03": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 554
+    },
+    "2023-05": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 595
+    },
+    "2023-06": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 578
+    },
+    "2024-02": {
+      "name": "Clauncher",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 471
+    }
+  }
+}

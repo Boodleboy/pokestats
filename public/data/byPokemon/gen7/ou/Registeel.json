@@ -1,0 +1,1481 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Registeel",
+      "percent": 0.33137,
+      "usage": 3560,
+      "rank": 262
+    },
+    "2020-03": {
+      "name": "Registeel",
+      "percent": 0.33362,
+      "usage": 3980,
+      "rank": 247
+    },
+    "2020-04": {
+      "name": "Registeel",
+      "percent": 0.23215,
+      "usage": 2733,
+      "rank": 290
+    },
+    "2020-05": {
+      "name": "Registeel",
+      "percent": 0.2299,
+      "usage": 2837,
+      "rank": 282
+    },
+    "2020-06": {
+      "name": "Registeel",
+      "percent": 0.2576,
+      "usage": 2475,
+      "rank": 266
+    },
+    "2020-06-DLC1": {
+      "name": "Registeel",
+      "percent": 0.25624,
+      "usage": 848,
+      "rank": 269
+    },
+    "2020-07": {
+      "name": "Registeel",
+      "percent": 0.20693,
+      "usage": 1863,
+      "rank": 296
+    },
+    "2020-08": {
+      "name": "Registeel",
+      "percent": 0.21023,
+      "usage": 1866,
+      "rank": 292
+    },
+    "2020-09": {
+      "name": "Registeel",
+      "percent": 0.24667,
+      "usage": 2008,
+      "rank": 269
+    },
+    "2020-10": {
+      "name": "Registeel",
+      "percent": 0.23128,
+      "usage": 1803,
+      "rank": 285
+    },
+    "2020-10-DLC2": {
+      "name": "Registeel",
+      "percent": 0.24298,
+      "usage": 474,
+      "rank": 280
+    },
+    "2020-11": {
+      "name": "Registeel",
+      "percent": 0.23674,
+      "usage": 1606,
+      "rank": 287
+    },
+    "2020-11-H1": {
+      "name": "Registeel",
+      "percent": 0.26631,
+      "usage": 823,
+      "rank": 269
+    },
+    "2020-11-H2": {
+      "name": "Registeel",
+      "percent": 0.21199,
+      "usage": 783,
+      "rank": 300
+    },
+    "2020-12": {
+      "name": "Registeel",
+      "percent": 0.22156,
+      "usage": 1497,
+      "rank": 295
+    },
+    "2020-12-H1": {
+      "name": "Registeel",
+      "percent": 0.23767,
+      "usage": 801,
+      "rank": 291
+    },
+    "2020-12-H2": {
+      "name": "Registeel",
+      "percent": 0.20553,
+      "usage": 696,
+      "rank": 300
+    },
+    "2021-01": {
+      "name": "Registeel",
+      "percent": 0.19032,
+      "usage": 1391,
+      "rank": 312
+    },
+    "2021-02": {
+      "name": "Registeel",
+      "percent": 0.2427,
+      "usage": 1679,
+      "rank": 283
+    },
+    "2021-03": {
+      "name": "Registeel",
+      "percent": 0.21178,
+      "usage": 1648,
+      "rank": 296
+    },
+    "2021-04": {
+      "name": "Registeel",
+      "percent": 0.19062,
+      "usage": 1298,
+      "rank": 320
+    },
+    "2021-05": {
+      "name": "Registeel",
+      "percent": 0.19739,
+      "usage": 1291,
+      "rank": 309
+    },
+    "2021-06": {
+      "name": "Registeel",
+      "percent": 0.17706,
+      "usage": 1017,
+      "rank": 320
+    },
+    "2021-07": {
+      "name": "Registeel",
+      "percent": 0.21228,
+      "usage": 1304,
+      "rank": 292
+    },
+    "2021-08": {
+      "name": "Registeel",
+      "percent": 0.20231,
+      "usage": 1369,
+      "rank": 297
+    },
+    "2021-09": {
+      "name": "Registeel",
+      "percent": 0.21356,
+      "usage": 1286,
+      "rank": 301
+    },
+    "2021-10": {
+      "name": "Registeel",
+      "percent": 0.17744,
+      "usage": 996,
+      "rank": 316
+    },
+    "2021-11": {
+      "name": "Registeel",
+      "percent": 0.19079,
+      "usage": 982,
+      "rank": 304
+    },
+    "2021-12": {
+      "name": "Registeel",
+      "percent": 0.24162,
+      "usage": 1157,
+      "rank": 284
+    },
+    "2022-01": {
+      "name": "Registeel",
+      "percent": 0.26353,
+      "usage": 1251,
+      "rank": 258
+    },
+    "2022-02": {
+      "name": "Registeel",
+      "percent": 0.25995,
+      "usage": 1211,
+      "rank": 265
+    },
+    "2022-03": {
+      "name": "Registeel",
+      "percent": 0.19359,
+      "usage": 1017,
+      "rank": 289
+    },
+    "2022-04": {
+      "name": "Registeel",
+      "percent": 0.20283,
+      "usage": 1020,
+      "rank": 280
+    },
+    "2022-05": {
+      "name": "Registeel",
+      "percent": 0.20643,
+      "usage": 1062,
+      "rank": 274
+    },
+    "2022-06": {
+      "name": "Registeel",
+      "percent": 0.18633,
+      "usage": 953,
+      "rank": 293
+    },
+    "2022-07": {
+      "name": "Registeel",
+      "percent": 0.10829,
+      "usage": 614,
+      "rank": 350
+    },
+    "2022-08": {
+      "name": "Registeel",
+      "percent": 0.14048,
+      "usage": 834,
+      "rank": 322
+    },
+    "2022-09": {
+      "name": "Registeel",
+      "percent": 0.16556,
+      "usage": 866,
+      "rank": 306
+    },
+    "2022-10": {
+      "name": "Registeel",
+      "percent": 0.16707,
+      "usage": 886,
+      "rank": 305
+    },
+    "2022-11": {
+      "name": "Registeel",
+      "percent": 0.16757,
+      "usage": 766,
+      "rank": 318
+    },
+    "2022-12": {
+      "name": "Registeel",
+      "percent": 0.10649,
+      "usage": 419,
+      "rank": 370
+    },
+    "2023-01": {
+      "name": "Registeel",
+      "percent": 0.14828,
+      "usage": 553,
+      "rank": 336
+    },
+    "2023-02": {
+      "name": "Registeel",
+      "percent": 0.15952,
+      "usage": 479,
+      "rank": 316
+    },
+    "2023-03": {
+      "name": "Registeel",
+      "percent": 0.16421,
+      "usage": 593,
+      "rank": 312
+    },
+    "2023-04": {
+      "name": "Registeel",
+      "percent": 0.18201,
+      "usage": 693,
+      "rank": 302
+    },
+    "2023-05": {
+      "name": "Registeel",
+      "percent": 0.22889,
+      "usage": 837,
+      "rank": 270
+    },
+    "2023-06": {
+      "name": "Registeel",
+      "percent": 0.28041,
+      "usage": 908,
+      "rank": 246
+    },
+    "2023-07": {
+      "name": "Registeel",
+      "percent": 0.17116,
+      "usage": 586,
+      "rank": 322
+    },
+    "2023-08": {
+      "name": "Registeel",
+      "percent": 0.27079,
+      "usage": 947,
+      "rank": 254
+    },
+    "2023-09": {
+      "name": "Registeel",
+      "percent": 0.19128,
+      "usage": 609,
+      "rank": 282
+    },
+    "2023-09-DLC1": {
+      "name": "Registeel",
+      "percent": 0.22014,
+      "usage": 349,
+      "rank": 264
+    },
+    "2023-10": {
+      "name": "Registeel",
+      "percent": 0.20833,
+      "usage": 665,
+      "rank": 267
+    },
+    "2023-11": {
+      "name": "Registeel",
+      "percent": 0.38671,
+      "usage": 1112,
+      "rank": 206
+    },
+    "2023-12": {
+      "name": "Registeel",
+      "percent": 0.27295,
+      "usage": 713,
+      "rank": 238
+    },
+    "2023-12-DLC2": {
+      "name": "Registeel",
+      "percent": 0.21096,
+      "usage": 231,
+      "rank": 257
+    },
+    "2024-01": {
+      "name": "Registeel",
+      "percent": 0.19179,
+      "usage": 489,
+      "rank": 271
+    },
+    "2024-02": {
+      "name": "Registeel",
+      "percent": 0.14703,
+      "usage": 355,
+      "rank": 309
+    },
+    "2024-03": {
+      "name": "Registeel",
+      "percent": 0.15955,
+      "usage": 459,
+      "rank": 290
+    },
+    "2024-04": {
+      "name": "Registeel",
+      "percent": 0.18799,
+      "usage": 510,
+      "rank": 276
+    },
+    "2024-05": {
+      "name": "Registeel",
+      "percent": 0.18549,
+      "usage": 245,
+      "rank": 272
+    },
+    "2024-06": {
+      "name": "Registeel",
+      "percent": 0.19348,
+      "usage": 514,
+      "rank": 267
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Registeel",
+      "percent": 0.24579,
+      "usage": 3560,
+      "rank": 249
+    },
+    "2020-03": {
+      "name": "Registeel",
+      "percent": 0.26846,
+      "usage": 3980,
+      "rank": 240
+    },
+    "2020-04": {
+      "name": "Registeel",
+      "percent": 0.18266,
+      "usage": 2733,
+      "rank": 279
+    },
+    "2020-05": {
+      "name": "Registeel",
+      "percent": 0.19415,
+      "usage": 2837,
+      "rank": 264
+    },
+    "2020-06": {
+      "name": "Registeel",
+      "percent": 0.22795,
+      "usage": 2475,
+      "rank": 250
+    },
+    "2020-06-DLC1": {
+      "name": "Registeel",
+      "percent": 0.20312,
+      "usage": 848,
+      "rank": 262
+    },
+    "2020-07": {
+      "name": "Registeel",
+      "percent": 0.16892,
+      "usage": 1863,
+      "rank": 275
+    },
+    "2020-08": {
+      "name": "Registeel",
+      "percent": 0.14351,
+      "usage": 1866,
+      "rank": 286
+    },
+    "2020-09": {
+      "name": "Registeel",
+      "percent": 0.16509,
+      "usage": 2008,
+      "rank": 270
+    },
+    "2020-10": {
+      "name": "Registeel",
+      "percent": 0.16535,
+      "usage": 1803,
+      "rank": 280
+    },
+    "2020-10-DLC2": {
+      "name": "Registeel",
+      "percent": 0.16595,
+      "usage": 474,
+      "rank": 299
+    },
+    "2020-11": {
+      "name": "Registeel",
+      "percent": 0.19126,
+      "usage": 1606,
+      "rank": 277
+    },
+    "2020-11-H1": {
+      "name": "Registeel",
+      "percent": 0.21549,
+      "usage": 823,
+      "rank": 273
+    },
+    "2020-11-H2": {
+      "name": "Registeel",
+      "percent": 0.17128,
+      "usage": 783,
+      "rank": 289
+    },
+    "2020-12": {
+      "name": "Registeel",
+      "percent": 0.17175,
+      "usage": 1497,
+      "rank": 284
+    },
+    "2020-12-H1": {
+      "name": "Registeel",
+      "percent": 0.18062,
+      "usage": 801,
+      "rank": 291
+    },
+    "2020-12-H2": {
+      "name": "Registeel",
+      "percent": 0.16328,
+      "usage": 696,
+      "rank": 276
+    },
+    "2021-01": {
+      "name": "Registeel",
+      "percent": 0.15494,
+      "usage": 1391,
+      "rank": 300
+    },
+    "2021-02": {
+      "name": "Registeel",
+      "percent": 0.17757,
+      "usage": 1679,
+      "rank": 291
+    },
+    "2021-03": {
+      "name": "Registeel",
+      "percent": 0.19308,
+      "usage": 1648,
+      "rank": 279
+    },
+    "2021-04": {
+      "name": "Registeel",
+      "percent": 0.18543,
+      "usage": 1298,
+      "rank": 279
+    },
+    "2021-05": {
+      "name": "Registeel",
+      "percent": 0.16264,
+      "usage": 1291,
+      "rank": 299
+    },
+    "2021-06": {
+      "name": "Registeel",
+      "percent": 0.14958,
+      "usage": 1017,
+      "rank": 291
+    },
+    "2021-07": {
+      "name": "Registeel",
+      "percent": 0.16817,
+      "usage": 1304,
+      "rank": 291
+    },
+    "2021-08": {
+      "name": "Registeel",
+      "percent": 0.17756,
+      "usage": 1369,
+      "rank": 287
+    },
+    "2021-09": {
+      "name": "Registeel",
+      "percent": 0.15089,
+      "usage": 1286,
+      "rank": 304
+    },
+    "2021-10": {
+      "name": "Registeel",
+      "percent": 0.13631,
+      "usage": 996,
+      "rank": 310
+    },
+    "2021-11": {
+      "name": "Registeel",
+      "percent": 0.14621,
+      "usage": 982,
+      "rank": 301
+    },
+    "2021-12": {
+      "name": "Registeel",
+      "percent": 0.1761,
+      "usage": 1157,
+      "rank": 288
+    },
+    "2022-01": {
+      "name": "Registeel",
+      "percent": 0.18943,
+      "usage": 1251,
+      "rank": 266
+    },
+    "2022-02": {
+      "name": "Registeel",
+      "percent": 0.23176,
+      "usage": 1211,
+      "rank": 251
+    },
+    "2022-03": {
+      "name": "Registeel",
+      "percent": 0.17159,
+      "usage": 1017,
+      "rank": 284
+    },
+    "2022-04": {
+      "name": "Registeel",
+      "percent": 0.17519,
+      "usage": 1020,
+      "rank": 270
+    },
+    "2022-05": {
+      "name": "Registeel",
+      "percent": 0.17622,
+      "usage": 1062,
+      "rank": 270
+    },
+    "2022-06": {
+      "name": "Registeel",
+      "percent": 0.16599,
+      "usage": 953,
+      "rank": 284
+    },
+    "2022-07": {
+      "name": "Registeel",
+      "percent": 0.08758,
+      "usage": 614,
+      "rank": 349
+    },
+    "2022-08": {
+      "name": "Registeel",
+      "percent": 0.12137,
+      "usage": 834,
+      "rank": 315
+    },
+    "2022-09": {
+      "name": "Registeel",
+      "percent": 0.14492,
+      "usage": 866,
+      "rank": 305
+    },
+    "2022-10": {
+      "name": "Registeel",
+      "percent": 0.16086,
+      "usage": 886,
+      "rank": 288
+    },
+    "2022-11": {
+      "name": "Registeel",
+      "percent": 0.1585,
+      "usage": 766,
+      "rank": 313
+    },
+    "2022-12": {
+      "name": "Registeel",
+      "percent": 0.10134,
+      "usage": 419,
+      "rank": 370
+    },
+    "2023-01": {
+      "name": "Registeel",
+      "percent": 0.14103,
+      "usage": 553,
+      "rank": 334
+    },
+    "2023-02": {
+      "name": "Registeel",
+      "percent": 0.13998,
+      "usage": 479,
+      "rank": 312
+    },
+    "2023-03": {
+      "name": "Registeel",
+      "percent": 0.11774,
+      "usage": 593,
+      "rank": 323
+    },
+    "2023-04": {
+      "name": "Registeel",
+      "percent": 0.092,
+      "usage": 693,
+      "rank": 295
+    },
+    "2023-05": {
+      "name": "Registeel",
+      "percent": 0.12499,
+      "usage": 837,
+      "rank": 273
+    },
+    "2023-06": {
+      "name": "Registeel",
+      "percent": 0.16485,
+      "usage": 908,
+      "rank": 245
+    },
+    "2023-07": {
+      "name": "Registeel",
+      "percent": 0.17099,
+      "usage": 586,
+      "rank": 246
+    },
+    "2023-08": {
+      "name": "Registeel",
+      "percent": 0.29334,
+      "usage": 947,
+      "rank": 199
+    },
+    "2023-09": {
+      "name": "Registeel",
+      "percent": 0.13294,
+      "usage": 609,
+      "rank": 257
+    },
+    "2023-09-DLC1": {
+      "name": "Registeel",
+      "percent": 0.12759,
+      "usage": 349,
+      "rank": 265
+    },
+    "2023-10": {
+      "name": "Registeel",
+      "percent": 0.09973,
+      "usage": 665,
+      "rank": 270
+    },
+    "2023-11": {
+      "name": "Registeel",
+      "percent": 0.23571,
+      "usage": 1112,
+      "rank": 205
+    },
+    "2023-12": {
+      "name": "Registeel",
+      "percent": 0.12054,
+      "usage": 713,
+      "rank": 254
+    },
+    "2023-12-DLC2": {
+      "name": "Registeel",
+      "percent": 0.05547,
+      "usage": 231,
+      "rank": 315
+    },
+    "2024-01": {
+      "name": "Registeel",
+      "percent": 0.12451,
+      "usage": 489,
+      "rank": 248
+    },
+    "2024-02": {
+      "name": "Registeel",
+      "percent": 0.08117,
+      "usage": 355,
+      "rank": 284
+    },
+    "2024-03": {
+      "name": "Registeel",
+      "percent": 0.10071,
+      "usage": 459,
+      "rank": 251
+    },
+    "2024-04": {
+      "name": "Registeel",
+      "percent": 0.09507,
+      "usage": 510,
+      "rank": 267
+    },
+    "2024-05": {
+      "name": "Registeel",
+      "percent": 0.13595,
+      "usage": 245,
+      "rank": 241
+    },
+    "2024-06": {
+      "name": "Registeel",
+      "percent": 0.11125,
+      "usage": 514,
+      "rank": 258
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Registeel",
+      "percent": 0.08198,
+      "usage": 3560,
+      "rank": 253
+    },
+    "2020-03": {
+      "name": "Registeel",
+      "percent": 0.09506,
+      "usage": 3980,
+      "rank": 244
+    },
+    "2020-04": {
+      "name": "Registeel",
+      "percent": 0.07653,
+      "usage": 2733,
+      "rank": 252
+    },
+    "2020-05": {
+      "name": "Registeel",
+      "percent": 0.0645,
+      "usage": 2837,
+      "rank": 269
+    },
+    "2020-06": {
+      "name": "Registeel",
+      "percent": 0.05076,
+      "usage": 2475,
+      "rank": 290
+    },
+    "2020-06-DLC1": {
+      "name": "Registeel",
+      "percent": 0.03156,
+      "usage": 848,
+      "rank": 324
+    },
+    "2020-07": {
+      "name": "Registeel",
+      "percent": 0.10685,
+      "usage": 1863,
+      "rank": 225
+    },
+    "2020-08": {
+      "name": "Registeel",
+      "percent": 0.08623,
+      "usage": 1866,
+      "rank": 242
+    },
+    "2020-09": {
+      "name": "Registeel",
+      "percent": 0.08241,
+      "usage": 2008,
+      "rank": 242
+    },
+    "2020-10": {
+      "name": "Registeel",
+      "percent": 0.06868,
+      "usage": 1803,
+      "rank": 263
+    },
+    "2020-10-DLC2": {
+      "name": "Registeel",
+      "percent": 0.03498,
+      "usage": 474,
+      "rank": 282
+    },
+    "2020-11": {
+      "name": "Registeel",
+      "percent": 0.03675,
+      "usage": 1606,
+      "rank": 293
+    },
+    "2020-11-H1": {
+      "name": "Registeel",
+      "percent": 0.02897,
+      "usage": 823,
+      "rank": 313
+    },
+    "2020-11-H2": {
+      "name": "Registeel",
+      "percent": 0.0418,
+      "usage": 783,
+      "rank": 283
+    },
+    "2020-12": {
+      "name": "Registeel",
+      "percent": 0.06982,
+      "usage": 1497,
+      "rank": 258
+    },
+    "2020-12-H1": {
+      "name": "Registeel",
+      "percent": 0.04086,
+      "usage": 801,
+      "rank": 292
+    },
+    "2020-12-H2": {
+      "name": "Registeel",
+      "percent": 0.08724,
+      "usage": 696,
+      "rank": 247
+    },
+    "2021-01": {
+      "name": "Registeel",
+      "percent": 0.04676,
+      "usage": 1391,
+      "rank": 295
+    },
+    "2021-02": {
+      "name": "Registeel",
+      "percent": 0.06174,
+      "usage": 1679,
+      "rank": 271
+    },
+    "2021-03": {
+      "name": "Registeel",
+      "percent": 0.0406,
+      "usage": 1648,
+      "rank": 302
+    },
+    "2021-04": {
+      "name": "Registeel",
+      "percent": 0.03975,
+      "usage": 1298,
+      "rank": 295
+    },
+    "2021-05": {
+      "name": "Registeel",
+      "percent": 0.0456,
+      "usage": 1291,
+      "rank": 287
+    },
+    "2021-06": {
+      "name": "Registeel",
+      "percent": 0.07505,
+      "usage": 1017,
+      "rank": 264
+    },
+    "2021-07": {
+      "name": "Registeel",
+      "percent": 0.09335,
+      "usage": 1304,
+      "rank": 242
+    },
+    "2021-08": {
+      "name": "Registeel",
+      "percent": 0.09343,
+      "usage": 1369,
+      "rank": 230
+    },
+    "2021-09": {
+      "name": "Registeel",
+      "percent": 0.01728,
+      "usage": 1286,
+      "rank": 356
+    },
+    "2021-10": {
+      "name": "Registeel",
+      "percent": 0.03646,
+      "usage": 996,
+      "rank": 297
+    },
+    "2021-11": {
+      "name": "Registeel",
+      "percent": 0.05807,
+      "usage": 982,
+      "rank": 261
+    },
+    "2021-12": {
+      "name": "Registeel",
+      "percent": 0.04193,
+      "usage": 1157,
+      "rank": 288
+    },
+    "2022-01": {
+      "name": "Registeel",
+      "percent": 0.04818,
+      "usage": 1251,
+      "rank": 275
+    },
+    "2022-02": {
+      "name": "Registeel",
+      "percent": 0.03309,
+      "usage": 1211,
+      "rank": 295
+    },
+    "2022-03": {
+      "name": "Registeel",
+      "percent": 0.02685,
+      "usage": 1017,
+      "rank": 295
+    },
+    "2022-04": {
+      "name": "Registeel",
+      "percent": 0.04773,
+      "usage": 1020,
+      "rank": 246
+    },
+    "2022-05": {
+      "name": "Registeel",
+      "percent": 0.03876,
+      "usage": 1062,
+      "rank": 271
+    },
+    "2022-06": {
+      "name": "Registeel",
+      "percent": 0.2898,
+      "usage": 953,
+      "rank": 159
+    },
+    "2022-07": {
+      "name": "Registeel",
+      "percent": 0.02725,
+      "usage": 614,
+      "rank": 307
+    },
+    "2022-08": {
+      "name": "Registeel",
+      "percent": 0.01495,
+      "usage": 834,
+      "rank": 329
+    },
+    "2022-09": {
+      "name": "Registeel",
+      "percent": 0.04317,
+      "usage": 866,
+      "rank": 270
+    },
+    "2022-10": {
+      "name": "Registeel",
+      "percent": 0.04112,
+      "usage": 886,
+      "rank": 257
+    },
+    "2022-11": {
+      "name": "Registeel",
+      "percent": 0.03518,
+      "usage": 766,
+      "rank": 273
+    },
+    "2022-12": {
+      "name": "Registeel",
+      "percent": 0.0586,
+      "usage": 419,
+      "rank": 225
+    },
+    "2023-01": {
+      "name": "Registeel",
+      "percent": 0.01391,
+      "usage": 553,
+      "rank": 293
+    },
+    "2023-02": {
+      "name": "Registeel",
+      "percent": 0.03816,
+      "usage": 479,
+      "rank": 254
+    },
+    "2023-03": {
+      "name": "Registeel",
+      "percent": 0.01494,
+      "usage": 593,
+      "rank": 334
+    },
+    "2023-04": {
+      "name": "Registeel",
+      "percent": 0.10081,
+      "usage": 693,
+      "rank": 208
+    },
+    "2023-05": {
+      "name": "Registeel",
+      "percent": 0.02135,
+      "usage": 837,
+      "rank": 306
+    },
+    "2023-06": {
+      "name": "Registeel",
+      "percent": 0.1077,
+      "usage": 908,
+      "rank": 199
+    },
+    "2023-07": {
+      "name": "Registeel",
+      "percent": 0.01758,
+      "usage": 586,
+      "rank": 328
+    },
+    "2023-08": {
+      "name": "Registeel",
+      "percent": 0.02224,
+      "usage": 947,
+      "rank": 305
+    },
+    "2023-09": {
+      "name": "Registeel",
+      "percent": 0.01261,
+      "usage": 609,
+      "rank": 336
+    },
+    "2023-09-DLC1": {
+      "name": "Registeel",
+      "percent": 0.00647,
+      "usage": 349,
+      "rank": 375
+    },
+    "2023-10": {
+      "name": "Registeel",
+      "percent": 0.03577,
+      "usage": 665,
+      "rank": 266
+    },
+    "2023-11": {
+      "name": "Registeel",
+      "percent": 0.06251,
+      "usage": 1112,
+      "rank": 226
+    },
+    "2023-12": {
+      "name": "Registeel",
+      "percent": 0.0238,
+      "usage": 713,
+      "rank": 276
+    },
+    "2023-12-DLC2": {
+      "name": "Registeel",
+      "percent": 0.00456,
+      "usage": 231,
+      "rank": 351
+    },
+    "2024-01": {
+      "name": "Registeel",
+      "percent": 0.11638,
+      "usage": 489,
+      "rank": 197
+    },
+    "2024-02": {
+      "name": "Registeel",
+      "percent": 0.08295,
+      "usage": 355,
+      "rank": 214
+    },
+    "2024-03": {
+      "name": "Registeel",
+      "percent": 0.03073,
+      "usage": 459,
+      "rank": 259
+    },
+    "2024-04": {
+      "name": "Registeel",
+      "percent": 0.01272,
+      "usage": 510,
+      "rank": 315
+    },
+    "2024-05": {
+      "name": "Registeel",
+      "percent": 0.04154,
+      "usage": 245,
+      "rank": 231
+    },
+    "2024-06": {
+      "name": "Registeel",
+      "percent": 0.03033,
+      "usage": 514,
+      "rank": 267
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Registeel",
+      "percent": 0.02378,
+      "usage": 3560,
+      "rank": 273
+    },
+    "2020-03": {
+      "name": "Registeel",
+      "percent": 0.04432,
+      "usage": 3980,
+      "rank": 220
+    },
+    "2020-04": {
+      "name": "Registeel",
+      "percent": 0.03867,
+      "usage": 2733,
+      "rank": 228
+    },
+    "2020-05": {
+      "name": "Registeel",
+      "percent": 0.05417,
+      "usage": 2837,
+      "rank": 220
+    },
+    "2020-06": {
+      "name": "Registeel",
+      "percent": 0.0604,
+      "usage": 2475,
+      "rank": 216
+    },
+    "2020-06-DLC1": {
+      "name": "Registeel",
+      "percent": 0.0297,
+      "usage": 848,
+      "rank": 268
+    },
+    "2020-07": {
+      "name": "Registeel",
+      "percent": 0.06584,
+      "usage": 1863,
+      "rank": 199
+    },
+    "2020-08": {
+      "name": "Registeel",
+      "percent": 0.06525,
+      "usage": 1866,
+      "rank": 213
+    },
+    "2020-09": {
+      "name": "Registeel",
+      "percent": 0.09773,
+      "usage": 2008,
+      "rank": 172
+    },
+    "2020-10": {
+      "name": "Registeel",
+      "percent": 0.09951,
+      "usage": 1803,
+      "rank": 183
+    },
+    "2020-10-DLC2": {
+      "name": "Registeel",
+      "percent": 0.06465,
+      "usage": 474,
+      "rank": 191
+    },
+    "2020-11": {
+      "name": "Registeel",
+      "percent": 0.02059,
+      "usage": 1606,
+      "rank": 267
+    },
+    "2020-11-H1": {
+      "name": "Registeel",
+      "percent": 0.01602,
+      "usage": 823,
+      "rank": 261
+    },
+    "2020-11-H2": {
+      "name": "Registeel",
+      "percent": 0.02343,
+      "usage": 783,
+      "rank": 253
+    },
+    "2020-12": {
+      "name": "Registeel",
+      "percent": 0.01295,
+      "usage": 1497,
+      "rank": 305
+    },
+    "2020-12-H1": {
+      "name": "Registeel",
+      "percent": 0.01001,
+      "usage": 801,
+      "rank": 307
+    },
+    "2020-12-H2": {
+      "name": "Registeel",
+      "percent": 0.01466,
+      "usage": 696,
+      "rank": 290
+    },
+    "2021-01": {
+      "name": "Registeel",
+      "percent": 0.02052,
+      "usage": 1391,
+      "rank": 284
+    },
+    "2021-02": {
+      "name": "Registeel",
+      "percent": 0.02618,
+      "usage": 1679,
+      "rank": 267
+    },
+    "2021-03": {
+      "name": "Registeel",
+      "percent": 0.00392,
+      "usage": 1648,
+      "rank": 356
+    },
+    "2021-04": {
+      "name": "Registeel",
+      "percent": 0.00624,
+      "usage": 1298,
+      "rank": 327
+    },
+    "2021-05": {
+      "name": "Registeel",
+      "percent": 0.02229,
+      "usage": 1291,
+      "rank": 259
+    },
+    "2021-06": {
+      "name": "Registeel",
+      "percent": 0.01899,
+      "usage": 1017,
+      "rank": 274
+    },
+    "2021-07": {
+      "name": "Registeel",
+      "percent": 0.24323,
+      "usage": 1304,
+      "rank": 152
+    },
+    "2021-08": {
+      "name": "Registeel",
+      "percent": 0.03875,
+      "usage": 1369,
+      "rank": 228
+    },
+    "2021-09": {
+      "name": "Registeel",
+      "percent": 0.0023,
+      "usage": 1286,
+      "rank": 383
+    },
+    "2021-10": {
+      "name": "Registeel",
+      "percent": 0.01378,
+      "usage": 996,
+      "rank": 277
+    },
+    "2021-11": {
+      "name": "Registeel",
+      "percent": 0.02656,
+      "usage": 982,
+      "rank": 237
+    },
+    "2021-12": {
+      "name": "Registeel",
+      "percent": 0.00533,
+      "usage": 1157,
+      "rank": 331
+    },
+    "2022-01": {
+      "name": "Registeel",
+      "percent": 0.00141,
+      "usage": 1251,
+      "rank": 380
+    },
+    "2022-02": {
+      "name": "Registeel",
+      "percent": 0.0026,
+      "usage": 1211,
+      "rank": 342
+    },
+    "2022-03": {
+      "name": "Registeel",
+      "percent": 0.00084,
+      "usage": 1017,
+      "rank": 385
+    },
+    "2022-04": {
+      "name": "Registeel",
+      "percent": 0.07993,
+      "usage": 1020,
+      "rank": 167
+    },
+    "2022-05": {
+      "name": "Registeel",
+      "percent": 0.03518,
+      "usage": 1062,
+      "rank": 222
+    },
+    "2022-06": {
+      "name": "Registeel",
+      "percent": 0.04496,
+      "usage": 953,
+      "rank": 198
+    },
+    "2022-07": {
+      "name": "Registeel",
+      "percent": 0.02625,
+      "usage": 614,
+      "rank": 240
+    },
+    "2022-08": {
+      "name": "Registeel",
+      "percent": 0.01855,
+      "usage": 834,
+      "rank": 234
+    },
+    "2022-09": {
+      "name": "Registeel",
+      "percent": 0.00796,
+      "usage": 866,
+      "rank": 274
+    },
+    "2022-10": {
+      "name": "Registeel",
+      "percent": 0.00874,
+      "usage": 886,
+      "rank": 259
+    },
+    "2022-11": {
+      "name": "Registeel",
+      "percent": 0.0078,
+      "usage": 766,
+      "rank": 246
+    },
+    "2022-12": {
+      "name": "Registeel",
+      "percent": 0.00255,
+      "usage": 419,
+      "rank": 241
+    },
+    "2023-01": {
+      "name": "Registeel",
+      "percent": 6e-05,
+      "usage": 553,
+      "rank": 361
+    },
+    "2023-02": {
+      "name": "Registeel",
+      "percent": 0.00048,
+      "usage": 479,
+      "rank": 340
+    },
+    "2023-03": {
+      "name": "Registeel",
+      "percent": 0.00637,
+      "usage": 593,
+      "rank": 280
+    },
+    "2023-04": {
+      "name": "Registeel",
+      "percent": 0.24158,
+      "usage": 693,
+      "rank": 129
+    },
+    "2023-05": {
+      "name": "Registeel",
+      "percent": 0.0087,
+      "usage": 837,
+      "rank": 271
+    },
+    "2023-06": {
+      "name": "Registeel",
+      "percent": 0.14476,
+      "usage": 908,
+      "rank": 141
+    },
+    "2023-07": {
+      "name": "Registeel",
+      "percent": 0.0154,
+      "usage": 586,
+      "rank": 240
+    },
+    "2023-08": {
+      "name": "Registeel",
+      "percent": 0.00052,
+      "usage": 947,
+      "rank": 423
+    },
+    "2023-09": {
+      "name": "Registeel",
+      "percent": 0.0012,
+      "usage": 609,
+      "rank": 362
+    },
+    "2023-09-DLC1": {
+      "name": "Registeel",
+      "percent": 0.00013,
+      "usage": 349,
+      "rank": 417
+    },
+    "2023-10": {
+      "name": "Registeel",
+      "percent": 0.00559,
+      "usage": 665,
+      "rank": 309
+    },
+    "2023-11": {
+      "name": "Registeel",
+      "percent": 0.04434,
+      "usage": 1112,
+      "rank": 191
+    },
+    "2023-12": {
+      "name": "Registeel",
+      "percent": 0.01269,
+      "usage": 713,
+      "rank": 234
+    },
+    "2023-12-DLC2": {
+      "name": "Registeel",
+      "percent": 4e-05,
+      "usage": 231,
+      "rank": 423
+    },
+    "2024-01": {
+      "name": "Registeel",
+      "percent": 0.00273,
+      "usage": 489,
+      "rank": 311
+    },
+    "2024-02": {
+      "name": "Registeel",
+      "percent": 0.01811,
+      "usage": 355,
+      "rank": 224
+    },
+    "2024-03": {
+      "name": "Registeel",
+      "percent": 0.01965,
+      "usage": 459,
+      "rank": 219
+    },
+    "2024-04": {
+      "name": "Registeel",
+      "percent": 0.0082,
+      "usage": 510,
+      "rank": 261
+    },
+    "2024-05": {
+      "name": "Registeel",
+      "percent": 0.00996,
+      "usage": 245,
+      "rank": 242
+    },
+    "2024-06": {
+      "name": "Registeel",
+      "percent": 0.04241,
+      "usage": 514,
+      "rank": 178
+    }
+  }
+}

@@ -1,0 +1,1481 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2020-02",
+  "0": {
+    "2020-02": {
+      "name": "Lanturn",
+      "percent": 0.3525,
+      "usage": 3787,
+      "rank": 253
+    },
+    "2020-03": {
+      "name": "Lanturn",
+      "percent": 0.3384,
+      "usage": 4037,
+      "rank": 246
+    },
+    "2020-04": {
+      "name": "Lanturn",
+      "percent": 0.33841,
+      "usage": 3984,
+      "rank": 241
+    },
+    "2020-05": {
+      "name": "Lanturn",
+      "percent": 0.20696,
+      "usage": 2554,
+      "rank": 296
+    },
+    "2020-06": {
+      "name": "Lanturn",
+      "percent": 0.23106,
+      "usage": 2220,
+      "rank": 284
+    },
+    "2020-06-DLC1": {
+      "name": "Lanturn",
+      "percent": 0.26047,
+      "usage": 862,
+      "rank": 265
+    },
+    "2020-07": {
+      "name": "Lanturn",
+      "percent": 0.24547,
+      "usage": 2210,
+      "rank": 270
+    },
+    "2020-08": {
+      "name": "Lanturn",
+      "percent": 0.20539,
+      "usage": 1823,
+      "rank": 295
+    },
+    "2020-09": {
+      "name": "Lanturn",
+      "percent": 0.37591,
+      "usage": 3060,
+      "rank": 224
+    },
+    "2020-10": {
+      "name": "Lanturn",
+      "percent": 0.28285,
+      "usage": 2205,
+      "rank": 259
+    },
+    "2020-10-DLC2": {
+      "name": "Lanturn",
+      "percent": 0.28348,
+      "usage": 553,
+      "rank": 267
+    },
+    "2020-11": {
+      "name": "Lanturn",
+      "percent": 0.27447,
+      "usage": 1862,
+      "rank": 265
+    },
+    "2020-11-H1": {
+      "name": "Lanturn",
+      "percent": 0.29964,
+      "usage": 926,
+      "rank": 259
+    },
+    "2020-11-H2": {
+      "name": "Lanturn",
+      "percent": 0.25342,
+      "usage": 936,
+      "rank": 274
+    },
+    "2020-12": {
+      "name": "Lanturn",
+      "percent": 0.22941,
+      "usage": 1550,
+      "rank": 290
+    },
+    "2020-12-H1": {
+      "name": "Lanturn",
+      "percent": 0.2166,
+      "usage": 730,
+      "rank": 304
+    },
+    "2020-12-H2": {
+      "name": "Lanturn",
+      "percent": 0.24215,
+      "usage": 820,
+      "rank": 275
+    },
+    "2021-01": {
+      "name": "Lanturn",
+      "percent": 0.35834,
+      "usage": 2619,
+      "rank": 233
+    },
+    "2021-02": {
+      "name": "Lanturn",
+      "percent": 0.27406,
+      "usage": 1896,
+      "rank": 262
+    },
+    "2021-03": {
+      "name": "Lanturn",
+      "percent": 0.32949,
+      "usage": 2564,
+      "rank": 244
+    },
+    "2021-04": {
+      "name": "Lanturn",
+      "percent": 0.28622,
+      "usage": 1949,
+      "rank": 256
+    },
+    "2021-05": {
+      "name": "Lanturn",
+      "percent": 0.3116,
+      "usage": 2038,
+      "rank": 251
+    },
+    "2021-06": {
+      "name": "Lanturn",
+      "percent": 0.27159,
+      "usage": 1560,
+      "rank": 262
+    },
+    "2021-07": {
+      "name": "Lanturn",
+      "percent": 0.29628,
+      "usage": 1820,
+      "rank": 252
+    },
+    "2021-08": {
+      "name": "Lanturn",
+      "percent": 0.19551,
+      "usage": 1323,
+      "rank": 305
+    },
+    "2021-09": {
+      "name": "Lanturn",
+      "percent": 0.32017,
+      "usage": 1928,
+      "rank": 242
+    },
+    "2021-10": {
+      "name": "Lanturn",
+      "percent": 0.22376,
+      "usage": 1256,
+      "rank": 286
+    },
+    "2021-11": {
+      "name": "Lanturn",
+      "percent": 0.24033,
+      "usage": 1237,
+      "rank": 274
+    },
+    "2021-12": {
+      "name": "Lanturn",
+      "percent": 0.17793,
+      "usage": 852,
+      "rank": 324
+    },
+    "2022-01": {
+      "name": "Lanturn",
+      "percent": 0.2669,
+      "usage": 1267,
+      "rank": 255
+    },
+    "2022-02": {
+      "name": "Lanturn",
+      "percent": 0.28721,
+      "usage": 1338,
+      "rank": 253
+    },
+    "2022-03": {
+      "name": "Lanturn",
+      "percent": 0.27125,
+      "usage": 1425,
+      "rank": 255
+    },
+    "2022-04": {
+      "name": "Lanturn",
+      "percent": 0.3118,
+      "usage": 1568,
+      "rank": 234
+    },
+    "2022-05": {
+      "name": "Lanturn",
+      "percent": 0.2385,
+      "usage": 1227,
+      "rank": 262
+    },
+    "2022-06": {
+      "name": "Lanturn",
+      "percent": 0.37403,
+      "usage": 1913,
+      "rank": 214
+    },
+    "2022-07": {
+      "name": "Lanturn",
+      "percent": 0.36331,
+      "usage": 2060,
+      "rank": 212
+    },
+    "2022-08": {
+      "name": "Lanturn",
+      "percent": 0.26074,
+      "usage": 1548,
+      "rank": 242
+    },
+    "2022-09": {
+      "name": "Lanturn",
+      "percent": 0.21718,
+      "usage": 1136,
+      "rank": 266
+    },
+    "2022-10": {
+      "name": "Lanturn",
+      "percent": 0.18744,
+      "usage": 994,
+      "rank": 288
+    },
+    "2022-11": {
+      "name": "Lanturn",
+      "percent": 0.19579,
+      "usage": 895,
+      "rank": 296
+    },
+    "2022-12": {
+      "name": "Lanturn",
+      "percent": 0.24245,
+      "usage": 954,
+      "rank": 267
+    },
+    "2023-01": {
+      "name": "Lanturn",
+      "percent": 0.23355,
+      "usage": 871,
+      "rank": 277
+    },
+    "2023-02": {
+      "name": "Lanturn",
+      "percent": 0.18749,
+      "usage": 563,
+      "rank": 298
+    },
+    "2023-03": {
+      "name": "Lanturn",
+      "percent": 0.18858,
+      "usage": 681,
+      "rank": 298
+    },
+    "2023-04": {
+      "name": "Lanturn",
+      "percent": 0.22272,
+      "usage": 848,
+      "rank": 272
+    },
+    "2023-05": {
+      "name": "Lanturn",
+      "percent": 0.37192,
+      "usage": 1360,
+      "rank": 222
+    },
+    "2023-06": {
+      "name": "Lanturn",
+      "percent": 0.27918,
+      "usage": 904,
+      "rank": 248
+    },
+    "2023-07": {
+      "name": "Lanturn",
+      "percent": 0.16298,
+      "usage": 558,
+      "rank": 330
+    },
+    "2023-08": {
+      "name": "Lanturn",
+      "percent": 0.17471,
+      "usage": 611,
+      "rank": 308
+    },
+    "2023-09": {
+      "name": "Lanturn",
+      "percent": 0.21233,
+      "usage": 676,
+      "rank": 271
+    },
+    "2023-09-DLC1": {
+      "name": "Lanturn",
+      "percent": 0.19806,
+      "usage": 314,
+      "rank": 280
+    },
+    "2023-10": {
+      "name": "Lanturn",
+      "percent": 0.16259,
+      "usage": 519,
+      "rank": 288
+    },
+    "2023-11": {
+      "name": "Lanturn",
+      "percent": 0.11163,
+      "usage": 321,
+      "rank": 335
+    },
+    "2023-12": {
+      "name": "Lanturn",
+      "percent": 0.18949,
+      "usage": 495,
+      "rank": 277
+    },
+    "2023-12-DLC2": {
+      "name": "Lanturn",
+      "percent": 0.16073,
+      "usage": 176,
+      "rank": 292
+    },
+    "2024-01": {
+      "name": "Lanturn",
+      "percent": 0.15649,
+      "usage": 399,
+      "rank": 295
+    },
+    "2024-02": {
+      "name": "Lanturn",
+      "percent": 0.24767,
+      "usage": 598,
+      "rank": 256
+    },
+    "2024-03": {
+      "name": "Lanturn",
+      "percent": 0.20231,
+      "usage": 582,
+      "rank": 267
+    },
+    "2024-04": {
+      "name": "Lanturn",
+      "percent": 0.12643,
+      "usage": 343,
+      "rank": 319
+    },
+    "2024-05": {
+      "name": "Lanturn",
+      "percent": 0.35811,
+      "usage": 473,
+      "rank": 206
+    },
+    "2024-06": {
+      "name": "Lanturn",
+      "percent": 0.17767,
+      "usage": 472,
+      "rank": 277
+    }
+  },
+  "1500": {
+    "2020-02": {
+      "name": "Lanturn",
+      "percent": 0.21053,
+      "usage": 3787,
+      "rank": 267
+    },
+    "2020-03": {
+      "name": "Lanturn",
+      "percent": 0.20045,
+      "usage": 4037,
+      "rank": 266
+    },
+    "2020-04": {
+      "name": "Lanturn",
+      "percent": 0.22038,
+      "usage": 3984,
+      "rank": 253
+    },
+    "2020-05": {
+      "name": "Lanturn",
+      "percent": 0.16125,
+      "usage": 2554,
+      "rank": 288
+    },
+    "2020-06": {
+      "name": "Lanturn",
+      "percent": 0.16233,
+      "usage": 2220,
+      "rank": 288
+    },
+    "2020-06-DLC1": {
+      "name": "Lanturn",
+      "percent": 0.17481,
+      "usage": 862,
+      "rank": 287
+    },
+    "2020-07": {
+      "name": "Lanturn",
+      "percent": 0.16994,
+      "usage": 2210,
+      "rank": 272
+    },
+    "2020-08": {
+      "name": "Lanturn",
+      "percent": 0.13738,
+      "usage": 1823,
+      "rank": 290
+    },
+    "2020-09": {
+      "name": "Lanturn",
+      "percent": 0.2888,
+      "usage": 3060,
+      "rank": 223
+    },
+    "2020-10": {
+      "name": "Lanturn",
+      "percent": 0.21935,
+      "usage": 2205,
+      "rank": 248
+    },
+    "2020-10-DLC2": {
+      "name": "Lanturn",
+      "percent": 0.25234,
+      "usage": 553,
+      "rank": 256
+    },
+    "2020-11": {
+      "name": "Lanturn",
+      "percent": 0.22507,
+      "usage": 1862,
+      "rank": 265
+    },
+    "2020-11-H1": {
+      "name": "Lanturn",
+      "percent": 0.2521,
+      "usage": 926,
+      "rank": 256
+    },
+    "2020-11-H2": {
+      "name": "Lanturn",
+      "percent": 0.20279,
+      "usage": 936,
+      "rank": 268
+    },
+    "2020-12": {
+      "name": "Lanturn",
+      "percent": 0.14624,
+      "usage": 1550,
+      "rank": 306
+    },
+    "2020-12-H1": {
+      "name": "Lanturn",
+      "percent": 0.15717,
+      "usage": 730,
+      "rank": 310
+    },
+    "2020-12-H2": {
+      "name": "Lanturn",
+      "percent": 0.13581,
+      "usage": 820,
+      "rank": 298
+    },
+    "2021-01": {
+      "name": "Lanturn",
+      "percent": 0.33618,
+      "usage": 2619,
+      "rank": 216
+    },
+    "2021-02": {
+      "name": "Lanturn",
+      "percent": 0.22276,
+      "usage": 1896,
+      "rank": 254
+    },
+    "2021-03": {
+      "name": "Lanturn",
+      "percent": 0.2597,
+      "usage": 2564,
+      "rank": 247
+    },
+    "2021-04": {
+      "name": "Lanturn",
+      "percent": 0.22824,
+      "usage": 1949,
+      "rank": 255
+    },
+    "2021-05": {
+      "name": "Lanturn",
+      "percent": 0.19649,
+      "usage": 2038,
+      "rank": 269
+    },
+    "2021-06": {
+      "name": "Lanturn",
+      "percent": 0.189,
+      "usage": 1560,
+      "rank": 266
+    },
+    "2021-07": {
+      "name": "Lanturn",
+      "percent": 0.21708,
+      "usage": 1820,
+      "rank": 262
+    },
+    "2021-08": {
+      "name": "Lanturn",
+      "percent": 0.14553,
+      "usage": 1323,
+      "rank": 309
+    },
+    "2021-09": {
+      "name": "Lanturn",
+      "percent": 0.24615,
+      "usage": 1928,
+      "rank": 251
+    },
+    "2021-10": {
+      "name": "Lanturn",
+      "percent": 0.15991,
+      "usage": 1256,
+      "rank": 290
+    },
+    "2021-11": {
+      "name": "Lanturn",
+      "percent": 0.17719,
+      "usage": 1237,
+      "rank": 280
+    },
+    "2021-12": {
+      "name": "Lanturn",
+      "percent": 0.13626,
+      "usage": 852,
+      "rank": 320
+    },
+    "2022-01": {
+      "name": "Lanturn",
+      "percent": 0.19916,
+      "usage": 1267,
+      "rank": 260
+    },
+    "2022-02": {
+      "name": "Lanturn",
+      "percent": 0.22584,
+      "usage": 1338,
+      "rank": 255
+    },
+    "2022-03": {
+      "name": "Lanturn",
+      "percent": 0.22251,
+      "usage": 1425,
+      "rank": 256
+    },
+    "2022-04": {
+      "name": "Lanturn",
+      "percent": 0.24805,
+      "usage": 1568,
+      "rank": 240
+    },
+    "2022-05": {
+      "name": "Lanturn",
+      "percent": 0.21466,
+      "usage": 1227,
+      "rank": 252
+    },
+    "2022-06": {
+      "name": "Lanturn",
+      "percent": 0.32971,
+      "usage": 1913,
+      "rank": 211
+    },
+    "2022-07": {
+      "name": "Lanturn",
+      "percent": 0.33234,
+      "usage": 2060,
+      "rank": 205
+    },
+    "2022-08": {
+      "name": "Lanturn",
+      "percent": 0.23309,
+      "usage": 1548,
+      "rank": 236
+    },
+    "2022-09": {
+      "name": "Lanturn",
+      "percent": 0.18292,
+      "usage": 1136,
+      "rank": 277
+    },
+    "2022-10": {
+      "name": "Lanturn",
+      "percent": 0.15833,
+      "usage": 994,
+      "rank": 290
+    },
+    "2022-11": {
+      "name": "Lanturn",
+      "percent": 0.18735,
+      "usage": 895,
+      "rank": 295
+    },
+    "2022-12": {
+      "name": "Lanturn",
+      "percent": 0.23664,
+      "usage": 954,
+      "rank": 266
+    },
+    "2023-01": {
+      "name": "Lanturn",
+      "percent": 0.2178,
+      "usage": 871,
+      "rank": 278
+    },
+    "2023-02": {
+      "name": "Lanturn",
+      "percent": 0.17256,
+      "usage": 563,
+      "rank": 289
+    },
+    "2023-03": {
+      "name": "Lanturn",
+      "percent": 0.15969,
+      "usage": 681,
+      "rank": 285
+    },
+    "2023-04": {
+      "name": "Lanturn",
+      "percent": 0.1568,
+      "usage": 848,
+      "rank": 248
+    },
+    "2023-05": {
+      "name": "Lanturn",
+      "percent": 0.32758,
+      "usage": 1360,
+      "rank": 187
+    },
+    "2023-06": {
+      "name": "Lanturn",
+      "percent": 0.1837,
+      "usage": 904,
+      "rank": 235
+    },
+    "2023-07": {
+      "name": "Lanturn",
+      "percent": 0.10178,
+      "usage": 558,
+      "rank": 291
+    },
+    "2023-08": {
+      "name": "Lanturn",
+      "percent": 0.12752,
+      "usage": 611,
+      "rank": 266
+    },
+    "2023-09": {
+      "name": "Lanturn",
+      "percent": 0.12198,
+      "usage": 676,
+      "rank": 266
+    },
+    "2023-09-DLC1": {
+      "name": "Lanturn",
+      "percent": 0.0934,
+      "usage": 314,
+      "rank": 288
+    },
+    "2023-10": {
+      "name": "Lanturn",
+      "percent": 0.07187,
+      "usage": 519,
+      "rank": 287
+    },
+    "2023-11": {
+      "name": "Lanturn",
+      "percent": 0.06484,
+      "usage": 321,
+      "rank": 306
+    },
+    "2023-12": {
+      "name": "Lanturn",
+      "percent": 0.08102,
+      "usage": 495,
+      "rank": 291
+    },
+    "2023-12-DLC2": {
+      "name": "Lanturn",
+      "percent": 0.0436,
+      "usage": 176,
+      "rank": 329
+    },
+    "2024-01": {
+      "name": "Lanturn",
+      "percent": 0.02601,
+      "usage": 399,
+      "rank": 375
+    },
+    "2024-02": {
+      "name": "Lanturn",
+      "percent": 0.11456,
+      "usage": 598,
+      "rank": 248
+    },
+    "2024-03": {
+      "name": "Lanturn",
+      "percent": 0.07259,
+      "usage": 582,
+      "rank": 287
+    },
+    "2024-04": {
+      "name": "Lanturn",
+      "percent": 0.04611,
+      "usage": 343,
+      "rank": 325
+    },
+    "2024-05": {
+      "name": "Lanturn",
+      "percent": 0.31076,
+      "usage": 473,
+      "rank": 175
+    },
+    "2024-06": {
+      "name": "Lanturn",
+      "percent": 0.13609,
+      "usage": 472,
+      "rank": 243
+    }
+  },
+  "1630": {
+    "2020-02": {
+      "name": "Lanturn",
+      "percent": 0.06016,
+      "usage": 3787,
+      "rank": 278
+    },
+    "2020-03": {
+      "name": "Lanturn",
+      "percent": 0.05167,
+      "usage": 4037,
+      "rank": 291
+    },
+    "2020-04": {
+      "name": "Lanturn",
+      "percent": 0.066,
+      "usage": 3984,
+      "rank": 264
+    },
+    "2020-05": {
+      "name": "Lanturn",
+      "percent": 0.06451,
+      "usage": 2554,
+      "rank": 268
+    },
+    "2020-06": {
+      "name": "Lanturn",
+      "percent": 0.05512,
+      "usage": 2220,
+      "rank": 279
+    },
+    "2020-06-DLC1": {
+      "name": "Lanturn",
+      "percent": 0.02648,
+      "usage": 862,
+      "rank": 335
+    },
+    "2020-07": {
+      "name": "Lanturn",
+      "percent": 0.04059,
+      "usage": 2210,
+      "rank": 288
+    },
+    "2020-08": {
+      "name": "Lanturn",
+      "percent": 0.05023,
+      "usage": 1823,
+      "rank": 280
+    },
+    "2020-09": {
+      "name": "Lanturn",
+      "percent": 0.13353,
+      "usage": 3060,
+      "rank": 206
+    },
+    "2020-10": {
+      "name": "Lanturn",
+      "percent": 0.1026,
+      "usage": 2205,
+      "rank": 229
+    },
+    "2020-10-DLC2": {
+      "name": "Lanturn",
+      "percent": 0.14668,
+      "usage": 553,
+      "rank": 198
+    },
+    "2020-11": {
+      "name": "Lanturn",
+      "percent": 0.07059,
+      "usage": 1862,
+      "rank": 256
+    },
+    "2020-11-H1": {
+      "name": "Lanturn",
+      "percent": 0.06985,
+      "usage": 926,
+      "rank": 258
+    },
+    "2020-11-H2": {
+      "name": "Lanturn",
+      "percent": 0.07107,
+      "usage": 936,
+      "rank": 252
+    },
+    "2020-12": {
+      "name": "Lanturn",
+      "percent": 0.03388,
+      "usage": 1550,
+      "rank": 309
+    },
+    "2020-12-H1": {
+      "name": "Lanturn",
+      "percent": 0.01956,
+      "usage": 730,
+      "rank": 335
+    },
+    "2020-12-H2": {
+      "name": "Lanturn",
+      "percent": 0.0425,
+      "usage": 820,
+      "rank": 292
+    },
+    "2021-01": {
+      "name": "Lanturn",
+      "percent": 0.25041,
+      "usage": 2619,
+      "rank": 177
+    },
+    "2021-02": {
+      "name": "Lanturn",
+      "percent": 0.11573,
+      "usage": 1896,
+      "rank": 226
+    },
+    "2021-03": {
+      "name": "Lanturn",
+      "percent": 0.10574,
+      "usage": 2564,
+      "rank": 233
+    },
+    "2021-04": {
+      "name": "Lanturn",
+      "percent": 0.10994,
+      "usage": 1949,
+      "rank": 222
+    },
+    "2021-05": {
+      "name": "Lanturn",
+      "percent": 0.10172,
+      "usage": 2038,
+      "rank": 235
+    },
+    "2021-06": {
+      "name": "Lanturn",
+      "percent": 0.07768,
+      "usage": 1560,
+      "rank": 262
+    },
+    "2021-07": {
+      "name": "Lanturn",
+      "percent": 0.1598,
+      "usage": 1820,
+      "rank": 205
+    },
+    "2021-08": {
+      "name": "Lanturn",
+      "percent": 0.08453,
+      "usage": 1323,
+      "rank": 240
+    },
+    "2021-09": {
+      "name": "Lanturn",
+      "percent": 0.06579,
+      "usage": 1928,
+      "rank": 262
+    },
+    "2021-10": {
+      "name": "Lanturn",
+      "percent": 0.0698,
+      "usage": 1256,
+      "rank": 251
+    },
+    "2021-11": {
+      "name": "Lanturn",
+      "percent": 0.0369,
+      "usage": 1237,
+      "rank": 292
+    },
+    "2021-12": {
+      "name": "Lanturn",
+      "percent": 0.01783,
+      "usage": 852,
+      "rank": 346
+    },
+    "2022-01": {
+      "name": "Lanturn",
+      "percent": 0.04394,
+      "usage": 1267,
+      "rank": 282
+    },
+    "2022-02": {
+      "name": "Lanturn",
+      "percent": 0.0407,
+      "usage": 1338,
+      "rank": 280
+    },
+    "2022-03": {
+      "name": "Lanturn",
+      "percent": 0.03471,
+      "usage": 1425,
+      "rank": 284
+    },
+    "2022-04": {
+      "name": "Lanturn",
+      "percent": 0.02018,
+      "usage": 1568,
+      "rank": 307
+    },
+    "2022-05": {
+      "name": "Lanturn",
+      "percent": 0.03249,
+      "usage": 1227,
+      "rank": 288
+    },
+    "2022-06": {
+      "name": "Lanturn",
+      "percent": 0.11593,
+      "usage": 1913,
+      "rank": 205
+    },
+    "2022-07": {
+      "name": "Lanturn",
+      "percent": 0.06555,
+      "usage": 2060,
+      "rank": 244
+    },
+    "2022-08": {
+      "name": "Lanturn",
+      "percent": 0.03715,
+      "usage": 1548,
+      "rank": 273
+    },
+    "2022-09": {
+      "name": "Lanturn",
+      "percent": 0.02864,
+      "usage": 1136,
+      "rank": 291
+    },
+    "2022-10": {
+      "name": "Lanturn",
+      "percent": 0.02552,
+      "usage": 994,
+      "rank": 289
+    },
+    "2022-11": {
+      "name": "Lanturn",
+      "percent": 0.01581,
+      "usage": 895,
+      "rank": 318
+    },
+    "2022-12": {
+      "name": "Lanturn",
+      "percent": 0.0,
+      "usage": 954,
+      "rank": 453
+    },
+    "2023-01": {
+      "name": "Lanturn",
+      "percent": 0.06596,
+      "usage": 871,
+      "rank": 213
+    },
+    "2023-02": {
+      "name": "Lanturn",
+      "percent": 0.01905,
+      "usage": 563,
+      "rank": 290
+    },
+    "2023-03": {
+      "name": "Lanturn",
+      "percent": 0.07465,
+      "usage": 681,
+      "rank": 235
+    },
+    "2023-04": {
+      "name": "Lanturn",
+      "percent": 0.08359,
+      "usage": 848,
+      "rank": 219
+    },
+    "2023-05": {
+      "name": "Lanturn",
+      "percent": 0.13061,
+      "usage": 1360,
+      "rank": 196
+    },
+    "2023-06": {
+      "name": "Lanturn",
+      "percent": 0.08576,
+      "usage": 904,
+      "rank": 213
+    },
+    "2023-07": {
+      "name": "Lanturn",
+      "percent": 0.08059,
+      "usage": 558,
+      "rank": 223
+    },
+    "2023-08": {
+      "name": "Lanturn",
+      "percent": 0.043,
+      "usage": 611,
+      "rank": 257
+    },
+    "2023-09": {
+      "name": "Lanturn",
+      "percent": 0.06622,
+      "usage": 676,
+      "rank": 234
+    },
+    "2023-09-DLC1": {
+      "name": "Lanturn",
+      "percent": 0.04379,
+      "usage": 314,
+      "rank": 246
+    },
+    "2023-10": {
+      "name": "Lanturn",
+      "percent": 0.0449,
+      "usage": 519,
+      "rank": 249
+    },
+    "2023-11": {
+      "name": "Lanturn",
+      "percent": 0.0496,
+      "usage": 321,
+      "rank": 237
+    },
+    "2023-12": {
+      "name": "Lanturn",
+      "percent": 0.02026,
+      "usage": 495,
+      "rank": 282
+    },
+    "2023-12-DLC2": {
+      "name": "Lanturn",
+      "percent": 0.01651,
+      "usage": 176,
+      "rank": 293
+    },
+    "2024-01": {
+      "name": "Lanturn",
+      "percent": 0.01364,
+      "usage": 399,
+      "rank": 312
+    },
+    "2024-02": {
+      "name": "Lanturn",
+      "percent": 0.02633,
+      "usage": 598,
+      "rank": 283
+    },
+    "2024-03": {
+      "name": "Lanturn",
+      "percent": 0.01308,
+      "usage": 582,
+      "rank": 319
+    },
+    "2024-04": {
+      "name": "Lanturn",
+      "percent": 0.007,
+      "usage": 343,
+      "rank": 351
+    },
+    "2024-05": {
+      "name": "Lanturn",
+      "percent": 0.0902,
+      "usage": 473,
+      "rank": 195
+    },
+    "2024-06": {
+      "name": "Lanturn",
+      "percent": 0.06171,
+      "usage": 472,
+      "rank": 218
+    }
+  },
+  "1760": {
+    "2020-02": {
+      "name": "Lanturn",
+      "percent": 0.02833,
+      "usage": 3787,
+      "rank": 262
+    },
+    "2020-03": {
+      "name": "Lanturn",
+      "percent": 0.01643,
+      "usage": 4037,
+      "rank": 290
+    },
+    "2020-04": {
+      "name": "Lanturn",
+      "percent": 0.02993,
+      "usage": 3984,
+      "rank": 238
+    },
+    "2020-05": {
+      "name": "Lanturn",
+      "percent": 0.01904,
+      "usage": 2554,
+      "rank": 277
+    },
+    "2020-06": {
+      "name": "Lanturn",
+      "percent": 0.02864,
+      "usage": 2220,
+      "rank": 271
+    },
+    "2020-06-DLC1": {
+      "name": "Lanturn",
+      "percent": 0.00567,
+      "usage": 862,
+      "rank": 341
+    },
+    "2020-07": {
+      "name": "Lanturn",
+      "percent": 0.03016,
+      "usage": 2210,
+      "rank": 241
+    },
+    "2020-08": {
+      "name": "Lanturn",
+      "percent": 0.01727,
+      "usage": 1823,
+      "rank": 282
+    },
+    "2020-09": {
+      "name": "Lanturn",
+      "percent": 0.03815,
+      "usage": 3060,
+      "rank": 219
+    },
+    "2020-10": {
+      "name": "Lanturn",
+      "percent": 0.04234,
+      "usage": 2205,
+      "rank": 227
+    },
+    "2020-10-DLC2": {
+      "name": "Lanturn",
+      "percent": 0.15257,
+      "usage": 553,
+      "rank": 162
+    },
+    "2020-11": {
+      "name": "Lanturn",
+      "percent": 0.02605,
+      "usage": 1862,
+      "rank": 249
+    },
+    "2020-11-H1": {
+      "name": "Lanturn",
+      "percent": 0.03989,
+      "usage": 926,
+      "rank": 217
+    },
+    "2020-11-H2": {
+      "name": "Lanturn",
+      "percent": 0.01747,
+      "usage": 936,
+      "rank": 269
+    },
+    "2020-12": {
+      "name": "Lanturn",
+      "percent": 0.00462,
+      "usage": 1550,
+      "rank": 371
+    },
+    "2020-12-H1": {
+      "name": "Lanturn",
+      "percent": 0.00171,
+      "usage": 730,
+      "rank": 382
+    },
+    "2020-12-H2": {
+      "name": "Lanturn",
+      "percent": 0.00631,
+      "usage": 820,
+      "rank": 343
+    },
+    "2021-01": {
+      "name": "Lanturn",
+      "percent": 0.12936,
+      "usage": 2619,
+      "rank": 170
+    },
+    "2021-02": {
+      "name": "Lanturn",
+      "percent": 0.01462,
+      "usage": 1896,
+      "rank": 297
+    },
+    "2021-03": {
+      "name": "Lanturn",
+      "percent": 0.02221,
+      "usage": 2564,
+      "rank": 274
+    },
+    "2021-04": {
+      "name": "Lanturn",
+      "percent": 0.12931,
+      "usage": 1949,
+      "rank": 158
+    },
+    "2021-05": {
+      "name": "Lanturn",
+      "percent": 0.05115,
+      "usage": 2038,
+      "rank": 215
+    },
+    "2021-06": {
+      "name": "Lanturn",
+      "percent": 0.06226,
+      "usage": 1560,
+      "rank": 194
+    },
+    "2021-07": {
+      "name": "Lanturn",
+      "percent": 0.19631,
+      "usage": 1820,
+      "rank": 163
+    },
+    "2021-08": {
+      "name": "Lanturn",
+      "percent": 0.00742,
+      "usage": 1323,
+      "rank": 313
+    },
+    "2021-09": {
+      "name": "Lanturn",
+      "percent": 0.02631,
+      "usage": 1928,
+      "rank": 239
+    },
+    "2021-10": {
+      "name": "Lanturn",
+      "percent": 0.01128,
+      "usage": 1256,
+      "rank": 286
+    },
+    "2021-11": {
+      "name": "Lanturn",
+      "percent": 0.00226,
+      "usage": 1237,
+      "rank": 361
+    },
+    "2021-12": {
+      "name": "Lanturn",
+      "percent": 0.00289,
+      "usage": 852,
+      "rank": 368
+    },
+    "2022-01": {
+      "name": "Lanturn",
+      "percent": 0.04324,
+      "usage": 1267,
+      "rank": 210
+    },
+    "2022-02": {
+      "name": "Lanturn",
+      "percent": 0.07301,
+      "usage": 1338,
+      "rank": 174
+    },
+    "2022-03": {
+      "name": "Lanturn",
+      "percent": 0.00888,
+      "usage": 1425,
+      "rank": 276
+    },
+    "2022-04": {
+      "name": "Lanturn",
+      "percent": 0.0131,
+      "usage": 1568,
+      "rank": 240
+    },
+    "2022-05": {
+      "name": "Lanturn",
+      "percent": 0.01489,
+      "usage": 1227,
+      "rank": 264
+    },
+    "2022-06": {
+      "name": "Lanturn",
+      "percent": 0.00408,
+      "usage": 1913,
+      "rank": 317
+    },
+    "2022-07": {
+      "name": "Lanturn",
+      "percent": 0.02588,
+      "usage": 2060,
+      "rank": 242
+    },
+    "2022-08": {
+      "name": "Lanturn",
+      "percent": 0.0343,
+      "usage": 1548,
+      "rank": 208
+    },
+    "2022-09": {
+      "name": "Lanturn",
+      "percent": 0.00682,
+      "usage": 1136,
+      "rank": 289
+    },
+    "2022-10": {
+      "name": "Lanturn",
+      "percent": 0.00144,
+      "usage": 994,
+      "rank": 334
+    },
+    "2022-11": {
+      "name": "Lanturn",
+      "percent": 9e-05,
+      "usage": 895,
+      "rank": 376
+    },
+    "2022-12": {
+      "name": "Lanturn",
+      "percent": 0.0,
+      "usage": 954,
+      "rank": 473
+    },
+    "2023-01": {
+      "name": "Lanturn",
+      "percent": 0.00588,
+      "usage": 871,
+      "rank": 224
+    },
+    "2023-02": {
+      "name": "Lanturn",
+      "percent": 0.00456,
+      "usage": 563,
+      "rank": 261
+    },
+    "2023-03": {
+      "name": "Lanturn",
+      "percent": 0.01774,
+      "usage": 681,
+      "rank": 246
+    },
+    "2023-04": {
+      "name": "Lanturn",
+      "percent": 0.06119,
+      "usage": 848,
+      "rank": 172
+    },
+    "2023-05": {
+      "name": "Lanturn",
+      "percent": 0.03338,
+      "usage": 1360,
+      "rank": 207
+    },
+    "2023-06": {
+      "name": "Lanturn",
+      "percent": 0.05012,
+      "usage": 904,
+      "rank": 184
+    },
+    "2023-07": {
+      "name": "Lanturn",
+      "percent": 0.01913,
+      "usage": 558,
+      "rank": 231
+    },
+    "2023-08": {
+      "name": "Lanturn",
+      "percent": 0.03014,
+      "usage": 611,
+      "rank": 213
+    },
+    "2023-09": {
+      "name": "Lanturn",
+      "percent": 0.05319,
+      "usage": 676,
+      "rank": 177
+    },
+    "2023-09-DLC1": {
+      "name": "Lanturn",
+      "percent": 0.05095,
+      "usage": 314,
+      "rank": 171
+    },
+    "2023-10": {
+      "name": "Lanturn",
+      "percent": 0.04728,
+      "usage": 519,
+      "rank": 188
+    },
+    "2023-11": {
+      "name": "Lanturn",
+      "percent": 0.01409,
+      "usage": 321,
+      "rank": 250
+    },
+    "2023-12": {
+      "name": "Lanturn",
+      "percent": 0.01786,
+      "usage": 495,
+      "rank": 217
+    },
+    "2023-12-DLC2": {
+      "name": "Lanturn",
+      "percent": 0.02584,
+      "usage": 176,
+      "rank": 195
+    },
+    "2024-01": {
+      "name": "Lanturn",
+      "percent": 0.00262,
+      "usage": 399,
+      "rank": 314
+    },
+    "2024-02": {
+      "name": "Lanturn",
+      "percent": 0.00458,
+      "usage": 598,
+      "rank": 275
+    },
+    "2024-03": {
+      "name": "Lanturn",
+      "percent": 0.00041,
+      "usage": 582,
+      "rank": 394
+    },
+    "2024-04": {
+      "name": "Lanturn",
+      "percent": 0.00046,
+      "usage": 343,
+      "rank": 365
+    },
+    "2024-05": {
+      "name": "Lanturn",
+      "percent": 0.09132,
+      "usage": 473,
+      "rank": 152
+    },
+    "2024-06": {
+      "name": "Lanturn",
+      "percent": 0.01195,
+      "usage": 472,
+      "rank": 248
+    }
+  }
+}

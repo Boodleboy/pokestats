@@ -1,0 +1,881 @@
+{
+  "elos": [
+    "0",
+    "1500",
+    "1630",
+    "1760"
+  ],
+  "firstMonth": "2017-07",
+  "0": {
+    "2017-11": {
+      "name": "Whismur",
+      "percent": 0.0013,
+      "usage": 1,
+      "rank": 564
+    },
+    "2018-08": {
+      "name": "Whismur",
+      "percent": 0.00622,
+      "usage": 4,
+      "rank": 533
+    },
+    "2018-11": {
+      "name": "Whismur",
+      "percent": 0.00215,
+      "usage": 1,
+      "rank": 597
+    },
+    "2018-12": {
+      "name": "Whismur",
+      "percent": 0.00204,
+      "usage": 1,
+      "rank": 576
+    },
+    "2019-02": {
+      "name": "Whismur",
+      "percent": 0.00276,
+      "usage": 1,
+      "rank": 602
+    },
+    "2019-03": {
+      "name": "Whismur",
+      "percent": 0.00269,
+      "usage": 1,
+      "rank": 536
+    },
+    "2019-09": {
+      "name": "Whismur",
+      "percent": 0.00361,
+      "usage": 1,
+      "rank": 563
+    },
+    "2019-12": {
+      "name": "Whismur",
+      "percent": 0.02449,
+      "usage": 11,
+      "rank": 444
+    },
+    "2020-01": {
+      "name": "Whismur",
+      "percent": 0.00983,
+      "usage": 5,
+      "rank": 473
+    },
+    "2020-02": {
+      "name": "Whismur",
+      "percent": 0.00505,
+      "usage": 3,
+      "rank": 558
+    },
+    "2020-05": {
+      "name": "Whismur",
+      "percent": 0.01234,
+      "usage": 16,
+      "rank": 450
+    },
+    "2020-06": {
+      "name": "Whismur",
+      "percent": 0.01466,
+      "usage": 15,
+      "rank": 459
+    },
+    "2020-06-DLC1": {
+      "name": "Whismur",
+      "percent": 0.00287,
+      "usage": 1,
+      "rank": 556
+    },
+    "2020-07": {
+      "name": "Whismur",
+      "percent": 0.00634,
+      "usage": 6,
+      "rank": 539
+    },
+    "2020-09": {
+      "name": "Whismur",
+      "percent": 0.00443,
+      "usage": 5,
+      "rank": 540
+    },
+    "2020-11": {
+      "name": "Whismur",
+      "percent": 0.01805,
+      "usage": 17,
+      "rank": 444
+    },
+    "2020-11-H1": {
+      "name": "Whismur",
+      "percent": 0.00478,
+      "usage": 2,
+      "rank": 502
+    },
+    "2020-11-H2": {
+      "name": "Whismur",
+      "percent": 0.02863,
+      "usage": 15,
+      "rank": 412
+    },
+    "2020-12": {
+      "name": "Whismur",
+      "percent": 0.00285,
+      "usage": 3,
+      "rank": 591
+    },
+    "2020-12-H1": {
+      "name": "Whismur",
+      "percent": 0.00568,
+      "usage": 3,
+      "rank": 534
+    },
+    "2021-03": {
+      "name": "Whismur",
+      "percent": 0.00069,
+      "usage": 1,
+      "rank": 654
+    },
+    "2021-05": {
+      "name": "Whismur",
+      "percent": 0.00158,
+      "usage": 2,
+      "rank": 631
+    },
+    "2021-09": {
+      "name": "Whismur",
+      "percent": 0.00248,
+      "usage": 3,
+      "rank": 562
+    },
+    "2021-10": {
+      "name": "Whismur",
+      "percent": 0.00184,
+      "usage": 2,
+      "rank": 578
+    },
+    "2021-11": {
+      "name": "Whismur",
+      "percent": 0.00101,
+      "usage": 1,
+      "rank": 630
+    },
+    "2021-12": {
+      "name": "Whismur",
+      "percent": 0.00104,
+      "usage": 1,
+      "rank": 635
+    },
+    "2022-01": {
+      "name": "Whismur",
+      "percent": 0.00104,
+      "usage": 1,
+      "rank": 607
+    },
+    "2022-04": {
+      "name": "Whismur",
+      "percent": 0.00462,
+      "usage": 5,
+      "rank": 523
+    },
+    "2022-10": {
+      "name": "Whismur",
+      "percent": 0.00079,
+      "usage": 1,
+      "rank": 603
+    },
+    "2023-04": {
+      "name": "Whismur",
+      "percent": 0.00512,
+      "usage": 6,
+      "rank": 490
+    },
+    "2023-06": {
+      "name": "Whismur",
+      "percent": 0.00099,
+      "usage": 1,
+      "rank": 611
+    },
+    "2023-07": {
+      "name": "Whismur",
+      "percent": 0.00339,
+      "usage": 4,
+      "rank": 532
+    },
+    "2024-01": {
+      "name": "Whismur",
+      "percent": 0.00463,
+      "usage": 5,
+      "rank": 468
+    },
+    "2024-02": {
+      "name": "Whismur",
+      "percent": 0.0052,
+      "usage": 6,
+      "rank": 463
+    },
+    "2024-03": {
+      "name": "Whismur",
+      "percent": 0.00072,
+      "usage": 1,
+      "rank": 554
+    },
+    "2024-04": {
+      "name": "Whismur",
+      "percent": 0.0007,
+      "usage": 1,
+      "rank": 613
+    }
+  },
+  "1500": {
+    "2017-11": {
+      "name": "Whismur",
+      "percent": 0.00012,
+      "usage": 1,
+      "rank": 584
+    },
+    "2018-08": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 638
+    },
+    "2018-11": {
+      "name": "Whismur",
+      "percent": 0.00123,
+      "usage": 1,
+      "rank": 560
+    },
+    "2018-12": {
+      "name": "Whismur",
+      "percent": 0.00053,
+      "usage": 1,
+      "rank": 586
+    },
+    "2019-02": {
+      "name": "Whismur",
+      "percent": 0.00125,
+      "usage": 1,
+      "rank": 551
+    },
+    "2019-03": {
+      "name": "Whismur",
+      "percent": 0.00213,
+      "usage": 1,
+      "rank": 500
+    },
+    "2019-09": {
+      "name": "Whismur",
+      "percent": 0.00218,
+      "usage": 1,
+      "rank": 516
+    },
+    "2019-12": {
+      "name": "Whismur",
+      "percent": 0.00187,
+      "usage": 11,
+      "rank": 577
+    },
+    "2020-01": {
+      "name": "Whismur",
+      "percent": 0.00124,
+      "usage": 5,
+      "rank": 561
+    },
+    "2020-02": {
+      "name": "Whismur",
+      "percent": 0.00495,
+      "usage": 3,
+      "rank": 492
+    },
+    "2020-05": {
+      "name": "Whismur",
+      "percent": 0.02024,
+      "usage": 16,
+      "rank": 385
+    },
+    "2020-06": {
+      "name": "Whismur",
+      "percent": 0.01261,
+      "usage": 15,
+      "rank": 424
+    },
+    "2020-06-DLC1": {
+      "name": "Whismur",
+      "percent": 0.00191,
+      "usage": 1,
+      "rank": 538
+    },
+    "2020-07": {
+      "name": "Whismur",
+      "percent": 0.00636,
+      "usage": 6,
+      "rank": 485
+    },
+    "2020-09": {
+      "name": "Whismur",
+      "percent": 0.00324,
+      "usage": 5,
+      "rank": 508
+    },
+    "2020-11": {
+      "name": "Whismur",
+      "percent": 0.0147,
+      "usage": 17,
+      "rank": 429
+    },
+    "2020-11-H1": {
+      "name": "Whismur",
+      "percent": 1e-05,
+      "usage": 2,
+      "rank": 552
+    },
+    "2020-11-H2": {
+      "name": "Whismur",
+      "percent": 0.02638,
+      "usage": 15,
+      "rank": 393
+    },
+    "2020-12": {
+      "name": "Whismur",
+      "percent": 0.00227,
+      "usage": 3,
+      "rank": 555
+    },
+    "2020-12-H1": {
+      "name": "Whismur",
+      "percent": 0.00468,
+      "usage": 3,
+      "rank": 505
+    },
+    "2021-03": {
+      "name": "Whismur",
+      "percent": 0.0003,
+      "usage": 1,
+      "rank": 646
+    },
+    "2021-05": {
+      "name": "Whismur",
+      "percent": 0.00103,
+      "usage": 2,
+      "rank": 591
+    },
+    "2021-09": {
+      "name": "Whismur",
+      "percent": 0.00164,
+      "usage": 3,
+      "rank": 557
+    },
+    "2021-10": {
+      "name": "Whismur",
+      "percent": 0.00059,
+      "usage": 2,
+      "rank": 598
+    },
+    "2021-11": {
+      "name": "Whismur",
+      "percent": 0.00066,
+      "usage": 1,
+      "rank": 586
+    },
+    "2021-12": {
+      "name": "Whismur",
+      "percent": 0.00114,
+      "usage": 1,
+      "rank": 573
+    },
+    "2022-01": {
+      "name": "Whismur",
+      "percent": 0.00068,
+      "usage": 1,
+      "rank": 589
+    },
+    "2022-04": {
+      "name": "Whismur",
+      "percent": 0.0032,
+      "usage": 5,
+      "rank": 513
+    },
+    "2022-10": {
+      "name": "Whismur",
+      "percent": 0.00056,
+      "usage": 1,
+      "rank": 608
+    },
+    "2023-04": {
+      "name": "Whismur",
+      "percent": 0.00377,
+      "usage": 6,
+      "rank": 449
+    },
+    "2023-06": {
+      "name": "Whismur",
+      "percent": 4e-05,
+      "usage": 1,
+      "rank": 597
+    },
+    "2023-07": {
+      "name": "Whismur",
+      "percent": 0.00187,
+      "usage": 4,
+      "rank": 494
+    },
+    "2024-01": {
+      "name": "Whismur",
+      "percent": 0.00146,
+      "usage": 5,
+      "rank": 456
+    },
+    "2024-02": {
+      "name": "Whismur",
+      "percent": 0.00269,
+      "usage": 6,
+      "rank": 437
+    },
+    "2024-03": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 581
+    },
+    "2024-04": {
+      "name": "Whismur",
+      "percent": 0.00038,
+      "usage": 1,
+      "rank": 533
+    }
+  },
+  "1630": {
+    "2017-11": {
+      "name": "Whismur",
+      "percent": 1e-05,
+      "usage": 1,
+      "rank": 476
+    },
+    "2018-08": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 546
+    },
+    "2018-11": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 592
+    },
+    "2018-12": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 465
+    },
+    "2019-02": {
+      "name": "Whismur",
+      "percent": 0.00011,
+      "usage": 1,
+      "rank": 401
+    },
+    "2019-03": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 504
+    },
+    "2019-09": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 557
+    },
+    "2019-12": {
+      "name": "Whismur",
+      "percent": 3e-05,
+      "usage": 11,
+      "rank": 439
+    },
+    "2020-01": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 493
+    },
+    "2020-02": {
+      "name": "Whismur",
+      "percent": 0.00449,
+      "usage": 3,
+      "rank": 352
+    },
+    "2020-05": {
+      "name": "Whismur",
+      "percent": 0.06067,
+      "usage": 16,
+      "rank": 208
+    },
+    "2020-06": {
+      "name": "Whismur",
+      "percent": 0.02266,
+      "usage": 15,
+      "rank": 261
+    },
+    "2020-06-DLC1": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 501
+    },
+    "2020-07": {
+      "name": "Whismur",
+      "percent": 0.00679,
+      "usage": 6,
+      "rank": 322
+    },
+    "2020-09": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 570
+    },
+    "2020-11": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 17,
+      "rank": 473
+    },
+    "2020-11-H1": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 401
+    },
+    "2020-11-H2": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 15,
+      "rank": 480
+    },
+    "2020-12": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 658
+    },
+    "2020-12-H1": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 599
+    },
+    "2021-03": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 645
+    },
+    "2021-05": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 661
+    },
+    "2021-09": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 528
+    },
+    "2021-10": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 512
+    },
+    "2021-11": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 621
+    },
+    "2021-12": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 628
+    },
+    "2022-01": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 601
+    },
+    "2022-04": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 604
+    },
+    "2022-10": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 459
+    },
+    "2023-04": {
+      "name": "Whismur",
+      "percent": 0.00182,
+      "usage": 6,
+      "rank": 365
+    },
+    "2023-06": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 521
+    },
+    "2023-07": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 547
+    },
+    "2024-01": {
+      "name": "Whismur",
+      "percent": 1e-05,
+      "usage": 5,
+      "rank": 440
+    },
+    "2024-02": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 542
+    },
+    "2024-03": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 530
+    },
+    "2024-04": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 611
+    }
+  },
+  "1760": {
+    "2017-11": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 466
+    },
+    "2018-08": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 634
+    },
+    "2018-11": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 592
+    },
+    "2018-12": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 486
+    },
+    "2019-02": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 399
+    },
+    "2019-03": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 502
+    },
+    "2019-09": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 554
+    },
+    "2019-12": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 11,
+      "rank": 442
+    },
+    "2020-01": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 508
+    },
+    "2020-02": {
+      "name": "Whismur",
+      "percent": 0.00137,
+      "usage": 3,
+      "rank": 309
+    },
+    "2020-05": {
+      "name": "Whismur",
+      "percent": 0.00402,
+      "usage": 16,
+      "rank": 262
+    },
+    "2020-06": {
+      "name": "Whismur",
+      "percent": 0.00072,
+      "usage": 15,
+      "rank": 306
+    },
+    "2020-06-DLC1": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 478
+    },
+    "2020-07": {
+      "name": "Whismur",
+      "percent": 0.00051,
+      "usage": 6,
+      "rank": 320
+    },
+    "2020-09": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 559
+    },
+    "2020-11": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 17,
+      "rank": 469
+    },
+    "2020-11-H1": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 395
+    },
+    "2020-11-H2": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 15,
+      "rank": 468
+    },
+    "2020-12": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 658
+    },
+    "2020-12-H1": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 599
+    },
+    "2021-03": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 644
+    },
+    "2021-05": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 661
+    },
+    "2021-09": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 3,
+      "rank": 520
+    },
+    "2021-10": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 2,
+      "rank": 520
+    },
+    "2021-11": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 621
+    },
+    "2021-12": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 627
+    },
+    "2022-01": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 601
+    },
+    "2022-04": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 601
+    },
+    "2022-10": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 448
+    },
+    "2023-04": {
+      "name": "Whismur",
+      "percent": 0.00039,
+      "usage": 6,
+      "rank": 345
+    },
+    "2023-06": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 522
+    },
+    "2023-07": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 4,
+      "rank": 549
+    },
+    "2024-01": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 5,
+      "rank": 426
+    },
+    "2024-02": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 6,
+      "rank": 530
+    },
+    "2024-03": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 518
+    },
+    "2024-04": {
+      "name": "Whismur",
+      "percent": 0.0,
+      "usage": 1,
+      "rank": 611
+    }
+  }
+}
