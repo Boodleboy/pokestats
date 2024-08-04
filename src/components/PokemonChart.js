@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 
 import GraphOptions from './GraphOptions'
 import BarGraph from './BarGraph'
@@ -27,6 +27,10 @@ const PokemonChart = () => {
   })
 
   const usageData = useUsageData(options, setOptions)
+
+  useEffect(() => {
+    document.title = "Pokemon Usage History"
+  }, [])
 
   if (options.loading) {
     return (
