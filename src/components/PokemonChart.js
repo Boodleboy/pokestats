@@ -34,7 +34,7 @@ const PokemonChart = () => {
 
   if (options.loading) {
     return (
-      <div> looooading </div>
+      <div class="spinner-border" role="status" /> 
     )
   }
 
